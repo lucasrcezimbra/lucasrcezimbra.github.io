@@ -23,7 +23,7 @@ pygmentscodefencesguesssyntax = true
 
   enableTwemoji = true
 
-  # colorScheme = "dark"
+  colorScheme = "dark"
 
 # [taxonomies]
 #   category = "categories"
