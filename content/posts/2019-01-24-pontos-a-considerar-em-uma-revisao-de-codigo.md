@@ -1,16 +1,12 @@
----
-title: Pontos a considerar em uma revisão de código
-author: Lucas Cezimbra
-type: post
-date: 2019-01-25T00:50:28+00:00
-excerpt: 'A revisão de código é um processo importante do desenvolvimento de software. Outras pessoas olhando para o código ajudam a identificar falhas que passaram desapercebidas ou melhorias que poderiam ser implementadas. '
-url: /pontos-a-considerar-em-uma-revisao-de-codigo/
-categories:
-  - Sem categoria
-tags:
-  - software
++++
+title = "Pontos a considerar em uma revisão de código"
+date = 2019-01-25T00:50:28+00:00
+url = "/pontos-a-considerar-em-uma-revisao-de-codigo/"
+categories = ["Sem categoria"]
+tags = ["software"]
++++
 
----
+
 <div class="wp-block-image">
   <figure class="aligncenter"><img loading="lazy" width="370" height="195" src="https://lrcezimbra.com.br/wp-content/uploads/2018/12/code-review.png" alt="" class="wp-image-264" srcset="https://lucas.tec.br/wp-content/uploads/2018/12/code-review.png 370w, https://lucas.tec.br/wp-content/uploads/2018/12/code-review-300x158.png 300w" sizes="(max-width: 370px) 100vw, 370px" /><figcaption>Code review do GitHub</figcaption></figure>
 </div>
