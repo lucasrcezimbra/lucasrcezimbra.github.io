@@ -1,27 +1,26 @@
----
-title: Como colocar um timeout numa função Python
-author: Lucas Cezimbra
-type: post
-date: 2019-05-31T03:03:11+00:00
-excerpt: Utilizando biblioteca que facilita a definição de um timeout para uma função Python
-url: /como-colocar-um-timeout-numa-funcao-python/
-categories:
-  - Python
-tags:
-  - python
++++
+title = 'Como colocar um timeout numa função Python'
+date = 2019-05-31T03:03:11+00:00
+url = '/como-colocar-um-timeout-numa-funcao-python/'
+categories = ['Python']
+tags = ['python']
++++
 
----
+
 Resposta curta: [timeout-decorator][1]
 
-<pre class="wp-block-code"><code>pip install timeout-decorator</code></pre>
+```python
+pip install timeout-decorator
+```
 
-<pre class="wp-block-code"><code>from timeout_decorator import timeout
+```python
+from timeout_decorator import timeout
 
 @timeout(5)  # tempo em segundos
 def my_slow_function():
-    ...</code></pre>
+    ...
+```
 
-<!--more-->
 
 ## Contexto
 
@@ -29,21 +28,26 @@ Esses dias estava dando manutenção num serviço que lê mensagens de uma fila 
 
 Para resolver esse problema, comecei a pesquisar alguma forma de colocar um timeout numa função Python, então encontrei a lib [timeout-decorator][1] que faz exatamente o que eu precisava.
 
+
 ## Como funciona
 
 A lib usa, por padrão, o signals do Unix para gerar uma exceção e parar de executar a função que foi envolvida pelo decorator.
 
 Também é possível passar um parâmetro use_signals=False, daí será usado multithreading ao invés de signals, mas eu não cheguei a testar dessa forma.
 
+
 ## Exemplo
 
 Instalando:
 
-<pre class="wp-block-code"><code>pip install timeout-decorator</code></pre>
+```python
+pip install timeout-decorator
+```
 
 arquivo.py
 
-<pre class="wp-block-code"><code>from time import sleep
+```python
+from time import sleep
 
 from timeout_decorator import timeout
 
@@ -55,11 +59,13 @@ def my_slow_function():
         sleep(1)
 
 if __name__ == '__main__':
-    my_slow_function()</code></pre>
+    my_slow_function()
+```
 
 Resultado:
 
-<pre class="wp-block-code"><code>1
+```python
+1
 2
 3
 4
@@ -67,7 +73,9 @@ Resultado:
 Traceback (most recent call last):
 ...
 timeout_decorator.timeout_decorator.TimeoutError: 'Timed Out'
-</code></pre>
+
+```
+
 
 ## Limitações
 

@@ -4,6 +4,8 @@ theme = "coder"
 languagecode = "pt-br"
 defaultcontentlanguage = "pt"
 
+paginate = 20
+
 pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
