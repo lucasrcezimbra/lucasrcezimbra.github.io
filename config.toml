@@ -1,4 +1,69 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'coder'
+baseurl = "https://lucas.tec.br"
+title = "Lucas Cezimbra"
+theme = "coder"
+languagecode = "pt-br"
+defaultcontentlanguage = "pt"
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+# disqusShortname = "yourdiscussshortname"
+
+[params]
+  author = "Lucas Cezimbra"
+  # info = "Full Stack DevOps and Magician"
+  # description = "John Doe's personal website"
+  # keywords = "blog,developer,personal"
+  gravatar = "lucas.cezimbra@gmail.com"
+
+  favicon_32 = "images/lucas-32x32.jpg"
+  favicon_16 = "images/lucas-16x16.jpg"
+  touchIcon = "images/lucas-180x180.jpg"
+
+  enableTwemoji = true
+
+  # colorScheme = "dark"
+
+# [taxonomies]
+#   category = "categories"
+#   series = "series"
+#   tag = "tags"
+#   author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-at fa-2x"
+  weight = 10
+  url = "mailto:lucas@cezimbra.tec.br"
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 20
+  url = "https://github.com/lucasrcezimbra/"
+[[params.social]]
+  name = "Telegram"
+  icon = "fa fa-telegram fa-2x"
+  weight = 30
+  url = "https://t.me/lucasrcezimbra?&text=Ol%C3%A1"
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 40
+  url = "https://www.linkedin.com/in/lucas-rangel-cezimbra-b46969a8/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 50
+  url = "https://twitter.com/lucasrcezimbra/"
+
+# # Menu links
+# [[menu.main]]
+#   name = "Blog"
+#   weight = 1
+#   url  = "posts/"
+# [[menu.main]]
+#   name = "About"
+#   weight = 2
+#   url = "about/"
