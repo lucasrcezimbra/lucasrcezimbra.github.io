@@ -6,13 +6,13 @@ categories = ["Dicas Rápidas"]
 +++
 
 
-* Pesquisa e adiciona nova linha com indentação
+Pesquisa e adiciona nova linha com indentação
 ```bash
 :g/search/norm otexto da nova linha
 ```
 
 
-* Como apagar linhas pesquisadas
+Como apagar linhas pesquisadas
 ```bash
 :g/pattern/d
 ```

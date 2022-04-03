@@ -7,7 +7,7 @@ tags = ["bash", "dicas", "linux"]
 +++
 
 
-* Gerar Lorem Ipsum pelo terminal
+Gerar Lorem Ipsum pelo terminal
 ```bash
 sudo apt update && sudo apt install libtext-lorem-perl
 lorem -w 96  # 96 words
@@ -16,7 +16,7 @@ lorem -p 12  # 12 paragraphs
 ```
 
 
-* Formatar pendrive
+Formatar pendrive
 ```bash
 df -h 
 # encontre o pendrive a ser formatado
@@ -25,7 +25,7 @@ sudo mkfs.vfat /dev/sdXX
 ```
 
 
-* Pendrive bootavel
+Pendrive bootavel
 ```bash
 df -h
 # encontre o pendrive
@@ -35,20 +35,20 @@ sync
 ```
 
 
-* Acessar WiFi que precisa de autenticação pelo browser (Captive Portals)
+Acessar WiFi que precisa de autenticação pelo browser (Captive Portals)
 ```bash
 ip --oneline route get 1.1.1.1 | awk '{print $3}' | xargs google-chrome
 ```
 
 
-* Ler o output de um processo
+Ler o output de um processo
 ```bash
 less /proc/$PID/fd/1  #stdout
 less /proc/$PID/fd/2  #stderr
 ```
 
 
-* Inverter o teclado para os símbolos serem primários e os números secundários (créditos ao [Vítor](https://elmord.org/)
+Inverter o teclado para os símbolos serem primários e os números secundários (créditos ao [Vítor](https://elmord.org/)
 ```bash
 xmodmap -pke | sed -nre 's/keycode  (1[0-9]) = ([^ ]*) ([^ ]*)/keycode \1 = \3 \2/p' | xmodmap -
 ```
