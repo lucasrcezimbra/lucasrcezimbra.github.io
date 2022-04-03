@@ -1,6 +1,6 @@
 +++
 title = "Dicas rápidas Vim"
-date: 2018-12-19T16:01:52+00:00
+date = 2018-12-19T16:01:52+00:00
 url = "/dicas-rapida-vim/"
 categories = ["Dicas Rápidas"]
 +++

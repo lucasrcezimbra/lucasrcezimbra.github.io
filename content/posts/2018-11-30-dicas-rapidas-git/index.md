@@ -6,6 +6,7 @@ categories = ["Dicas Rápidas"]
 tags = ["dicas", "git"]
 +++
 
+
 * Encontrar um commit de uma branch deletada
 ```bash
 git reflog --no-abbrev
