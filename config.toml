@@ -58,11 +58,11 @@ pygmentscodefencesguesssyntax = true
   weight = 50
   url = "https://twitter.com/lucasrcezimbra/"
 
-# # Menu links
-# [[menu.main]]
-#   name = "Blog"
-#   weight = 1
-#   url  = "posts/"
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
 # [[menu.main]]
 #   name = "About"
 #   weight = 2
