@@ -1,9 +1,10 @@
 +++
-title = "Dicas rápidas Git"
+title = "Git"
 date = 2018-11-30T18:36:15+00:00
-url = "/dicas-rapidas-git/"
-categories = ["Dicas Rápidas"]
-tags = ["dicas", "git"]
+aliases = [
+    "/anotacoes/git/",
+    "/dicas-rapidas-git/",
+]
 +++
 
 
