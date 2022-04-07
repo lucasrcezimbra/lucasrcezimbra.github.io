@@ -1,6 +1,6 @@
 +++
 title = "EdTech"
-date = 2019-02-21T22:21:20+00:00
+date = 2022-04-07T17:34:20+00:00
 aliases = [
     "/anotacoes/edtech/",
     "/qti/",
