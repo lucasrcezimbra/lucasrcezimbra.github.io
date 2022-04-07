@@ -1,10 +1,10 @@
 +++
-title = "Dicas rápidas MongoDB"
-author = "Lucas Cezimbra"
+title = "MongoDB"
 date = 2018-11-21T21:28:05+00:00
-url = "/dicas-mongodb/"
-categories = ["Dicas Rápidas"]
-tags = ["database", "dicas", "mongodb"]
+aliases = [
+    "/anotacoes/banco-de-dados/mongodb/",
+    "/dicas-mongodb/",
+]
 +++
 
 

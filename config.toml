@@ -12,6 +12,7 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "Lrcezimbra"
 
+
 [params]
   author = "Lucas Cezimbra"
   # info = "Full Stack DevOps and Magician"
@@ -33,7 +34,7 @@ disqusShortname = "Lrcezimbra"
 #   tag = "tags"
 #   author = "authors"
 
-# Social links
+
 [[params.social]]
   name = "Github"
   icon = "fa fa-at fa-2x"
@@ -60,12 +61,12 @@ disqusShortname = "Lrcezimbra"
   weight = 50
   url = "https://twitter.com/lucasrcezimbra/"
 
-# Menu links
+
+[[menu.main]]
+ name = "Anotações"
+  weight = 10
+  url = "anotacoes/indice/"
 [[menu.main]]
   name = "Blog"
-  weight = 1
+  weight = 20
   url  = "posts/"
-# [[menu.main]]
-#   name = "About"
-#   weight = 2
-#   url = "about/"
