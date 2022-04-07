@@ -1,9 +1,10 @@
 +++
-title = 'Dicas rápidas Oracle Database'
+title = 'Oracle Database'
 date = 2019-03-26T18:27:03+00:00
-url = '/dicas-rapidas-oracle-database/'
-categories = ['Dicas Rápidas']
-tags = ['database', 'dicas', 'oracle']
+aliases = [
+    "/anotacoes/banco-de-dados/oracle/",
+    "/dicas-rapidas-oracle-database/",
+]
 +++
 
 

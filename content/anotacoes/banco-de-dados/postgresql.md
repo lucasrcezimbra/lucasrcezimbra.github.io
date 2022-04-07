@@ -1,9 +1,10 @@
 +++
-title = 'Dicas rápidas PostgreSQL'
+title = 'PostgreSQL'
 date = 2020-11-02T18:25:21+00:00
-url = '/dicas-rapidas-postgresql/'
-categories = ['Dicas Rápidas']
-tags = ['database', 'dicas', 'postgres']
+aliases = [
+    "/anotacoes/banco-de-dados/postgresql/",
+    "/dicas-rapidas-postgresql/",
+]
 +++
 
 
