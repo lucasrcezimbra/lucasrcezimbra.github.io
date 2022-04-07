@@ -14,4 +14,5 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
 - [Git](/anotacoes/git/)
 - [Linux](/anotacoes/linux/)
   - [XFCE4](/anotacoes/linux/xfce4/)
+  - [ThinkPad](/anotacoes/linux/thinkpad/)
 - [Vim](/anotacoes/vim/)
