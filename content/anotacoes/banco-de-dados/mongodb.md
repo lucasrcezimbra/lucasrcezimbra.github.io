@@ -9,7 +9,7 @@ aliases = [
 
 
 Como filtrar e atualizar elementos de um array
-```javacript
+```javascript
 // Atualiza para 'Python' todas as tags que o atributo 'nome' seja igual 'Phyton'
 db.collection.updateMany(
     {},
@@ -20,7 +20,7 @@ db.collection.updateMany(
 
 
 Como atualizar nomes de campos de todos documentos de uma collection
-```javacript
+```javascript
 db.collection.updateMany(
     {},
     {$rename: {
@@ -32,12 +32,12 @@ db.collection.updateMany(
 
 
 Como filtrar pelo tamanho de uma string
-```javacript
+```javascript
 db.collection.find({"$expr": {"$lte": [{"$strLenCP": "$FIELD"}, 4]}})
 ```
 
 
 Como atualizar um campo de todos documentos com a data atual
-```javacript
+```javascript
  db.collection.updateMany({}, {$set: {FIELD: new Date()}})
 ```

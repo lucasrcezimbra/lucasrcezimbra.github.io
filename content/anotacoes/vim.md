@@ -10,12 +10,12 @@ aliases = [
 
 
 Pesquisa e adiciona nova linha com indentação
-```bash
+```vim
 :g/search/norm otexto da nova linha
 ```
 
 
 Como apagar linhas pesquisadas
-```bash
+```vim
 :g/pattern/d
 ```

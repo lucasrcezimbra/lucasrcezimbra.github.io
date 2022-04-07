@@ -6,7 +6,7 @@ defaultcontentlanguage = "pt"
 
 paginate = 20
 
-pygmentsstyle = "bw"
+pygmentsstyle = "vim"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
@@ -27,6 +27,7 @@ disqusShortname = "Lrcezimbra"
   enableTwemoji = true
 
   colorScheme = "dark"
+  font_size = "xs"
 
 # [taxonomies]
 #   category = "categories"
