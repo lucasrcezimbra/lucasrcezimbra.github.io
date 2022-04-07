@@ -8,6 +8,8 @@ aliases = [
 +++
 
 
+- [XFCE4](/anotacoes/linux/xfce4/)
+
 Gerar Lorem Ipsum pelo terminal
 ```bash
 sudo apt update && sudo apt install libtext-lorem-perl

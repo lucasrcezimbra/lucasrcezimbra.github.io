@@ -10,4 +10,5 @@ date = 2022-04-07T18:55:51-03:00
   - [PostgreSQL](/anotacoes/banco-de-dados/postgresql/)
 - [Git](/anotacoes/git/)
 - [Linux](/anotacoes/linux/)
+  - [XFCE4](/anotacoes/linux/xfce4/)
 - [Vim](/anotacoes/vim/)
