@@ -1,8 +1,11 @@
 +++
-title = "Dicas rápidas Vim"
+title = "Vim"
 date = 2018-12-19T16:01:52+00:00
-url = "/dicas-rapida-vim/"
-categories = ["Dicas Rápidas"]
+url = ""
+aliases = [
+    "/anotacoes/vim/",
+    "/dicas-rapida-vim/",
+]
 +++
 
 
