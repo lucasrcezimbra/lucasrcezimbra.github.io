@@ -1,9 +1,10 @@
 +++
-title = "Dicas rápidas Linux"
+title = "Linux"
 date = 2019-02-21T22:21:20+00:00
-url = "/dicas-rapidas-linux/"
-categories = ["Linux"]
-tags = ["bash", "dicas", "linux"]
+aliases = [
+    "/anotacoes/linux/",
+    "/dicas-rapidas-linux/",
+]
 +++
 
 
@@ -48,7 +49,7 @@ less /proc/$PID/fd/2  #stderr
 ```
 
 
-Inverter o teclado para os símbolos serem primários e os números secundários (créditos ao [Vítor](https://elmord.org/)
+Inverter o teclado para os símbolos serem primários e os números secundários (créditos ao [Vítor](https://elmord.org/))
 ```bash
 xmodmap -pke | sed -nre 's/keycode  (1[0-9]) = ([^ ]*) ([^ ]*)/keycode \1 = \3 \2/p' | xmodmap -
 ```
