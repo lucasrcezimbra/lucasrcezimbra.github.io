@@ -6,6 +6,8 @@ date = 2022-04-07T18:55:51-03:00
 
 Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
 
+## Tecnologia
+
 - [ADR (Architecture Decision Records)](/anotacoes/adr/)
 - AWS
   - [Lambda](/anotacoes/aws/lambda/)
@@ -19,3 +21,8 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
   - [XFCE4](/anotacoes/linux/xfce4/)
   - [ThinkPad](/anotacoes/linux/thinkpad/)
 - [Vim](/anotacoes/vim/)
+
+
+## Café
+
+- [Nespresso](/anotacoes/nespresso/)
