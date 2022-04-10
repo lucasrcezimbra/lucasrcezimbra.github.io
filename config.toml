@@ -36,6 +36,8 @@ enableEmoji = true
   colorScheme = "dark"
   font_size = "xs"
 
+  customCSS = ["styles/project.css"]
+
 # [taxonomies]
 #   category = "categories"
 #   series = "series"
@@ -71,10 +73,14 @@ enableEmoji = true
 
 
 [[menu.main]]
- name = "Anotações"
+ name = "Projetos"
   weight = 10
+  url = "projetos/"
+[[menu.main]]
+ name = "Anotações"
+  weight = 20
   url = "anotacoes/indice/"
 [[menu.main]]
   name = "Blog"
-  weight = 20
+  weight = 30
   url  = "posts/"
