@@ -8,8 +8,14 @@ aliases = [
 +++
 
 
-Como apagar todas as tabelas do banco ⚠
+Como apagar todas as tabelas do banco :warning:
 ```sql
 DROP SCHEMA public CASCADE;
 CREATE SCHEMA public;
+```
+
+
+Remover todos caracteres que não são letras
+```sql
+regexp_replace(value, '[^A-z ]+', '', 'g')
 ```
