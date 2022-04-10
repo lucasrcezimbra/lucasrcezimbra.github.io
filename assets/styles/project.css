@@ -27,3 +27,19 @@
 .card i {
   vertical-align: middle;
 }
+
+.card a {
+  color: #212121;
+}
+
+.card a:hover {
+  color: #1565c0;
+}
+
+.colorscheme-dark .card a {
+  color: #dadada;
+}
+
+.colorscheme-dark .card a:hover {
+  color: #42a5f5;
+}

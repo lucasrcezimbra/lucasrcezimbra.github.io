@@ -1,6 +1,6 @@
 <div class="card {{ if .Get "archived" }}archived{{ end }}">
   <div class="container">
-    <h3><b>{{ .Get "name" }}{{ if .Get "archived" }} (Archived){{ end }}</b></h3>
+    <h3><b>{{ .Get "name" }}{{ if .Get "archived" }} (Arquivado){{ end }}</b></h3>
     <p>{{ .Get "description" }}</p>
     <div>
       <a href="https://github.com/lucasrcezimbra/{{ .Get "github" }}/" target="_blank"><i class="fa fa-github fa-2x"></i></a>
