@@ -21,6 +21,7 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
   - [XFCE4](/anotacoes/linux/xfce4/)
   - [ThinkPad](/anotacoes/linux/thinkpad/)
 - [Python](/anotacoes/python/)
+- [Terraform](/anotacoes/terraform/)
 - [Vim](/anotacoes/vim/)
 
 
