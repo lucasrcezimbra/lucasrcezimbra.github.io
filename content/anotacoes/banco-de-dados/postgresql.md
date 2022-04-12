@@ -4,6 +4,7 @@ date = 2020-11-02T18:25:21+00:00
 aliases = [
     "/anotacoes/banco-de-dados/postgresql/",
     "/dicas-rapidas-postgresql/",
+    "/psql/",
 ]
 +++
 
