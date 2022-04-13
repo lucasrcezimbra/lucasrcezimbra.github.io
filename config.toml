@@ -45,6 +45,10 @@ enableEmoji = true
 #   author = "authors"
 
 
+[params.goatCounter]
+  code = "cezimbra"
+
+
 [[params.social]]
   name = "Github"
   icon = "fa fa-at fa-2x"
