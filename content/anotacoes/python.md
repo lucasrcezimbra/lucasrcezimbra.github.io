@@ -19,6 +19,8 @@ date: 2022-04-10T18:45:24-03:00
 
 ## Profiling
 
+- [pyperf](https://github.com/psf/pyperf)
+
 | Profiler | What | Granularity | How |
 | --- | --- | --- | --- |
 | [timeit](https://docs.python.org/3/library/timeit.html) | run time | snippet-level |  |
