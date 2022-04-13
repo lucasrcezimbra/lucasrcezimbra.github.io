@@ -1,0 +1,13 @@
+<div class="contribution">
+  <span>{{ .Get "date" }} -</span>
+  {{ if .Get "status" | eq "merged"}}
+  <img src="/images/code-pr-merged.svg">
+  {{ end }}
+  {{ if .Get "status" | eq "open"}}
+  <img src="/images/code-pr-open.svg">
+  {{ end }}
+  {{ if .Get "status" | eq "closed"}}
+  <img src="/images/code-pr-closed.svg">
+  {{ end }}
+  <a href="{{ .Get "url" }}" target="_blank">{{ .Get "project" }}: {{ .Get "title" }}</a>
+</div>

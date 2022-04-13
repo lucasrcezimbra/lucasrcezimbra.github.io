@@ -36,7 +36,7 @@ enableEmoji = true
   colorScheme = "dark"
   font_size = "xs"
 
-  customCSS = ["styles/project.css"]
+  customCSS = ["styles/project.css", "styles/contribution.css"]
 
 # [taxonomies]
 #   category = "categories"
