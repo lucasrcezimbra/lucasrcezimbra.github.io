@@ -4,8 +4,11 @@ date: 2022-04-10T18:45:24-03:00
 ---
 
 
-## Background tasks
+## Anti-Patterns
+- [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
 
+
+## Background tasks
 - [Dramatiq](https://dramatiq.io/)
 - [Celery](https://github.com/celery/celery)
 - [python-rq](https://python-rq.org/)
@@ -13,12 +16,39 @@ date: 2022-04-10T18:45:24-03:00
 
 
 ## Dataclasses
-
 - attrs vs pydantic: [Why I use attrs instead of pydantic](https://threeofwands.com/why-i-use-attrs-instead-of-pydantic/)
 
 
-## Profiling
+## f-string
 
+### debugging
+```python
+user = "eric_idle"
+f"{user=}"
+# "user='eric_idle'"
+f"{user = }"
+# "user = 'eric_idle'"
+```
+
+### padding
+
+```python
+val = "test"
+f"{val:>10}"
+# '      test'
+f"{val:<10}"
+# 'test      '
+f"{val:_<10}"
+# 'test______'
+f"{val:^10}"
+# '   test   '
+```
+
+
+Fonte: https://fstring.help/
+
+
+## Profiling
 - [pyperf](https://github.com/psf/pyperf)
 
 | Profiler | What | Granularity | How |
