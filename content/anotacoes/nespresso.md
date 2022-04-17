@@ -16,11 +16,11 @@ date = 2022-04-07T17:50:00+00:00
 | Ethiopia                                    | 4           | :star::star:                   |                                |
 | Volluto                                     | 4           | :star::star::star::star:       |                                |
 | Cosi                                        | 4           | :star::star:                   |                                |
-| Volluto Decaffeinato                        | 4           |                                |                                |
+| Volluto Decaffeinato                        | 4           | :star::star::star:             |                                |
 | Barista Creations Chiaro                    | ?           |                                | :star::star:                   |
 | Barista Creations Scuro                     | ?           |                                | :star::star::star::star:       |
 | Inspirazione Palermo Kazzar                 | 12          |                                |                                |
-| Ispirazione Roma                            | 8           |                                | :star::star::star::star::star: |
+| Ispirazione Roma                            | 8           | :star::star::star::star:       | :star::star::star::star::star: |
 | Ispirazione Firenze Arpeggio                | 9           |                                | :star::star::star:             |
 
 Legenda:
