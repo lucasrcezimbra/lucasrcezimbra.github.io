@@ -5,6 +5,13 @@ date: 2022-04-08T20:08:54-03:00
 
 
 {{< project
+    name="Agilize"
+    description="Cliente para acessar seus dados na Agilize."
+    github="agilize"
+    pypi="agilize"
+>}}
+
+{{< project
     name="PyItau"
     description="Scraper para acessar suas contas bancárias do Itaú."
     github="pyitau"
