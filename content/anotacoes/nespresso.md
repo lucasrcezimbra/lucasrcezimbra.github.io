@@ -21,7 +21,7 @@ date = 2022-04-07T17:50:00+00:00
 | Barista Creations Scuro                     | ?           |                                | :star::star::star::star:       |
 | Inspirazione Palermo Kazzar                 | 12          |                                |                                |
 | Ispirazione Roma                            | 8           | :star::star::star::star:       | :star::star::star::star::star: |
-| Ispirazione Firenze Arpeggio                | 9           |                                | :star::star::star:             |
+| Ispirazione Firenze Arpeggio                | 9           | :star::star::star::star:       | :star::star::star:             |
 
 Legenda:
 - :star: = não gostei
