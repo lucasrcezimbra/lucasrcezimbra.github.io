@@ -10,6 +10,13 @@ aliases = [
 
 - [XFCE4](/anotacoes/linux/xfce4/)
 
+
+Logar como outro usuário no terminal
+```bash
+su $OTHER_USER
+```
+
+
 Gerar Lorem Ipsum pelo terminal
 ```bash
 sudo apt update && sudo apt install libtext-lorem-perl
