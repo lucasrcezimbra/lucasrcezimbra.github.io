@@ -16,6 +16,8 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
   - [Oracle](/anotacoes/banco-de-dados/oracle/)
   - [PostgreSQL](/anotacoes/banco-de-dados/postgresql/)
 - [EdTech](/anotacoes/edtech/)
+- E-mail
+  - [Entregabilidade](/anotacoes/entregabilidade-de-emails/)
 - [Git](/anotacoes/git/)
 - [Linux](/anotacoes/linux/)
   - [XFCE4](/anotacoes/linux/xfce4/)
