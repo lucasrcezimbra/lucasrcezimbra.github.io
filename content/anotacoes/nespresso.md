@@ -24,7 +24,7 @@ date = 2022-04-07T17:50:00+00:00
 | [Barista Creations Scuro](https://www.nespresso.com/br/pt/order/capsules/original/comprar-nespresso-barista-creations-capsula-cafe-scuro)                        | ?           |                                | :star::star::star::star:       |
 | [Ispirazione Roma](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-roma)                                                       | 8           | :star::star::star::star:       | :star::star::star:             |
 | [Ispirazione Firenze Arpeggio](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-firenze-arpeggio)                               | 9           | :star::star::star:             | :star::star::star:             |
-| [L'OR Ultimo](https://www.cafelor.com.br/capsula-de-cafe-l-or-ultimo-10-un/p)                                                                                    | 13          |                                | :star::star::star::star::star: |
+| [L'OR Ultimo](https://www.cafelor.com.br/capsula-de-cafe-l-or-ultimo-10-un/p)                                                                                    | 13          | :star::star::star:             | :star::star::star::star::star: |
 
 Legenda:
 - :star: = não gostei
