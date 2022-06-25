@@ -25,6 +25,12 @@ date: 2022-04-08T20:08:54-03:00
 >}}
 
 {{< project
+    name="Cookiecutter PyPackage"
+    description="Fork customizado do Cookiecutter PyPackage."
+    github="cookiecutter-pypackage"
+>}}
+
+{{< project
     name="Consul Decouple"
     description="Extensão do python-decouple para ler configs do Consul."
     github="consul-decouple"
