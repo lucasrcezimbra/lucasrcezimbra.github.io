@@ -2,6 +2,7 @@
 Profiling pyperf Profiler What Granularity How timeit run time snippet-level cProfile run time method-level deterministic statprof.</description></item><item><title>Projetos</title><link>https://cezimbra.me/projetos/</link><pubDate>Fri, 08 Apr 2022 20:08:54 -0300</pubDate><guid>https://cezimbra.me/projetos/</guid><description>Agilize Cliente para acessar seus dados na Agilize.
 PyItau Scraper para acessar suas contas bancárias do Itaú.
 Django Template Template opinativo para começar um projeto Django.
+Cookiecutter PyPackage Fork customizado do Cookiecutter PyPackage.
 Consul Decouple (Arquivado) Extensão do python-decouple para ler configs do Consul.
 PySympla (Arquivado) Scraper para acessar informações dos seus eventos no Sympla.
 Senior HCM (Arquivado) Cliente para consumir a API do Senior HCM.
