@@ -28,6 +28,7 @@ date = 2022-04-07T17:50:00+00:00
 | [Starbucks Blonde Espresso Roast](https://www.starbucksathome.com/br/starbucks-blonde-roast/p)                                                                   | 6           | :star::star::star:             |                                |
 | [Starbucks House Blend](https://www.starbucksathome.com/br/house-blend-nespresso/p)                                                                              | 8           | :star::star::star::star:       |                                |
 | [Starbucks Pike Place Roast](https://www.starbucksathome.com/br/pike-place-roast-nespresso/p)                                                                    | 7           | :star:                         |                                |
+| [Starbucks Breakfast Blend](https://www.starbucksathome.com/br/cafes/starbucks-breakfast-blend-nespresso/p)                                                      | 7           | :star::star::star::star:       |                                |
 
 Legenda:
 - :star: = não gostei
