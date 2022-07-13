@@ -26,11 +26,12 @@ date = 2022-04-07T17:50:00+00:00
 | [Ispirazione Firenze Arpeggio](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-firenze-arpeggio)                               | 9           | :star::star::star:             | :star::star::star:             |
 | [L'OR Ultimo](https://www.cafelor.com.br/capsula-de-cafe-l-or-ultimo-10-un/p)                                                                                    | 13          | :star::star::star:             | :star::star::star::star::star: |
 | [Starbucks Blonde Espresso Roast](https://www.starbucksathome.com/br/starbucks-blonde-roast/p)                                                                   | 6           | :star::star::star:             |                                |
-| [Starbucks House Blend](https://www.starbucksathome.com/br/house-blend-nespresso/p)                                                                              | 8           | :star::star::star::star:       |                                |
+| [Starbucks House Blend](https://www.starbucksathome.com/br/house-blend-nespresso/p)                                                                              | 8           | :star::star::star:             |                                |
 | [Starbucks Pike Place Roast](https://www.starbucksathome.com/br/pike-place-roast-nespresso/p)                                                                    | 7           | :star:                         |                                |
-| [Starbucks Breakfast Blend](https://www.starbucksathome.com/br/cafes/starbucks-breakfast-blend-nespresso/p)                                                      | 7           | :star::star::star::star:       |                                |
+| [Starbucks Breakfast Blend](https://www.starbucksathome.com/br/cafes/starbucks-breakfast-blend-nespresso/p)                                                      | 7           | :star::star::star:             |                                |
 | [Starbucks Caffè Verona](https://www.starbucksathome.com/br/caffe-verona-nespresso/p)                                                                            | 10          | :star::star::star:             |                                |
 | [Starbucks Single-Origin Colombia](https://www.starbucksathome.com/br/starbucks-single-origen-colombia-nespresso/p)                                              | 7           | :star::star:                   |                                |
+| [Starbucks Espresso Roast](https://www.starbucksathome.com/br/espresso-roast-nespresso/p)                                                                        | 11          | :star::star::star::star:      |                                |
 
 Legenda:
 - :star: = não gostei
