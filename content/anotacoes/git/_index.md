@@ -9,6 +9,12 @@ aliases = [
 +++
 
 
+* Reverter somente um arquivo
+```bash
+git checkout $COMMIT_HASH~1 -- path/to/file
+git commit
+```
+
 * Encontrar um commit de uma branch deletada
 ```bash
 git reflog --no-abbrev
