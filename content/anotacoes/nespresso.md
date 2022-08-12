@@ -6,9 +6,9 @@ date = 2022-04-07T17:50:00+00:00
 | Café                                                                                                                                                             | Intensidade | Expresso                       | Lungo                          |
 | ---                                                                                                                                                              | ---         | ---                            | ---                            |
 | [Ispirazione Napoli](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-napoli)                                                   | 13          |                                | :star::star::star::star::star: |
-| [Ispirazione Palermo Kazaar](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-palermo-kazaar)                                   | 12          | :star::star::star:             |                                |
+| [Ispirazione Palermo Kazaar](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-palermo-kazaar)                                   | 12          | :star::star:                   |                                |
 | [Ispirazione Ristretto Italiano](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-ristretto-italiano)                           | 10          | :star::star::star:             | :star::star::star::star:       |
-| [Ispirazione Venezia](https://www.nespresso.com/br/en/order/capsules/original/ispirazione-venezia-coffee-capsule)                                                | 8           | :star::star::star::star:       |                                |
+| [Ispirazione Venezia](https://www.nespresso.com/br/en/order/capsules/original/ispirazione-venezia-coffee-capsule)                                                | 8           | :star::star::star::star::star: |                                |
 | [Ispirazione Genova Livanto](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-genova-livanto)                                   | 6           | :star::star::star::star::star: | :star::star::star::star:       |
 | [Stockholm Fortissio Lungo](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-stockholm-fortissio-lungo)                                     | 8           |                                | :star:                         |
 | [Tokyo Vivalto Lungo](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-tokyo-vivalto-lungo)                                                 | 6           |                                | :star::star::star:             |
@@ -32,7 +32,7 @@ date = 2022-04-07T17:50:00+00:00
 | [Starbucks Breakfast Blend](https://www.starbucksathome.com/br/cafes/starbucks-breakfast-blend-nespresso/p)                                                      | 7           | :star::star::star:             |                                |
 | [Starbucks Caffè Verona](https://www.starbucksathome.com/br/caffe-verona-nespresso/p)                                                                            | 10          | :star::star::star:             |                                |
 | [Starbucks Single-Origin Colombia](https://www.starbucksathome.com/br/starbucks-single-origen-colombia-nespresso/p)                                              | 7           | :star::star:                   |                                |
-| [Starbucks Espresso Roast](https://www.starbucksathome.com/br/espresso-roast-nespresso/p)                                                                        | 11          | :star::star::star::star:      |                                |
+| [Starbucks Espresso Roast](https://www.starbucksathome.com/br/espresso-roast-nespresso/p)                                                                        | 11          | :star::star::star::star:       |                                |
 
 Legenda:
 - :star: = não gostei
