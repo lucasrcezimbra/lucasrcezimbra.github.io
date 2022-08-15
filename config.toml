@@ -10,7 +10,6 @@ pygmentsstyle = "vim"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "Lrcezimbra"
 enableEmoji = true
 
 
