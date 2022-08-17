@@ -7,33 +7,47 @@ date: 2022-04-08T20:08:54-03:00
 {{< project
     name="Agilize"
     description="Cliente para acessar seus dados na Agilize."
-    github="agilize"
+    github="lucasrcezimbra/agilize"
     pypi="agilize"
 >}}
 
 {{< project
     name="PyItau"
     description="Scraper para acessar suas contas bancárias do Itaú."
-    github="pyitau"
+    github="lucasrcezimbra/pyitau"
     pypi="pyitau"
+>}}
+
+{{< project
+    name="dcache"
+    description="Distributed Cache for Humans."
+    github="HBN3tw0rk/dcache"
+    pypi="dcache"
+>}}
+
+{{< project
+    name="django-ultratenant"
+    description="Ultimate Django app for multi-tenant."
+    github="HBN3tw0rk/django-ultratenant"
+    pypi="django-ultratenant"
 >}}
 
 {{< project
     name="Django Template"
     description="Template opinativo para começar um projeto Django."
-    github="django-template"
+    github="lucasrcezimbra/django-template"
 >}}
 
 {{< project
     name="Cookiecutter PyPackage"
     description="Fork customizado do Cookiecutter PyPackage."
-    github="cookiecutter-pypackage"
+    github="lucasrcezimbra/cookiecutter-pypackage"
 >}}
 
 {{< project
     name="Consul Decouple"
     description="Extensão do python-decouple para ler configs do Consul."
-    github="consul-decouple"
+    github="lucasrcezimbra/consul-decouple"
     pypi="consul-decouple"
     archived=true
 >}}
@@ -41,7 +55,7 @@ date: 2022-04-08T20:08:54-03:00
 {{< project
     name="PySympla"
     description="Scraper para acessar informações dos seus eventos no Sympla."
-    github="pysympla"
+    github="lucasrcezimbra/pysympla"
     pypi="pysympla"
     archived=true
 >}}
@@ -49,7 +63,7 @@ date: 2022-04-08T20:08:54-03:00
 {{< project
     name="Senior HCM"
     description="Cliente para consumir a API do Senior HCM."
-    github="senior-hcm"
+    github="lucasrcezimbra/senior-hcm"
     pypi="senior-hcm"
     archived=true
 >}}
@@ -57,7 +71,7 @@ date: 2022-04-08T20:08:54-03:00
 {{< project
     name="AleloScraper"
     description="Scraper para baixar o seu saldo no Alelo."
-    github="aleloscraper"
+    github="lucasrcezimbra/aleloscraper"
     archived=true
 >}}
 

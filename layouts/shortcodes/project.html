@@ -3,7 +3,7 @@
     <h3><b>{{ .Get "name" }}{{ if .Get "archived" }} (Arquivado){{ end }}</b></h3>
     <p>{{ .Get "description" }}</p>
     <div>
-      <a href="https://github.com/lucasrcezimbra/{{ .Get "github" }}/" target="_blank"><i class="fa fa-github fa-2x"></i></a>
+      <a href="https://github.com/{{ .Get "github" }}/" target="_blank"><i class="fa fa-github fa-2x"></i></a>
 
       {{ if .Get "pypi" }}
       <a href="https://pypi.org/project/{{ .Get "pypi" }}/" target="_blank"><img src="/images/pypi.svg" /></a>
