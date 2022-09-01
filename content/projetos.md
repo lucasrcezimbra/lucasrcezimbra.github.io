@@ -16,6 +16,7 @@ date: 2022-04-08T20:08:54-03:00
     description="Scraper para acessar suas contas bancárias do Itaú."
     github="lucasrcezimbra/pyitau"
     pypi="pyitau"
+    readthedocs="pyitau"
 >}}
 
 {{< project

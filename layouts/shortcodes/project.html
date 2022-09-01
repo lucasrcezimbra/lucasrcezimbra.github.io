@@ -8,6 +8,10 @@
       {{ if .Get "pypi" }}
       <a href="https://pypi.org/project/{{ .Get "pypi" }}/" target="_blank"><img src="/images/pypi.svg" /></a>
       {{ end }}
+
+      {{ if .Get "readthedocs" }}
+      <a href="https://{{ .Get "readthedocs" }}.readthedocs.io/" target="_blank"><img src="/images/readthedocs.png" /></a>
+      {{ end }}
     </div>
   </div>
 </div>
