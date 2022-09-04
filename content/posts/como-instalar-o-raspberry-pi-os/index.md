@@ -16,7 +16,9 @@ rpi-imager
 sudo su -
 apt update
 apt upgrade
+systemctl enable ssh
 systemctl restart ssh
+raspi-config  # 1 > S5 > B1
 ```
 
 ## Montando Cartão SD bootável
@@ -56,6 +58,18 @@ systemctl restart ssh
     sudo apt update
     sudo apt upgrade
     ```
+
+## Desabilitando o Auto Login (segurança)
+1. Abra a ferramenta de configuração do Raspberry
+    ```bash
+    sudo raspi-config
+    ```
+1. Abra a opção 1 `System Options`
+1. Abra a opção S5 `Boot / Autologin`
+1. Seleciona a opção B1 `Console` `Text console, requiring user to login`
+    {{< figure src="raspi-config-autologin.png" alt="Desabilitando o Auto Login no Raspberry" caption="Desabilitando o Auto Login no Raspberry" >}}
+
+
 
 ## Habilitando acesso SSH
 1. Inicie o servidor SSH
