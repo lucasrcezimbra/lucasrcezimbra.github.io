@@ -61,5 +61,6 @@ systemctl restart ssh
 1. Inicie o servidor SSH
     ```bash
     sudo su -
+    systemctl enable ssh
     systemctl restart ssh
     ```
