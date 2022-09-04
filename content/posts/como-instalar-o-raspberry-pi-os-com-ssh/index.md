@@ -59,7 +59,7 @@ raspi-config  # 1 > S5 > B1
     sudo apt upgrade
     ```
 
-## Desabilitando o Auto Login (segurança)
+### Desabilitando o Auto Login (segurança)
 1. Abra a ferramenta de configuração do Raspberry
     ```bash
     sudo raspi-config
@@ -71,7 +71,7 @@ raspi-config  # 1 > S5 > B1
 
 
 
-## Habilitando acesso SSH
+### Habilitando acesso SSH
 1. Inicie o servidor SSH
     ```bash
     sudo su -
