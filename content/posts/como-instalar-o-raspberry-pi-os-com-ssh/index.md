@@ -18,8 +18,10 @@ apt update
 apt upgrade
 systemctl enable ssh
 systemctl restart ssh
-raspi-config  # 1 > S5 > B1
+raspi-config  # 1 > S5 > B1 > Finish
+raspi-config  # 5 > L2 > America > São Paulo > Finish
 ```
+
 
 ## Montando Cartão SD bootável
 
@@ -69,7 +71,16 @@ raspi-config  # 1 > S5 > B1
 1. Seleciona a opção B1 `Console` `Text console, requiring user to login`
     {{< figure src="raspi-config-autologin.png" alt="Desabilitando o Auto Login no Raspberry" caption="Desabilitando o Auto Login no Raspberry" >}}
 
-
+### Configurando o fuso horário
+1. Abra a ferramenta de configuração do Raspberry
+    ```bash
+    sudo raspi-config
+    ```
+1. Abra a opção 5 `Localisation Options`
+1. Abra a opção L2 `Timezone`
+1. Seleciona seu continente.
+1. Seleciona seu fuso horário.
+    {{< figure src="raspi-config-timezone.png" alt="Configurando o fuso horário na Raspberry" caption="Configurando o fuso horário na Raspberry" >}}
 
 ### Habilitando acesso SSH
 1. Inicie o servidor SSH
