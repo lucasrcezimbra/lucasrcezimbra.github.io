@@ -20,6 +20,7 @@ systemctl enable ssh
 systemctl restart ssh
 raspi-config  # 1 > S5 > B1 > Finish
 raspi-config  # 5 > L2 > America > São Paulo > Finish
+shutdown -r now
 ```
 
 
