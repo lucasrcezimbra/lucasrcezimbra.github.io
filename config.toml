@@ -84,6 +84,10 @@ enableEmoji = true
   weight = 20
   url = "anotacoes/indice/"
 [[menu.main]]
-  name = "Blog"
+  name = "Palestras"
   weight = 30
+  url = "palestras/"
+[[menu.main]]
+  name = "Blog"
+  weight = 40
   url  = "posts/"
