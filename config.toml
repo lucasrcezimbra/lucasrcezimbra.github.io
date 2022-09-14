@@ -30,6 +30,9 @@ enableEmoji = true
   favicon_16 = "images/lucas-16x16.jpg"
   touchIcon = "images/lucas-180x180.jpg"
 
+  # used by Twitter cards: https://gohugo.io/templates/internal/#twitter-cards
+  images = ['images/lucas-180x180.jpg']
+
   enableTwemoji = true
 
   colorScheme = "dark"
