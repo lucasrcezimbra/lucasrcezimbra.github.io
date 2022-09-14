@@ -76,11 +76,11 @@ enableEmoji = true
 
 
 [[menu.main]]
- name = "Projetos"
+  name = "Projetos"
   weight = 10
   url = "projetos/"
 [[menu.main]]
- name = "Anotações"
+  name = "Anotações"
   weight = 20
   url = "anotacoes/indice/"
 [[menu.main]]
