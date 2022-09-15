@@ -38,7 +38,8 @@ enableEmoji = true
   colorScheme = "dark"
   font_size = "xs"
 
-  customCSS = ["styles/project.css", "styles/contribution.css"]
+  customCSS = ["styles/project.css", "styles/contribution.css", "styles/jquery.dataTables.min.css"]
+  customJS = ["scripts/jquery-3.6.1.min.js", "scripts/jquery.dataTables.min.js"]
 
 # [taxonomies]
 #   category = "categories"

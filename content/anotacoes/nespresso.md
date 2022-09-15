@@ -3,6 +3,9 @@ title = 'Nespresso'
 date = 2022-04-07T17:50:00+00:00
 +++
 
+
+{{< datatables >}}
+
 | Café                                                                                                                                                             | Intensidade | Expresso                       | Lungo                          |
 | ---                                                                                                                                                              | ---         | ---                            | ---                            |
 | [Ispirazione Napoli](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-napoli)                                                   | 13          |                                | :star::star::star::star::star: |
@@ -23,8 +26,8 @@ date = 2022-04-07T17:50:00+00:00
 | [Volluto Decaffeinato](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-descafeinado-comprar-volluto-decaffeinato-intensidade-4)            | 4           | :star::star::star:             |                                |
 | [Ethiopia](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-secagem-natural-ethiopia)                                                       | 4           | :star::star:                   |                                |
 | [Cosi](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-espresso-comprar-cosi-intensidade-4)                                                | 4           | :star::star:                   |                                |
-| [Barista Creations Chiaro](https://www.nespresso.com/br/pt/order/capsules/original/comprar-nespresso-barista-creations-capsula-cafe-chiaro)                      | ?           |                                | :star::star:                   |
-| [Barista Creations Scuro](https://www.nespresso.com/br/pt/order/capsules/original/comprar-nespresso-barista-creations-capsula-cafe-scuro)                        | ?           | :star::star::star:             | :star::star::star::star:       |
+| [Barista Creations Chiaro](https://www.nespresso.com/br/pt/order/capsules/original/comprar-nespresso-barista-creations-capsula-cafe-chiaro)                      |             |                                | :star::star:                   |
+| [Barista Creations Scuro](https://www.nespresso.com/br/pt/order/capsules/original/comprar-nespresso-barista-creations-capsula-cafe-scuro)                        |             | :star::star::star:             | :star::star::star::star:       |
 | [L'OR Ultimo](https://www.cafelor.com.br/capsula-de-cafe-l-or-ultimo-10-un/p)                                                                                    | 13          | :star::star::star:             | :star::star::star::star::star: |
 | [L'OR Sontuoso](https://www.cafelor.com.br/capsulas-cafe-l-or-sontuoso-10-un/p)                                                                                  | 8           | :star::star::star::star:       |                                |
 | [Starbucks Espresso Roast](https://www.starbucksathome.com/br/espresso-roast-nespresso/p)                                                                        | 11          | :star::star::star::star:       |                                |
