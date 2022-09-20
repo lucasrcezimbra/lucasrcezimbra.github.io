@@ -19,6 +19,10 @@ enableEmoji = true
       unsafe = true
 
 
+[social]
+  twitter = "lucasrcezimbra"
+
+
 [params]
   author = "Lucas Cezimbra"
   # info = "Full Stack DevOps and Magician"
