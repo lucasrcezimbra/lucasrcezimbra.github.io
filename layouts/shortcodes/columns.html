@@ -1,0 +1,14 @@
+{{- $size := default "regular" (.Get "size" | lower) }}
+
+{{- if not (in (slice "regular" "large" "small") $size) }}
+  {{- $size = "regular" }}
+{{- end }}
+
+
+<div style="display: flex;">
+  {{ range split .Inner "<--->" }}
+    <div style="flex: 1 1 0;">
+      {{ . | $.Page.RenderString }}
+    </div>
+  {{ end }}
+</div>
