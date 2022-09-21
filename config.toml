@@ -84,18 +84,22 @@ enableEmoji = true
 
 
 [[menu.main]]
-  name = "Projetos"
+  name = "Sobre"
   weight = 10
+  url = "sobre/"
+[[menu.main]]
+  name = "Projetos"
+  weight = 20
   url = "projetos/"
 [[menu.main]]
   name = "Anotações"
-  weight = 20
+  weight = 30
   url = "anotacoes/indice/"
 [[menu.main]]
   name = "Palestras"
-  weight = 30
+  weight = 40
   url = "palestras/"
 [[menu.main]]
   name = "Blog"
-  weight = 40
+  weight = 50
   url  = "posts/"
