@@ -5,3 +5,8 @@ body {
 .dataTables_filter { 
   color: inherit !important;
 }
+
+img[alt=Merged],img[alt=Open],img[alt=Closed] { 
+  width: 16px; 
+  margin: auto;
+}

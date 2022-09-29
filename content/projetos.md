@@ -81,174 +81,34 @@ date: 2022-04-08T20:08:54-03:00
 
 ### Código
 
-{{< contribution
-    status="merged"
-    url="https://github.com/geovanisouza92/irpf-docker/pull/4"
-    project="irpf-docker"
-    title="Atualizando IRPF 2022 de 1.0 para 1.2"
-    date="2022-03-27"
->}}
-{{< contribution
-    status="merged"
-    url="https://github.com/andreroggeri/pynubank/pull/277"
-    project="pynubank"
-    title="feat: Add get_card_statement_details"
-    date="2021-09-17"
->}}
-{{< contribution
-    status="merged"
-    url="https://github.com/mongomock/mongomock/pull/596"
-    project="Mongomock"
-    title="Implements $setEquals operator"
-    date="2020-02-19"
->}}
-{{< contribution
-    status="closed"
-    url="https://github.com/agronholm/sqlacodegen/pull/105"
-    project="sqlacodegen"
-    title="Fix KeyError when column was upper case"
-    date="2019-11-11"
->}}
-{{< contribution
-    status="merged"
-    url="https://github.com/rougeth/pythonnobrasil/pull/38"
-    project="Eventos Python no Brasil"
-    title="Change YAML to TOML"
-    date="2019-10-10"
->}}
-{{< contribution
-    status="merged"
-    url="https://github.com/rougeth/pythonnobrasil/pull/37"
-    project="Eventos Python no Brasil"
-    title="Improve travis: run test for YAML"
-    date="2019-10-10"
->}}
-{{< contribution
-    status="merged"
-    url="https://github.com/pyupio/pyup/pull/362"
-    project="pyup"
-    title="Add option to ignore SSL certificate"
-    date="2019-09-19"
->}}
-{{< contribution
-    status="open"
-    url="https://github.com/gsr-zug/influxdb_logging/pull/2/"
-    project="InfluxDB logging"
-    title="Move pytest to requirements-dev"
-    date="2019-09-19"
->}}
-{{< contribution
-    status="merged"
-    url="https://github.com/andreroggeri/pynubank/pull/65"
-    project="pynubank"
-    title="Fix GraphQL query to get debit amount"
-    date="2019-06-30"
->}}
-{{< contribution
-    status="closed"
-    url="https://github.com/andreroggeri/pynubank/pull/64"
-    project="pynubank"
-    title="Save refresh_token only if it's in authenticate response"
-    date="2019-06-30"
->}}
-{{< contribution
-    status="merged"
-    url="https://github.com/andreroggeri/pynubank/pull/62"
-    project="pynubank"
-    title="Fix account statements"
-    date="2019-06-30"
->}}
-{{< contribution
-    status="merged"
-    url="https://github.com/klen/mixer/pull/117"
-    project="Mixer"
-    title="Fix MongoEngine to generate EmbeddedDocumentListField"
-    date="2019-06-03"
->}}
-{{< contribution
-    status="merged"
-    url="https://github.com/klen/mixer/pull/116"
-    project="Mixer"
-    title="Fix MongoEngine DecimalField min_value and max_value"
-    date="2019-06-03"
->}}
-{{< contribution
-    status="merged"
-    url="https://github.com/okfn-brasil/serenata-de-amor/pull/466/"
-    project="Serenata de Amor"
-    title="Fix link to the deputies profile on Jarbas"
-    date="2019-03-15"
->}}
-{{< contribution
-    status="merged"
-    url="https://github.com/joke2k/faker/pull/924/"
-    project="Faker"
-    title="Add min and max values for pyfloat and pydecimal"
-    date="2019-03-12"
->}}
-{{< contribution
-    status="closed"
-    url="https://github.com/okfn-brasil/querido-diario/pull/91"
-    project="Querido Diário"
-    title="Add crawler for Canoas/RS"
-    date="2018-06-13"
->}}
-{{< contribution
-    status="merged"
-    url="https://github.com/rougeth/bottery/pull/134/"
-    project="bottery"
-    title="Fix KeyError when Telegram message has no text"
-    date="2018-04-09"
->}}
-{{< contribution
-    status="merged"
-    url="https://github.com/mukulhase/WebWhatsapp-Wrapper/pull/31/"
-    project="Web Whats API"
-    title="Use Python 3 print function instead of Python 2"
-    date="2017-11-02"
->}}
-{{< contribution
-    status="closed"
-    url="https://github.com/turicas/rows/pull/262/"
-    project="rows"
-    title="Adds end_row and end_column to import_from_xlsx"
-    date="2017-11-02"
->}}
-{{< contribution
-    status="closed"
-    url="https://github.com/jschneier/django-storages/pull/420/"
-    project="django storages"
-    title="Dropbox: Add support to timeout"
-    date="2017-11-02"
->}}
-{{< contribution
-    status="merged"
-    url="https://github.com/django-extensions/django-extensions/pull/1085"
-    project="Django Extension"
-    title="Fix print_settings to receive positional args"
-    date="2017-08-09"
->}}
-{{< contribution
-    status="merged"
-    url="https://github.com/andreroggeri/pynubank/pull/3"
-    project="pynubank"
-    title="Altera o href usado para obter as transações"
-    date="2017-06-21"
->}}
-{{< contribution
-    status="closed"
-    url="https://github.com/okfn-brasil/serenata-de-amor/pull/100"
-    project="Serenata de Amor"
-    title="Collect real estates rental prices"
-    date="2016-11-02"
->}}
-{{< contribution
-    status="merged"
-    url="https://github.com/pagseguro/pagseguro-sdk-ruby/pull/101"
-    project="pagseguro-sdk-ruby"
-    title="Added description to the PaymentStatus"
-    date="2015-05-14"
->}}
+{{< datatables >}}
+
+| Data       | Status                                | Projeto                  | Pull Request                                                                                                     | 
+| ---        | ---                                   | ---                      | ---                                                                                                              | 
+| 2022-03-27 | ![Merged](/images/code-pr-merged.svg) Merged | irpf-docker              | [Atualizando IRPF 2022 de 1.0 para 1.2](https://github.com/geovanisouza92/irpf-docker/pull/4)                    |
+| 2021-09-17 | ![Merged](/images/code-pr-merged.svg) Merged | pynubank                 | [feat: Add get_card_statement_details](https://github.com/andreroggeri/pynubank/pull/277)                        |
+| 2020-02-19 | ![Merged](/images/code-pr-merged.svg) Merged | Mongomock                | [Implements $setEquals operator](https://github.com/mongomock/mongomock/pull/596)                                | 
+| 2019-11-11 | ![Closed](/images/code-pr-closed.svg) Closed | sqlacodegen              | [Fix KeyError when column was upper case](https://github.com/agronholm/sqlacodegen/pull/105)
+| 2019-10-10 | ![Merged](/images/code-pr-merged.svg) Merged | Eventos Python no Brasil | [Change YAML to TOML](https://github.com/rougeth/pythonnobrasil/pull/38)
+| 2019-10-10 | ![Merged](/images/code-pr-merged.svg) Merged | Eventos Python no Brasil | [Improve travis: run test for YAML](https://github.com/rougeth/pythonnobrasil/pull/37)
+| 2019-09-19 | ![Merged](/images/code-pr-merged.svg) Merged | pyup                     | [Add option to ignore SSL certificate](https://github.com/pyupio/pyup/pull/362)
+| 2019-09-19 | ![Open](/images/code-pr-open.svg) Open       | InfluxDB logging         | [Move pytest to requirements-dev](https://github.com/gsr-zug/influxdb_logging/pull/2/)
+| 2019-06-30 | ![Merged](/images/code-pr-merged.svg) Merged | pynubank                 | [Fix GraphQL query to get debit amount](https://github.com/andreroggeri/pynubank/pull/65)
+| 2019-06-30 | ![Closed](/images/code-pr-closed.svg) Closed | pynubank                 | [Save refresh_token only if it's in authenticate response](https://github.com/andreroggeri/pynubank/pull/64)
+| 2019-06-30 | ![Merged](/images/code-pr-merged.svg) Merged | pynubank                 | [Fix account statements](https://github.com/andreroggeri/pynubank/pull/62)
+| 2019-06-03 | ![Merged](/images/code-pr-merged.svg) Merged | Mixer                    | [Fix MongoEngine to generate EmbeddedDocumentListField](https://github.com/klen/mixer/pull/117)
+| 2019-06-03 | ![Merged](/images/code-pr-merged.svg) Merged | Mixer                    | [Fix MongoEngine DecimalField min_value and max_value](https://github.com/klen/mixer/pull/116)
+| 2019-03-15 | ![Merged](/images/code-pr-merged.svg) Merged | Serenata de Amor         | [Fix link to the deputies profile on Jarbas](https://github.com/okfn-brasil/serenata-de-amor/pull/466/)
+| 2019-03-12 | ![Merged](/images/code-pr-merged.svg) Merged | Faker                    | [Add min and max values for pyfloat and pydecimal](https://github.com/joke2k/faker/pull/924/)
+| 2018-06-13 | ![Closed](/images/code-pr-closed.svg) Closed | Querido  Diário          | [Add crawler for Canoas/RS](https://github.com/okfn-brasil/querido-diario/pull/91)
+| 2018-04-09 | ![Merged](/images/code-pr-merged.svg) Merged | bottery                  | [Fix KeyError when Telegram message has no text](https://github.com/rougeth/bottery/pull/134/)
+| 2017-11-02 | ![Merged](/images/code-pr-merged.svg) Merged | Whats Web API            | [Use Python 3 print function instead of Python 2](https://github.com/mukulhase/WebWhatsapp-Wrapper/pull/31/)
+| 2017-11-02 | ![Closed](/images/code-pr-closed.svg) Closed | rows                     | [Adds end_row and end_column to import_from_xlsx](https://github.com/turicas/rows/pull/262/)
+| 2017-11-02 | ![Closed](/images/code-pr-closed.svg) Closed | django storages          | [Dropbox: Add support to timeout](https://github.com/jschneier/django-storages/pull/420/)
+| 2017-08-09 | ![Merged](/images/code-pr-merged.svg) Merged | Django Extension         | [Fix print_settings to receive positional args](https://github.com/django-extensions/django-extensions/pull/1085)
+| 2017-06-21 | ![Merged](/images/code-pr-merged.svg) Merged | pynubank                 | [Altera o href usado para obter as transações](https://github.com/andreroggeri/pynubank/pull/3)
+| 2016-11-02 | ![Closed](/images/code-pr-closed.svg) Closed | Serenata de Amor         | [Collect real estates rental prices](https://github.com/okfn-brasil/serenata-de-amor/pull/100)
+| 2015-05-14 | ![Merged](/images/code-pr-merged.svg) Merged | pagseguro-sdk-ruby       | [Added description to the PaymentStatus](https://github.com/pagseguro/pagseguro-sdk-ruby/pull/101)
 
 
 

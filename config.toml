@@ -103,3 +103,8 @@ enableEmoji = true
   name = "Blog"
   weight = 50
   url  = "posts/"
+
+
+[languages]
+  [languages.pt-br]
+  [languages.en]
