@@ -44,8 +44,46 @@ f"{val:^10}"
 # '   test   '
 ```
 
-
 Fonte: https://fstring.help/
+
+## pandas
+
+- axios: 0=linha e 1=coluna
+
+### Geral
+
+```python
+df.shape  # (linhas, colunas)
+df.info()
+df.High.mean()  # média da coluna High
+df.Date = pd.to_datetime(df.Date)  # convert column to datetime
+```
+
+
+### Informações Estatísticas
+
+```python
+df.describe()  # informações estatísticas
+df.ride_duration.std()  # desvio padrão da coluna ride_duration
+```
+
+
+### Visualização
+
+```python
+df.High.plot()  # gráfico da coluna High
+df.Volume.hist()  # histograma da coluna Volume
+df.plot.scatter('c1', 'c2')  # gráfico de dispersão
+df.Low.plot(kind='box')  # gráfico boxplot
+```
+
+### Valores ausentes
+
+```python
+df.isnull().sum()  # conta o número de linhas com NaN
+df.isnull().sum() / df.shape[0] # % de valores ausentes
+df.dropna(subset=['user_gender'], axios=0)  # apaga as linhas com valor NaNs da coluna user_gender
+```
 
 
 ## Profiling
