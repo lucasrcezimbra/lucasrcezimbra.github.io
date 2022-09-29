@@ -19,6 +19,7 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
 - E-mail
   - [Entregabilidade](/anotacoes/entregabilidade-de-emails/)
 - [Git](/anotacoes/git/)
+- [Jupyter](/anotacoes/jupyter/)
 - [Linux](/anotacoes/linux/)
   - [XFCE4](/anotacoes/linux/xfce4/)
   - [ThinkPad](/anotacoes/linux/thinkpad/)
