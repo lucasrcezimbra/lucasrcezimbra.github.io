@@ -18,6 +18,8 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
 - [EdTech](/anotacoes/edtech/)
 - E-mail
   - [Entregabilidade](/anotacoes/entregabilidade-de-emails/)
+- Estudos
+  - [Curso: Data Sciense na Prática 3.0](/anotacoes/data-science-na-pratica/)
 - [Git](/anotacoes/git/)
 - [Jupyter](/anotacoes/jupyter/)
 - [Linux](/anotacoes/linux/)
