@@ -17,3 +17,10 @@ aliases = [
     - [Versão PDF](https://www.immagic.com/eLibrary/ARCHIVES/TECH/IMS_US/I050124G.pdf)
 - [Slides com bons exemplos](http://elite.polito.it/files/courses/01NPYPD/lucidi/10-QTI.pdf)
 - [Validador](https://webapps.ph.ed.ac.uk/qtiworks/anonymous/validator)
+
+
+## Surpass
+
+- [Help Site](https://help.surpass.com/)
+- [Importing items from other sources](https://help.surpass.com/documentation/item-authoring/creating-items/importing-items/importing-items-from-other-sources/)
+- [API v2](https://help.surpass.com/developer/surpass-api-v2/)
