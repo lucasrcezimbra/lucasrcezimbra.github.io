@@ -9,17 +9,14 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
 ## Tecnologia
 
 - [ADR (Architecture Decision Records)](/anotacoes/adr/)
-- AWS
-  - [Lambda](/anotacoes/aws/lambda/)
+- [AWS Lambda](/anotacoes/aws/lambda/)
 - Banco de Dados
   - [MongoDB](/anotacoes/banco-de-dados/mongodb/)
   - [Oracle](/anotacoes/banco-de-dados/oracle/)
   - [PostgreSQL](/anotacoes/banco-de-dados/postgresql/)
 - [EdTech](/anotacoes/edtech/)
-- E-mail
-  - [Entregabilidade](/anotacoes/entregabilidade-de-emails/)
-- Estudos
-  - [Curso: Data Sciense na Prática 3.0](/anotacoes/data-science-na-pratica/)
+- [E-mail - Entregabilidade](/anotacoes/entregabilidade-de-emails/)
+- [Estudos - Curso: Data Sciense na Prática 3.0](/anotacoes/data-science-na-pratica/)
 - [Git](/anotacoes/git/)
 - [Jupyter](/anotacoes/jupyter/)
 - [Linux](/anotacoes/linux/)
