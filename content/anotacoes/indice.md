@@ -12,6 +12,11 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
 - [Nespresso](/anotacoes/nespresso/)
 
 
+## Pessoa Jurídica
+
+- [Bancos com API](/anotacoes/bancos-pj-com-api/)
+
+
 ## Tecnologia
 
 - [ADR (Architecture Decision Records)](/anotacoes/adr/)
