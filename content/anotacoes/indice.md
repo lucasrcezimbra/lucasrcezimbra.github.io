@@ -6,6 +6,12 @@ date = 2022-04-07T18:55:51-03:00
 
 Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
 
+
+## Café
+
+- [Nespresso](/anotacoes/nespresso/)
+
+
 ## Tecnologia
 
 - [ADR (Architecture Decision Records)](/anotacoes/adr/)
@@ -28,6 +34,3 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
 - [Vim](/anotacoes/vim/)
 
 
-## Café
-
-- [Nespresso](/anotacoes/nespresso/)
