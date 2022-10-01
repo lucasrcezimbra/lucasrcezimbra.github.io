@@ -12,6 +12,12 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
 - [Nespresso](/anotacoes/nespresso/)
 
 
+## Cursos
+
+- [A Nossa Revolução](/anotacoes/a-nossa-revolucao/)
+- [Data Sciense na Prática 3.0](/anotacoes/data-science-na-pratica/)
+
+
 ## Pessoa Jurídica
 
 - [Bancos com API](/anotacoes/bancos-pj-com-api/)
@@ -27,7 +33,6 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
   - [PostgreSQL](/anotacoes/banco-de-dados/postgresql/)
 - [EdTech](/anotacoes/edtech/)
 - [E-mail - Entregabilidade](/anotacoes/entregabilidade-de-emails/)
-- [Estudos - Curso: Data Sciense na Prática 3.0](/anotacoes/data-science-na-pratica/)
 - [Git](/anotacoes/git/)
 - [Jupyter](/anotacoes/jupyter/)
 - [Linux](/anotacoes/linux/)
