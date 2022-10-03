@@ -16,6 +16,7 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
 
 - [A Nossa Revolução](/anotacoes/a-nossa-revolucao/)
 - [Data Sciense na Prática 3.0](/anotacoes/data-science-na-pratica/)
+- [Manhã de Titã](/anotacoes/manha-de-tita/)
 
 
 ## Pessoa Jurídica
