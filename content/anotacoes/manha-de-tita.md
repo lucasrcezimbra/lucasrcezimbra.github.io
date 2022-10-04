@@ -46,8 +46,8 @@ date: 2022-10-03T19:39:48-03:00
 - 5 minutos de sol todos os dias ao acordar
 - é bom assistir ao por-do-sol também
 
-
 ### O dia começa na noite anterior
+- Dra. Natália Baldin
 - Sono está ligado ao ciclo circadiano que é regulado por:
     - cortisol: hormônio do stress; precisa ter um pico pela manhã (das 4h as 8h); ativado pela luz solar matinal;
     - melatonina: hormônio do sono; tem que aumentar ao final do dia; ativado pela redução da luz;
@@ -58,7 +58,56 @@ date: 2022-10-03T19:39:48-03:00
     - diminuir o ritmo a partir das 20h pra começar o relaxamento
     - ligar luzar amarelas à noite; diminuir as luzes a partir as 18h/19h
     - quarto tem que estar totalmente escuro
-    - colocar celular no modo luz amarelada das 18h as 7h
     - jantar 2 ou 3h antes de dormir
 - Suplementos
-    
+    - B6 é necessária pra transformar serotonina em melatonina
+    - Magnésio
+        - 4º elemento mais presente no nosso corpo
+        - dimalato é pra ser usado pela manhã; participa da produção de ATP/energia
+        - treonato é pra ser usado à noite; melhor pro sono/aprendizado/cognição; meia vida de 12h
+        - inositol para qualidade do sono; 1/2 medida pela manhã e 1/2 à noite
+    - fitoterápicos: Ashwaganda, Rhodiola rosea, Bacopa Monnieri, L-teanina, Melissa officinalis
+- Rotina do sono
+    1. ver o pôr do sol
+    1. diminuir as luzes da casa (deixar só luzes neutras amarelas)
+    1. jantar 2 ou 3h antes de dormir
+- TODOs
+    - configurar o celular no modo luz amarelada das 18h as 7h
+
+
+## Unificação de Esforço
+### O ambiente de foco matinal
+- Ambiente de trabalho limpo
+    - tirar coisas que vão destrair/fazer pensar em outra coisa
+    - O foco cognitivo começa com o foco visual
+    - computador, papel e caneta, água e livro
+- Trabalhe longe do celular
+- Organizar um ambiente pra trabalhar, de preferência ter um escritório
+
+### Exercício de foco em 30"
+- Exercício de foco: Olhe para um ponto fixo e fique 30s sem piscar
+- Exercício de presença
+    - pra quando está muito ansioso/agitado/agoniado
+    1. timer de 1 minuto
+    2. feche o olho
+    3. sinta cada membro do corpo pesando na cadeira
+    4. set intention: vou começar essa (atividade) focado (nesse resultado)
+
+### Rotina de Leitura Matinal
+- Longe do celular
+- Não comece o dia atendendo rotina dos outros. Foque em você para poder servir melhor
+
+- Exemplo
+    1. Oração - Seleta de Orações
+    1. Leitura - Forja, Sulco ou Caminho do São José Maria Escrivá
+    1. Homília do Padre Paulo Ricardo
+    1. Leitura da liturgia do dia
+    1. Leitura (10-15 minutos)
+    1. Definir o dia
+
+- TODO
+    1. Oração - Seleta de Orações
+    1. Leitura Catecismo (10 minutos)
+    1. Leitura (15 minutos)
+
+### Definição do Foco do Dia
