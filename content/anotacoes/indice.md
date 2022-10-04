@@ -15,6 +15,7 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
 ## Cursos
 
 - [A Nossa Revolução](/anotacoes/a-nossa-revolucao/)
+- [Catequese para Adultos](/anotacoes/catequese-para-adultos/)
 - [Data Sciense na Prática 3.0](/anotacoes/data-science-na-pratica/)
 - [Manhã de Titã](/anotacoes/manha-de-tita/)
 
