@@ -96,7 +96,6 @@ date: 2022-10-03T19:39:48-03:00
 ### Rotina de Leitura Matinal
 - Longe do celular
 - Não comece o dia atendendo rotina dos outros. Foque em você para poder servir melhor
-
 - Exemplo
     1. Oração - Seleta de Orações
     1. Leitura - Forja, Sulco ou Caminho do São José Maria Escrivá
@@ -104,7 +103,6 @@ date: 2022-10-03T19:39:48-03:00
     1. Leitura da liturgia do dia
     1. Leitura (10-15 minutos)
     1. Definir o dia
-
 - TODO
     1. Oração - Seleta de Orações
     1. Leitura Catecismo (10 minutos)
