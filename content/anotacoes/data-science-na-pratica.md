@@ -52,6 +52,7 @@ date: 2022-09-29T08:13:55-03:00
 
 - [Anotações: Jupyter](/anotacoes/jupyter/)
 - [Anotações: Python - pandas](/anotacoes/python/#pandas)
+- [YouTube - Como montar um Portfólio para Data Science](https://www.youtube.com/watch?v=LbwKFDxci5w)
 
 
 ### ****Visualizando dados****

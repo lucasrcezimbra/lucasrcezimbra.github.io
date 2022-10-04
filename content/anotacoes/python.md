@@ -49,6 +49,7 @@ Fonte: https://fstring.help/
 ## pandas
 
 - axios: 0=linha e 1=coluna
+- pandas-profilling - [PyPI](https://pypi.org/project/pandas-profiling/), [docs](https://pandas-profiling.ydata.ai/docs/master/index.html)
 
 ### Geral
 
