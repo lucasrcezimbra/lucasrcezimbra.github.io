@@ -1,0 +1,39 @@
+/* Based on https://codepen.io/NielsVoogt/pen/MbMMxv */
+.timeline-item {
+  padding: 0.5em 2em 2em;
+  position: relative;
+  border-left: 2px solid currentColor;
+}
+
+.timeline-item::before {
+  content: attr(date-is);
+  position: absolute;
+  font-weight: bold;
+}
+
+.timeline-item::after {
+  width: 10px;
+  height: 10px;
+  top: 1em;
+  position: absolute;
+  left: -7px;
+  border-radius: 10px;
+  content: "";
+  border: 2px solid currentColor;
+  background: currentColor;
+}
+
+.timeline-item:first-child {
+  padding-top: 5em;
+  -o-border-image: linear-gradient(to top, currentColor 60%, rgba(0, 0, 0, 0)) 1 100%;
+     border-image: linear-gradient(to top, currentColor 60%, rgba(0, 0, 0, 0)) 1 100%;
+}
+
+.timeline-item:first-child::after {
+  top: 5.5em;
+}
+
+.timeline-item:last-child {
+  -o-border-image: linear-gradient(to bottom, currentColor 60%, rgba(0, 0, 0, 0)) 1 100%;
+     border-image: linear-gradient(to bottom, currentColor 60%, rgba(0, 0, 0, 0)) 1 100%;
+}
