@@ -22,7 +22,7 @@ date: 2022-09-13T20:49:12-03:00
 * [Headphone Edifier W800BT](https://edifier.com.br/headphone-w800bt-plus-bluetooth-5-1-over-ear-edifier-preto.html) + [Microfone Boya BY-M1](https://a.co/d/j1yTSn9)
 * [Mouse Logitech M100](https://www.logitech.com/pt-br/products/mice/m100-usb-mouse.910-001601.html)
 * [Hub Baseus 6 em 1](https://produto.mercadolivre.com.br/MLB-2027205008-hub-6-em-1-type-c-hdmi-4k-rj45-macbook-m1-_JM)
-* [Mesa dF Metal Arts](https://www.instagram.com/dfmetalarts/) e Cadeira
+* [Mesa dF Metal Arts](https://www.instagram.com/dfmetalarts/) e [Cadeira Plaxmetal Brizza Presidente](https://plaxmetal.com.br/produtos/brizza-presidente/)
 * Papel e Caneta
 * Ao fundo, [A Mão de São José](https://www.santalberti.com.br/produtos/quadro-poster-a-mao-de-sao-jose/), por [Matheus Bazzo](https://www.instagram.com/matheus.bazzo/)
 
