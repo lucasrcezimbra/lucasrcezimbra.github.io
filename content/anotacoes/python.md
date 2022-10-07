@@ -46,6 +46,14 @@ f"{val:^10}"
 
 Fonte: https://fstring.help/
 
+
+## Keycloak
+- [https://www.baeldung.com/postman-keycloak-endpoints](https://www.baeldung.com/postman-keycloak-endpoints)
+- [https://github.com/marcospereirampj/python-keycloak/](https://github.com/marcospereirampj/python-keycloak/)
+    - desnecessariamente complexo - PyJava
+    - tem uns evals estranhos: [https://github.com/marcospereirampj/python-keycloak/blob/8fd315d11a42a8b4afebfe84498e882bc0b736c8/keycloak/authorization/__init__.py#L78-L91](https://github.com/marcospereirampj/python-keycloak/blob/8fd315d11a42a8b4afebfe84498e882bc0b736c8/keycloak/authorization/__init__.py#L78-L91)
+
+
 ## pandas
 
 - axios: 0=linha e 1=coluna
