@@ -7,22 +7,13 @@ date = 2022-04-07T18:55:51-03:00
 Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
 
 
-## Café
-
-- [Nespresso](/anotacoes/nespresso/)
-
-
 ## Cursos
 
 - [A Nossa Revolução](/anotacoes/a-nossa-revolucao/)
 - [Catequese para Adultos](/anotacoes/catequese-para-adultos/)
 - [Data Sciense na Prática 3.0](/anotacoes/data-science-na-pratica/)
 - [Manhã de Titã](/anotacoes/manha-de-tita/)
-
-
-## Pessoa Jurídica
-
-- [Bancos com API](/anotacoes/bancos-pj-com-api/)
+- [Passaporte Dev Sênior](/anotacoes/passaporte-dev-senior/)
 
 
 ## Tecnologia
@@ -46,3 +37,7 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
 - [Vim](/anotacoes/vim/)
 
 
+## Outros
+- [Bancos PJ com API](/anotacoes/bancos-pj-com-api/)
+- [Cafés Nespresso](/anotacoes/nespresso/)
+- [Catolicismo](/anotacoes/catolicismo/)
