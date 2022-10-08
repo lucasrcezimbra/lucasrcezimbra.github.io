@@ -5,6 +5,10 @@
   border-left: 2px solid currentColor;
 }
 
+.timeline-item h3 {
+  margin-bottom: -5px;
+}
+
 .timeline-item::before {
   content: attr(date-is);
   position: absolute;
