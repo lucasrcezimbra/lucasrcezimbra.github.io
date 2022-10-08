@@ -4,8 +4,15 @@
   {{- $size = "regular" }}
 {{- end }}
 
+<style>
+  @media screen and (min-width: 1024px) {
+    div.columns {
+      display: flex;
+    }
+  }
+</style>
 
-<div style="display: flex;">
+<div class="columns">
   {{ range split .Inner "<--->" }}
     <div style="flex: 1 1 0;">
       {{ . | $.Page.RenderString }}
