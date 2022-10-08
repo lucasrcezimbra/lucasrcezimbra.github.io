@@ -13,6 +13,7 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
 - [Catequese para Adultos](/anotacoes/catequese-para-adultos/)
 - [Data Science na Prática 3.0](/anotacoes/data-science-na-pratica/)
 - [Manhã de Titã](/anotacoes/manha-de-tita/)
+- [O Valor do Dinheiro](/anotacoes/o-valor-do-dinheiro/)
 - [Passaporte Dev Sênior](/anotacoes/passaporte-dev-senior/)
 
 
