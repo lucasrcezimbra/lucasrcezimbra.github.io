@@ -11,7 +11,7 @@ aliases = [
 
 * Reverter somente um arquivo
 ```bash
-git checkout $COMMIT_HASH~1 -- path/to/file
+git checkout <commit_hash>~1 -- <path/to/file>
 git commit
 ```
 
@@ -23,13 +23,13 @@ git reflog --no-abbrev
 
 * Usar o blame a partir de um determinado commit
 ```bash
-git blame $COMMIT_HASH^ -- /path/to/file
+git blame <commit_hash>^ -- <path/to/file>
 ```
 
 
 * Pesquisar um código que já foi removido
 ```bash
-git log -c -S'removed_code' /path/to/file
+git log -c -S'removed_code' <path/to/file>
 ```
 
 
@@ -73,16 +73,16 @@ git add -p
 
 * Puxar uma branch juntando todos os comitts num só
 ```bash
-git pull --squash origin $BRANCH
+git pull --squash origin <branch>
 ```
 
 
 * Reescrever o nome e e-mail do autor no histórico de commits 
 ```bash
 git filter-branch --env-filter '
-	OLD_EMAIL="MY OLD E-MAIL"
-	CORRECT_NAME="MY CORRECT NAME"
-	CORRECT_EMAIL="MY CORRECT E-MAIL"
+	OLD_EMAIL="<the old e-mail>"
+	CORRECT_NAME="<the new name>"
+	CORRECT_EMAIL="<the new e-mail>"
 
 	if [ "$GIT_COMMITTER_EMAIL" = "$OLD_EMAIL" ]
 	then
