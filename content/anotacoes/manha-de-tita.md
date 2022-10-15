@@ -109,3 +109,30 @@ date: 2022-10-03T19:39:48-03:00
     1. Leitura (15 minutos)
 
 ### Definição do Foco do Dia
+- Efeito Zeigarnik
+	- Tarefas incompletas permanecem na nossa cabeça e nos deixam ansiosos.
+> **Zeigarnik effect** occurs when an activity that has been interrupted may be more readily recalled. It postulates that people remember unfinished or interrupted tasks better than completed tasks.
+>
+> https://en.wikipedia.org/wiki/Zeigarnik_effect
+
+- Diário
+	- Refletir sobre o dia
+	- Exercício maximamente humano que nos diferencia dos animais
+	- Focos (3/dia; atividades que demandam esforço), Acontecimentos (na manhã seguinte) e Tarefas (limpar a cabeça)
+	- Macro=focos; micro=tarefas
+	- Marcos que meçam o sucesso do dia
+	- Template do Notion
+
+- Attention residue
+	- troca de contexto diminui a qualidade de execução
+>the brain finds it difficult to switch between tasks. In particular, my research reveals that, as we switch between tasks (for example from a Task A to a Task B), part of our attention often stays with the prior task (Task A) instead of fully transferring to the next one (Task B).
+>
+>https://www.uwb.edu/business/faculty/sophie-leroy/attention-residue
+
+- Liberar espaço mental é fundamental
+	- Não se ocupar de tarefas ao ponto que seja só execução frenética
+	- Tempo para pensar e refletir o que deve ser feito e como posso fazer melhor
+	- Não existe valor algum em fazer rapidamente coisas que nem deveria ter feito. **Eficácia > Eficiência**
+	- Relação com [O Valor do Dinheiro - Rico compra Hora](/anotacoes/o-valor-do-dinheiro/#rico-compra-hora)
+- TODO
+	- Diário
