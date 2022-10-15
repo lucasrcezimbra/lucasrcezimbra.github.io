@@ -179,3 +179,11 @@ Rotina
 - Rotina flexível com respiros entre as atividades (ponto de observação); espaço para manejarmos a agenda;
 - [Comece o dia já executando os focos](#sprint-matinal), se o resto do dia der errado, pelo menos já fiz um dos focos.
 - **Ponto de observação**: pare e medite um pouco (de 10 a 15 min) sobre o trabalho realizado até agora
+
+
+## Energia
+### Introdução
+- Exercício de 3 minutos (sem descanso)
+	- fazer o seu corpo despertar e começar o dia com disposição
+	- pico de adrenalina e de cortisol
+	- exemplo: abdominais, flexões, agachamentos, corrida parado, polichinelo (30s de cada)
