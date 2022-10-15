@@ -3,6 +3,16 @@ title: "Manhã de Titã"
 date: 2022-10-03T19:39:48-03:00
 ---
 
+por [Lucas Maia Maciel](https://instagram.com/lucasmaiamaciel)
+
+Rotina
+1. Banho e dentes
+2. Água
+3. Sol
+4. Exercício
+5. [Leitura espiritual](#rotina-de-leitura-matinal)
+6. [Organização do dia](#definição-do-foco-do-dia)
+7. [Sprint Matinal](#sprint-matinal)
 
 ## Conheça o A.U.G.E
 - A - Ajuste Biológico: não adianta se preocupar com produtividade antes do ajuste biológico
@@ -136,3 +146,36 @@ date: 2022-10-03T19:39:48-03:00
 	- Relação com [O Valor do Dinheiro - Rico compra Hora](/anotacoes/o-valor-do-dinheiro/#rico-compra-hora)
 - TODO
 	- Diário
+
+### Sprint Matinal
+- Trabalhar/estudar de 60 a 90 min em algum dos [focos do dia](#definição-do-foco-do-dia)
+
+## Gestão de Tempo
+### Como organizar o dia
+- Dispersão/troca de contexto
+	- nos impede de organizar um dia
+	- Amadureça a relação com o celular
+- Para que a organização funcione precisa de
+	- flexibilidade: os dias não saem perfeitos
+	- mentalidade: falhar sem culpa
+	- estar pronto para os imprevistos
+	- saber que dificilmente você vai alcançar a rotina todos os dias
+- Time batching
+	- curtos periodos de trabalho e executar intensamente, uma tarefa atrás da outra
+	- agrupar tarefas semelhantes em um momento só. Exemplos: responder mensagens não-urgentes; trabalho criativo
+
+### Tempo Blindado
+- Trabalhar sem dispersão - se isola e faz só aquilo
+- Proteger o seu tempo quando for fazer alguma atividade
+- Péssimo hábito de fazer as coisas
+	1. disponível pra todos o tempo inteiro
+	2. querendo saber de tudo que está acontecendo
+- **"mas alguém pode precisar de mim" então essa é a sua hora de trabalho disperso, reserve outro tempo pra focar**
+- TODO
+	- reservar batches para focar em tarefas: celular longe, Slack silenciado por N minutos;
+
+### Como lidar com imprevistos
+- **Sempre terão imprevistos**
+- Rotina flexível com respiros entre as atividades (ponto de observação); espaço para manejarmos a agenda;
+- [Comece o dia já executando os focos](#sprint-matinal), se o resto do dia der errado, pelo menos já fiz um dos focos.
+- **Ponto de observação**: pare e medite um pouco (de 10 a 15 min) sobre o trabalho realizado até agora
