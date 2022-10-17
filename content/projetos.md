@@ -12,6 +12,14 @@ date: 2022-04-08T20:08:54-03:00
 >}}
 
 {{< project
+    name="Banco Inter"
+    description="Cliente para consumir a API do banco Inter para contas PJ"
+    github="lucasrcezimbra/bancointer"
+    pypi="bancointer"
+    readthedocs="bancointer"
+>}}
+
+{{< project
     name="PyItau"
     description="Scraper para acessar suas contas bancárias do Itaú."
     github="lucasrcezimbra/pyitau"
