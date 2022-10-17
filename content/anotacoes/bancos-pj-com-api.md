@@ -4,11 +4,17 @@ date: 2022-10-01T17:24:44-03:00
 ---
 
 
-Atualizado: 2022-10-01
+Atualizado: 2022-10-17
+
+
+## Inter
+- [bancointer](https://github.com/lucasrcezimbra/bancointer)
+- [Documentação](https://developers.bancointer.com.br/v2)
+- [bancointer-python](https://github.com/renatojdev/bancointer-python)
+- Funcionalidades: Emissão e gerenciamento de boletos, consulta de saldo e extrato, pagamento de boleto e DARF
 
 
 ## BS2
-
 - [BS2](https://empresas.bancobs2.com.br/)
 - [APIs](https://empresas.bancobs2.com.br/apis/)
 - [Documentação](https://devs.bs2.com/)
@@ -17,7 +23,6 @@ Atualizado: 2022-10-01
 
 
 ## BTG
-
 - [BTG](https://www.btgpactual.com/empresas/)
 - [Developers](https://www.btgpactual.com/empresas/developers/)
 - [API Conta PJ](https://developers.empresas.btgpactual.com/docs/contas-pessoa-juridica)
@@ -25,30 +30,17 @@ Atualizado: 2022-10-01
 - Funcionalidade: Consulta de Saldo e Extrato, Conciliação de Pagamentos, Emissão e gerenciamento de boletos
 
 
-
 ## Cora
-
 - [Help](https://coracontapj.zendesk.com/hc/pt-br/sections/4403240900371-API)
 - [Documentação Postman](https://documenter.getpostman.com/view/10233012/SWTBdcvA)
 - Funcionalidades: acessar dados bancários, visualizar o extrato, criar e visualizar boletos e iniciar transferências e pagamento de boletos e DARFs
 
 
-
-
-## Inter
-
-- [Documentação](https://developers.bancointer.com.br/v2)
-- [bancointer-python](https://github.com/renatojdev/bancointer-python)
-- Funcionalidades: Emissão e gerenciamento de boletos, consulta de saldo e extrato, pagamento de boleto e DARF
-
-
 ## Neon
-
 - [A Neon PJ foi descontinuada!](https://neon.com.br/encerramento-neon-pejota)
 
 
 ## PJBank
-
 - [PJBank](https://pjbank.com.br/)
 - [Documentação](https://docs.pjbank.com.br/)
 - [pjbank-python-sdk (abandonada)](https://github.com/pjbank/pjbank-python-sdk)
