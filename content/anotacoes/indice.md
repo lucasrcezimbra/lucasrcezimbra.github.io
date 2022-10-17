@@ -25,6 +25,7 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
   - [MongoDB](/anotacoes/banco-de-dados/mongodb/)
   - [Oracle](/anotacoes/banco-de-dados/oracle/)
   - [PostgreSQL](/anotacoes/banco-de-dados/postgresql/)
+- [Beancount](/anotacoes/beancount/)
 - [Documentação](/anotacoes/documentacao/)
 - [EdTech](/anotacoes/edtech/)
 - [E-mail - Entregabilidade](/anotacoes/entregabilidade-de-emails/)
