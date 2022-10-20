@@ -20,6 +20,7 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
 ## Tecnologia
 
 - [ADR (Architecture Decision Records)](/anotacoes/adr/)
+- [Auth0](/anotacoes/auth0/)
 - [AWS Lambda](/anotacoes/aws/lambda/)
 - Banco de Dados
   - [MongoDB](/anotacoes/banco-de-dados/mongodb/)
