@@ -11,6 +11,12 @@ aliases = [
 - [XFCE4](/anotacoes/linux/xfce4/)
 
 
+## Listar e ordenar diretórios por tamanho
+```bash
+du -sh * | sort -hr
+```
+
+
 ## Logar como outro usuário no terminal
 ```bash
 su $OTHER_USER
