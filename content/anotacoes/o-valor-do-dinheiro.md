@@ -7,7 +7,8 @@ date: 2022-10-08T07:58:11-03:00
 ## Curso
 ### Como os ricos pensam
 - "Rico é aquele que, se parar de trabalhar, não altera em nada o seu padrão de vida."
-- "Estou sempre a uma crise da ruína"
+- Aquele que precisa trabalhar para manter o padrão de vida, está a uma demissão/crise da ruína.
+- Ganho de dinheiro = atendimento de demanda e escala
 
 
 ## Vídeos
