@@ -94,7 +94,6 @@ df.isnull().sum() / df.shape[0] # % de valores ausentes
 df.dropna(subset=['user_gender'], axios=0)  # apaga as linhas com valor NaNs da coluna user_gender
 ```
 
-
 ## Profiling
 - [pyperf](https://github.com/psf/pyperf)
 
@@ -108,3 +107,8 @@ df.dropna(subset=['user_gender'], axios=0)  # apaga as linhas com valor NaNs da 
 | [pympler](https://github.com/pympler/pympler) | memory | method-level | deterministic |
 
 Fonte: https://www.youtube.com/watch?v=DUCMjsrYSrQ
+
+
+## String Parsing
+- [parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
+- [ttp](https://github.com/dmulyalin/ttp) - Template Text Parser
