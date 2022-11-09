@@ -9,6 +9,38 @@ date: 2022-10-08T07:58:11-03:00
 - "Rico é aquele que, se parar de trabalhar, não altera em nada o seu padrão de vida."
 - Aquele que precisa trabalhar para manter o padrão de vida, está a uma demissão/crise da ruína.
 - Ganho de dinheiro = atendimento de demanda e escala
+- O rico compra horas ao invés de vender.
+
+#### Mentalidade
+1. Eliminar ruídos - low-information diet (Tim Ferris)
+    - O mercado premia especialização
+1. Primeiro você gera valor, depois você pede valor
+1. You are right
+    - você não vai mudar a cabeça das pessoas
+    > Three of the most powerful words in the English language are "You Are Right!"
+    >
+    > Grant Cardone
+1. Ativos vs Passivos
+    - Boa parte dos ativos geram passivos. Exemplo: imóvel
+    - Bolsa e renda fixa são ativo líquidos que não geram passivos
+
+### Minha Filosofia de Investimentos: Adquirindo todo o Embasamento Teórico
+#### Porque investir no longo prazo
+- No longo prazo todos nós enriqueceremos
+
+> Se o retorno de longo prazo dos títulos fosse mais alto que o retorno no longo prazo esperado das ações, os ativos seriam precificados de forma que o risco não obtivesse nenhuma recompensa. Essa condição é insustentável. As ações provavelmente continuarão a ser “o melhor investimento para todos que estão em busca de ganhos constantes no longo prazo”, porque do contrário, nosso sistema se extinguirá.
+>
+> Peter Bernstein
+
+> Mesmo eventos calamitos como a grande quebra do mercado de ações de 1929 ou a crise financeira de 2008 não negam a superioridade das ações como investimento de longo prazo.
+
+##### 6 Regras de Jeremy Siegel
+1. Historicamente, nos últimos 200 anos, ações ofereceram retornos entr 6/7% a.a. e foram negociadas em um P/E médio de 15.
+1. Os retornos das ações são bem mais estávies a longo prazo que curto prazo.
+1. Aloque a maior parte do seu capital em ETFs de baixo custo
+1. Aloque pelo menos 3 ações ações da sua carteira no merca internacional
+1. Historicamente ações de valor possuem um resultado melhor que de crescimento
+1. Estabeleça regras firmes e siga sem ceder as emoções do momento
 
 
 ## Vídeos
