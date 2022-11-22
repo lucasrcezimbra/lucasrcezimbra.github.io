@@ -187,3 +187,49 @@ Rotina
 	- fazer o seu corpo despertar e começar o dia com disposição
 	- pico de adrenalina e de cortisol
 	- exemplo: abdominais, flexões, agachamentos, corrida parado, polichinelo (30s de cada)
+
+### O que não comer no café
+- Pela manhã os níveis de glicemia devem estar estáveis. O corpo busca equilibrar os níveis de Glicemia e faz isso através de hormônios.
+- certos alimentos estimulam certos hormônios
+
+### Suplementação para Performance Cognitiva
+- Cafeína - 200mg
+    - cuidados: pode gerar insônia, taquicardia, ansiedade
+    - dose máxima 450mg/dia
+- Taurina - 1000mg
+    - usado pelo corpo na construção de proteínas
+    - benefícios nas musculatura
+    - \>750mg tem um efeito mais estimulante do cerébro
+- L-Teanina - 100mg
+    - extraída do chá preto
+    - função de relaxamento, melhora de humor
+    - efeito similar a da cafeína, mas sem efeito estimulante
+- Vitamina C 1G
+- Rhodiola Rosea 200mg
+    - melhora a nossa tolerância as stress, se adapta melhor
+    - contraindicação: alergias, pacientes renais
+- Coenzima Q10 250mg
+    - presente nas mitocôndrias
+    - melhora na energia e disposição
+
+### Exercício de Ativação Corporal
+- Treino 1 (2 séries - sem descanso):
+    1. Flexão - 30s (15 a 20 reps)
+    1. Abdominal escalador - 30s
+    1. Agachamento - 30s (20 a 30 reps)
+- Treino 2 (2 séries - sem descanso):
+    1. Afundo - 30s (10 reps)
+    1. Puxada com toalha - 30s (15 a 20 reps)
+    1. Abdominal remador - 30s
+- Treino 3 (2 séries - sem descanso):
+    1. Flexão nórdica - 30s (12 a 15 reps)
+    1. Burpee - 30s
+    1. Abdominal canoa isométrico - 30s
+- Treino 4 (2 séries - sem descanso):
+    1. Flexão de braço fechada - 30s (15 a 20 reps)
+    1. Prancha - 30s
+    1. Agachamento bulgaro - 30s (10 reps)
+- Treino 5 (2 séries - sem descanso):
+    1. Puxada com toalha - 30s (15 a 20 reps)
+    1. Prancha lateral - 15s/lado
+    1. Agachamento livre - 30s (20 a 30 reps)
