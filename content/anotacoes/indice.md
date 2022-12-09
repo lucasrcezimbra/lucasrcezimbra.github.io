@@ -26,9 +26,7 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
     - [Beancount](/anotacoes/beancount/)
   - Data Science
     - [Data Science na Prática 3.0 (curso)](/anotacoes/data-science-na-pratica/)
-  - Documentação
-    - [ADR (Architecture Decision Records)](/anotacoes/adr/)
-    - [Documentação](/anotacoes/documentacao/)
+  - [Documentação](/anotacoes/documentacao/)
   - Ferramentas
     - [Git](/anotacoes/git/)
     - [Jupyter](/anotacoes/jupyter/)
