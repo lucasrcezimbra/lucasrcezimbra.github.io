@@ -17,6 +17,9 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
 - Investimentos
   - [O Valor do Dinheiro (curso)](/anotacoes/o-valor-do-dinheiro/)
 - Tecnologia
+  - AI/Data Science/Machine Learning
+    - [Data Science na Prática 3.0 (curso)](/anotacoes/data-science-na-pratica/)
+    - [Ferramentas de Machine Learning](/anotacoes/ferramentas-de-machine-learning/)
   - Banco de Dados
     - [MongoDB](/anotacoes/banco-de-dados/mongodb/)
     - [Oracle](/anotacoes/banco-de-dados/oracle/)
@@ -24,8 +27,6 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
   - Contabilidade
     - [Bancos PJ com API](/anotacoes/bancos-pj-com-api/)
     - [Beancount](/anotacoes/beancount/)
-  - Data Science
-    - [Data Science na Prática 3.0 (curso)](/anotacoes/data-science-na-pratica/)
   - [Documentação](/anotacoes/documentacao/)
   - Ferramentas
     - [Git](/anotacoes/git/)
