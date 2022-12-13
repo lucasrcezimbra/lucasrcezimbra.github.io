@@ -47,6 +47,14 @@ f"{val:^10}"
 Fonte: https://fstring.help/
 
 
+## JSON
+- [cysimdjson](https://github.com/TeskaLabs/cysimdjson) - SIMDJSON is C++ JSON parser, reportedly the fastest JSON parser on the planet.
+- [ijson](https://github.com/ICRAR/ijson) - iterative JSON
+- [orjson](https://github.com/ijl/orjson) - fast, supports NumPy
+- [rapidjson](https://github.com/python-rapidjson/python-rapidjson) - RapidJSON is an extremely fast C++ JSON parser and serialization library
+- [ujson](https://github.com/ultrajson/ultrajson) - written in C with Python bindings
+
+
 ## Keycloak
 - [https://www.baeldung.com/postman-keycloak-endpoints](https://www.baeldung.com/postman-keycloak-endpoints)
 - [https://github.com/marcospereirampj/python-keycloak/](https://github.com/marcospereirampj/python-keycloak/)
