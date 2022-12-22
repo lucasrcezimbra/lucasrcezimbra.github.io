@@ -4,6 +4,9 @@ date: 2022-04-10T18:45:24-03:00
 ---
 
 
+- [Why is the empty dictionary a dangerous default value in Python?](https://stackoverflow.com/a/26320938)
+
+
 ## Anti-Patterns
 - [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
 
