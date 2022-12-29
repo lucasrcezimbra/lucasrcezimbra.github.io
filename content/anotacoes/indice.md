@@ -40,6 +40,7 @@ Nessa seção eu coloco notas, links, snippets, etc. sobre diferentes assuntos.
     - [E-mail - Entregabilidade](/anotacoes/entregabilidade-de-emails/)
     - [Passaporte Dev Sênior (curso)](/anotacoes/passaporte-dev-senior/)
     - [Segurança](/anotacoes/seguranca/)
+    - [Smart Home](/anotacoes/smart-home)
     - [Steganography](/anotacoes/steganography/)
   - Serviços
     - [Auth0](/anotacoes/auth0/)
