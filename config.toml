@@ -1,6 +1,6 @@
 baseurl = "https://cezimbra.me/"
 title = "Lucas Cezimbra"
-theme = "coder"
+theme = "hugo-coder"
 languagecode = "pt-br"
 defaultcontentlanguage = "pt"
 
