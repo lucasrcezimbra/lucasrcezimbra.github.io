@@ -264,6 +264,13 @@ date: 2022-04-08T20:08:54-03:00
 
 {{< contribution
     status="merged"
+    url="https://github.com/open-telemetry/opentelemetry-python-contrib/pull/1693"
+    project="opentelemetry-python-contrib"
+    title="Fix AWS Lambda documentation"
+    date="2023-02-27"
+>}}
+{{< contribution
+    status="merged"
     url="https://github.com/pythonbrasil/pybr2023-site/pull/2"
     project="Página oficial da Python Brasil 2020"
     title="Changes background image to a minified"
