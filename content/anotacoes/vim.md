@@ -9,13 +9,4 @@ aliases = [
 +++
 
 
-Pesquisa e adiciona nova linha com indentação
-```vim
-:g/search/norm otexto da nova linha
-```
-
-
-Como apagar linhas pesquisadas
-```vim
-:g/pattern/d
-```
+Movido para https://publish.obsidian.md/cezimbra/Public/Vim
