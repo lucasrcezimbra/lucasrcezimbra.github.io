@@ -7,14 +7,4 @@ aliases = [
 ]
 +++
 
-
-Desaparecimento da aba superior com os botões de fechar, maximixar e minimizar
-```bash
-xfwm4
-```
-
-
-Desaparecimento dos ícones do Desktop
-```bash
-xfdesktop
-```
+Movido para https://publish.obsidian.md/cezimbra/Public/Linux#XFCE4
