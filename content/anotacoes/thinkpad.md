@@ -7,8 +7,4 @@ aliases = [
 +++
 
 
-Corrigir teclado para funcionar a barra "/"
-```bash
-sudo dpkg-reconfigure keyboard-configuration
-```
-Fonte: https://askubuntu.com/questions/184465/slash-in-thinkpad-t420-abnt-keyboard
+Movido para https://publish.obsidian.md/cezimbra/Public/Linux#ThinkPad
