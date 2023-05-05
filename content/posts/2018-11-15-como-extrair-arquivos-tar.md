@@ -1,6 +1,7 @@
 +++
 title = "Como extrair arquivos tar"
 date = 2018-11-15T20:02:24+00:00
+aliases = ["/tar/"]
 url = "/como-extrair-arquivos-tar/"
 categories = ["Linux"]
 tags = ["linux"]
