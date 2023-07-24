@@ -4,23 +4,7 @@ date: 2022-04-10T18:45:24-03:00
 ---
 
 
-- [Why is the empty dictionary a dangerous default value in Python?](https://stackoverflow.com/a/26320938)
-
-
-## Anti-Patterns
-- [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
-
-
-## Background tasks
-- [Dramatiq](https://dramatiq.io/)
-- [Celery](https://github.com/celery/celery)
-- [python-rq](https://python-rq.org/)
-- [huey](https://github.com/coleifer/huey)
-
-
-## Dataclasses
-- attrs vs pydantic: [Why I use attrs instead of pydantic](https://threeofwands.com/why-i-use-attrs-instead-of-pydantic/)
-
+Parcialmente movido para https://publish.obsidian.md/cezimbra/Public/Python
 
 ## f-string
 
@@ -48,21 +32,6 @@ f"{val:^10}"
 ```
 
 Fonte: https://fstring.help/
-
-
-## JSON
-- [cysimdjson](https://github.com/TeskaLabs/cysimdjson) - SIMDJSON is C++ JSON parser, reportedly the fastest JSON parser on the planet.
-- [ijson](https://github.com/ICRAR/ijson) - iterative JSON
-- [orjson](https://github.com/ijl/orjson) - fast, supports NumPy
-- [rapidjson](https://github.com/python-rapidjson/python-rapidjson) - RapidJSON is an extremely fast C++ JSON parser and serialization library
-- [ujson](https://github.com/ultrajson/ultrajson) - written in C with Python bindings
-
-
-## Keycloak
-- [https://www.baeldung.com/postman-keycloak-endpoints](https://www.baeldung.com/postman-keycloak-endpoints)
-- [https://github.com/marcospereirampj/python-keycloak/](https://github.com/marcospereirampj/python-keycloak/)
-    - desnecessariamente complexo - PyJava
-    - tem uns evals estranhos: [https://github.com/marcospereirampj/python-keycloak/blob/8fd315d11a42a8b4afebfe84498e882bc0b736c8/keycloak/authorization/__init__.py#L78-L91](https://github.com/marcospereirampj/python-keycloak/blob/8fd315d11a42a8b4afebfe84498e882bc0b736c8/keycloak/authorization/__init__.py#L78-L91)
 
 
 ## pandas
