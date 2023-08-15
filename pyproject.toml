@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "lucasrcezimbra-github-io"
+version = "0.0.1"
+description = ""
+authors = ["Lucas Rangel Cezimbra <lucas@cezimbra.tec.br>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+obsidian-to-hugo = "^12023.3.21"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

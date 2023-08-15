@@ -2,7 +2,6 @@
 title: "Anotações"
 date: 2023-08-15T07:30:00-03:00
 ---
-
 - [Alternatives to]({{< ref "Alternatives to" >}})
 - [Architecture]({{< ref "Architecture" >}})
 - [Auth0]({{< ref "Auth0" >}})
@@ -16,7 +15,7 @@ date: 2023-08-15T07:30:00-03:00
 - [ChatGPT - Decimal approximation in Python]({{< ref "ChatGPT - Decimal approximation in Python" >}})
 - [Clojure]({{< ref "Clojure" >}})
 - [Cloud]({{< ref "Cloud" >}})
-- [Data Science na Prática 3.0]({{< ref "Data Science na Prática 3" >}})
+- [Data Science na Prática 3]({{< ref "Data Science na Prática 3" >}})
 - [Digital Garden]({{< ref "Digital Garden" >}})
 - [Distributed IDs]({{< ref "Distributed IDs" >}})
 - [Docker]({{< ref "Docker" >}})
@@ -25,11 +24,10 @@ date: 2023-08-15T07:30:00-03:00
 - [Empreendedorismo]({{< ref "Empreendedorismo" >}})
 - [Entregabilidade de E-mails]({{< ref "Entregabilidade de E-mails" >}})
 - [Filesystems]({{< ref "Filesystems" >}})
-- [GitHub]({{< ref "GitHub" >}})
 - [Git]({{< ref "Git" >}})
+- [GitHub]({{< ref "GitHub" >}})
 - [GraphQL]({{< ref "GraphQL" >}})
 - [Hasura]({{< ref "Hasura" >}})
-- [indice]({{< ref "indice" >}})
 - [IoT]({{< ref "IoT" >}})
 - [Javascript]({{< ref "Javascript" >}})
 - [Joplin]({{< ref "Joplin" >}})
