@@ -4,7 +4,7 @@ date: 2023-08-15T07:30:00-03:00
 ---
 - Namespaces
 	- Create: use `/` on the page name. Example: `Root Page/Child Page`
-	- Query: `{{namespace [Root Page]({{< ref "Root Page" >}})}}`
+	- Query: `{{namespace [[Root Page] ]}}`
 - Create aliases: add property `alias:: First alias, Second Alias`
 - Default templates: `:default-templates {:journals "Template Name"}`
 - How to Login on Logseq? #troubleshooting 

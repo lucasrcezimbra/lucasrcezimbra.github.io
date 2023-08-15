@@ -8,8 +8,8 @@ date: 2023-08-15T07:30:00-03:00
 	- Non-functional requirements: How should the system behave? (Functionality, Usability, Reliability, Efficiency, Maintainability, Scalability, Portability)
 	- Restrictions (Legal Compliance, Cost, Standards, Talent Hiring, Time to Market)
 	- Book - Software Architecture Patterns (O'Reilly)
-- [The Architect’s Blueprint - Understanding Software Styles and Patterns with Cheatsheet]({{< ref "The Architect’s Blueprint - Understanding Software Styles and Patterns with Cheatsheet" >}}) - https://medium.com/bytebytego-system-design-alliance/the-architects-blueprint-understanding-software-styles-and-patterns-with-cheatsheet-5c1f5fd55bbd
-	- ![Software Architecture Styles.png]({{< ref "Software Architecture Styles.png" >}})
+- [The Architect’s Blueprint - Understanding Software Styles and Patterns with Cheatsheet](https://medium.com/bytebytego-system-design-alliance/the-architects-blueprint-understanding-software-styles-and-patterns-with-cheatsheet-5c1f5fd55bbd)
+	- ![](Assets/Software_Architecture_Styles.png)
 
 
 ## API
@@ -33,11 +33,11 @@ date: 2023-08-15T07:30:00-03:00
 
 ### The Clean Architecture
 - A **layered** approach for a more civilized age
-  ![Pasted image 20230720162108.png]({{< ref "Pasted image 20230720162108.png" >}})
+  ![](Assets/Pasted_image_20230720162108.png)
 - "Your component can see only what is being defined in the inner layer"
 - "The problem of unclean systems is dependent components"
 - The golden rule: Talk inward with **simple structures**, talk outwards through **interfaces**.
-  ![Pasted image 20230720162524.png]({{< ref "Pasted image 20230720162524.png" >}})
+  ![](Assets/Pasted_image_20230720162524.png)
 - Pros
 	- Testability - be able to test only the business logic
 

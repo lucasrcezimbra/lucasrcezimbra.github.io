@@ -2,7 +2,7 @@
 title: "Catolicismo"
 date: 2023-08-15T07:30:00-03:00
 ---
- - [O uso do tabaco não é pecado]({{< ref "O uso do tabaco não é pecado" >}}) - https://www.veritatis.com.br/o-uso-do-tabaco-nao-e-pecado/
+ - [O uso do tabaco não é pecado](https://www.veritatis.com.br/o-uso-do-tabaco-nao-e-pecado/)
 - Pax Romana
 - [ ] CRISTIANISMO: A VITÓRIA DA INTELIGÊNCIA SOBRE O MUNDO DAS RELIGIÕES https://interceda.webnode.com.br/news/cristianismo:%20a%20vitoria%20da%20intelig%C3%AAncia%20sobre%20o%20mundo%20das%20religi%C3%B5es%20/
 - [ ] https://opusdei.org/pt-br/article/vai-e-faze-a-mesma-coisa-1-foi-a-mim-que-o-fizestes - “Vai e faze a mesma coisa” (1): foi a mim que o fizestes - Doutrina Social da Igreja
@@ -36,8 +36,7 @@ date: 2023-08-15T07:30:00-03:00
   
 
 ## Confissão
-- [Exame de consciência para a confissão (adultos)]({{< ref "Exame de consciência para a confissão (adultos)" >}}) - https://opusdei.org/pt-br/article/exame-de-consciencia-para-a-confissao-adultos/
-- [Exame de Consciência]({{< ref "Exame de Consciência.pdf" >}})
+- [Exame de consciência para a confissão (adultos)](https://opusdei.org/pt-br/article/exame-de-consciencia-para-a-confissao-adultos/)
 
 
 ## Esmola

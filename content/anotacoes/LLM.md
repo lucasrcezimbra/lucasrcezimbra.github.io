@@ -7,7 +7,7 @@ date: 2023-08-15T07:30:00-03:00
 - OWASP Top 10 - [Doc](https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-v1_0.pdf) - [Slides](https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-slides-v1_0.pdf)
 - ETL for LLMs - https://unstructured.io/
 - LoRA = low rank adaptation - vastly cheaper mechanism for fine tuning
-- [Emerging Architectures for LLM Applications]({{< ref "Emerging Architectures for LLM Applications" >}}) - https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/
+- [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 - https://github.com/imartinez/privateGPT
 - https://github.com/Stability-AI/StableLM - Stability AI #OpenSource
 - https://github.com/Torantulino/Auto-GPT

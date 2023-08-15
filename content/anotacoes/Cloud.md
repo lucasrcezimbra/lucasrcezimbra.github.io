@@ -2,7 +2,7 @@
 title: "Cloud"
 date: 2023-08-15T07:30:00-03:00
 ---
-## [Cloud]({{< ref "Cloud" >}}) vs [On Premises]({{< ref "On Premises" >}})
+## [Cloud]({{< ref "Cloud" >}}) vs On Premises
 > No último mês a Lambda3 saiu de uma infra on premises pra outra 100% nuvem. Desligamos uma estrutura com 2 servidores físicos de dez anos de idade (redundância) que tinham quase 200GB de RAM cada, diversos switches, firewall e cancelamos um link dedicado de 2 mil reais. Tínhamos umas dez VMs rodando.
 > É uma infra pequena, mas adequada pras nossas necessidades. Temos um ADDS com 2 DCs, servidores de build, log, aplicação, firewall e outras coisinhas. Boa parte dos serviços já rodavam na nuvem, suíte de escritório no Microsoft 365, app no Azure app service, DevOps no Azure DevOps entre outros.
 > Consolidamos alguns servidores. Os DCs rodam em VMs série B, custam 80 reais por mês cada. Sua demanda é mínima, pq usamos Azure AD pra praticamente tudo (e estamos vendo de sair do AD e ficar só no AAD, diminuindo ainda mais os custos).

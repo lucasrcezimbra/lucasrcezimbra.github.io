@@ -95,7 +95,7 @@ date: 2023-08-15T07:30:00-03:00
 
 ## Trunk based
 - https://trunkbaseddevelopment.com/#one-line-summary
-- [Transitioning to Trunk Based Development]({{< ref "Transitioning to Trunk Based Development" >}}) - https://devcycle.com/blog/transitioning-to-trunk-based-development
+- [Transitioning to Trunk Based Development](https://devcycle.com/blog/transitioning-to-trunk-based-development)
 
 ## Versioning
 - Conventional Commits - https://www.conventionalcommits.org

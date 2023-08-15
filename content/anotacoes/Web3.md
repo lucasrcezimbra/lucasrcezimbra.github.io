@@ -14,7 +14,7 @@ date: 2023-08-15T07:30:00-03:00
 - https://ipfs.tech/ - IPFS powers the Distributed Web
 	- https://docs.ipfs.tech/concepts/comparisons/#how-is-ipfs-different-from-other-solutions - How is IPFS different from other solutions?
 	- https://docs.ipfs.tech/concepts/how-ipfs-works/#how-ipfs-works - How IPFS works
-- https://fiatjaf.com/d5031e5b.html - [How IPFS is broken]({{< ref "How IPFS is broken" >}})
+- [How IPFS is broken](https://fiatjaf.com/d5031e5b.html)
 - https://docs.ipfs.tech/concepts/dht/ - A distributed hash table (DHT) is a distributed system for mapping keys to values. In IPFS, the DHT is used as the fundamental component of the content routing system and acts like a cross between a catalog and a navigation system. It maps what the user is looking for to the peer that is storing the matching content.
 
 ## nostr
