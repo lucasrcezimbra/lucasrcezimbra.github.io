@@ -90,6 +90,13 @@ date: 2022-04-08T20:08:54-03:00
 ### Código
 
 {{< contribution
+    status="open"
+    url="https://github.com/hbakri/django-ninja-crud/pull/93"
+    project="Django Ninja CRUD"
+    title="feat: introduce router_kwargs to customize django-ninja's Router attributes"
+    date="2023-07-28"
+>}}
+{{< contribution
     status="merged"
     url="https://github.com/geovanisouza92/irpf-docker/pull/4"
     project="irpf-docker"
