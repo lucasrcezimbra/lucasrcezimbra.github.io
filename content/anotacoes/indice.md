@@ -2,7 +2,9 @@
 title: "Anotações"
 date: 2023-08-15T07:30:00-03:00
 ---
+- [Agile]({{< ref "Agile" >}})
 - [Alternatives to]({{< ref "Alternatives to" >}})
+- [Aplicativos de Notas]({{< ref "Aplicativos de Notas" >}})
 - [Architecture]({{< ref "Architecture" >}})
 - [Auth0]({{< ref "Auth0" >}})
 - [Auth]({{< ref "Auth" >}})

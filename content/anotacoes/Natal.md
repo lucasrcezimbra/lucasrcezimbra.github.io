@@ -2,6 +2,15 @@
 title: "Natal"
 date: 2023-08-15T07:30:00-03:00
 ---
+
+## Cludes de Tiro
+- Clube Caveira Natal - [@clubedetirocaveira](https://www.instagram.com/clubedetirocaveira/)
+- Clube de Tiro Roland - [@clubedetiroroland](https://www.instagram.com/clubedetiroroland/) - [Site](https://clubedetiroroland.com.br/)
+- CTN - [@ctnnatal](https://www.instagram.com/ctnnatal/) - [Site](https://ctnnatal.com.br/)
+- Dudu Standard - [@dsps.clubedetiro](https://www.instagram.com/dsps.clubedetiro/)
+- Feroli - [@feroli_oficial](https://www.instagram.com/feroli_oficial/) - não parece ser um clube
+- NH Shooting Club - [@nhshootingclub](https://www.instagram.com/nhshootingclub/)
+
 ## Restaurantes
 - Camarões
 - Curió
