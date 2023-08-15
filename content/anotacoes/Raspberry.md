@@ -9,7 +9,8 @@ date: 2023-08-15T07:30:00-03:00
 	# System Options > Wireless LAN
 	```
 
-## Installing Docker
+## Docker
+### Install
 1. Download .deb packages
 	```bash
 	wget https://download.docker.com/linux/raspbian/dists/bullseye/pool/stable/armhf/containerd.io_1.6.21-1_armhf.deb

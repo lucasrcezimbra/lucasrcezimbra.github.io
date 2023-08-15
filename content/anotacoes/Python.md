@@ -38,7 +38,7 @@ date: 2023-08-15T07:30:00-03:00
 	cat requirements.txt | cut -d '=' -f 1 | xargs poetry add
 	cat requirements-dev.txt | cut -d '=' -f 1 | xargs poetry add --group=dev
 	poetry install
-		poetry run <command>
+	poetry run <command>
 	```
 
 ## Anti-Patterns
