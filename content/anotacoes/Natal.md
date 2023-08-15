@@ -1,0 +1,13 @@
+---
+title: "Natal"
+date: 2023-08-15T07:30:00-03:00
+---
+## Restaurantes
+- Camarões
+- Curió
+	- Feijoada sábado e domingo
+- Mormaço
+	- Macarrão limão siciliano com filé mignon
+
+## Docerias
+- Bocaditos

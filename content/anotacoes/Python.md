@@ -1,0 +1,312 @@
+---
+title: "Python"
+date: 2023-08-15T07:30:00-03:00
+---
+- How to get the args names from a function?
+	```python
+	import inspect
+	inspect.getfullargspec(<func>).args
+	```
+	
+	```python
+	In [1]: import inspect
+
+	In [2]: def f(x,y):
+	    ...:     pass
+	    ...: 
+	
+	In [3]: inspect.getfullargspec(f).args
+	Out[3]: ['x', 'y']
+	```
+- Why to avoid initing Decimal from float?
+	```python
+	In [1]: from decimal import Decimal
+	
+	In [2]: Decimal(0.1)
+	Out[2]: Decimal('0.1000000000000000055511151231257827021181583404541015625')
+	
+	In [3]: Decimal('0.1')
+	Out[3]: Decimal('0.1')
+	```
+- https://github.com/haralyzer/haralyzer/ - Lib to read HAR files #tools
+- `[extras.pipfile_deprecated_finder.2] 'pip-shims<=0.3.4' does not match '^[a-zA-Z-_.0-9]+$` #troubleshooting 
+	  - `pre-commit autoupdate`
+- [Why is the empty dictionary a dangerous default value in Python?](https://stackoverflow.com/a/26320938)
+- How to move from pip to Poetry
+	```bash
+	poetry init
+	cat requirements.txt | cut -d '=' -f 1 | xargs poetry add
+	cat requirements-dev.txt | cut -d '=' -f 1 | xargs poetry add --group=dev
+	poetry install
+		poetry run <command>
+	```
+
+## Anti-Patterns
+- [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
+
+
+## Background tasks
+- [Dramatiq](https://dramatiq.io/)
+	- Django - https://github.com/Bogdanp/django_dramatiq
+- [Celery](https://github.com/celery/celery)
+- [python-rq](https://python-rq.org/)
+- [huey](https://github.com/coleifer/huey)
+
+ 
+## Cache
+- https://github.com/grantjenks/python-diskcache
+- https://github.com/uqfoundation/klepto - persistent caching to memory, disk, or database
+
+
+## Data
+### pandas
+- https://www.pola.rs/ - Lightning-fast DataFrame library for Rust and Python
+- axios: 0=linha e 1=coluna
+- pandas-profilling - [PyPI](https://pypi.org/project/pandas-profiling/), [docs](https://pandas-profiling.ydata.ai/docs/master/index.html)
+- Geral
+	```python
+	df.shape  # (linhas, colunas)
+	df.info()
+	df.High.mean()  # média da coluna High
+	df.Date = pd.to_datetime(df.Date)  # convert column to datetime
+	```
+- Informações Estatísticas
+	```python
+	df.describe()  # informações estatísticas
+	df.ride_duration.std()  # desvio padrão da coluna ride_duration
+	```
+- Visualização
+	```python
+	df.High.plot()  # gráfico da coluna High
+	df.Volume.hist()  # histograma da coluna Volume
+	df.plot.scatter('c1', 'c2')  # gráfico de dispersão
+	df.Low.plot(kind='box')  # gráfico boxplot
+```
+- Valores ausentes
+	```python
+	df.isnull().sum()  # conta o número de linhas com NaN
+	df.isnull().sum() / df.shape[0] # % de valores ausentes
+	df.dropna(subset=['user_gender'], axios=0)  # apaga as linhas com valor NaNs da coluna user_gender
+	```
+
+
+## Dataclasses
+- attrs vs pydantic: [Why I use attrs instead of pydantic](https://threeofwands.com/why-i-use-attrs-instead-of-pydantic/)
+
+
+## General
+### parse
+- https://github.com/r1chardj0n3s/parse
+- https://github.com/jenisys/parse_type - parse_type extends parse with the following features: build type converters; compose type converters; CardinalityField naming schema
+
+
+## JSON
+- [cysimdjson](https://github.com/TeskaLabs/cysimdjson) - SIMDJSON is C++ JSON parser, reportedly the fastest JSON parser on the planet.
+- [ijson](https://github.com/ICRAR/ijson) - iterative JSON
+- [orjson](https://github.com/ijl/orjson) - fast, supports NumPy
+- [rapidjson](https://github.com/python-rapidjson/python-rapidjson) - RapidJSON is an extremely fast C++ JSON parser and serialization library
+- [ujson](https://github.com/ultrajson/ultrajson) - written in C with Python bindings
+
+
+## Pipelines
+- https://github.com/pditommaso/awesome-pipeline
+
+### AI/Data
+- dagster: https://github.com/dagster-io/dagster ![GitHub Repo stars](https://img.shields.io/github/stars/dagster-io/dagster)
+	- cloud-native data pipeline orchestrator ... integrated lineage and observability ..., and best-in-class testability.
+	- designed for developing and maintaining data assets, such as tables, data sets, machine learning models, and reports.
+	- cloud: https://dagster.io/
+- Metaflow: https://github.com/Netflix/metaflow ![GitHub Repo stars](https://img.shields.io/github/stars/Netflix/metaflow)
+	- https://metaflow.org/
+- Prefect: https://github.com/PrefectHQ/prefect ![GitHub Repo stars](https://img.shields.io/github/stars/PrefectHQ/prefect)
+	- orchestrator for data-intensive workflows.
+	- build and observe resilient data workflows so that you can understand, react to, and recover from unexpected changes.
+- Pydra: https://github.com/nipype/pydra ![GitHub Repo stars](https://img.shields.io/github/stars/nipype/pydra)
+	- A simple dataflow engine with scalable semantics.
+- Ray: https://github.com/ray-project/ray ![GitHub Repo stars](https://img.shields.io/github/stars/ray-project/ray)
+	- unified framework for scaling AI 
+	- consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for simplifying ML compute
+
+### General
+- Airflow: https://github.com/apache/airflow ![GitHub Repo stars](https://img.shields.io/github/stars/apache/airflow)
+- ⭐️ Joblib: https://github.com/joblib/joblib ![GitHub Repo stars](https://img.shields.io/github/stars/joblib/joblib)
+	- set of tools to provide lightweight pipelining.
+	- Main features: disk-caching; parallel helper; fast compressed persistence.
+	- How cache works? use [hash](https://github.com/joblib/joblib/blob/8a1faea0dd4aa6915044dd7a038da1f0de57c385/joblib/hashing.py#L244) to compare args
+- Luigi: https://github.com/spotify/luigi ![GitHub Repo stars](https://img.shields.io/github/stars/spotify/luigi)
+	- helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
+- Mara: https://github.com/mara/mara-pipelines ![GitHub Repo stars](https://img.shields.io/github/stars/mara/mara-pipelines)
+	- Principles: Data integration pipelines as code; PostgreSQL as a data processing engine; Extensive web ui; No in-app data processing; multiprocessing - single machine pipeline execution; nodes with higher cost are run first
+- Mistral: https://github.com/openstack/mistral ![GitHub Repo stars](https://img.shields.io/github/stars/openstack/mistral)
+	- integrated with OpenStack
+	- define tasks and workflows in a simple YAML and a distributed environment
+- pygrametl: https://github.com/chrthomsen/pygrametl ![GitHub Repo stars](https://img.shields.io/github/stars/chrthomsen/pygrametl)
+	- provides commonly used functionality for the development of ETL processes.
+- Pypeln: https://github.com/cgarciae/pypeln/ ![GitHub Repo stars](https://img.shields.io/github/stars/cgarciae/pypeln)
+	- for creating concurrent data pipelines
+	- Main Features: Simple; Easy-to-use; Flexible; Fine-grained Control.
+	- Queues: Process; Thread; Task.
+- ⭐️ pypyr: https://github.com/pypyr/pypyr/ ![GitHub Repo stars](https://img.shields.io/github/stars/pypyr/pypyr)
+	- task runner for automation pipelines
+	- script sequential task workflow steps in yaml
+	- conditional execution, loops, error handling & retries
+- SCOOP: https://github.com/soravux/scoop/ ![GitHub Repo stars](https://img.shields.io/github/stars/soravux/scoop)
+	- distributed task module allowing concurrent parallel programming on various environments, from heterogeneous grids to supercomputers.
+	- designed from the following ideas: the future is parallel; simple is beautiful; parallelism should be simpler.
+	- brokers: TCP and ZeroMQ
+- SpiffWorkflow: https://github.com/sartography/SpiffWorkflow ![GitHub Repo stars](https://img.shields.io/github/stars/sartography/SpiffWorkflow)
+	- workflow engine implemented in pure Python.
+	- support the development of low-code business applications in Python. Using BPMN will allow non-developers to describe complex workflow processes in a visual diagram
+	- Built with: lxml; celery.
+
+
+## Profiling
+- [pyperf](https://github.com/psf/pyperf)
+
+| Profiler | What | Granularity | How |
+| --- | --- | --- | --- |
+| [timeit](https://docs.python.org/3/library/timeit.html) | run time | snippet-level |  |
+| [cProfile](https://docs.python.org/3/library/profile.html#module-cProfile) | run time | method-level | deterministic |
+| statprof.py | run time | method-level | statictical |
+| [line_profiler](https://github.com/pyutils/line_profiler) | run time | line-level | deterministic |
+| [memory_profiler](https://github.com/pythonprofilers/memory_profiler) | memory | line-level | +- deterministic |
+| [pympler](https://github.com/pympler/pympler) | memory | method-level | deterministic |
+
+Fonte: https://www.youtube.com/watch?v=DUCMjsrYSrQ
+
+
+## PyCharm
+- - How to enable relative line numbers?
+	- https://intellij-support.jetbrains.com/hc/en-us/community/posts/360008429240-How-To-Enable-Relative-Line-Numbers-With-IdeaVim
+	- `:set relativenumber`
+
+
+## PyPI mirror
+- https://github.com/devpi/devpi
+- https://github.com/pypa/bandersnatch
+
+
+## Strings
+### Formatting
+#### `%` operator
+- `%s`: String conversion.
+- `%d` or `%i`: Integer conversion.
+- `%f`: Float conversion.
+- `%o`: Octal conversion.
+- `%x` or `%X`: Hexadecimal conversion.
+- `%e` or `%E`: Exponential notation conversion.
+```python
+In [1]: "%s %d %f %o %x %e" % ("a", 1, 1.0, 8, 16, 100)
+Out[1]: 'a 1 1.000000 10 10 1.000000e+02'
+```
+### f-string
+Fonte: https://fstring.help/
+- debugging
+	```python
+	user = "eric_idle"
+	f"{user=}"
+	# "user='eric_idle'"
+	f"{user = }"
+	# "user = 'eric_idle'"
+	```
+- padding
+	```python
+	val = "test"
+	f"{val:>10}"
+	# '      test'
+	f"{val:<10}"
+	# 'test      '
+	f"{val:_<10}"
+	# 'test______'
+	f"{val:^10}"
+	# '   test   '
+	```
+### Parsing
+- [parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
+- [ttp](https://github.com/dmulyalin/ttp) - Template Text Parser
+
+
+
+## Web
+### Django
+- [Ninja](https://github.com/vitalik/django-ninja)
+	- Fields selections [Issue](https://github.com/vitalik/django-ninja/issues/333)
+- How to test unmanaged models? [Source](https://stackoverflow.com/a/72593718)
+	```python
+	# <project>/tests/conftest.py
+	
+	def pytest_sessionstart():
+		from django.apps import apps
+		
+		unmanaged_models = [m for m in apps.get_models() if not m._meta.managed]
+		
+		for m in unmanaged_models:
+			m._meta.managed = True
+	```
+- `virtual_only` fields
+	- Advantages: 1. Improved performance; 2. Consistent interface; 3. Compatibility with Django’s ORM; 4. Integration with serialization.
+	- from https://henriquebastos.net/how-chatgpt-quickly-helped-me-understand-djangos-source-code
+
+#### GraphQL Server
+- [Ariadne](https://github.com/mirumee/ariadne-django)
+	- Missing maintainer 
+- [Graphene](https://github.com/graphql-python/graphene-django/)
+	- [docs](https://docs.graphene-python.org/projects/django/en/latest/)
+	- Poor integration between Models and Queries
+- [Strawberry](https://github.com/strawberry-graphql/strawberry-graphql-django)
+	- Needs to define a schema class. Example:
+    ```python
+    @strawberry.django.type(models.Fruit)
+    class Fruit:
+        id: auto
+        name: auto
+        color: 'Color'
+	  ```
+- [Tartiflette](https://github.com/tartiflette/tartiflette-aiohttp)
+
+#### Request/Response Cycle
+```mermaid
+flowchart TD
+
+asgi["(A|W)SGI"]
+db[Database]
+client[Client]
+
+
+subgraph Django
+	middlewares[Middlewares]
+	urls[URLs]
+	view[View]
+	orm[ORM]
+	templates[Templates]
+
+	middlewares-- Request -->urls-- Request -->view
+	view-- Response -->middlewares
+
+	middlewares -. Query objects ...- orm
+	view-. Query objects ...- orm
+	view-. Render ...- templates
+end
+
+client<-- HTTP req/res -->asgi
+asgi<-- Request/Response -->middlewares
+
+orm<-. Query/Data .->db
+```
+### GraphQL Server
+- Ariadne - https://ariadnegraphql.org/
+- Graphene - https://graphene-python.org/
+	- Has not been maintained
+- Strawberry - https://strawberry.rocks/
+	- Hard to understand the codebase
+- Tartiflette - https://tartiflette.io/ 
+	- Needs to write the resolvers by hand. I didn't find a good integration w/ ORMs
+
+### Keycloak
+- [https://www.baeldung.com/postman-keycloak-endpoints](https://www.baeldung.com/postman-keycloak-endpoints)
+- [https://github.com/marcospereirampj/python-keycloak/](https://github.com/marcospereirampj/python-keycloak/)
+    - unnecessarily complex
+    - some strange evals: [https://github.com/marcospereirampj/python-keycloak/blob/8fd315d11a42a8b4afebfe84498e882bc0b736c8/keycloak/authorization/__init__.py#L78-L91](https://github.com/marcospereirampj/python-keycloak/blob/8fd315d11a42a8b4afebfe84498e882bc0b736c8/keycloak/authorization/__init__.py#L78-L91)
+
+## requests
+- https://github.com/requests/toolbelt/ #libs
