@@ -81,7 +81,7 @@ date: 2023-08-15T07:30:00-03:00
 	df.Volume.hist()  # histograma da coluna Volume
 	df.plot.scatter('c1', 'c2')  # gráfico de dispersão
 	df.Low.plot(kind='box')  # gráfico boxplot
-```
+	```
 - Valores ausentes
 	```python
 	df.isnull().sum()  # conta o número de linhas com NaN
