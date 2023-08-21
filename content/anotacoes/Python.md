@@ -46,11 +46,14 @@ date: 2023-08-15T07:30:00-03:00
 
 
 ## Background tasks
-- [Dramatiq](https://dramatiq.io/)
-	- Django - https://github.com/Bogdanp/django_dramatiq
+Relates to [Message Queues]({{< ref "Message Queues" >}})
 - [Celery](https://github.com/celery/celery)
-- [python-rq](https://python-rq.org/)
+- [Dramatiq](https://dramatiq.io/)
+	- [Django integration](https://github.com/Bogdanp/django_dramatiq)
+	- [dramatiq-pg](https://gitlab.com/dalibo/dramatiq-pg) - Postgres as Broker
 - [huey](https://github.com/coleifer/huey)
+- [Procrastinate](https://github.com/procrastinate-org/procrastinate) - PostgreSQL-based Task Queue for Python
+- [python-rq](https://python-rq.org/)
 
  
 ## Cache
@@ -109,6 +112,7 @@ date: 2023-08-15T07:30:00-03:00
 
 
 ## Pipelines
+
 - https://github.com/pditommaso/awesome-pipeline
 
 ### AI/Data
@@ -116,11 +120,14 @@ date: 2023-08-15T07:30:00-03:00
 	- cloud-native data pipeline orchestrator ... integrated lineage and observability ..., and best-in-class testability.
 	- designed for developing and maintaining data assets, such as tables, data sets, machine learning models, and reports.
 	- cloud: https://dagster.io/
+	- [vs. Airflow](https://dagster.io/vs/dagster-vs-airflow)
+	- [vs. Prefect](https://dagster.io/vs/dagster-vs-prefect)
 - Metaflow: https://github.com/Netflix/metaflow ![GitHub Repo stars](https://img.shields.io/github/stars/Netflix/metaflow)
 	- https://metaflow.org/
 - Prefect: https://github.com/PrefectHQ/prefect ![GitHub Repo stars](https://img.shields.io/github/stars/PrefectHQ/prefect)
 	- orchestrator for data-intensive workflows.
 	- build and observe resilient data workflows so that you can understand, react to, and recover from unexpected changes.
+	- [vs. Dagster](https://dagster.io/vs/dagster-vs-prefect)
 - Pydra: https://github.com/nipype/pydra ![GitHub Repo stars](https://img.shields.io/github/stars/nipype/pydra)
 	- A simple dataflow engine with scalable semantics.
 - Ray: https://github.com/ray-project/ray ![GitHub Repo stars](https://img.shields.io/github/stars/ray-project/ray)
@@ -129,6 +136,7 @@ date: 2023-08-15T07:30:00-03:00
 
 ### General
 - Airflow: https://github.com/apache/airflow ![GitHub Repo stars](https://img.shields.io/github/stars/apache/airflow)
+	- - [vs. Dagster](https://dagster.io/vs/dagster-vs-airflow)
 - ⭐️ Joblib: https://github.com/joblib/joblib ![GitHub Repo stars](https://img.shields.io/github/stars/joblib/joblib)
 	- set of tools to provide lightweight pipelining.
 	- Main features: disk-caching; parallel helper; fast compressed persistence.

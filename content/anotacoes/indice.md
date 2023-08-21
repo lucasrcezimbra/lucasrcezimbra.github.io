@@ -42,6 +42,7 @@ date: 2023-08-15T07:30:00-03:00
 - [Logseq]({{< ref "Logseq" >}})
 - [Manhã de Titã]({{< ref "Manhã de Titã" >}})
 - [Media Servers]({{< ref "Media Servers" >}})
+- [Message Queues]({{< ref "Message Queues" >}})
 - [Microservices]({{< ref "Microservices" >}})
 - [Midjourney]({{< ref "Midjourney" >}})
 - [MongoDB]({{< ref "MongoDB" >}})

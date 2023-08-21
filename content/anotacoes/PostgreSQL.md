@@ -12,6 +12,8 @@ aliases = [
 ]
 +++
 
+- [Serverless Postgres](https://neon.tech/)
+- [Postgres: a Better Message Queue than Kafka?](https://dagster.io/blog/skip-kafka-use-postgres-message-queue)
 
 Como listar todas as tabelas do banco
 
