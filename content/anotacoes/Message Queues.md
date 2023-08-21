@@ -7,6 +7,13 @@ date: 2023-08-15T07:30:00-03:00
 ## Database-Backed
 - [Postgres: a Better Message Queue than Kafka?](https://dagster.io/blog/skip-kafka-use-postgres-message-queue)
 - [The Database As Queue Anti-Pattern](http://mikehadlow.blogspot.com/2012/04/database-as-queue-anti-pattern.html)
+	1. Polling: short interval = hit database too much; long internal = delay processing
+		1. On Postgres can avoid pooling by using `LISTEN`/`NOTIFY`
+	2. Performance: no index=slow queries, indexes=slow inserts
+		1. Locks: can be a problem.
+	3. Purge: needs to clear the table at intervals
+	4. Coupling: need to share database between services
+		- not an issue for monoliths
 
 ## Kafka
 

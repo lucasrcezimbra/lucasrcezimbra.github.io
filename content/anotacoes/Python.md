@@ -97,12 +97,6 @@ Relates to [Message Queues]({{< ref "Message Queues" >}})
 - attrs vs pydantic: [Why I use attrs instead of pydantic](https://threeofwands.com/why-i-use-attrs-instead-of-pydantic/)
 
 
-## General
-### parse
-- https://github.com/r1chardj0n3s/parse
-- https://github.com/jenisys/parse_type - parse_type extends parse with the following features: build type converters; compose type converters; CardinalityField naming schema
-
-
 ## JSON
 - [cysimdjson](https://github.com/TeskaLabs/cysimdjson) - SIMDJSON is C++ JSON parser, reportedly the fastest JSON parser on the planet.
 - [ijson](https://github.com/ICRAR/ijson) - iterative JSON
@@ -111,10 +105,13 @@ Relates to [Message Queues]({{< ref "Message Queues" >}})
 - [ujson](https://github.com/ultrajson/ultrajson) - written in C with Python bindings
 
 
+## ORM
+- [PugSQL](https://pugsql.org/) - simple interface for using parameterized SQL
+
+
 ## Pipelines
 
 - https://github.com/pditommaso/awesome-pipeline
-
 ### AI/Data
 - dagster: https://github.com/dagster-io/dagster ![GitHub Repo stars](https://img.shields.io/github/stars/dagster-io/dagster)
 	- cloud-native data pipeline orchestrator ... integrated lineage and observability ..., and best-in-class testability.
@@ -231,8 +228,8 @@ Fonte: https://fstring.help/
 	```
 ### Parsing
 - [parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
+	- - https://github.com/jenisys/parse_type - extends with the following features: build type converters; compose type converters; CardinalityField naming schema
 - [ttp](https://github.com/dmulyalin/ttp) - Template Text Parser
-
 
 
 ## Web
