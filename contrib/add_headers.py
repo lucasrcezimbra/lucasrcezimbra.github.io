@@ -1,3 +1,4 @@
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from textwrap import dedent
 
@@ -6,11 +7,14 @@ notes_dir = ROOT / 'content' / 'anotacoes'
 
 
 def header(title):
+    now = datetime \
+        .now(tz=timezone(timedelta(hours=-3)))\
+        .strftime('%Y-%m-%dT%H:%M:%S%z')
     return dedent(
         f"""\
         ---
         title: "{title}"
-        date: 2023-08-15T07:30:00-03:00
+        date: {now}
         ---"""
     )
 
