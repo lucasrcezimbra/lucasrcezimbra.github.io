@@ -2,7 +2,9 @@
 title: "Message Queues"
 date: 2023-08-15T07:30:00-03:00
 ---
+
 ## AWS SQS
+- [Alternatives to]({{< ref "Alternatives to" >}}) - [ElasticMQ](https://github.com/softwaremill/elasticmq)
 
 ## Database-Backed
 - [Postgres: a Better Message Queue than Kafka?](https://dagster.io/blog/skip-kafka-use-postgres-message-queue)

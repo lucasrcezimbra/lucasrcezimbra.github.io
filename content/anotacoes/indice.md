@@ -26,6 +26,7 @@ date: 2023-08-15T07:30:00-03:00
 - [Empreendedorismo]({{< ref "Empreendedorismo" >}})
 - [Entregabilidade de E-mails]({{< ref "Entregabilidade de E-mails" >}})
 - [Filesystems]({{< ref "Filesystems" >}})
+- [Frontend]({{< ref "Frontend" >}})
 - [Git]({{< ref "Git" >}})
 - [GitHub]({{< ref "GitHub" >}})
 - [GraphQL]({{< ref "GraphQL" >}})

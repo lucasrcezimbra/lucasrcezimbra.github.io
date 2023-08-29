@@ -25,3 +25,4 @@ date: 2023-08-15T07:30:00-03:00
 | Tech        | Design Principles and Design Patterns       | Robert Martin                                                                           | Para Ler   |
 | Tech        | Eric Evans                                  | Domain-Driven Design: Tackling Complexity in the Heart of Software                      | Para Ler   |
 | Tech        | H. Hohpe, B. Woolf                          | Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions | Para Ler   |
+|             | Chris Voss                                  | Negocie como se sua vida dependesse disso                                               | Para Ler           |

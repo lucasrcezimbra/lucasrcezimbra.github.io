@@ -37,9 +37,16 @@ date: 2023-08-15T07:30:00-03:00
 	poetry init
 	cat requirements.txt | cut -d '=' -f 1 | xargs poetry add
 	cat requirements-dev.txt | cut -d '=' -f 1 | xargs poetry add --group=dev
+	rm requirements.txt requirements-dev.txt
 	poetry install
 	poetry run <command>
 	```
+- How to use global packages using Poetry?
+	```bash
+	pip install pipx
+	pipx install <package>
+	```
+
 
 ## Anti-Patterns
 - [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
@@ -49,11 +56,12 @@ date: 2023-08-15T07:30:00-03:00
 Relates to [Message Queues]({{< ref "Message Queues" >}})
 - [Celery](https://github.com/celery/celery)
 - [Dramatiq](https://dramatiq.io/)
-	- [Django integration](https://github.com/Bogdanp/django_dramatiq)
-	- [dramatiq-pg](https://gitlab.com/dalibo/dramatiq-pg) - Postgres as Broker
-- [huey](https://github.com/coleifer/huey)
+	- [django_dramatiq](https://github.com/Bogdanp/django_dramatiq) - Django integration
+	- [dramatiq-pg](https://gitlab.com/dalibo/dramatiq-pg) - PostgreSQL as Broker
+	- [django-dramatiq-pg](https://github.com/uptick/django-dramatiq-pg/) - Django integration with PostgreSQL as broker
+- [huey](https://github.com/coleifer/huey) - a little task queue for python
 - [Procrastinate](https://github.com/procrastinate-org/procrastinate) - PostgreSQL-based Task Queue for Python
-- [python-rq](https://python-rq.org/)
+- [rq](https://python-rq.org/) (Redis Queue) - library for queueing jobs and processing them in the background with workers.
 
  
 ## Cache
@@ -191,6 +199,10 @@ Fonte: https://www.youtube.com/watch?v=DUCMjsrYSrQ
 - https://github.com/pypa/bandersnatch
 
 
+## Retry
+- https://github.com/jd/tenacity
+
+
 ## Strings
 ### Formatting
 #### `%` operator
@@ -251,6 +263,8 @@ Fonte: https://fstring.help/
 - `virtual_only` fields
 	- Advantages: 1. Improved performance; 2. Consistent interface; 3. Compatibility with Django’s ORM; 4. Integration with serialization.
 	- from https://henriquebastos.net/how-chatgpt-quickly-helped-me-understand-djangos-source-code
+- `django.core.exceptions.ImproperlyConfigured: Cannot import '<app>'. Check that '<project>.<app>.apps.<App>Config.name' is correct.` #troubleshooting 
+	- Rename `<App>Config.name` from `<app>` to `<project>.<app>`
 
 #### GraphQL Server
 - [Ariadne](https://github.com/mirumee/ariadne-django)
@@ -298,6 +312,14 @@ asgi<-- Request/Response -->middlewares
 
 orm<-. Query/Data .->db
 ```
+
+#### Tree structures
+- [django-mptt](https://github.com/django-mptt/django-mptt) - Utilities for implementing Modified Preorder Tree Traversal (This project is currently unmaintained)
+- [django-tree](https://github.com/BertrandBordage/django-tree) - Fast and easy tree structures (In beta, it can’t be used yet in production.)
+- [django-treebeard](https://github.com/django-treebeard/django-treebeard) - Efficient tree implementations
+- [django-tree-queries](https://github.com/matthiask/django-tree-queries) - Adjacency-list trees using recursive common table expressions
+
+
 ### GraphQL Server
 - Ariadne - https://ariadnegraphql.org/
 - Graphene - https://graphene-python.org/

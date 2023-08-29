@@ -12,3 +12,4 @@ date: 2023-08-15T07:30:00-03:00
 
 ## Tools
 - [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - (reverse Terraform) generates tf/json and tfstate files based on existing infrastructure.
+- [Infracost](https://github.com/infracost/infracost) - Cloud cost estimates in pull requests

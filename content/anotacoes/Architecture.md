@@ -15,6 +15,9 @@ date: 2023-08-15T07:30:00-03:00
 ## API
 - https://jsonapi.org/
 
+### REST
+- [How Did REST Come To Mean The Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
+- [REST APIs must be hypertext-driven](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
 
 ## Clean Architectures in [Python ]({{< ref "Python " >}})
 - https://www.youtube.com/watch?v=C7MRkqP5NRI

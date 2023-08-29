@@ -87,6 +87,11 @@ date: 2023-08-15T07:30:00-03:00
 > cân. 1314 
 
 
+## Protestantismo
+> Quando urge uma necessidade grave, a critério do ordinário, os ministros católicos podem dar os sacramentos (Eucaristia, Peni-tência, Unção dos Enfermos) aos outros cristãos que não estão em plena comunhão com a Igreja católica, mas que os pedem esponta-neamente: é preciso, então, que manifestem a fé católica no tocante a esses sacramentos e que apresentem as disposições exigidas
+> 
+> cân. 1401
+
 ## Sacramentos
 > Sacramentos atuam _ex opere operato_ (pelo próprio fato de a ação ser realizada)
 >   

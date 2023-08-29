@@ -2,6 +2,8 @@
 title: "Vector Database"
 date: 2023-08-15T07:30:00-03:00
 ---
+- [Amazon OpenSearch](https://aws.amazon.com/opensearch-service/serverless-vector-engine/)
+- [Elasticsearch Vector Search](https://www.elastic.co/what-is/vector-search)
 - [GraphDB](https://graphdb.ontotext.com/)
 - [LanceDB](https://lancedb.com/) - [Repo](https://github.com/lancedb/lancedb)
 - [milvus](https://milvus.io/)
