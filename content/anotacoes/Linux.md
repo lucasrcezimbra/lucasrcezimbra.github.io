@@ -79,7 +79,10 @@ Símbolos serem primários e os números secundários (créditos ao [Vítor](htt
 ```bash
 xmodmap -pke | sed -nre 's/keycode  (1[0-9]) = ([^ ]*) ([^ ]*)/keycode \1 = \3 \2/p' | xmodmap -
 ```
-
+- How to use SSH as SOCKS5 proxy
+	```bash
+	ssh -vCND localhost:9999 -i <path_to_id_rsa> <username>@<remote_server>
+	```
 
 ## Debian
 - How to validate a .desktop file

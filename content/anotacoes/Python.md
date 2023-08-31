@@ -18,7 +18,7 @@ date: 2023-08-15T07:30:00-03:00
 	In [3]: inspect.getfullargspec(f).args
 	Out[3]: ['x', 'y']
 	```
-- Why to avoid initing Decimal from float?
+- Why avoid initing Decimal from float
 	```python
 	In [1]: from decimal import Decimal
 	
@@ -175,6 +175,7 @@ Relates to [Message Queues]({{< ref "Message Queues" >}})
 
 ## Profiling
 - [pyperf](https://github.com/psf/pyperf)
+- [scalene](https://github.com/plasma-umass/scalene)
 
 | Profiler | What | Granularity | How |
 | --- | --- | --- | --- |
@@ -184,7 +185,6 @@ Relates to [Message Queues]({{< ref "Message Queues" >}})
 | [line_profiler](https://github.com/pyutils/line_profiler) | run time | line-level | deterministic |
 | [memory_profiler](https://github.com/pythonprofilers/memory_profiler) | memory | line-level | +- deterministic |
 | [pympler](https://github.com/pympler/pympler) | memory | method-level | deterministic |
-
 Fonte: https://www.youtube.com/watch?v=DUCMjsrYSrQ
 
 
@@ -337,3 +337,10 @@ orm<-. Query/Data .->db
 
 ## requests
 - https://github.com/requests/toolbelt/ #libs
+
+## SSH
+- Paramiko - [Homepage](https://www.paramiko.org/); [Docs](https://www.paramiko.org/); [Source](https://github.com/paramiko/paramiko)
+	- It doesn't support SOCKS5 proxy (`ssh -D`) - [issue](https://github.com/paramiko/paramiko/pull/1873); [third-party PR](https://github.com/linwownil/paramiko/pull/1/)
+	- Port forward [example](https://github.com/paramiko/paramiko/blob/main/demos/forward.py)
+	- [sshtunnel](https://github.com/pahaz/sshtunnel) - SSH tunnels to remote server
+- 

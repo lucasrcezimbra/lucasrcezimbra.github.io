@@ -57,6 +57,20 @@ date: 2023-08-15T07:30:00-03:00
 - https://serverlessland.com/event-driven-architecture/visuals - Diagrams about event-driven architectures
 
 
+## Security
+### Basic Auth
+### OAuth2
+### OIDC
+### Transport Security
+- mTLS
+- [Stunnel](https://www.stunnel.org/)
+- VPN
+	- [AWS VPN](https://aws.amazon.com/pt/vpn/)
+	- [tailscale](https://tailscale.com/)
+- 
+
+
+
 ## Software Development Hour: From Developer to Architect with Nathaniel Schutta
 - O'Reilly
 - Hosted by Sam Newman
