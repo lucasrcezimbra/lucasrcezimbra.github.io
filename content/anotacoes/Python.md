@@ -28,10 +28,21 @@ date: 2023-08-15T07:30:00-03:00
 	In [3]: Decimal('0.1')
 	Out[3]: Decimal('0.1')
 	```
+- Why avoid using mutable objects as default args
+	```python
+	In [1]: def f(k, v, d={}):
+       ...:    d[k] = v
+       ...:    return d
+
+	In [2]: f("x", 1)
+	Out[2]: {'x': 1}
+	
+	In [3]: f("y", 2)
+	Out[3]: {'x': 1, 'y': 2}
+	```
 - https://github.com/haralyzer/haralyzer/ - Lib to read HAR files #tools
 - `[extras.pipfile_deprecated_finder.2] 'pip-shims<=0.3.4' does not match '^[a-zA-Z-_.0-9]+$` #troubleshooting 
 	  - `pre-commit autoupdate`
-- [Why is the empty dictionary a dangerous default value in Python?](https://stackoverflow.com/a/26320938)
 - How to move from pip to Poetry
 	```bash
 	poetry init

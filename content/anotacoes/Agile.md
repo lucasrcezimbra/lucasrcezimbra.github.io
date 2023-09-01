@@ -12,3 +12,4 @@ date: 2023-08-15T07:30:00-03:00
 ## Scrum
 - [What is the Recommended Scrum Team Size?](https://agilepainrelief.com/blog/scrum-team-size.html)
 - [You don't need Scrum. You just need to do Kanban right.](https://lucasfcosta.com/2022/10/02/scrum-versus-kanban.html)
+- [Scrum is a cancer](https://twitter.com/svpino/status/1695806027256475777?s=46)
