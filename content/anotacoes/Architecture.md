@@ -76,6 +76,7 @@ date: 2023-08-15T07:30:00-03:00
 ### Cryptography
 - Timing Attacks
 	- Given a system that checks an encrypted value. The attacker measures the time to respond to a request. The longer it takes, the closer to breaking the encryption the attacker is.
+	- [Python]({{< ref "Python" >}}) - use [secrets.compare_digest](https://docs.python.org/3/library/secrets.html#secrets.compare_digest), which uses a constant-time compare to reduce the risk.
 	- [A Lesson In Timing Attacks (or, Don’t use MessageDigest.isEquals)](https://codahale.com/a-lesson-in-timing-attacks/)
 		> A value which shares no bytes in common with the secret digest will return immediately; a value which shares the first 15 bytes will return 15 compares later.
 
