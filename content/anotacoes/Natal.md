@@ -15,6 +15,7 @@ date: 2023-08-15T07:30:00-03:00
 - Camarões
 - Curió
 	- Feijoada sábado e domingo
+- Marechal
 - Mormaço
 	- Macarrão limão siciliano com filé mignon
 - Outback Midway

@@ -19,6 +19,7 @@ date: 2023-08-15T07:30:00-03:00
 - [How Did REST Come To Mean The Opposite of REST?](https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/)
 - [REST APIs must be hypertext-driven](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
 
+
 ## Clean Architectures in [Python ]({{< ref "Python " >}})
 - https://www.youtube.com/watch?v=C7MRkqP5NRI
 - by Leonardo Giordani - https://thedigitalcatonline.com
@@ -71,6 +72,12 @@ date: 2023-08-15T07:30:00-03:00
 	- Allow multiple API keys, if the user wants to rotate its API Key without downtime.
 	- Key expiration - enable the user to set an expiration.
 	- Encrypt when storing in the database in a way that is not decryptable (hash).
+
+### Cryptography
+- Timing Attacks
+	- Given a system that checks an encrypted value. The attacker measures the time to respond to a request. The longer it takes, the closer to breaking the encryption the attacker is.
+	- [A Lesson In Timing Attacks (or, Don’t use MessageDigest.isEquals)](https://codahale.com/a-lesson-in-timing-attacks/)
+		> A value which shares no bytes in common with the secret digest will return immediately; a value which shares the first 15 bytes will return 15 compares later.
 
 ### OAuth2
 ### OIDC
