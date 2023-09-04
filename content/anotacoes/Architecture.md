@@ -85,11 +85,7 @@ date: 2023-08-15T07:30:00-03:00
 ### Transport Security
 - mTLS
 - [Stunnel](https://www.stunnel.org/)
-- VPN
-	- [AWS VPN](https://aws.amazon.com/pt/vpn/)
-	- [tailscale](https://tailscale.com/)
-- 
-
+- [VPN]({{< ref "VPN" >}})
 
 
 ## Software Development Hour: From Developer to Architect with Nathaniel Schutta

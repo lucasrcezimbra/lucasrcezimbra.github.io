@@ -9,6 +9,7 @@ date: 2023-08-15T07:30:00-03:00
 - [milvus](https://milvus.io/)
 - [pgvector](https://github.com/pgvector/pgvector) - [Python]({{< ref "Python" >}}) [support](https://github.com/pgvector/pgvector-python)
 - [Pinecone](https://www.pinecone.io/)
+- [typesense](https://typesense.org/) - #OpenSource 
 - [VectorDB](https://github.com/vectordb-io/vectordb)
 - [Weaviate](https://weaviate.io/)
 

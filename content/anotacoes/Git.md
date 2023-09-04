@@ -43,6 +43,11 @@ date: 2023-08-15T07:30:00-03:00
 	git commit --amend
 	```
 
+- How to find a file that I don't know on which branch is
+	```shell
+	git log --all -- <file-path>
+	```
+
 - Better git log format
 	```bash
 	git config --global alias.lg "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'"
