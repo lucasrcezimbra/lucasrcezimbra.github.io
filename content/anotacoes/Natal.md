@@ -12,13 +12,16 @@ date: 2023-08-15T07:30:00-03:00
 - NH Shooting Club - [@nhshootingclub](https://www.instagram.com/nhshootingclub/)
 
 ## Restaurantes
+- Agaricus
 - Camarões
 - Curió
 	- Feijoada sábado e domingo
 - Marechal
 - Mormaço
 	- Macarrão limão siciliano com filé mignon
+- Obar
 - Outback Midway
+- Zeh
 
 ## Docerias
 - Bocaditos

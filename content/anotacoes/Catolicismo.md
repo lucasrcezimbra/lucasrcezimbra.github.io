@@ -8,7 +8,8 @@ date: 2023-08-15T07:30:00-03:00
 - [ ] https://opusdei.org/pt-br/article/vai-e-faze-a-mesma-coisa-1-foi-a-mim-que-o-fizestes - “Vai e faze a mesma coisa” (1): foi a mim que o fizestes - Doutrina Social da Igreja
 - [ ] https://opusdei.org/pt-br/article/amar-o-mundo-apaixonadamente-2/ - Amar o mundo apaixonadamente
 - [ ] https://institutohesed.org.br/o-caminho-da-mansidao/ - TEMPO DO ADVENTO. SEGUNDA SEMANA. QUARTA-FEIRA
-
+- [Meditações Padre Milton](https://open.spotify.com/show/2JIUpfvGA2sPJT0OORW4nA?si=6afc9a32738d4b9f)
+- [Plano de Vida](https://planodevidaespiritual.wordpress.com/)
 
 ## Batismo
 > Em caso de necessidade, qualquer pessoa pode batizar, desde que tenha a intenção de fazer o que faz a Igreja, e que derrame água sobre a cabeça do candidato, dizendo: "Eu te batizo em nome do Pai e do Filho e do Espírito Santo".
@@ -39,10 +40,28 @@ date: 2023-08-15T07:30:00-03:00
 - [Exame de consciência para a confissão (adultos)](https://opusdei.org/pt-br/article/exame-de-consciencia-para-a-confissao-adultos/)
 
 
+## Correção Fraterna
+- Dever de corrigir o irmão sempre com o objetivo de salva-lo. Independente dos próprios pecados "o que falo pra ti é remédio para mim". "Sê firme, amável e justo".
+- CIC 1435 e 1829
+- Caminho 796, 801 e 831
+- 23º domingo do tempo comum.
+> ⁷Quanto a ti, filho do homem, eu te estabeleci como vigia para a casa de Israel. Logo que ouvires alguma palavra de minha boca, tu os deves advertir em meu nome. ⁸Se eu disser ao ímpio que ele vai morrer, e tu não lhe falares, advertindo-o a respeito de sua conduta, o ímpio vai morrer por próprio culpa, mas eu te pedirei contas da sua morte. ⁹Mas, se advertires o ímpio a respeito de sua condua, para que se arrependa, e ele não se arrepender, o ímpio morrerá por própria culpa, porém, tu salvarás tua vida. 
+> 
+> Ezequiel 33, 7-9
+
+> ⁸Não fiqueis devendo nada a ninguém, a não ser o amor mútuo, pois quem ama o próximo está cumprindo a Lei. ⁹De fato, os mandamentos: "Não cometerás adultério", "Não matarás", "Não roubarás", "Não cobiçarás", e qualquer outro mandamento, se resumem neste: "Amarás ao teu próximo como a ti mesmo". ¹⁰O amor não faz nenhum mal contra o próximo. Portanto o amor é o cumprimento perfeita da Lei.
+> 
+> Romanos 13, 8-10
+
+> ¹⁵Se o teu irmão pecar contra ti, vai corrigi-lo, mas em particular, a sós contigo! Se ele te ouvir, tu ganhaste o teu irmão. ¹⁶Se ele não te ouvir, toma contigo mais um ou duas pessoas, para que toda a questão seja decidida sob a palavra de duas ou três testemunhas. ¹⁷Se ele não vosder ouvido, dize-o à Igreja. Se nem mesmo à Igreja ele ouvir, seja tratado como se fosse um pagão ou um pecador público. ¹⁸Em verdade vos digo, tudo o que ligardes na terra será ligado no céu, e tudo o que desligardes na terra será desligado no céu. ¹⁹De novo, eu vos digo: se dois de vós estiverem de acordo na terra sobre qualquer coisa que quiserem pedir, isso lhes será concedido por meu Pai que está nos céus. ²⁰Pois, onde dois ou três estiverem reunido em meu nome, eu estou aí, no meio deles.
+> 
+> Mateus 18, 15-20
+
+
 ## Esmola
 > A água apaga o fogo ardente, a esmola enfrenta o pecado.
 > 
-> Eclo 3,33
+> Eclesiástico 3, 33
 
 
 ## Jejum eucarístico
