@@ -1,16 +1,12 @@
 ---
-title: "PostgreSQL"
-date: 2023-08-15T07:30:00-03:00
----
-+++
-title = 'PostgreSQL'
-date = 2020-11-02T18:25:21+00:00
-aliases = [
+title: 'PostgreSQL'
+date: 2020-11-02T18:25:21+00:00
+aliases: [
     "/anotacoes/banco-de-dados/postgresql/",
     "/dicas-rapidas-postgresql/",
     "/psql/",
 ]
-+++
+---
 
 - [Serverless Postgres](https://neon.tech/)
 - [Postgres: a Better Message Queue than Kafka?](https://dagster.io/blog/skip-kafka-use-postgres-message-queue)
