@@ -7,3 +7,4 @@ date: 2023-09-11T08:55:38-0300
 	<!-- layouts/_default/_markup/render-link.html -->
 	<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}{{ if strings.HasPrefix .Destination "http" }} <i class="fa fa-external-link" aria-hidden="true"></i>{{ end }}</a>
 	```
+- How to override the theme ([Source](https://gohugobrasil.netlify.app/themes/customizing/#override-template-files)): `layouts/_default/single.html` overwrites `/themes/<THEME>/layouts/_default/single.html`

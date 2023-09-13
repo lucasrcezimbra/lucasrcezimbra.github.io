@@ -57,6 +57,28 @@ date: 2023-08-15T07:30:00-03:00
 > 
 > Mateus 18, 15-20
 
+> Jesus, com esse ensinamento, está nos dando um caminho para ajudarmos nossos irmãos a alcançar a salvação.
+> 
+> Santo Tomás de Aquino, (...), chama a atenção primeiramente para isso. Muitas vezes, a pessoa quer corrigir o irmão, mas simplesmente por vingança ou para mostrar que tem razão.
+> 
+> Nosso Senhor quer mostrar como devemos pescar o irmão para Deus, para salvar a alma dele. Santo Tomás nos diz que se a pessoa fizer tudo isso por uma razão carnal, simplesmente para o seu próprio benefício, nada será virtuoso e meritório.
+> 
+> "Teu irmão pecou contra ti". O mais importante não é o "contra ti"; o mais importante é: "O teu irmão pecou". Portanto, o que devemos fazer para o tirar do pecado?
+> 
+> (...) o seu irmão foi desonesto; mas como iremos salvá-lo? Jesus nos dá o caminho. A primeiríssima coisa a fazer é tentar salvá-lo privadamente.
+> 
+> (...) Jesus está falando a respeito de um irmão, (...) que supostamente tem a mesma fé, que sabe o que é o certo e o que é o errado (...); mas infelizmente tropeçou, ofendeu a Deus e quem sabe até ofendeu você. A prioridade é tirar esse irmão do pecado.
+> 
+> (...) o principal não é "ter razão" ou dar uma lição de moral ao malfeitor. O principal é colocar o irmão debaixo da luz misericordiosa de Deus. É perguntar-se: "Como Deus vê essa pessoa? Deus quer salvá-lo. Como eu posso ser instrumento de salvação?"
+> 
+> Santo Tomás de Aquino nos recorda que há duas situações que nos desaconselham a corrigir uma pessoa. Primeira: quando você, conhecendo a pessoa e a situação, vê claramente que não haverá pescaria; pelo contrário, a pessoa vai se tornar pior, (...). Segunda: (...) quando a correção pode desencadear uma perseguição contra a Igreja inteira.
+>
+> (...) se não há qualquer risco, temos sim a obrigação de corrigir. Essa obrigação de corrigir se acentua bastante quando o nosso silêncio pode ser causa de escândalo. Por exemplo, quando um padre está numa roda de conversa e, de repente, alguém acusa a Igreja de coisas tremendas. O silêncio desse sacerdote seria um caso escandaloso de omissão. Nesse momento, ele seria obrigado a defender a Igreja.
+> 
+> Então, há momentos em que Jesus nos manda, sim, corrigir em privado; mas há situações em que o pecador está publicamente escandalizando outros irmãos ou até levando-os a pecar. (...) Muitas vezes, pecados públicos, notórios e escandalosos precisam ser repreendidos pública e notoriamente, porque o silêncio é que seria escandaloso.
+> 
+> Newsletter Padre Paulo Ricardo - Apresente a quem errou a luz da Divina Misericórdia
+
 
 ## Esmola
 > A água apaga o fogo ardente, a esmola enfrenta o pecado.
