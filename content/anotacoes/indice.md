@@ -74,7 +74,6 @@ date: 2023-08-15T07:30:00-03:00
 - [Terraform]({{< ref "Terraform" >}})
 - [Test]({{< ref "Test" >}})
 - [The most famous 5 laws in the world]({{< ref "The most famous 5 laws in the world" >}})
-- [Untitled]({{< ref "Untitled" >}})
 - [Vector Database]({{< ref "Vector Database" >}})
 - [Vim]({{< ref "Vim" >}})
 - [VPN]({{< ref "VPN" >}})

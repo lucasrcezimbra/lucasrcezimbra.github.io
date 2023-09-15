@@ -1,6 +1,9 @@
 ---
-title: "Linux"
+title: Linux
 date: 2023-08-15T07:30:00-03:00
+aliases:
+  - /anotacoes/linux/
+  - /dicas-rapidas-linux/
 ---
 - https://www.youtube.com/watch?v=X8h304Jp9N8 Fedora Silverblue's move to bootable OCI images: Linux will never be the same
 - io_uring #async
