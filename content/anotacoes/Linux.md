@@ -121,7 +121,7 @@ xmodmap -pke | sed -nre 's/keycode  (1[0-9]) = ([^ ]*) ([^ ]*)/keycode \1 = \3 \
 - How to show Intel GPU usage
 	```bash
 	sudo apt install intel-gpu-tools
-	intel_gpu_top
+	sudo intel_gpu_top
 	```
 
 ## Network

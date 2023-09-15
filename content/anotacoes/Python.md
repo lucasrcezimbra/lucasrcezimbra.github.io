@@ -80,6 +80,11 @@ Relates to [Message Queues]({{< ref "Message Queues" >}})
 - https://github.com/uqfoundation/klepto - persistent caching to memory, disk, or database
 
 
+## CLI
+- [Click](https://palletsprojects.com/p/click/) - [Docs](https://click.palletsprojects.com/en/8.1.x/) - [Source code](https://github.com/pallets/click)
+- [Fire](https://github.com/google/python-fire)
+- [typer](https://github.com/tiangolo/typer) - [Docs](https://typer.tiangolo.com/)
+
 ## Data
 ### pandas
 - https://www.pola.rs/ - Lightning-fast DataFrame library for Rust and Python
@@ -349,6 +354,9 @@ orm<-. Query/Data .->db
 ## requests
 - https://github.com/requests/toolbelt/ #libs
 
+## RPC
+- [gRPC](https://grpc.io/docs/languages/python/quickstart/)
+- [RPyC](https://github.com/tomerfiliba-org/rpyc) - [Docs](https://rpyc.readthedocs.io/en/latest/) - library for symmetrical remote procedure calls, clustering, and distributed-computing #OpenSource 
 ## SSH
 - Paramiko - [Homepage](https://www.paramiko.org/); [Docs](https://www.paramiko.org/); [Source](https://github.com/paramiko/paramiko)
 	- It doesn't support SOCKS5 proxy (`ssh -D`) - [issue](https://github.com/paramiko/paramiko/pull/1873); [third-party PR](https://github.com/linwownil/paramiko/pull/1/)
