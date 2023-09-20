@@ -40,6 +40,50 @@ date: 2023-08-15T07:30:00-03:00
 	In [3]: f("y", 2)
 	Out[3]: {'x': 1, 'y': 2}
 	```
+- Why to fixtures instead of namespace variables for mocked data
+	```python
+	# without fixture
+	
+	MOCK_DATA = [{"field": "value"}]
+	
+	
+	def test_one():
+	    MOCK_DATA[0]['field'] = 'other value'
+	    assert MOCK_DATA[0]['field'] == 'other value'
+	
+	
+	def test_two():
+	    assert MOCK_DATA[0]['field'] == 'value'
+	
+	
+	# with fixture
+	
+	@pytest.fixture
+	def mock_data():
+		return [{"field": "value"}]
+	
+	
+	def test_three(mock_data):
+	    mock_data[0]['field'] = 'other value'
+	    assert MOCK_DATA[0]['field'] == 'other value'
+	
+	
+	def test_four(mock_data):
+	    assert mock_data[0]['field'] == 'value'
+	```
+	
+	```python
+	    def test_two():
+> 	      assert MOCK_DATA[0]['field'] == 'value'
+	E       AssertionError: assert 'other value' == 'value'
+	E         - value
+	E         + other value
+	
+	path/to/tests/test_zero.py:15: AssertionError
+	=====================<mark> 1 failed, 3 passed in 0.18s </mark>=====================
+	```
+
+
 - https://github.com/haralyzer/haralyzer/ - Lib to read HAR files #tools
 - `[extras.pipfile_deprecated_finder.2] 'pip-shims<=0.3.4' does not match '^[a-zA-Z-_.0-9]+$` #troubleshooting 
 	  - `pre-commit autoupdate`
@@ -156,34 +200,36 @@ Relates to [Message Queues]({{< ref "Message Queues" >}})
 	- consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for simplifying ML compute
 
 ### General
-- Airflow: https://github.com/apache/airflow ![GitHub Repo stars](https://img.shields.io/github/stars/apache/airflow)
-	- - [vs. Dagster](https://dagster.io/vs/dagster-vs-airflow)
-- ⭐️ Joblib: https://github.com/joblib/joblib ![GitHub Repo stars](https://img.shields.io/github/stars/joblib/joblib)
+- [Airflow](https://github.com/apache/airflow) ![GitHub Repo stars](https://img.shields.io/github/stars/apache/airflow)
+	- [vs. Dagster](https://dagster.io/vs/dagster-vs-airflow)
+- ⭐️ [Joblib](https://github.com/joblib/joblib) ![GitHub Repo stars](https://img.shields.io/github/stars/joblib/joblib)
 	- set of tools to provide lightweight pipelining.
 	- Main features: disk-caching; parallel helper; fast compressed persistence.
 	- How cache works? use [hash](https://github.com/joblib/joblib/blob/8a1faea0dd4aa6915044dd7a038da1f0de57c385/joblib/hashing.py#L244) to compare args
-- Luigi: https://github.com/spotify/luigi ![GitHub Repo stars](https://img.shields.io/github/stars/spotify/luigi)
+- [Luigi](https://github.com/spotify/luigi) ![GitHub Repo stars](https://img.shields.io/github/stars/spotify/luigi)
 	- helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
-- Mara: https://github.com/mara/mara-pipelines ![GitHub Repo stars](https://img.shields.io/github/stars/mara/mara-pipelines)
+- [Mara](https://github.com/mara/mara-pipelines) ![GitHub Repo stars](https://img.shields.io/github/stars/mara/mara-pipelines)
 	- Principles: Data integration pipelines as code; PostgreSQL as a data processing engine; Extensive web ui; No in-app data processing; multiprocessing - single machine pipeline execution; nodes with higher cost are run first
-- Mistral: https://github.com/openstack/mistral ![GitHub Repo stars](https://img.shields.io/github/stars/openstack/mistral)
+- [Mistral](https://github.com/openstack/mistral) ![GitHub Repo stars](https://img.shields.io/github/stars/openstack/mistral)
 	- integrated with OpenStack
 	- define tasks and workflows in a simple YAML and a distributed environment
-- pygrametl: https://github.com/chrthomsen/pygrametl ![GitHub Repo stars](https://img.shields.io/github/stars/chrthomsen/pygrametl)
+- [Ploomber](https://github.com/ploomber/ploomber) ![GitHub Repo stars](https://img.shields.io/github/stars/ploomber/ploomber) - [Docs](https://docs.ploomber.io/en/latest/index.html)
+	- 
+- [pygrametl](https://github.com/chrthomsen/pygrametl) ![GitHub Repo stars](https://img.shields.io/github/stars/chrthomsen/pygrametl)
 	- provides commonly used functionality for the development of ETL processes.
-- Pypeln: https://github.com/cgarciae/pypeln/ ![GitHub Repo stars](https://img.shields.io/github/stars/cgarciae/pypeln)
+- [Pypeln](https://github.com/cgarciae/pypeln/) ![GitHub Repo stars](https://img.shields.io/github/stars/cgarciae/pypeln)
 	- for creating concurrent data pipelines
 	- Main Features: Simple; Easy-to-use; Flexible; Fine-grained Control.
 	- Queues: Process; Thread; Task.
-- ⭐️ pypyr: https://github.com/pypyr/pypyr/ ![GitHub Repo stars](https://img.shields.io/github/stars/pypyr/pypyr)
+- ⭐️ [pypyr](https://github.com/pypyr/pypyr/) ![GitHub Repo stars](https://img.shields.io/github/stars/pypyr/pypyr)
 	- task runner for automation pipelines
 	- script sequential task workflow steps in yaml
 	- conditional execution, loops, error handling & retries
-- SCOOP: https://github.com/soravux/scoop/ ![GitHub Repo stars](https://img.shields.io/github/stars/soravux/scoop)
+- [SCOOP](https://github.com/soravux/scoop/) ![GitHub Repo stars](https://img.shields.io/github/stars/soravux/scoop)
 	- distributed task module allowing concurrent parallel programming on various environments, from heterogeneous grids to supercomputers.
 	- designed from the following ideas: the future is parallel; simple is beautiful; parallelism should be simpler.
 	- brokers: TCP and ZeroMQ
-- SpiffWorkflow: https://github.com/sartography/SpiffWorkflow ![GitHub Repo stars](https://img.shields.io/github/stars/sartography/SpiffWorkflow)
+- [SpiffWorkflow](https://github.com/sartography/SpiffWorkflow) ![GitHub Repo stars](https://img.shields.io/github/stars/sartography/SpiffWorkflow)
 	- workflow engine implemented in pure Python.
 	- support the development of low-code business applications in Python. Using BPMN will allow non-developers to describe complex workflow processes in a visual diagram
 	- Built with: lxml; celery.
