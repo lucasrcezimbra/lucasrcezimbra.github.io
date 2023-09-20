@@ -9,5 +9,5 @@
   {{ if .Get "status" | eq "closed"}}
   <img src="/images/code-pr-closed.svg">
   {{ end }}
-  <a href="{{ .Get "url" }}" target="_blank">{{ .Get "project" }}: {{ .Get "title" }}</a>
+  <a class="external-link" href="{{ .Get "url" }}" target="_blank">{{ .Get "project" }}: {{ .Get "title" }}</a>
 </div>

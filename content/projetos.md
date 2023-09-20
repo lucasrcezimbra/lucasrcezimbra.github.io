@@ -91,6 +91,13 @@ date: 2022-04-08T20:08:54-03:00
 
 {{< contribution
     status="open"
+    url="https://github.com/pypyr/pypyr/pull/326"
+    project="pypyr"
+    title="String Loader"
+    date="2023-09-19"
+>}}
+{{< contribution
+    status="merged"
     url="https://github.com/hbakri/django-ninja-crud/pull/93"
     project="Django Ninja CRUD"
     title="feat: introduce router_kwargs to customize django-ninja's Router attributes"
