@@ -18,7 +18,6 @@ date: 2023-08-15T07:30:00-03:00
 - [Diagrams](https://diagrams.mingrammer.com/) - draw the cloud system architecture in [Python]({{< ref "Python" >}}) code #OpenSource 
 	- https://twitter.com/lucasrcezimbra/status/1702637726871294189
 - [GoAT](https://github.com/bep/goat) - Go ASCII Tool #OpenSource 
-- https://twitter.com/lucasrcezimbra/status/1702637720554602641
 ### Timelines
 - https://time.graphics/ - Free online timeline maker
 	- [Spreadsheet template](https://docs.google.com/spreadsheets/d/1MmyAsnxgtNaLHp40qcYk1GcWFoo-rzHshhkboNBHpJw/copy)

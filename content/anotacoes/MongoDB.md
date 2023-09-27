@@ -1,17 +1,10 @@
 ---
-title: "MongoDB"
-date: 2023-08-15T07:30:00-03:00
+title: MongoDB
+date: 2018-11-21T21:28:05+00:00
+aliases:
+  - /anotacoes/banco-de-dados/mongodb/
+  - /dicas-mongodb/
 ---
-+++
-title = "MongoDB"
-date = 2018-11-21T21:28:05+00:00
-aliases = [
-    "/anotacoes/banco-de-dados/mongodb/",
-    "/dicas-mongodb/",
-]
-+++
-
-
 Como filtrar e atualizar elementos de um array
 ```javascript
 // Atualiza para 'Python' todas as tags que o atributo 'nome' seja igual 'Phyton'
