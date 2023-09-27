@@ -64,22 +64,22 @@ In [1]: def f(k, v, d={}): ...: d[k] = v ."><meta property="og:type" content="ar
 </span></span><span style=display:flex><span><span style=color:#cdcd00>def</span> test_four(mock_data):
 </span></span><span style=display:flex><span>    <span style=color:#cdcd00>assert</span> mock_data[<span style=color:#cd00cd>0</span>][<span style=color:#cd0000>&#39;field&#39;</span>] <span style=color:#39c>==</span> <span style=color:#cd0000>&#39;value&#39;</span>
 </span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span>    <span style=color:#cdcd00>def</span> test_two():
-</span></span></code></pre></div></li></ul><blockquote><pre><code>    assert MOCK_DATA[0]['field'] == 'value'
-</code></pre></blockquote><pre><code>E       AssertionError: assert 'other value' == 'value'
-E         - value
-E         + other value
-
-path/to/tests/test_zero.py:15: AssertionError
-=====================&lt;mark&gt; 1 failed, 3 passed in 0.18s &lt;/mark&gt;=====================
-```
-</code></pre><ul><li><a href=https://github.com/haralyzer/haralyzer/ class=external-link target=_blank rel=noopener>https://github.com/haralyzer/haralyzer/</a> - Lib to read HAR files #tools</li><li><code>[extras.pipfile_deprecated_finder.2] 'pip-shims&lt;=0.3.4' does not match '^[a-zA-Z-_.0-9]+$</code> #troubleshooting
-- <code>pre-commit autoupdate</code></li><li>How to move from pip to Poetry<div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>poetry init
+</span></span><span style=display:flex><span><span style=color:#39c>&gt;</span>       <span style=color:#cdcd00>assert</span> MOCK_DATA[<span style=color:#cd00cd>0</span>][<span style=color:#cd0000>&#39;field&#39;</span>] <span style=color:#39c>==</span> <span style=color:#cd0000>&#39;value&#39;</span>
+</span></span><span style=display:flex><span>E       <span style=color:#669;font-weight:700>AssertionError</span>: <span style=color:#cdcd00>assert</span> <span style=color:#cd0000>&#39;other value&#39;</span> <span style=color:#39c>==</span> <span style=color:#cd0000>&#39;value&#39;</span>
+</span></span><span style=display:flex><span>E         <span style=color:#39c>-</span> value
+</span></span><span style=display:flex><span>E         <span style=color:#39c>+</span> other value
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span>path<span style=color:#39c>/</span>to<span style=color:#39c>/</span>tests<span style=color:#39c>/</span>test_zero<span style=color:#39c>.</span>py:<span style=color:#cd00cd>15</span>: <span style=color:#669;font-weight:700>AssertionError</span>
+</span></span><span style=display:flex><span><span style=color:#39c>=====================&lt;</span>mark<span style=color:#39c>&gt;</span> <span style=color:#cd00cd>1</span> failed, <span style=color:#cd00cd>3</span> passed <span style=color:#cdcd00>in</span> <span style=color:#cd00cd>0.18</span>s <span style=color:#39c>&lt;/</span>mark<span style=color:#39c>&gt;=====================</span>
+</span></span></code></pre></div></li><li><p>How to print logs when running pytest?</p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-shell data-lang=shell><span style=display:flex><span>pytest --log-cli-level DEBUG
+</span></span></code></pre></div></li><li><p><a href=https://github.com/haralyzer/haralyzer/ class=external-link target=_blank rel=noopener>https://github.com/haralyzer/haralyzer/</a> - Lib to read HAR files #tools</p></li><li><p><code>[extras.pipfile_deprecated_finder.2] 'pip-shims&lt;=0.3.4' does not match '^[a-zA-Z-_.0-9]+$</code> #troubleshooting
+- <code>pre-commit autoupdate</code></p></li><li><p>How to move from pip to Poetry</p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>poetry init
 </span></span><span style=display:flex><span>cat requirements.txt | cut -d <span style=color:#cd0000>&#39;=&#39;</span> -f <span style=color:#cd00cd>1</span> | xargs poetry add
 </span></span><span style=display:flex><span>cat requirements-dev.txt | cut -d <span style=color:#cd0000>&#39;=&#39;</span> -f <span style=color:#cd00cd>1</span> | xargs poetry add --group<span style=color:#39c>=</span>dev
 </span></span><span style=display:flex><span>rm requirements.txt requirements-dev.txt
 </span></span><span style=display:flex><span>poetry install
 </span></span><span style=display:flex><span>poetry run &lt;command&gt;
-</span></span></code></pre></div></li><li>How to use global packages using Poetry?<div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>pip install pipx
+</span></span></code></pre></div></li><li><p>How to use global packages using Poetry?</p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>pip install pipx
 </span></span><span style=display:flex><span>pipx install &lt;package&gt;
 </span></span></code></pre></div></li></ul><h2 id=anti-patterns>Anti-Patterns
 <a class=heading-link href=#anti-patterns><i class="fa fa-link" aria-hidden=true title="Link to heading"></i>
