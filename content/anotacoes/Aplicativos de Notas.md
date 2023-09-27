@@ -3,19 +3,19 @@ title: "Aplicativos de Notas"
 date: 2023-08-15T07:30:00-03:00
 ---
 
-|                       | Logseq | Joplin | Obsidian |
-| --------------------- | ------ | ------ | -------- |
-| Grafo                 | ✅     | ❌     | ✅       |
-| Open Source           | ✅     | ✅     | ❌       |
-| Criptografado         | ✅     | ✅     | ✅       |
-| Organização em blocos | ✅     | ❌     | ❌       |
-| Web Clipper           | ⚠️     | ✅     | ⚠️       |
-| App Linux             | ✅     | ✅     | ✅       |
-| App Android           | ✅     | ✅     | ✅       |
-| Sincronização         | ⚠️     | ✅     | ✅       |
-| Usabilidade           | ⚠️     | ✅     | ✅       |
-| Publicar              | ⚠️     | ⚠️     | ✅       |
-| Salva como            | .md    | SQLite | .md      |
+|                       | Logseq | Joplin | Obsidian | Roam |     |
+| --------------------- | ------ | ------ | -------- | ---- | --- |
+| Grafo                 | ✅     | ❌     | ✅       |      |     |
+| Open Source           | ✅     | ✅     | ❌       |      |     |
+| Criptografado         | ✅     | ✅     | ✅       |      |     |
+| Organização em blocos | ✅     | ❌     | ❌       |      |     |
+| Web Clipper           | ⚠️     | ✅     | ⚠️       |      |     |
+| App Linux             | ✅     | ✅     | ✅       |      |     |
+| App Android           | ✅     | ✅     | ✅       |      |     |
+| Sincronização         | ⚠️     | ✅     | ✅       |      |     |
+| Usabilidade           | ⚠️     | ✅     | ✅       |      |     |
+| Publicar              | ⚠️     | ⚠️     | ✅       |      |     |
+| Salva como            | .md    | SQLite | .md      |      |     |
 
 ## Logseq
 ### Pros
@@ -48,3 +48,6 @@ date: 2023-08-15T07:30:00-03:00
 - Fácil de integrar com arquivos de outros projetos
 ### Contras
 - Não é Open Source
+
+## Roam
+- https://roamresearch.com/

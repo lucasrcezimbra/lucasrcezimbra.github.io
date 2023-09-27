@@ -1,17 +1,11 @@
 ---
-title: "Nespresso"
-date: 2023-08-15T07:30:00-03:00
+title: Nespresso
+date: 2022-04-07T17:50:00+00:00
 ---
-+++
-title = 'Nespresso'
-date = 2022-04-07T17:50:00+00:00
-+++
-
-
 {{< datatables >}}
 
 | Marca         | Café                                                                                                                                                  | Intensidade | Expresso           | Lungo              |
-| ---           | ---                                                                                                                                                   | ---         | ---                | ---                |
+| ------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------- | ------------------ | ------------------ |
 | Nespresso     | [Ispirazione Napoli](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-napoli)                                        | 13          |                    | :star::star::star: |
 | Nespresso     | [Ispirazione Palermo Kazaar](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-palermo-kazaar)                        | 12          | :star:             |                    |
 | Nespresso     | [Ispirazione Ristretto Italiano](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-ristretto-italiano)                | 10          | :star::star:       | :star::star::star: |
@@ -21,7 +15,7 @@ date = 2022-04-07T17:50:00+00:00
 | Nespresso     | [Ispirazione Roma](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-roma)                                            | 8           | :star::star:       | :star::star:       |
 | Nespresso     | [Milano Intenso](https://www.nespresso.com/br/en/order/capsules/original/ispirazione-milano-intenso-coffee-capsule)                                   | 8           | :star::star::star: |                    |
 | Nespresso     | [Istanbul Espresso](https://www.nespresso.com/br/pt/order/capsules/original/cafe-espresso-istanbul)                                                   | 8           | :star::star:       |                    |
-| Nespresso     | [Stockholm Fortissio Lungo](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-stockholm-fortissio-lungo)                          | 8           |                    | :star:             |
+| Nespresso     | [Stockholm Fortissio Lungo](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-stockholm-fortissio-lungo)                          | 8           |                    | :star::star:       |
 | Nespresso     | [Brazil Organic](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-nespresso-brazil-organic)                                      | 7           | :star::star:       |                    |
 | Nespresso     | [Infiniment Espresso](https://www.nespresso.com/br/en/order/capsules/original/infiniment-espresso-limited-edition-coffee-pods)                        | 6           | :star::star:       |                    |
 | Nespresso     | [Ispirazione Genova Livanto](https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-genova-livanto)                        | 6           | :star::star::star: | :star::star:       |
@@ -46,9 +40,10 @@ date = 2022-04-07T17:50:00+00:00
 | Starbucks     | [Pike Place Roast](https://www.starbucksathome.com/br/pike-place-roast-nespresso/p)                                                                   | 7           | :star:             |                    |
 | Starbucks     | [Blonde Espresso Roast](https://www.starbucksathome.com/br/starbucks-blonde-roast/p)                                                                  | 6           | :star::star:       |                    |
 | Caffè Corsini | [Gran Riserva Intenso](https://www.caffecorsini.com/it/prodotto/2398/MBYXEKGE/capsule-compatibili-nespresso-gran-riserva-intenso-10-pezzi)            | 11          | :star:             | :star:             |
+| 3 Corações    | [Cerrado Mineiro](https://www.cafe3coracoes.com.br/nossos-produtos/capsulas/compativeis/espresso-cerrado-mineiro/)                                    | 7           | :star::star:       |                    | 
 
 
-Legenda:
+Legenda
 - :star: = não gostei
 - :star::star: = gostei
 - :star::star::star: = favoritos

@@ -74,7 +74,7 @@ date: 2023-08-15T07:30:00-03:00
 	
 	```python
 	    def test_two():
-> 	      assert MOCK_DATA[0]['field'] == 'value'
+	>       assert MOCK_DATA[0]['field'] == 'value'
 	E       AssertionError: assert 'other value' == 'value'
 	E         - value
 	E         + other value
@@ -82,7 +82,10 @@ date: 2023-08-15T07:30:00-03:00
 	path/to/tests/test_zero.py:15: AssertionError
 	=====================<mark> 1 failed, 3 passed in 0.18s </mark>=====================
 	```
-
+- How to print logs when running pytest?
+	```shell
+	pytest --log-cli-level DEBUG
+	```
 
 - https://github.com/haralyzer/haralyzer/ - Lib to read HAR files #tools
 - `[extras.pipfile_deprecated_finder.2] 'pip-shims<=0.3.4' does not match '^[a-zA-Z-_.0-9]+$` #troubleshooting 

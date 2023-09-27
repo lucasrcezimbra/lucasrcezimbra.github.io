@@ -10,6 +10,8 @@ date: 2023-08-15T07:30:00-03:00
 - https://github.com/imartinez/privateGPT
 - https://github.com/Stability-AI/StableLM - Stability AI #OpenSource
 - https://github.com/Torantulino/Auto-GPT
+- https://github.com/hpcaitech/ColossalAI
+	- https://www.hpc-ai.tech/blog/one-half-day-of-training-using-a-few-hundred-dollars-yields-similar-results-to-mainstream-large-models-open-source-and-commercial-free-domain-specific-llm-solution
 - Transformer for Actions - GPT - https://www.adept.ai/blog/act-1
 - Toolformer
 	- Meta desenvolve modelo de linguagem que aprende sozinho a usar ferramentas externas, como mecanismos de busca, calculadoras e calendários
