@@ -2,7 +2,7 @@
 title: "Git"
 date: 2023-08-15T07:30:00-03:00
 ---
-- Revert only one file
+- Revert only one file ([Tweet](https://twitter.com/lucasrcezimbra/status/1707339190386536850))
 	```bash
 	git checkout <commit_hash>~1 -- <path/to/file>
 	git commit
@@ -18,7 +18,7 @@ date: 2023-08-15T07:30:00-03:00
 	git blame <commit_hash>^ -- <path/to/file>
 	```
 
-- Search for a deleted code
+- Search for a deleted code ([Tweet](https://twitter.com/lucasrcezimbra/status/1706980597892084052))
 	```bash
 	git log -c -S'removed_code' <path/to/file> # search for string
 	git log -c -G'removed.*code' <path/to/file> # search for regex
@@ -33,7 +33,7 @@ date: 2023-08-15T07:30:00-03:00
 	git rebase --continue
 	```
 
-	- Undo a commit (uncommit)
+- Undo a commit (uncommit)
 	```bash
 	git reset --soft HEAD^
 	```
@@ -43,7 +43,7 @@ date: 2023-08-15T07:30:00-03:00
 	git commit --amend
 	```
 
-- How to find a file that I don't know on which branch is
+- How to find a file that I don't know on which branch is ([Tweet](https://twitter.com/lucasrcezimbra/status/1698650677373726961))
 	```shell
 	git log --all -- <file-path>
 	```

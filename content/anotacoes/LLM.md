@@ -75,12 +75,18 @@ date: 2023-08-15T07:30:00-03:00
 	- [Online](https://stablediffusionweb.com/)
 	- Outpainting on an infinite canvas - [Tweet](https://twitter.com/lkwq007/status/1576078349503373312) and [Sourcecode](https://github.com/lkwq007/stablediffusion-infinity)
 - https://www.tryleap.ai/
+- https://stockimg.ai/
 
 ## MPT
 - [Introducing MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs](https://www.mosaicml.com/blog/mpt-7b)
 - https://github.com/mosaicml/composer - PyTorch library that enables you to train neural networks faster, at lower cost, and to higher accuracy - [Python]({{< ref "Python" >}}) 
 - https://github.com/mosaicml/streaming - make training on large datasets from cloud storage as fast, cheap, and scalable as possible. [Python]({{< ref "Python" >}})
 - https://github.com/mosaicml/llm-foundry
+
+## Low-code platforms
+- [Rivet](https://rivet.ironcladapp.com/) - The Open-Source Visual AI Programming Environment #OpenSource 
+- [Stack AI](https://www.stack-ai.com/) - The No-Code AI Automation Platform
+- [Vellum](https://www.vellum.ai/) - The dev platform for production LLM apps
 
 ## SDKs
 - [Guidance](https://github.com/microsoft/guidance/) - [Python]({{< ref "Python" >}}) lib that allows you to interleave generation, prompting, and logical control into a single continuous flow matching #OpenSource 

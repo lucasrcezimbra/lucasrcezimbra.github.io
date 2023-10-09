@@ -6,6 +6,7 @@ date: 2023-08-15T07:30:00-03:00
 - [Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
 - [adr-tools (cli)](https://github.com/npryce/adr-tools)
 	- [Install](https://github.com/npryce/adr-tools/blob/master/INSTALL.md)
+- [adr-viewer](https://github.com/mrwilson/adr-viewer) - easy-to-navigate web page, either as a local web-server or generated static content.
 
 
 ## Diagrams
