@@ -91,6 +91,41 @@ date: 2022-04-08T20:08:54-03:00
 
 {{< contribution
     status="open"
+    url="https://github.com/vitalik/django-ninja/pull/873"
+    project="django-ninja"
+    title="Improves create_schema to get types from custom_fields"
+    date="2023-10-11"
+>}}
+{{< contribution
+    status="merged"
+    url="https://github.com/pypyr/pypyr/pull/338"
+    project="pypyr"
+    title="Classify - Fix string loader tests"
+    date="2023-10-05"
+>}}
+{{< contribution
+    status="merged"
+    url="https://github.com/pypyr/pypyr/pull/337"
+    project="pypyr"
+    title="Classify - Fix file loader tests"
+    date="2023-10-05"
+>}}
+{{< contribution
+    status="merged"
+    url="https://github.com/pypyr/pypyr/pull/334"
+    project="pypyr"
+    title="Classify - Fix dsl tests"
+    date="2023-10-04"
+>}}
+{{< contribution
+    status="closed"
+    url="https://github.com/pypyr/pypyr/pull/332"
+    project="pypyr"
+    title="Models and loader"
+    date="2023-09-25"
+>}}
+{{< contribution
+    status="merged"
     url="https://github.com/pypyr/pypyr/pull/326"
     project="pypyr"
     title="String Loader"
