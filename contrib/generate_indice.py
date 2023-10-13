@@ -14,8 +14,9 @@ def main():
     lines = []
 
     for filepath in notes_dir.iterdir():
-        if filepath.is_dir() or filepath.name == 'indice.md':
+        if filepath.is_dir() or filepath.name == 'indice.md' or not filepath.name.endswith('.md'):
             continue
+
         title = filepath.name.replace('.md', '')
         lines.append(f'- [{title}]({{{{< ref "{title}" >}}}})')
 

@@ -12,3 +12,4 @@ date: 2023-08-15T07:30:00-03:00
 - Error: `failed to start daemon: Error initializing network controller: error obtaining controller instance: failed to create NAT` #troubleshooting 
 	- `sudo shutdown -r now`
 	- If reboot doesn't work: `sudo update-alternatives --set iptables /usr/sbin/iptables-legacy && sudo update-alternatives --set ip6tables /usr/sbin/ip6tables-legacy`
+- [export command](https://docs.docker.com/engine/reference/commandline/export/) - export the contents of the _underlying_ directory, not the contents of the volume.

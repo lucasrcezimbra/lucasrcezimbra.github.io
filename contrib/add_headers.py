@@ -32,7 +32,7 @@ def prepend(filepath, text, original):
 
 def main():
     for filepath in notes_dir.iterdir():
-        if filepath.is_dir():
+        if filepath.is_dir() or not filepath.name.endswith('.md'):
             continue
 
         title = filepath.name.replace('.md', '')

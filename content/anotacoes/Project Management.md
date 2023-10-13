@@ -10,6 +10,7 @@ date: 2023-09-20T08:51:25-0300
 - [ClickUp](https://clickup.com/)
 	- Pros
 		- Multiple boards in one view
+		- Easy export as CSV
 	- Cons
 		- Slow and heavyweight
 - [Jira](https://www.atlassian.com/software/jira)

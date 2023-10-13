@@ -3,7 +3,6 @@ title: "Observability"
 date: 2023-08-15T07:30:00-03:00
 ---
 - [Sentry]({{< ref "Sentry" >}})
-
 - Transactions vs Spans
 	- ![diagram-transaction-trace.png](../assets/diagram-transaction-trace_1678298375545_0.png)
 	  from https://docs.sentry.io/product/sentry-basics/tracing/distributed-tracing/
@@ -12,6 +11,16 @@ date: 2023-08-15T07:30:00-03:00
 		- A Span represents a unit of work or operation. Spans are the building blocks of Traces.
 		- A Span is best used to when the operation has a start and an end.
 		- A Span Event is a information of the Span. It's best used to track operations with singular point in time.
+
+## LLM
+- [arize](https://arize.com/)
+- [baserun](https://baserun.ai/welcome) - From identifying an issue to evaluating the solution
+- [Datadog](https://www.datadoghq.com/solutions/openai/) - OpenAI Monitoring
+- [fiddler](https://www.fiddler.ai/llmops) - 
+- [Gantry](https://www.gantry.io/) - observability, analytics, and evaluation for your AI-powered products.
+- [Helicone](https://www.helicone.ai/) - monitoring, logging, and tracing for your LLM applications out of the box #OpenSource 
+- [Phoenix](https://phoenix.arize.com/) - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook #OpenSource 
+- [Vellum](https://www.vellum.ai/) - prompt engineering, semantic search, version control, quantitative testing, and performance monitoring.
 
 ## OpenTelemetry
 - [Python]({{< ref "Python" >}}) [SDK](https://opentelemetry-python.readthedocs.io/en/latest/index.html)

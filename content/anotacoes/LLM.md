@@ -2,7 +2,8 @@
 title: "LLM"
 date: 2023-08-15T07:30:00-03:00
 ---
-- [Vector Database]({{< ref "Vector Database" >}})
+- [Observability]({{< ref "Observability" >}})
+- Vector [Databases]({{< ref "Databases" >}})
 - OWASP Top 10 - [Doc](https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-v1_0.pdf) - [Slides](https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-slides-v1_0.pdf)
 - [Unstructured](https://unstructured.io/) - ETL for LLMs
 - LoRA = low rank adaptation - vastly cheaper mechanism for fine tuning
@@ -53,7 +54,11 @@ date: 2023-08-15T07:30:00-03:00
 ### Cloud
 - https://www.cerebrium.ai/ - makes it easier to train, deploy and monitor machine learning models with just a few lines of code - Serverless GPU Model Deployment
 - https://cohere.ai/ - build high performance, secure LLM for the enterprise - powerful capabilities, like content generation, summarization, and search
-- https://replicate.com/ - Run models in the cloud at scale.
+- [CoreWeave](https://www.coreweave.com/) - cloud provider, delivering a massive scale of GPUs.
+- [Foundry](https://mlfoundry.com/) - Instant Compute ML infra.
+- [Lambda](https://lambdalabs.com/) - access to GPUs for deep learning.
+- [Modal](https://modal.com/) - Run generative AI models, large-scale batch jobs, job queues, and much more.
+- [Replicate](https://replicate.com/) - Run models in the cloud at scale.
 ### Decentralized
 - [Petals](https://petals.dev/) - Run large language models at home, BitTorrent‑style - [Repo](https://github.com/bigscience-workshop/petals)
 ### Local
@@ -96,10 +101,12 @@ date: 2023-08-15T07:30:00-03:00
 	- Pros
 		- [Builtin Chain serialization](https://python.langchain.com/en/latest/modules/chains/generic/serialization.htm)
 	- [BabyAGI](https://github.com/yoheinakajima/babyagi) #Pinecone
+- [LiteLLM](https://docs.litellm.ai/docs/) - Call 100+ LLMs using the same Input/Output format #OpenSource 
 - [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/index.html) - #OpenSource 
 - [LLM](https://llm.datasette.io/en/stable/) - A CLI utility and [Python]({{< ref "Python" >}}) lib for interacting with OpenAI, PaLM and local models installed on your own machine #OpenSource 
 - [Prompt Engine](https://github.com/microsoft/prompt-engine) - [Javascript]({{< ref "Javascript" >}}) lib for creating and maintaining prompts #OpenSource 
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) -  [Python]({{< ref "Python" >}}) and C# libs that allow to define plugins that can be chained together #OpenSource
+- 
 
 ## Speech Recognition 
 - https://github.com/openai/whisper - general-purpose speech recognition model

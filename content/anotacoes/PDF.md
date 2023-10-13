@@ -23,13 +23,3 @@ merger.write(path / 'casa.pdf')
 merger.close()
 ```
 
-## How to merge PDFs
-Using [Python]({{< ref "Python" >}})
-```python
-from PyPDF2 import PdfMerger
-merger = PdfMerger()
-merger.append("/home/finetune/Downloads/contrato.pdf")
-merger.append("/home/finetune/Downloads/assinatura.pdf")
-merger.write("/home/finetune/Downloads/contrato_assinado.pdf")
-merger.close()
-```

@@ -2,9 +2,10 @@
 title: "Agile"
 date: 2023-08-15T07:30:00-03:00
 ---
-
 - https://agiledictionary.com/ - Agile Dictionary
 - https://agiledictionary.com/209/spike/ - Spike
+- [Why Software Estimations Are Always Wrong](https://www.youtube.com/watch?v=OS6gzabM0pI)
+	- ![Pasted image 20231012181719.png]({{< ref "Pasted image 20231012181719.png" >}})
 
 ## Kanban
 - [Kanban Highway: The Least Popular Mario Kart Course](https://blog.danslimmon.com/2015/06/05/kanban-highway-the-least-popular-mario-kart-course/)

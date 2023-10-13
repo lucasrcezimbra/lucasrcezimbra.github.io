@@ -2,6 +2,27 @@
 title: "Python"
 date: 2023-08-15T07:30:00-03:00
 ---
+- Why to use spec when using Mock? ([Tweet](https://twitter.com/lucasrcezimbra/status/1712787160179286436))
+	```python
+	from unittest.mock import Mock
+	
+	class MyClass:
+		pass
+
+	# without spec
+	Mock().wrong_method()
+	# Out: <Mock name='mock.wrong_method()' id='140607049530000'>
+
+	Mock(spec=MyClass).wrong_method()
+	# raises "AttributeError: Mock object has no attribute 'wrong_method'"
+	```
+- How to print a tree ([Tweet](https://twitter.com/lucasrcezimbra/status/1711423408909803716))
+	```python
+	def print_tree(tree, indent=2, level=0):
+	    for name, child in tree.items():
+		    print(' '*indent*level + name)
+		    print_tree(child, indent, level+1)
+	```
 - How to get the args names from a function?
 	```python
 	import inspect
@@ -18,7 +39,7 @@ date: 2023-08-15T07:30:00-03:00
 	In [3]: inspect.getfullargspec(f).args
 	Out[3]: ['x', 'y']
 	```
-- Why avoid initing Decimal from float
+- Why avoid initing Decimal from float ([Tweet](https://twitter.com/lucasrcezimbra/status/1696892876116914633))
 	```python
 	In [1]: from decimal import Decimal
 	
@@ -28,7 +49,7 @@ date: 2023-08-15T07:30:00-03:00
 	In [3]: Decimal('0.1')
 	Out[3]: Decimal('0.1')
 	```
-- Why avoid using mutable objects as default args
+- Why avoid using mutable objects as default args ([Tweet](https://twitter.com/lucasrcezimbra/status/1697723506727715020))
 	```python
 	In [1]: def f(k, v, d={}):
        ...:    d[k] = v
@@ -40,7 +61,7 @@ date: 2023-08-15T07:30:00-03:00
 	In [3]: f("y", 2)
 	Out[3]: {'x': 1, 'y': 2}
 	```
-- Why to fixtures instead of namespace variables for mocked data
+- Why to fixtures instead of namespace variables for mocked data ([Tweet](https://twitter.com/lucasrcezimbra/status/1704810879169024089))
 	```python
 	# without fixture
 	
@@ -82,15 +103,23 @@ date: 2023-08-15T07:30:00-03:00
 	path/to/tests/test_zero.py:15: AssertionError
 	=====================<mark> 1 failed, 3 passed in 0.18s </mark>=====================
 	```
-- How to print logs when running pytest?
+- How to print logs when running pytest? ([Tweet](https://twitter.com/lucasrcezimbra/status/1705183510837747905))
 	```shell
 	pytest --log-cli-level DEBUG
 	```
-
+- How to merge PDFs ([Tweet](https://twitter.com/lucasrcezimbra/status/1712582240943968477))
+	```python
+	from pypdf import PdfWriter
+	w = PdfWriter()
+	w.append("first.pdf")
+	w.append("second.pdf")
+	w.write("merged.pdf")
+	w.close()
+	```
 - https://github.com/haralyzer/haralyzer/ - Lib to read HAR files #tools
 - `[extras.pipfile_deprecated_finder.2] 'pip-shims<=0.3.4' does not match '^[a-zA-Z-_.0-9]+$` #troubleshooting 
 	  - `pre-commit autoupdate`
-- How to move from pip to Poetry
+- How to move from pip to Poetry ([Tweet](https://twitter.com/lucasrcezimbra/status/1696637161993326741))
 	```bash
 	poetry init
 	cat requirements.txt | cut -d '=' -f 1 | xargs poetry add
@@ -270,7 +299,7 @@ Fonte: https://www.youtube.com/watch?v=DUCMjsrYSrQ
 
 ## Strings
 ### Formatting
-#### `%` operator
+#### `%` operator ([Tweet](https://twitter.com/lucasrcezimbra/status/1704086552274424259))
 - `%s`: String conversion.
 - `%d` or `%i`: Integer conversion.
 - `%f`: Float conversion.
@@ -283,7 +312,7 @@ Out[1]: 'a 1 1.000000 10 10 1.000000e+02'
 ```
 ### f-string
 Fonte: https://fstring.help/
-- debugging
+- debugging ([Tweet](https://twitter.com/lucasrcezimbra/status/1704465326321070555))
 	```python
 	user = "eric_idle"
 	f"{user=}"
@@ -310,6 +339,7 @@ Fonte: https://fstring.help/
 
 
 ## Web
+- [Mangum](https://github.com/jordaneremieff/mangum) - [AWS]({{< ref "AWS" >}}) Lambda support for ASGI applications
 ### Django
 - [Ninja](https://github.com/vitalik/django-ninja)
 	- Fields selections [Issue](https://github.com/vitalik/django-ninja/issues/333)
