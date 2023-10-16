@@ -1,6 +1,8 @@
 ---
-title: "Architecture"
+title: Architecture
 date: 2023-08-15T07:30:00-03:00
+aliases:
+  - /anotacoes/microservices
 ---
 - Getting the Basics - Software Architecture Introduction
 	- https://www.youtube.com/watch?v=8UlLgOf20Ho
@@ -57,6 +59,11 @@ date: 2023-08-15T07:30:00-03:00
 ## Event-driven
 - https://serverlessland.com/event-driven-architecture/visuals - Diagrams about event-driven architectures
 
+## Monoliths
+- [How to recover from microservices](https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc)
+- [The Majestic Monolith](https://m.signalvnoise.com/the-majestic-monolith/)
+- [Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%](https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90)
+- [Stack Overflow Architecture](https://stackexchange.com/performance)
 
 ## Security
 ### Basic Auth

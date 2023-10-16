@@ -28,6 +28,12 @@ aliases:
 - [Pingback](https://pingback.com)
 - [Substack](https://substack.com/)
 
+## Pentesting
+- [Arjun](https://github.com/s0md3v/Arjun) - HTTP parameter discovery suite - enumerate any hidden parameters
+- [Nmap](https://github.com/nmap/nmap) - Network Mapper
+- [OWASP Amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
+- [relative-url-extractor](https://github.com/jobertabma/relative-url-extractor) - extracts relative URLs from a file
+
 ## Twitter
 - [Typefully](https://typefully.com/)
 - [Tweet Hunter](https://tweethunter.io/)

@@ -60,6 +60,7 @@ date: 2023-08-15T07:30:00-03:00
 - [Modal](https://modal.com/) - Run generative AI models, large-scale batch jobs, job queues, and much more.
 - [Replicate](https://replicate.com/) - Run models in the cloud at scale.
 ### Decentralized
+- [GPUtopia](https://gputopia.ai/) - GPU Marketplace
 - [Petals](https://petals.dev/) - Run large language models at home, BitTorrent‑style - [Repo](https://github.com/bigscience-workshop/petals)
 ### Local
 - [MLC LLM](https://mlc.ai/mlc-llm/) - LLM on iPhone - [App Store](https://apps.apple.com/us/app/mlc-chat/id6448482937?platform=iphone) - [Repository](https://github.com/mlc-ai/mlc-llm)
@@ -101,6 +102,7 @@ date: 2023-08-15T07:30:00-03:00
 	- Pros
 		- [Builtin Chain serialization](https://python.langchain.com/en/latest/modules/chains/generic/serialization.htm)
 	- [BabyAGI](https://github.com/yoheinakajima/babyagi) #Pinecone
+	- [Langflow](https://github.com/logspace-ai/langflow) - UI designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [LiteLLM](https://docs.litellm.ai/docs/) - Call 100+ LLMs using the same Input/Output format #OpenSource 
 - [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/index.html) - #OpenSource 
 - [LLM](https://llm.datasette.io/en/stable/) - A CLI utility and [Python]({{< ref "Python" >}}) lib for interacting with OpenAI, PaLM and local models installed on your own machine #OpenSource 
