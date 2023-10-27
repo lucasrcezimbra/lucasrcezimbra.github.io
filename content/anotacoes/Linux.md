@@ -84,6 +84,10 @@ aliases:
 	```bash
 	ssh -vCND localhost:9999 -i <path_to_id_rsa> <username>@<remote_server>
 	```
+- How to learn what type (DDR?) memory my computer uses?
+	```shell
+	sudo dmidecode -t 17
+	```
 
 ## Debian
 - How to validate a .desktop file

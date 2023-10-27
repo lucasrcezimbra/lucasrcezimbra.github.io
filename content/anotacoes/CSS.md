@@ -9,3 +9,4 @@ date: 2023-10-13T10:26:51-0300
 - [Bootstrap](https://getbootstrap.com/)
 - [missing.css](https://missing.style/)
 - [Tailwind](https://tailwindcss.com/)
+- [Semantic UI](https://semantic-ui.com/) - [GitHub](https://github.com/Semantic-Org/Semantic-UI)

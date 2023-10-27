@@ -4,6 +4,14 @@ date: 2023-08-15T07:30:00-03:00
 aliases:
   - /git
 ---
+- Merging multiple repositories ([--allow-unrelated-histories](https://git-scm.com/docs/git-merge#Documentation/git-merge.txt---allow-unrelated-histories)) ([Tweet](https://twitter.com/lucasrcezimbra/status/1714588928244633854))
+	```shell
+	cd <project-a>
+	git checkout -b merged
+	git remote add <project-b> git@github.com:<username>/<project-b>.git
+	git fetch <project-b> -a --tags
+	git merge --allow-unrelated-histories <project-b>/<master>
+	```
 - Revert only one file ([Tweet](https://twitter.com/lucasrcezimbra/status/1712070769793253811))
 	```bash
 	git checkout <commit_hash>~1 -- <path/to/file>

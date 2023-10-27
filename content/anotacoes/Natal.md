@@ -19,8 +19,12 @@ date: 2023-08-15T07:30:00-03:00
 - Marechal
 - Mormaço
 	- Macarrão limão siciliano com filé mignon
+- Nau
 - Obar
 - Outback Midway
+- Tábua de Carne
+- Thibet
+- Sal e Brasa
 - Zeh
 
 ## Docerias

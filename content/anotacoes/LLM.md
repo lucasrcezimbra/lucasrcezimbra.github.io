@@ -9,6 +9,7 @@ date: 2023-08-15T07:30:00-03:00
 - LoRA = low rank adaptation - vastly cheaper mechanism for fine tuning
 - [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 - https://github.com/imartinez/privateGPT
+- [Lit-GPT](https://github.com/Lightning-AI/lit-gpt)
 - https://github.com/Stability-AI/StableLM - Stability AI #OpenSource
 - https://github.com/Torantulino/Auto-GPT
 - https://github.com/hpcaitech/ColossalAI
@@ -70,6 +71,7 @@ date: 2023-08-15T07:30:00-03:00
 	- [A comprehensive guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally)
 	
 ## Image Generation
+- [Clipdrop](https://clipdrop.co/)
 - [DALL-E 2](https://openai.com/dall-e-2/)
 	- [Prompt book](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y)
 	- [DALL·E 2 Prompt Engineering Guide](https://docs.google.com/document/d/11WlzjBT0xRpQhP9tFMtxzd0q6ANIdHPUBkMV-YB043U/edit#)

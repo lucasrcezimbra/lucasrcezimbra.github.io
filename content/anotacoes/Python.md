@@ -2,20 +2,6 @@
 title: "Python"
 date: 2023-08-15T07:30:00-03:00
 ---
-- Why to use spec when using Mock? ([Tweet](https://twitter.com/lucasrcezimbra/status/1712787160179286436))
-	```python
-	from unittest.mock import Mock
-	
-	class MyClass:
-		pass
-
-	# without spec
-	Mock().wrong_method()
-	# Out: <Mock name='mock.wrong_method()' id='140607049530000'>
-
-	Mock(spec=MyClass).wrong_method()
-	# raises "AttributeError: Mock object has no attribute 'wrong_method'"
-	```
 - How to print a tree ([Tweet](https://twitter.com/lucasrcezimbra/status/1711423408909803716))
 	```python
 	def print_tree(tree, indent=2, level=0):
@@ -61,52 +47,7 @@ date: 2023-08-15T07:30:00-03:00
 	In [3]: f("y", 2)
 	Out[3]: {'x': 1, 'y': 2}
 	```
-- Why to fixtures instead of namespace variables for mocked data ([Tweet](https://twitter.com/lucasrcezimbra/status/1704810879169024089))
-	```python
-	# without fixture
-	
-	MOCK_DATA = [{"field": "value"}]
-	
-	
-	def test_one():
-	    MOCK_DATA[0]['field'] = 'other value'
-	    assert MOCK_DATA[0]['field'] == 'other value'
-	
-	
-	def test_two():
-	    assert MOCK_DATA[0]['field'] == 'value'
-	
-	
-	# with fixture
-	
-	@pytest.fixture
-	def mock_data():
-		return [{"field": "value"}]
-	
-	
-	def test_three(mock_data):
-	    mock_data[0]['field'] = 'other value'
-	    assert MOCK_DATA[0]['field'] == 'other value'
-	
-	
-	def test_four(mock_data):
-	    assert mock_data[0]['field'] == 'value'
-	```
-	
-	```python
-	    def test_two():
-	>       assert MOCK_DATA[0]['field'] == 'value'
-	E       AssertionError: assert 'other value' == 'value'
-	E         - value
-	E         + other value
-	
-	path/to/tests/test_zero.py:15: AssertionError
-	=====================<mark> 1 failed, 3 passed in 0.18s </mark>=====================
-	```
-- How to print logs when running pytest? ([Tweet](https://twitter.com/lucasrcezimbra/status/1705183510837747905))
-	```shell
-	pytest --log-cli-level DEBUG
-	```
+
 - How to merge PDFs ([Tweet](https://twitter.com/lucasrcezimbra/status/1712582240943968477))
 	```python
 	from pypdf import PdfWriter
@@ -212,6 +153,7 @@ Relates to [Message Queues]({{< ref "Message Queues" >}})
 ## Pipelines
 
 - https://github.com/pditommaso/awesome-pipeline
+- https://temporal.io/
 ### AI/Data
 - dagster: https://github.com/dagster-io/dagster ![GitHub Repo stars](https://img.shields.io/github/stars/dagster-io/dagster)
 	- cloud-native data pipeline orchestrator ... integrated lineage and observability ..., and best-in-class testability.
@@ -320,16 +262,16 @@ Fonte: https://fstring.help/
 	f"{user = }"
 	# "user = 'eric_idle'"
 	```
-- padding
+- padding ([Tweet](https://twitter.com/lucasrcezimbra/status/1714968107674939755))
 	```python
-	val = "test"
-	f"{val:>10}"
+	value = "test"
+	f"{value:>10}"
 	# '      test'
-	f"{val:<10}"
+	f"{value:<10}"
 	# 'test      '
-	f"{val:_<10}"
+	f"{value:_<10}"
 	# 'test______'
-	f"{val:^10}"
+	f"{value:^10}"
 	# '   test   '
 	```
 ### Parsing
@@ -338,11 +280,90 @@ Fonte: https://fstring.help/
 - [ttp](https://github.com/dmulyalin/ttp) - Template Text Parser
 
 
+## Tests
+- How to print logs when running pytest? ([Tweet](https://twitter.com/lucasrcezimbra/status/1705183510837747905))
+	```shell
+	pytest --log-cli-level DEBUG
+	```
+### Fixtures
+- Why to fixtures instead of namespace variables for mocked data ([Tweet](https://twitter.com/lucasrcezimbra/status/1704810879169024089))
+	```python
+	# without fixture
+	
+	MOCK_DATA = [{"field": "value"}]
+	
+	
+	def test_one():
+	    MOCK_DATA[0]['field'] = 'other value'
+	    assert MOCK_DATA[0]['field'] == 'other value'
+	
+	
+	def test_two():
+	    assert MOCK_DATA[0]['field'] == 'value'
+	
+	
+	# with fixture
+	
+	@pytest.fixture
+	def mock_data():
+		return [{"field": "value"}]
+	
+	
+	def test_three(mock_data):
+	    mock_data[0]['field'] = 'other value'
+	    assert MOCK_DATA[0]['field'] == 'other value'
+	
+	
+	def test_four(mock_data):
+	    assert mock_data[0]['field'] == 'value'
+	```
+	
+	```python
+	    def test_two():
+	>       assert MOCK_DATA[0]['field'] == 'value'
+	E       AssertionError: assert 'other value' == 'value'
+	E         - value
+	E         + other value
+	
+	path/to/tests/test_zero.py:15: AssertionError
+	=====================<mark> 1 failed, 3 passed in 0.18s </mark>=====================
+	```
+### Speccing
+- Why to use spec when using Mock? ([Tweet](https://twitter.com/lucasrcezimbra/status/1713876531754201433))
+	```python
+	from unittest.mock import Mock
+	
+	class MyClass:
+		pass
+
+	# without spec
+	Mock().wrong_method()
+	# Out: <Mock name='mock.wrong_method()' id='140607049530000'>
+
+	Mock(spec=MyClass).wrong_method()
+	# raises "AttributeError: Mock object has no attribute 'wrong_method'"
+	```
+- Why to use autospec? ([Tweet](https://twitter.com/lucasrcezimbra/status/1714230538305692145))
+	```python
+	from unittest.mock import create_autospec, Mock
+
+	class MyClass:
+	    myobj = object
+
+	create_autospec(MyClass).myobj.wrong_method()
+	# raises "AttributeError: Mock object has no attribute 'wrong_method'"
+
+	Mock(spec=MyClass).myobj.wrong_method()
+	# Out: <Mock name='mock.myobj.wrong_method()' id='140671042320272'>
+	```
+
+
 ## Web
 - [Mangum](https://github.com/jordaneremieff/mangum) - [AWS]({{< ref "AWS" >}}) Lambda support for ASGI applications
 ### Django
 - [Ninja](https://github.com/vitalik/django-ninja)
 	- Fields selections [Issue](https://github.com/vitalik/django-ninja/issues/333)
+- [Scaffold](https://github.com/Abdenasser/dr_scaffold)
 - How to test unmanaged models? [Source](https://stackoverflow.com/a/72593718)
 	```python
 	# <project>/tests/conftest.py
@@ -360,6 +381,15 @@ Fonte: https://fstring.help/
 	- from https://henriquebastos.net/how-chatgpt-quickly-helped-me-understand-djangos-source-code
 - `django.core.exceptions.ImproperlyConfigured: Cannot import '<app>'. Check that '<project>.<app>.apps.<App>Config.name' is correct.` #troubleshooting 
 	- Rename `<App>Config.name` from `<app>` to `<project>.<app>`
+
+#### Admin
+- [AdminLTE](https://github.com/wuyue92tree/django-adminlte-ui) - Admin dashboard template based on Bootstrap
+- Awesome [1](https://github.com/iamfoysal/Best-Django-Admin-interface) and [2](https://github.com/originalankur/awesome-django-admin)
+- [jazzmin](https://github.com/farridav/django-jazzmin) - AdminLTE 3 & Bootstrap 4
+- [JET Reboot](https://github.com/assem-ch/django-jet-reboot) - 
+- [Semantic UI](https://github.com/globophobe/django-semantic-admin) - [Docs](https://globophobe.github.io/django-semantic-admin/)
+- [Unfold Admin](https://unfoldadmin.com/) - [GitHub](https://github.com/unfoldadmin/django-unfold) - HTMX, Alpine.js and TailwindCSS
+- [Volt](https://github.com/app-generator/django-admin-volt) - Based on Bootstrap 5
 
 #### GraphQL Server
 - [Ariadne](https://github.com/mirumee/ariadne-django)
@@ -414,7 +444,6 @@ orm<-. Query/Data .->db
 - [django-treebeard](https://github.com/django-treebeard/django-treebeard) - Efficient tree implementations
 - [django-tree-queries](https://github.com/matthiask/django-tree-queries) - Adjacency-list trees using recursive common table expressions
 
-
 ### GraphQL Server
 - Ariadne - https://ariadnegraphql.org/
 - Graphene - https://graphene-python.org/
@@ -430,12 +459,16 @@ orm<-. Query/Data .->db
     - unnecessarily complex
     - some strange evals: [https://github.com/marcospereirampj/python-keycloak/blob/8fd315d11a42a8b4afebfe84498e882bc0b736c8/keycloak/authorization/__init__.py#L78-L91](https://github.com/marcospereirampj/python-keycloak/blob/8fd315d11a42a8b4afebfe84498e882bc0b736c8/keycloak/authorization/__init__.py#L78-L91)
 
+
 ## requests
 - https://github.com/requests/toolbelt/ #libs
+
 
 ## RPC
 - [gRPC](https://grpc.io/docs/languages/python/quickstart/)
 - [RPyC](https://github.com/tomerfiliba-org/rpyc) - [Docs](https://rpyc.readthedocs.io/en/latest/) - library for symmetrical remote procedure calls, clustering, and distributed-computing #OpenSource 
+
+
 ## SSH
 - Paramiko - [Homepage](https://www.paramiko.org/); [Docs](https://www.paramiko.org/); [Source](https://github.com/paramiko/paramiko)
 	- It doesn't support SOCKS5 proxy (`ssh -D`) - [issue](https://github.com/paramiko/paramiko/pull/1873); [third-party PR](https://github.com/linwownil/paramiko/pull/1/)
