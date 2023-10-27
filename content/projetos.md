@@ -5,6 +5,13 @@ date: 2022-04-08T20:08:54-03:00
 
 
 {{< project
+    name="Missas.com.br"
+    description="Site com horário das missas."
+    website="https://missas.com.br"
+>}}
+
+
+{{< project
     name="Agilize"
     description="Cliente para acessar seus dados na Agilize."
     github="lucasrcezimbra/agilize"
