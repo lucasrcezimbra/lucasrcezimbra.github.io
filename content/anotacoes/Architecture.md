@@ -12,7 +12,7 @@ aliases:
 	- Restrictions (Legal Compliance, Cost, Standards, Talent Hiring, Time to Market)
 	- Book - Software Architecture Patterns (O'Reilly)
 - [The Architect’s Blueprint - Understanding Software Styles and Patterns with Cheatsheet](https://medium.com/bytebytego-system-design-alliance/the-architects-blueprint-understanding-software-styles-and-patterns-with-cheatsheet-5c1f5fd55bbd)
-	- ![](Assets/Software_Architecture_Styles.png)
+	- ![](/anotacoes/Assets/Software_Architecture_Styles.png)
 
 
 ## API
@@ -40,11 +40,11 @@ aliases:
 
 ### The Clean Architecture
 - A **layered** approach for a more civilized age
-  ![](Assets/Pasted_image_20230720162108.png)
+  ![](/anotacoes/Assets/Pasted_image_20230720162108.png)
 - "Your component can see only what is being defined in the inner layer"
 - "The problem of unclean systems is dependent components"
 - The golden rule: Talk inward with **simple structures**, talk outwards through **interfaces**.
-  ![](Assets/Pasted_image_20230720162524.png)
+  ![](/anotacoes/Assets/Pasted_image_20230720162524.png)
 - Pros
 	- Testability - be able to test only the business logic
 

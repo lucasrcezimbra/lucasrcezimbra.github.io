@@ -63,7 +63,7 @@ aliases:
 	git config --global alias.lg "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'"
 	git lg
 	```
-	![git lg, a better log](Assets/git-lg.png)
+	![git lg, a better log](/anotacoes/Assets/git-lg.png)
 
 - Add some parts of a file ([Tweet](https://twitter.com/lucasrcezimbra/status/1712070761928908992))	
 	```bash
