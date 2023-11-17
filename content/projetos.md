@@ -10,6 +10,11 @@ date: 2022-04-08T20:08:54-03:00
     website="https://missas.com.br"
 >}}
 
+{{< project
+    name="hugo-coder-htmx"
+    description="Tema de blog para Hugo. Single-page application usando HTMX."
+    github="lucasrcezimbra/hugo-coder-htmx"
+>}}
 
 {{< project
     name="Agilize"
