@@ -4,6 +4,7 @@ date: 2023-08-15T07:30:00-03:00
 aliases:
   - /anotacoes/microservices
 ---
+- [How to drive your architecture decisions with a simple framework](https://twitter.com/milan_milanovic/status/1721442290760057223)
 - Getting the Basics - Software Architecture Introduction
 	- https://www.youtube.com/watch?v=8UlLgOf20Ho
 	- Functional requirements: What should the system do?

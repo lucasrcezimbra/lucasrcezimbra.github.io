@@ -8,7 +8,7 @@ date: 2022-09-13T20:49:12-03:00
 
 {{< columns >}} <!-- begin columns block -->
 
-![Setup](setup.jpg)
+![Setup](/sobre/setup.jpg)
 
 <---> <!-- column separator -->
 

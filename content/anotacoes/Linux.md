@@ -16,6 +16,11 @@ aliases:
 	- `-H` = `-H`: headers
 	- `--data-raw <json>` = `-p <file>.json`: request body
 	- `--data @file` = `-p <file>.json`: request body
+- Converting images from webp (or jpg, png, etc.) to jpg (or webp, png, etc) ([Tweet](https://twitter.com/lucasrcezimbra/status/1718995187878256796))
+	```shell
+	sudo apt install imagemagick
+	convert <file>.webp <file>.jpg
+	```
 - How to resize images
 	```bash
 	sudo apt install imagemagick

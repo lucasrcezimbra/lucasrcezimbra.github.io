@@ -10,6 +10,7 @@ date: 2023-08-15T07:30:00-03:00
 - [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 - https://github.com/imartinez/privateGPT
 - [Lit-GPT](https://github.com/Lightning-AI/lit-gpt)
+- [Jina AI](https://jina.ai/)
 - https://github.com/Stability-AI/StableLM - Stability AI #OpenSource
 - https://github.com/Torantulino/Auto-GPT
 - https://github.com/hpcaitech/ColossalAI
@@ -59,6 +60,7 @@ date: 2023-08-15T07:30:00-03:00
 - [Foundry](https://mlfoundry.com/) - Instant Compute ML infra.
 - [Lambda](https://lambdalabs.com/) - access to GPUs for deep learning.
 - [Modal](https://modal.com/) - Run generative AI models, large-scale batch jobs, job queues, and much more.
+- [Monster API](https://monsterapi.ai/) - access powerful generative AI models with our auto-scaling APIs, zero management required.
 - [Replicate](https://replicate.com/) - Run models in the cloud at scale.
 ### Decentralized
 - [GPUtopia](https://gputopia.ai/) - GPU Marketplace
@@ -108,6 +110,7 @@ date: 2023-08-15T07:30:00-03:00
 - [LiteLLM](https://docs.litellm.ai/docs/) - Call 100+ LLMs using the same Input/Output format #OpenSource 
 - [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/index.html) - #OpenSource 
 - [LLM](https://llm.datasette.io/en/stable/) - A CLI utility and [Python]({{< ref "Python" >}}) lib for interacting with OpenAI, PaLM and local models installed on your own machine #OpenSource 
+- [MonkeyPatch](https://github.com/monkeypatch/monkeypatch.py) - easily call an LLM in place of the function body in Python. The more you use MonkeyPatch functions, the cheaper and faster they gets (up to 9-10x!) through automatic model distillation. #OpenSource 
 - [Prompt Engine](https://github.com/microsoft/prompt-engine) - [Javascript]({{< ref "Javascript" >}}) lib for creating and maintaining prompts #OpenSource 
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel) -  [Python]({{< ref "Python" >}}) and C# libs that allow to define plugins that can be chained together #OpenSource
 - 

@@ -6,10 +6,15 @@ aliases:
 ---
 - [PageSpeed Insights](https://pagespeed.web.dev/)
 - [Landingsite](https://landingsite.ai/)
+
 ## AI Code Reviewers
 - [CodeRabbit](https://coderabbit.ai/)
 - [CodiumAI](https://www.codium.ai/)
 - [Sourcery](https://sourcery.ai/)
+
+## AI Image Editing
+- [OpenArt](https://openart.ai/)
+
 ## Analytics
 - [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/)
 - [Fathom Analytics](https://usefathom.com/) - GDPR-compliant; No free plans
@@ -24,13 +29,24 @@ aliases:
 - [Plausible](https://plausible.io/) - No free plans #OpenSource
 - [unami](https://umami.is/) - free plan (10K events/month) #OpenSource 
 - [Wide Angle](https://wideangle.co/) - No free plans
+
 ## Coverage
 - [Codecov](https://about.codecov.io/)
 - [Code Climate](https://codeclimate.com/)
 - [Coveralls](https://coveralls.io/ )
+
 ## Importers
 - [TableFlow](https://tableflow.com/) - CSV importer #OpenSource 
 - [Flatfile](https://flatfile.com/) - Data file import
+
+## Hosting
+### Platform as a Service
+- [Heroku](https://www.heroku.com/)
+- [Hop](https://hop.io/)
+- [Porter](https://www.porter.run/) - manages infrastructure in your own AWS, GCP, or Azure account.
+- [Railway](https://railway.app/)
+- [Render](https://render.com/) - a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.
+
 ## Integrations
 - [IFTTT](https://ifttt.com/)
 - [Make (Integromat)](https://www.make.com/)
@@ -38,6 +54,7 @@ aliases:
 - [Tray.io](https://tray.io/)
 - [Workato](https://www.workato.com/)
 - [Zapier](https://zapier.com/)
+
 ## Newsletter
 - [beehiiv](https://www.beehiiv.com/)
 - [Buttondown](https://buttondown.email/)
@@ -50,6 +67,9 @@ aliases:
 - [OWASP Amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [relative-url-extractor](https://github.com/jobertabma/relative-url-extractor) - extracts relative URLs from a file
 
+## Testing
+### API
+- [Hurl](https://hurl.dev/)
 ## Twitter
 - [Typefully](https://typefully.com/)
 - [Tweet Hunter](https://tweethunter.io/)
