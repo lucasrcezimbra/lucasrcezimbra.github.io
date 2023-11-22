@@ -1,5 +1,9 @@
 <!-- Based on https://codepen.io/NielsVoogt/pen/MbMMxv -->
 <div class="timeline-item" date-is='{{.Get "date"}}'>
-  <h3>{{.Get "title"}}</h3>
+  <h3>
+    {{ if .Get "type" | eq "work" }}<i class="fa fa-solid fa-briefcase"></i>{{ end }}
+    {{ if .Get "type" | eq "study" }}<i class="fa fa-solid fa-graduation-cap"></i>{{ end }}
+    {{ .Get "title" }}
+  </h3>
   <p>{{ .Inner }}</p>
 </div>
