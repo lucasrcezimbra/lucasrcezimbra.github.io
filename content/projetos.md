@@ -103,6 +103,20 @@ date: 2022-04-08T20:08:54-03:00
 
 {{< contribution
     status="open"
+    url="https://github.com/bloomberg/attrs-strict/pull/108"
+    project="attrs-strict"
+    title="fix: support types without args"
+    date="2023-11-22"
+>}}
+{{< contribution
+    status="closed"
+    url="https://github.com/luizdepra/hugo-coder/pull/857"
+    project="hugo-coder"
+    title="SPA using HTMX"
+    date="2023-11-17"
+>}}
+{{< contribution
+    status="open"
     url="https://github.com/vitalik/django-ninja/pull/873"
     project="django-ninja"
     title="Improves create_schema to get types from custom_fields"
