@@ -3,103 +3,98 @@ title = "Lucas Cezimbra"
 theme = "hugo-coder"
 languagecode = "pt-br"
 defaultcontentlanguage = "pt"
-
 paginate = 20
-
 pygmentsstyle = "vim"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
 enableEmoji = true
 
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+
+[markup.goldmark.renderer]
+unsafe = true
 
 
-[social]
-  twitter = "lucasrcezimbra"
+
+[[menu.main]]
+name = "Sobre"
+weight = 10
+url = "sobre/"
+
+[[menu.main]]
+name = "Projetos"
+weight = 20
+url = "projetos/"
+
+[[menu.main]]
+name = "Anotações"
+weight = 30
+url = "anotacoes/indice/"
+
+[[menu.main]]
+name = "Palestras"
+weight = 40
+url = "palestras/"
+
+[[menu.main]]
+name = "Blog"
+weight = 50
+url  = "posts/"
+
 
 
 [params]
-  author = "Lucas Cezimbra"
-  # info = "Full Stack DevOps and Magician"
-  # description = "John Doe's personal website"
-  # keywords = "blog,developer,personal"
-  gravatar = "lucas.cezimbra@gmail.com"
-
-  favicon_32 = "images/lucas-32x32.jpg"
-  favicon_16 = "images/lucas-16x16.jpg"
-  touchIcon = "images/lucas-180x180.jpg"
-
-  # used by Twitter cards: https://gohugo.io/templates/internal/#twitter-cards
-  images = ['images/lucas-180x180.jpg']
-
-  enableTwemoji = true
-
-  colorScheme = "dark"
-  font_size = "xs"
-
-  customCSS = ["styles/custom.css", "styles/project.css", "styles/contribution.css", "styles/jquery.dataTables.min.css", "styles/timeline.css"]
-  customJS = ["scripts/jquery-3.6.1.min.js", "scripts/jquery.dataTables.min.js"]
-
-# [taxonomies]
-#   category = "categories"
-#   series = "series"
-#   tag = "tags"
-#   author = "authors"
+author = "Lucas Cezimbra"
+# info = "Full Stack DevOps and Magician"
+# description = "John Doe's personal website"
+# keywords = "blog,developer,personal"
+gravatar = "lucas.cezimbra@gmail.com"
+favicon_32 = "images/lucas-32x32.jpg"
+favicon_16 = "images/lucas-16x16.jpg"
+touchIcon = "images/lucas-180x180.jpg"
+images = ['images/lucas-180x180.jpg']  # used by Twitter cards: https://gohugo.io/templates/internal/#twitter-cards
+enableTwemoji = true
+colorScheme = "dark"
+font_size = "xs"
+customCSS = ["styles/custom.css", "styles/project.css", "styles/contribution.css", "styles/jquery.dataTables.min.css", "styles/timeline.css"]
+customJS = ["scripts/jquery-3.6.1.min.js", "scripts/jquery.dataTables.min.js"]
 
 
 [params.goatCounter]
-  code = "cezimbra"
+code = "cezimbra"
 
 
 [[params.social]]
-  name = "Github"
-  icon = "fa fa-at fa-2x"
-  weight = 10
-  url = "mailto:lucas@cezimbra.tec.br"
+name = "Github"
+icon = "fa fa-at fa-2x"
+weight = 10
+url = "mailto:lucas@cezimbra.tec.br"
+
 [[params.social]]
-  name = "Github"
-  icon = "fa fa-github fa-2x"
-  weight = 20
-  url = "https://github.com/lucasrcezimbra/"
+name = "Github"
+icon = "fa fa-github fa-2x"
+weight = 20
+url = "https://github.com/lucasrcezimbra/"
+
 [[params.social]]
-  name = "Telegram"
-  icon = "fa fa-telegram fa-2x"
-  weight = 30
-  url = "https://t.me/lucasrcezimbra?&text=Ol%C3%A1"
+name = "Telegram"
+icon = "fa fa-telegram fa-2x"
+weight = 30
+url = "https://t.me/lucasrcezimbra?&text=Ol%C3%A1"
+
 [[params.social]]
-  name = "Linkedin"
-  icon = "fa fa-linkedin fa-2x"
-  weight = 40
-  url = "https://www.linkedin.com/in/lucas-rangel-cezimbra-b46969a8/"
+name = "Linkedin"
+icon = "fa fa-linkedin fa-2x"
+weight = 40
+url = "https://www.linkedin.com/in/lucas-rangel-cezimbra-b46969a8/"
+
 [[params.social]]
-  name = "Twitter"
-  icon = "fa fa-twitter fa-2x"
-  weight = 50
-  url = "https://twitter.com/lucasrcezimbra/"
+name = "Twitter"
+icon = "fa fa-twitter fa-2x"
+weight = 50
+url = "https://twitter.com/lucasrcezimbra/"
 
 
-[[menu.main]]
-  name = "Sobre"
-  weight = 10
-  url = "sobre/"
-[[menu.main]]
-  name = "Projetos"
-  weight = 20
-  url = "projetos/"
-[[menu.main]]
-  name = "Anotações"
-  weight = 30
-  url = "anotacoes/indice/"
-[[menu.main]]
-  name = "Palestras"
-  weight = 40
-  url = "palestras/"
-[[menu.main]]
-  name = "Blog"
-  weight = 50
-  url  = "posts/"
+
+[social]
+twitter = "lucasrcezimbra"
