@@ -1,7 +1,7 @@
 baseurl = "https://cezimbra.me/"
 title = "Lucas Cezimbra"
 theme = "hugo-coder"
-languagecode = "pt-br"
+languagecode = "pt"
 defaultcontentlanguage = "pt"
 paginate = 20
 pygmentsstyle = "vim"
@@ -10,36 +10,42 @@ pygmentscodefencesguesssyntax = true
 enableEmoji = true
 
 
-
-[markup.goldmark.renderer]
-unsafe = true
-
+[languages.en]
+languageName = ":us:"
 
 
-[[menu.main]]
+[languages.pt]
+languageName = ":brazil:"
+
+[[languages.pt.menu.main]]
 name = "Sobre"
 weight = 10
 url = "sobre/"
 
-[[menu.main]]
+[[languages.pt.menu.main]]
 name = "Projetos"
 weight = 20
 url = "projetos/"
 
-[[menu.main]]
+[[languages.pt.menu.main]]
 name = "Anotações"
 weight = 30
 url = "anotacoes/indice/"
 
-[[menu.main]]
+[[languages.pt.menu.main]]
 name = "Palestras"
 weight = 40
 url = "palestras/"
 
-[[menu.main]]
+[[languages.pt.menu.main]]
 name = "Blog"
 weight = 50
 url  = "posts/"
+
+
+
+[markup.goldmark.renderer]
+unsafe = true
 
 
 
