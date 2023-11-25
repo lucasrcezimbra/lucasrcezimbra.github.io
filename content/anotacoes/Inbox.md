@@ -13,3 +13,6 @@ date: 2023-10-27T18:49:21-0300
 
 - https://www.gov.br/pt-br/servicos/assinatura-eletronica
 - Fuzzy search: https://docs.rs/simsearch/latest/simsearch/
+https://twitter.com/i/flow/login?redirect_after_login=%2Fericof%2F
+
+> Para finalizar, um recado: se você está na posição do Moacir de alguns anos atrás, com medo de perder suas garantias ao arriscar empreender, eu espero que esse texto te ajude. Não tenha medo de empreender. Planeje-se, junte uma grana, faça um colchão financeiro de segurança e se jogue. Se der certo, você ganha, se der errado, você desenvolveu uma série de habilidades que te tornarão um profissional melhor.

@@ -84,9 +84,13 @@ date: 2023-08-15T07:30:00-03:00
 	- [Demo Hugging Face](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 	- [Online](https://stablediffusionweb.com/)
 	- Outpainting on an infinite canvas - [Tweet](https://twitter.com/lkwq007/status/1576078349503373312) and [Sourcecode](https://github.com/lkwq007/stablediffusion-infinity)
-- https://www.tryleap.ai/
+- [Runway](https://runwayml.com/)
 - https://stockimg.ai/
+- https://www.tryleap.ai/
 
+
+## Models
+- [OpenHermes 2.5 - Mistral 7B](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B) - can do function calling #OpenSource 
 ## MPT
 - [Introducing MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs](https://www.mosaicml.com/blog/mpt-7b)
 - https://github.com/mosaicml/composer - PyTorch library that enables you to train neural networks faster, at lower cost, and to higher accuracy - [Python]({{< ref "Python" >}}) 

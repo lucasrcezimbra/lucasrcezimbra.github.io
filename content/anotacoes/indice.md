@@ -2,6 +2,11 @@
 title: "Anotações"
 date: 2023-08-15T07:30:00-03:00
 ---
+- [(Manifest) Front-end]({{< ref "(Manifest) Front-end" >}})
+- [(Manifest) Microservices]({{< ref "(Manifest) Microservices" >}})
+- [(Manifest) Platforms]({{< ref "(Manifest) Platforms" >}})
+- [(Manifest) Python data classes]({{< ref "(Manifest) Python data classes" >}})
+- [(Manifest) REST]({{< ref "(Manifest) REST" >}})
 - [Agile]({{< ref "Agile" >}})
 - [Alternatives to]({{< ref "Alternatives to" >}})
 - [Aplicativos de Notas]({{< ref "Aplicativos de Notas" >}})
@@ -11,6 +16,7 @@ date: 2023-08-15T07:30:00-03:00
 - [Bancos PJ Com API]({{< ref "Bancos PJ Com API" >}})
 - [Beancount]({{< ref "Beancount" >}})
 - [Brag document]({{< ref "Brag document" >}})
+- [Cartão de Crédito]({{< ref "Cartão de Crédito" >}})
 - [Catequese para Adultos]({{< ref "Catequese para Adultos" >}})
 - [Catolicismo]({{< ref "Catolicismo" >}})
 - [Chars]({{< ref "Chars" >}})
@@ -49,6 +55,7 @@ date: 2023-08-15T07:30:00-03:00
 - [Manhã de Titã]({{< ref "Manhã de Titã" >}})
 - [Media Servers]({{< ref "Media Servers" >}})
 - [Message Queues]({{< ref "Message Queues" >}})
+- [Micro-SaaS]({{< ref "Micro-SaaS" >}})
 - [Midjourney]({{< ref "Midjourney" >}})
 - [Milhas]({{< ref "Milhas" >}})
 - [MongoDB]({{< ref "MongoDB" >}})
@@ -78,6 +85,7 @@ date: 2023-08-15T07:30:00-03:00
 - [Terraform]({{< ref "Terraform" >}})
 - [The most famous 5 laws in the world]({{< ref "The most famous 5 laws in the world" >}})
 - [Toolbox]({{< ref "Toolbox" >}})
+- [Upwork]({{< ref "Upwork" >}})
 - [Vim]({{< ref "Vim" >}})
 - [VPN]({{< ref "VPN" >}})
 - [Web3]({{< ref "Web3" >}})

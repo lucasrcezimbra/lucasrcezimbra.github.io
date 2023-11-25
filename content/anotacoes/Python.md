@@ -57,6 +57,13 @@ date: 2023-08-15T07:30:00-03:00
 	w.write("merged.pdf")
 	w.close()
 	```
+- Updating list in-place ([Tweet](https://twitter.com/lucasrcezimbra/status/1726580798025797887))
+	```python
+	l2 = l1 = [1, 2]
+	l2[:] = ['a', 'b']
+	print(l1 is l2, l1, l2)
+	# True ['a', 'b'] ['a', 'b']
+	```
 - https://github.com/haralyzer/haralyzer/ - Lib to read HAR files #tools
 - `[extras.pipfile_deprecated_finder.2] 'pip-shims<=0.3.4' does not match '^[a-zA-Z-_.0-9]+$` #troubleshooting 
 	  - `pre-commit autoupdate`

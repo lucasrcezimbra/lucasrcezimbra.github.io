@@ -6,6 +6,7 @@ aliases:
 ---
 - [PageSpeed Insights](https://pagespeed.web.dev/)
 - [Landingsite](https://landingsite.ai/)
+- [Snapdrop](https://snapdrop.net/) - Transfer files across devices in the same network.
 
 ## AI Code Reviewers
 - [CodeRabbit](https://coderabbit.ai/)
@@ -14,6 +15,7 @@ aliases:
 
 ## AI Image Editing
 - [OpenArt](https://openart.ai/)
+- [Runway](https://runwayml.com/)
 
 ## Analytics
 - [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/)
@@ -41,6 +43,7 @@ aliases:
 
 ## Hosting
 ### Platform as a Service
+- [Encore](https://encore.dev/) - Backend Development Platform that automates infrastructure
 - [Heroku](https://www.heroku.com/)
 - [Hop](https://hop.io/)
 - [Porter](https://www.porter.run/) - manages infrastructure in your own AWS, GCP, or Azure account.
@@ -81,6 +84,19 @@ aliases:
 - [orama](https://github.com/oramasearch/orama) - full-text and vector search #OpenSource 
 - [Pagefind](https://github.com/cloudcannon/pagefind) - fully static search library that aims to perform well on large sites, while using as little of your users’ bandwidth as possible, and without hosting any infrastructure #OpenSource 
 
+## Shell
+- [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output.
+- [dust](https://github.com/bootandy/dust) - A more intuitive version of du
+- [grex](https://github.com/pemistahl/grex) - CLI for generating regular expressions from 
+- [nushell](https://github.com/nushell/nushell) - A new type of shell.user-provided test cases.
+- [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative).
+
+## Spreadsheet
+- [Airtable](https://www.airtable.com/)
+- [Data Rabbit](https://www.datarabbit.com/)
+- [Google Sheet](https://www.google.com/sheets/about/)
+- [Rows](https://rows.com/)
+- 
 ## Website Builder
 - [Durable](https://durable.co/) - AI website builder that generates an entire website with images and copy in seconds.
 - [Webflow](https://webflow.com/)

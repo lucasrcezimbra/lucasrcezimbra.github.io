@@ -160,3 +160,14 @@ aliases:
 ## XFCE4
 - Window top part (minimize, maximize, close, etc.) disappeared #troubleshooting : `xfwm4`
 - Desktop icons disappeared #troubleshooting : `xfdesktop`
+- Sending notification
+	```shell
+	notify-send "<title>" "<message>"
+	```
+- Customizing Keyboard shortcuts
+	```shell
+	xfconf-query --channel xfce4-keyboard-shortcuts --property <property> --set <command> --create --type 'string'
+	```
+	- Examples of `<property>`: `'/commands/custom/<Super>d'`, `'/commands/custom/Print'`, `'/xfwm4/custom/<Primary><Shift><Alt>Left'`
+	- Example of `<command>`: `'thunar'`, `'xfce4-screenshooter --fullscreen'`, `'move_window_left_workspace_key'`
+	- More examples on https://github.com/lucasrcezimbra/dotfiles/blob/master/install.sh
