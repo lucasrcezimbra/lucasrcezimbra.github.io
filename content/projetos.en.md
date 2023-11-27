@@ -1,31 +1,32 @@
 ---
-title: "Projetos"
+title: "Projects"
 date: 2022-04-08T20:08:54-03:00
+slug: "projects"
 ---
 
 
 {{< project
     name="Missas.com.br"
-    description="Site com horário das missas."
+    description="Website with Catholic mass times."
     website="https://missas.com.br"
 >}}
 
 {{< project
     name="hugo-coder-htmx"
-    description="Tema de blog para Hugo. Single-page application usando HTMX."
+    description="A minimalist Single-page application blog theme for Hugo using HTMX."
     github="lucasrcezimbra/hugo-coder-htmx"
 >}}
 
 {{< project
     name="Agilize"
-    description="Cliente para acessar seus dados na Agilize."
+    description="Client to access Agilize (Brazilian accouting company)."
     github="lucasrcezimbra/agilize"
     pypi="agilize"
 >}}
 
 {{< project
     name="Banco Inter"
-    description="Cliente para consumir a API do banco Inter para contas PJ"
+    description="Client to consume Inter (Brazilian Bank) APIs for legal person accounts."
     github="lucasrcezimbra/bancointer"
     pypi="bancointer"
     readthedocs="bancointer"
@@ -33,10 +34,22 @@ date: 2022-04-08T20:08:54-03:00
 
 {{< project
     name="PyItau"
-    description="Scraper para acessar suas contas bancárias do Itaú."
+    description="Scraper to access your Itaú (Brazilian) bank data."
     github="lucasrcezimbra/pyitau"
     pypi="pyitau"
     readthedocs="pyitau"
+>}}
+
+{{< project
+    name="Django Template"
+    description="An opinionated Django start project template."
+    github="lucasrcezimbra/django-template"
+>}}
+
+{{< project
+    name="Cookiecutter PyPackage"
+    description="My Cookiecutter PyPackage fork."
+    github="lucasrcezimbra/cookiecutter-pypackage"
 >}}
 
 {{< project
@@ -54,20 +67,8 @@ date: 2022-04-08T20:08:54-03:00
 >}}
 
 {{< project
-    name="Django Template"
-    description="Template opinativo para começar um projeto Django."
-    github="lucasrcezimbra/django-template"
->}}
-
-{{< project
-    name="Cookiecutter PyPackage"
-    description="Fork customizado do Cookiecutter PyPackage."
-    github="lucasrcezimbra/cookiecutter-pypackage"
->}}
-
-{{< project
     name="Consul Decouple"
-    description="Extensão do python-decouple para ler configs do Consul."
+    description="python-decouple plug-in to read configs from Consul."
     github="lucasrcezimbra/consul-decouple"
     pypi="consul-decouple"
     archived=true
@@ -75,7 +76,7 @@ date: 2022-04-08T20:08:54-03:00
 
 {{< project
     name="PySympla"
-    description="Scraper para acessar informações dos seus eventos no Sympla."
+    description="Scraper to access Sympla (Brazilian event management and ticketing website)."
     github="lucasrcezimbra/pysympla"
     pypi="pysympla"
     archived=true
@@ -83,7 +84,7 @@ date: 2022-04-08T20:08:54-03:00
 
 {{< project
     name="Senior HCM"
-    description="Cliente para consumir a API do Senior HCM."
+    description="Client to consume Senior HCM API."
     github="lucasrcezimbra/senior-hcm"
     pypi="senior-hcm"
     archived=true
@@ -91,15 +92,15 @@ date: 2022-04-08T20:08:54-03:00
 
 {{< project
     name="AleloScraper"
-    description="Scraper para baixar o seu saldo no Alelo."
+    description="Scraper to get Alelo's (Brazilian meal ticket) balance."
     github="lucasrcezimbra/aleloscraper"
     archived=true
 >}}
 
 
-## Contribuições open-source
+## Open-source contributions
 
-### Código
+### Code
 
 {{< contribution
     status="open"
@@ -335,7 +336,7 @@ date: 2022-04-08T20:08:54-03:00
 
 
 
-### Documentação
+### Documentation
 
 {{< contribution
     status="merged"

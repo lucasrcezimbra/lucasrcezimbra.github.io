@@ -18,6 +18,11 @@ name = "About"
 weight = 10
 url = "sobre/"
 
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 20
+url = "projetos/"
+
 
 [languages.pt]
 languageName = ":brazil:"
