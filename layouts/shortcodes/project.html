@@ -1,14 +1,14 @@
 <div class="card {{ if .Get "archived" }}archived{{ end }}">
   <div class="container">
-    <h3><b>{{ .Get "name" }}{{ if .Get "archived" }} (Arquivado){{ end }}</b></h3>
-    <p>{{ .Get "description" }}</p>
+    <h3><b>{{ .Get "name" }}</b></h3>
+    <span>{{ .Get "description" }}</span>
     <div>
       {{ if .Get "website" }}
-      <a href="{{ .Get "website" }}" target="_blank"><i class="fa fa-link fa-2x"></i></a>
+      <a href="{{ .Get "website" }}" target="_blank"><i class="fa fa-link"></i></a>
       {{ end }}
 
       {{ if .Get "github" }}
-      <a href="https://github.com/{{ .Get "github" }}/" target="_blank"><i class="fa fa-github fa-2x"></i></a>
+      <a href="https://github.com/{{ .Get "github" }}/" target="_blank"><i class="fa fa-github"></i></a>
       {{ end }}
 
       {{ if .Get "pypi" }}

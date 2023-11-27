@@ -67,7 +67,7 @@ slug: "projects"
 >}}
 
 {{< project
-    name="Consul Decouple"
+    name="Consul Decouple (Archived)"
     description="python-decouple plug-in to read configs from Consul."
     github="lucasrcezimbra/consul-decouple"
     pypi="consul-decouple"
@@ -75,7 +75,7 @@ slug: "projects"
 >}}
 
 {{< project
-    name="PySympla"
+    name="PySympla (Archived)"
     description="Scraper to access Sympla (Brazilian event management and ticketing website)."
     github="lucasrcezimbra/pysympla"
     pypi="pysympla"
@@ -83,7 +83,7 @@ slug: "projects"
 >}}
 
 {{< project
-    name="Senior HCM"
+    name="Senior HCM (Archived)"
     description="Client to consume Senior HCM API."
     github="lucasrcezimbra/senior-hcm"
     pypi="senior-hcm"
@@ -91,7 +91,7 @@ slug: "projects"
 >}}
 
 {{< project
-    name="AleloScraper"
+    name="AleloScraper (Archived)"
     description="Scraper to get Alelo's (Brazilian meal ticket) balance."
     github="lucasrcezimbra/aleloscraper"
     archived=true

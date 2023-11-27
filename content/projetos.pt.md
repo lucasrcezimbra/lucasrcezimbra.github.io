@@ -66,7 +66,7 @@ date: 2022-04-08T20:08:54-03:00
 >}}
 
 {{< project
-    name="Consul Decouple"
+    name="Consul Decouple (Arquivado)"
     description="Extensão do python-decouple para ler configs do Consul."
     github="lucasrcezimbra/consul-decouple"
     pypi="consul-decouple"
@@ -74,7 +74,7 @@ date: 2022-04-08T20:08:54-03:00
 >}}
 
 {{< project
-    name="PySympla"
+    name="PySympla (Arquivado)"
     description="Scraper para acessar informações dos seus eventos no Sympla."
     github="lucasrcezimbra/pysympla"
     pypi="pysympla"
@@ -82,7 +82,7 @@ date: 2022-04-08T20:08:54-03:00
 >}}
 
 {{< project
-    name="Senior HCM"
+    name="Senior HCM (Arquivado)"
     description="Cliente para consumir a API do Senior HCM."
     github="lucasrcezimbra/senior-hcm"
     pypi="senior-hcm"
@@ -90,7 +90,7 @@ date: 2022-04-08T20:08:54-03:00
 >}}
 
 {{< project
-    name="AleloScraper"
+    name="AleloScraper (Arquivado)"
     description="Scraper para baixar o seu saldo no Alelo."
     github="lucasrcezimbra/aleloscraper"
     archived=true
