@@ -13,6 +13,11 @@ enableEmoji = true
 [languages.en]
 languageName = ":us:"
 
+[[languages.en.menu.main]]
+name = "About"
+weight = 10
+url = "sobre/"
+
 
 [languages.pt]
 languageName = ":brazil:"
