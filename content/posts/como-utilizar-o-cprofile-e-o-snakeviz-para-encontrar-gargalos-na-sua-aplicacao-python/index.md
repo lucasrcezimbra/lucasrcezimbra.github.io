@@ -12,11 +12,13 @@ O *[cProfile](https://docs.python.org/3/library/profile.html#module-cProfile)* �
 
 A ferramenta pode ser usada pela linha de comando para gerar uma saída em texto (conforme ilustrado na imagem abaixo) que pode ser usada para descobrir os gargalos de um sistema. Porém, para facilitar a interpretação da saída do *cProfile*, podemos usar o *[SnakeViz](https://github.com/jiffyclub/snakeviz)*.
 
-![Saída do *cProfile*](cprofile.png)
+![Saída do *cProfile*](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/31a5815a-cd68-42a4-a1e6-0918173a5f13/cprofile.png)
 
-O *SnakeViz*, por sua vez, é uma biblioteca de terceiros e pode ser [instalada *via pip*](https://pypi.org/project/snakeviz/), sua função é ler o output do *cProfile* e gerar gráficos. Ao ser executada, a ferramenta criará um servidor web local e assim poderemos acessar os gráficos pelo browser.
+Saída do *cProfile*
 
-![](snakeviz.png)
+O *SnakeViz*, por sua vez, é uma biblioteca de terceiros e pode ser [instalada *via pip*](https://pypi.org/project/snakeviz/), sua função é ler o output do *cProfile* e gerar gráficos. Ao ser executada, a ferramenta criará um servidor web local e assim poderemos acessar os gráficos pelo browser.t
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cbd8a3e1-cd55-4065-9c02-f6aabf20c7b9/Untitled.png)
 
 A seguir demonstrarei como podemos usar o *cProfile* e o *SnakeViz* para fazer o *profiling* de um *script* Python e como podemos otimizar o *script* e remover os gargalos.
 
@@ -91,9 +93,9 @@ Nesta etapa rodamos o *script* em conjunto com o *profiling* para entendermos os
 python -m cProfile -o v1.cprof people.py
 ```
 
-- [`python -m`](https://docs.python.org/3/using/cmdline.html#cmdoption-m) executa um módulo;
+- `[python -m](https://docs.python.org/3/using/cmdline.html#cmdoption-m)` executa um módulo;
 - `cProfile` é o módulo que queremos executar;
-- `-o v1.cprof` é um argumento que indica ao *cProfile* para escrever o resultado no arquivo `v1.cprof` ao invés de escrever no *stdout*;
+- `-o v1.cprof` é um argumento que indica ao *cProfile* para escrever o resultado no arquivo **`v1.cprof` ao invés de escrever no *stdout*;
 - `people.py` é o script que queremos executar e fazer o profiling.
 
 Após rodar esse comando teremos um arquivo `v1.cprof` no diretório atual. Para lê-lo primeiro instalamos o *SnakeViz* via *pip*:
@@ -110,13 +112,13 @@ snakeviz v1.cprof
 
 Ao executar deve-se abrir uma página no navegador com o seguinte gráfico:
 
-![](grafico.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/038d4197-2b9d-4aee-800f-f373833ec5bf/Untitled.png)
 
 Este gráfico nos mostra quanto tempo foi gasto em cada função. A partir dele podemos perceber que:
 
 - O processo inteiro levou 78 segundos;
 - As funções `main` e `read_and_insert` também levaram 78 segundos, pois são as principais funções do script e tudo é chamado a partir delas;
-- A maior parte do tempo foi gasto nas funções `exists` e `insert`, sendo mais da metade (~44 segundos) na função `exists`.
+- A maior parte do tempo foi gasto nas funções `exists` e `insert`*,* sendo mais da metade (~44 segundos) na função `exists`.
 
 Ao analisarmos o gráfico temos uma pista de onde podemos começar a otimização. Dado que mais da metade do tempo foi gasto na função `exists`, a primeira otimização ocorrerá a partir dela.
 
@@ -133,7 +135,7 @@ def create_database():
 +       cursor.execute('CREATE TABLE IF NOT EXISTS people (id uuid, name text, UNIQUE(id))')
 ```
 
-Em seguida, alteramos a função `read_and_insert` para capturar as exceções de *constraint* ao invés de chamar a função `exists`:
+Em seguida, alteramos a função `read_and_insert` **para capturar as exceções de *constraint* ao invés de chamar a função `exists`:
 
 ```diff
 def read_and_insert():
@@ -147,7 +149,7 @@ def read_and_insert():
 +               pass
 ```
 
-E por fim, removemos a função `exists`, que perdeu sua utilidade:
+E por fim, removemos a função `exists`*,* que perdeu sua utilidade:
 
 ```diff
 -def exists(id):
@@ -156,7 +158,7 @@ E por fim, removemos a função `exists`, que perdeu sua utilidade:
 -        return bool(results)
 ```
 
-Como alteramos o *schema* do banco de dados (e neste projeto não temos *migrations*), precisamos apagar o *sqlite* atual antes de rodar novamente:
+Como alteramos o *schema* do banco de dados (e neste projeto não temos *migrations)*, precisamos apagar o *sqlite* atual antes de rodar novamente:
 
 ```bash
 # Ctrl-C para parar de rodar o snakeviz
@@ -170,21 +172,21 @@ python -m cProfile -o v2.cprof people.py
 snakeviz v2.cprof
 ```
 
-![](grafico2.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/156d458a-0038-4326-b2ff-d9702829f8c6/Untitled.png)
 
 E assim percebemos que:
 
 - O processo inteiro levou ~48 segundos (~30 segundos a menos que a primeira versão);
 - As funções `main` e `read_and_insert` levaram o mesmo tempo do processo como esperado;
 - A função `exists` não aparece mais no gráfico, pois foi removida do código;
-- Agora a maior parte do tempo (~48 segundos) foi gasta na função `insert`; especificamente no `*method 'commit' of 'sqlite3...*` que fica dentro do `Cursor.__exit__.`
+- Agora a maior parte do tempo (~48 segundos) foi gasta na função **`insert`; especificamente no `*method 'commit' of 'sqlite3...*` que fica dentro do **`Cursor.__exit__.`
     
-    ![](grafico3.png)
+    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/50642de3-692b-4386-8542-3cf6e6bf659c/Untitled.png)
     
 
 ### Segunda Otimização
 
-Analisemos a função `insert` e a classe `Cursor`:
+Analisemos a função `insert` **e a classe `Cursor`:
 
 ```python
 class Cursor:
@@ -205,7 +207,7 @@ def insert(id, name):
         c.execute('INSERT INTO people VALUES (:id, :name)', {'id': id, 'name': name})
 ```
 
-A cada chamada à função `insert` são executadas as seguintes funções nesta ordem:
+A cada chamada à função `insert` **são executadas as seguintes funções nesta ordem:
 
 1. `Cursor.__init__`: conecta com o banco;
 2. `Cursor.__enter__`*:* abre um cursor com o banco;
@@ -216,7 +218,7 @@ A função que consome mais recursos nessa nova versão do script é a `sqlite3.
 
 Não é necessário fazer um *commit* no banco de dados a cada *insert*: podemos alterar o código para inserir todas as linhas e ao final fazer somente um *commit*.
 
-Alteramos o `insert` para receber um *cursor* aberto ao invés de abrir e fechar um a cada execução:
+Alteramos o `insert` **para receber um *cursor* aberto ao invés de abrir e fechar um a cada execução:
 
 ```diff
 -def insert(id, name):
@@ -248,7 +250,7 @@ Alteramos a criação do cursor para o início da função `read_and_insert` e o
 +                    pass
 ```
 
-A partir destas alterações, as funções (`Cursor.__init__`, `Cursor.__enter__` e `Cursor.__exit__`) que estavam lentas serão chamadas apenas uma vez durante toda a execução do script.
+A partir destas alterações, as funções (`Cursor.__init__`*,* `Cursor.__enter__` e `Cursor.__exit__`) que estavam lentas serão chamadas apenas uma vez durante toda a execução do script.
 
 Agora é o momento do *profiling*:
 
@@ -258,13 +260,13 @@ python -m cProfile -o v3.cprof people.py
 snakeviz v3.cprof
 ```
 
-![](grafico4.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b53d73c7-f296-4bee-aa12-23c368cfca85/Untitled.png)
 
 Devido à significativa alteração de tempo, cheguei a pensar que havia rodado errado, então rodei mais uma vez, verifiquei se havia mesmo inserido no *SQLite* e estava tudo certo. Ter alterado essas linhas para o *commit* rodar somente uma vez fez o tempo de processamento de 10.000 linhas baixar de 48 para 0,249 segundos. Fiz um outro teste processando 100.000 linhas e o tempo foi de 0,611 segundos:
 
-![](grafico5.png)
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a2c39578-2b65-46f0-8a7e-63501b4b41fc/Untitled.png)
 
-Ao olharmos para o gráfico, vemos que as funções `insert` e `execute` são as principais ofensoras agora, mas proponho esta otimização como um exercício para o leitor.
+Ao olharmos para o gráfico, vemos que as funções `insert` **e `execute` **são as principais ofensoras agora, mas proponho esta otimização como um exercício para o leitor.
 
 ### A necessidade faz a otimização
 
@@ -280,3 +282,20 @@ Como disse Donald Knuth: “Otimização precoce é a raiz de todos os males.”
 Otimize só quando houver métricas que demonstrem a necessidade.
 
 Os códigos desse tutorial estão no meu Github: https://github.com/lucasrcezimbra/tutorial-cprofile-snakeviz
+
+---
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e5589b5-371c-4beb-b94d-c7cda51fc9ca/Untitled.png)
+
+**Lucas Cezimbra**
+
+Apaixonado por tecnologia desde sempre, iniciei minha trajetória com a programação há mais de 10 anos. Passei a trabalhar com desenvolvimento de software 8 anos atrás e nos últimos 5 anos uso Python **como principal linguagem. Sempre gostei de automatizar tarefas e eventualmente faço disto um projeto open-source. Atualmente estou no desafio de trabalhar como Líder Técnico em uma empresa americana.
+
+Você pode me achar em:
+
+- [Site](https://lucas.tec.br/)
+- [E-mail](mailto:lucas@cezimbra.tec.br)
+- [Github](https://github.com/lucasrcezimbra)
+- [Linkedin](https://www.linkedin.com/in/lucas-rangel-cezimbra-b46969a8/)
+- [Telegram](https://t.me/lucasrcezimbra?&text=Ol%C3%A1)
+- [Twitter](https://twitter.com/lucasrcezimbra)
