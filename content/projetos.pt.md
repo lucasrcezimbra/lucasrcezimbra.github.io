@@ -102,7 +102,7 @@ date: 2022-04-08T20:08:54-03:00
 ### Código
 
 {{< contribution
-    status="open"
+    status="merged"
     url="https://github.com/bloomberg/attrs-strict/pull/108"
     project="attrs-strict"
     title="fix: support types without args"

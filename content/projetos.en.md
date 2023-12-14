@@ -103,7 +103,7 @@ slug: "projects"
 ### Code
 
 {{< contribution
-    status="open"
+    status="merged"
     url="https://github.com/bloomberg/attrs-strict/pull/108"
     project="attrs-strict"
     title="fix: support types without args"
