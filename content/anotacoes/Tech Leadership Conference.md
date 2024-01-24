@@ -26,7 +26,7 @@ by [Victor Hugo Germano](https://www.victorhg.com/)
 	- Flexível (jeitinho brasileiro), Relacional, Hierárquica
 - Agindo no Sistema Humano - Hendrick Esser
 	- Como influenciar um Sistema Humano?
-		- ![Pasted image 20240111104805.png]({{< ref "Pasted image 20240111104805.png" >}})
+    - ![como_influenciar_um_sistema_humano.png](/anotacoes/Assets/como_influenciar_um_sistema_humano.png)
 		1. Escolha um ponto para influenciar (exemplo: hábitos)
 		2. Mude por um tempo
 		3. Avalie o resultado
@@ -64,7 +64,7 @@ by Eduardo Matos
 	- Feedback loops - diminuir é importantíssimo. Exemplo: build, tests, code-review.
 	- Carga cognitiva - Exemplo: quantidade de serviços que um time lida; complexidade do código; dificuldade de descobrir root cause, etc.
 	- Flow state - Livro: The Psychology of Optional Experience
-- ![Pasted image 20240111135817.png]({{< ref "Pasted image 20240111135817.png" >}})
+- ![devex_metrics.png](/anotacoes/Assets/devex_metrics.png)
 - Como tornar um time mais produtivo?
 	- Observe como o trabalho é feito (como as demandas chegem? como são priorizadas? como se tiram dúvidas? visibilidade do trabalho)
 	- Converse com as pessoas

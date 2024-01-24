@@ -83,6 +83,7 @@ date: 2023-08-15T07:30:00-03:00
 - [Sentry]({{< ref "Sentry" >}})
 - [Sky Computing]({{< ref "Sky Computing" >}})
 - [Smart Home]({{< ref "Smart Home" >}})
+- [Software Zen]({{< ref "Software Zen" >}})
 - [Steganography]({{< ref "Steganography" >}})
 - [stunnel]({{< ref "stunnel" >}})
 - [Tech Leadership Conference]({{< ref "Tech Leadership Conference" >}})

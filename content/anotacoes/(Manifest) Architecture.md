@@ -2,7 +2,9 @@
 title: "(Manifest) Architecture"
 date: 2024-01-24T07:42:18-0300
 ---
-![IMG_1537.jpeg]({{< ref "IMG_1537.jpeg" >}}) Source: https://x.com/vlad_mihalcea/status/1735564011666633001?s=46
+
+![architecture_boat.jpeg](/anotacoes/Assets/architecture_boat.jpeg)
+Source: https://x.com/vlad_mihalcea/status/1735564011666633001?s=46
 
 
 ## References
