@@ -66,11 +66,12 @@ date: 2023-08-15T07:30:00-03:00
 - [GPUtopia](https://gputopia.ai/) - GPU Marketplace
 - [Petals](https://petals.dev/) - Run large language models at home, BitTorrent‑style - [Repo](https://github.com/bigscience-workshop/petals)
 ### Local
-- [MLC LLM](https://mlc.ai/mlc-llm/) - LLM on iPhone - [App Store](https://apps.apple.com/us/app/mlc-chat/id6448482937?platform=iphone) - [Repository](https://github.com/mlc-ai/mlc-llm)
 - [LocalAI](https://github.com/go-skynet/LocalAI) - Self-hosted, community-driven, local OpenAI-compatible API. (...) No GPU required...
 - [llama.cpp](https://github.com/ggerganov/llama.cpp)
 	- [Python]({{< ref "Python" >}}) bindings - [Repo](https://github.com/abetlen/llama-cpp-python)
 	- [A comprehensive guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally)
+- [MLC LLM](https://mlc.ai/mlc-llm/) - LLM on iPhone - [App Store](https://apps.apple.com/us/app/mlc-chat/id6448482937?platform=iphone) - [Repository](https://github.com/mlc-ai/mlc-llm)
+- [MLX](https://github.com/ml-explore/mlx) - An array framework for Apple silicon
 	
 ## Image Generation
 - [Clipdrop](https://clipdrop.co/)
@@ -103,6 +104,7 @@ date: 2023-08-15T07:30:00-03:00
 - [Vellum](https://www.vellum.ai/) - The dev platform for production LLM apps
 
 ## SDKs
+- [Guardrails](https://github.com/guardrails-ai/guardrails) - lets a user add structure, type and quality guarantees to the outputs of LLMs.
 - [Guidance](https://github.com/microsoft/guidance/) - [Python]({{< ref "Python" >}}) lib that allows you to interleave generation, prompting, and logical control into a single continuous flow matching #OpenSource 
 - [Kor](https://eyurtsev.github.io/kor/index.html) - [Python]({{< ref "Python" >}}) lib that “helps” you extract structured data from text using LLMs #OpenSource 
 - [LangChain](https://langchain.readthedocs.io/en/latest/ ) -  [Python]({{< ref "Python" >}}) lib to develop AI applications - PromptTemplate, LLMs interface, etc. #OpenSource

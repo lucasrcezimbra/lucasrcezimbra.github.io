@@ -16,6 +16,10 @@ aliases:
 	- `-H` = `-H`: headers
 	- `--data-raw <json>` = `-p <file>.json`: request body
 	- `--data @file` = `-p <file>.json`: request body
+- How to print and redirect the stdout
+	```shell
+	<command> | tee <filename>
+	```
 - Converting images from webp (or jpg, png, etc.) to jpg (or webp, png, etc) ([Tweet](https://twitter.com/lucasrcezimbra/status/1718995187878256796))
 	```shell
 	sudo apt install imagemagick
@@ -93,7 +97,13 @@ aliases:
 	```shell
 	sudo dmidecode -t 17
 	```
-
+- Profiling zsh startup
+	```shell
+	# .zshrc
+	zmodload zsh/zprof
+	...
+	zprof
+	```
 ## Debian
 - How to validate a .desktop file
 	```bash

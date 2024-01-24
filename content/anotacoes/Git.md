@@ -4,6 +4,28 @@ date: 2023-08-15T07:30:00-03:00
 aliases:
   - /git
 ---
+- (GitHub) How to recover the deleted branch of a PR?
+	```shell
+	git clone git@github.com:<username>/<repo>.git
+	git fetch origin pull/<pr_id>/head:<new-branch>
+	git checkout <new-branch>
+	```
+
+- Moving specific directories to a new repository
+	```shell
+	mkdir <new-repo>
+	cd <new-repo>
+	git init
+	git remote add <old-repo> git@github.com:<username>/<old-repo>.git
+	git fetch <old-repo>
+	git merge <old-repo>/<master> --allow-unrelated-histories 
+	# Go to next bullet "Isolate commits..."
+	```
+- Isolate commits related to specific directories using [git-filter-repo](https://github.com/newren/git-filter-repo) [--path](https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html)
+    ```shell
+    sudo apt install git-filter-repo
+    git filter-repo --path <path1> --path <path2> --path <pathN>
+    ```
 - Merging multiple repositories ([--allow-unrelated-histories](https://git-scm.com/docs/git-merge#Documentation/git-merge.txt---allow-unrelated-histories)) ([Tweet](https://twitter.com/lucasrcezimbra/status/1714588928244633854))
 	```shell
 	cd <project-a>

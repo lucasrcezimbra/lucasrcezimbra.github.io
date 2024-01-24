@@ -81,7 +81,10 @@ date: 2023-08-15T07:30:00-03:00
 	pip install pipx
 	pipx install <package>
 	```
-
+- Install requirements from git using ssh
+	```shell
+	pip install git+ssh://git@github.com/<org>/<repo>
+	```
 
 ## Anti-Patterns
 - [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)

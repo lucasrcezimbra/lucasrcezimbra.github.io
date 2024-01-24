@@ -2,20 +2,22 @@
 title: "Aplicativos de Notas"
 date: 2023-08-15T07:30:00-03:00
 ---
+- https://www.getdnote.com/
 
-|                       | Logseq | Joplin | Obsidian | Roam |     |
-| --------------------- | ------ | ------ | -------- | ---- | --- |
-| Grafo                 | ✅     | ❌     | ✅       |      |     |
-| Open Source           | ✅     | ✅     | ❌       |      |     |
-| Criptografado         | ✅     | ✅     | ✅       |      |     |
-| Organização em blocos | ✅     | ❌     | ❌       |      |     |
-| Web Clipper           | ⚠️     | ✅     | ⚠️       |      |     |
-| App Linux             | ✅     | ✅     | ✅       |      |     |
-| App Android           | ✅     | ✅     | ✅       |      |     |
-| Sincronização         | ⚠️     | ✅     | ✅       |      |     |
-| Usabilidade           | ⚠️     | ✅     | ✅       |      |     |
-| Publicar              | ⚠️     | ⚠️     | ✅       |      |     |
-| Salva como            | .md    | SQLite | .md      |      |     |
+|  | Logseq | Joplin | Obsidian | Roam |
+| ---- | ---- | ---- | ---- | ---- |
+| Grafo | ✅ | ❌ | ✅ |  |
+| Open Source | ✅ | ✅ | ❌ |  |
+| Criptografado | ✅ | ✅ | ✅ |  |
+| Organização em blocos | ✅ | ❌ | ❌ |  |
+| Web Clipper | ⚠️ | ✅ | ⚠️ |  |
+| App Linux | ✅ | ✅ | ✅ |  |
+| App Android | ✅ | ✅ | ✅ |  |
+| Sincronização | ⚠️ | ✅ | ✅ |  |
+| Usabilidade | ⚠️ | ✅ | ✅ |  |
+| Publicar | ⚠️ | ⚠️ | ✅ |  |
+| Salva como | .md | SQLite | .md |  |
+
 
 ## Logseq
 ### Pros

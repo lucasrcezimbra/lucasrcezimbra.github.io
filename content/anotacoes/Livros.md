@@ -27,4 +27,6 @@ date: 2023-08-15T07:30:00-03:00
 | Tech        | H. Hohpe, B. Woolf                          | Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions | Para Ler   |
 |             | Chris Voss                                  | Negocie como se sua vida dependesse disso                                               | Para Ler   |
 | Liderança   | Jocko Willink; Leif Babin                   | Extreme Ownership: How U.S. Navy SEALs Lead and Win Hardcover                           | Para Ler   |
-|             | Fulton J.sheen                              | Três Para Casar                                                                         | Para Ler   | 
+|             | Fulton J.sheen   | Três Para Casar                                                                         | Para Ler   | 
+ Historia das Heresias
+ Força de Vontade não funciona

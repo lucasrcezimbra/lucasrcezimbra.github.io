@@ -37,12 +37,16 @@ aliases:
 - [Code Climate](https://codeclimate.com/)
 - [Coveralls](https://coveralls.io/ )
 
+## CRM
+- [Bitrix24](https://www.bitrix24.com.br/)
+- [Pipedrive](https://www.pipedrive.com/)
 ## Importers
 - [TableFlow](https://tableflow.com/) - CSV importer #OpenSource 
 - [Flatfile](https://flatfile.com/) - Data file import
 
 ## Hosting
 ### Platform as a Service
+- [Easypanel](https://easypanel.io/) - Server Control Panel - deploy Docker containers of any type of applications, manage databases, and provision SSL certificates.
 - [Encore](https://encore.dev/) - Backend Development Platform that automates infrastructure
 - [Heroku](https://www.heroku.com/)
 - [Hop](https://hop.io/)
@@ -51,9 +55,41 @@ aliases:
 - [Render](https://render.com/) - a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.
 
 ## Integrations
+### Open Source 
+- * [Activepieces](https://www.activepieces.com/) - #OpenSource 
+	- [vs others](https://www.activepieces.com/blog/open-source-alternatives-to-zapier)
+	- doesn't support Python scripts
+	- supports whitelabel
+	- supports self-host
+	- secrets security?
+	- ![GitHub Repo stars](https://img.shields.io/github/stars/activepieces/activepieces)
+- * [ActiveWorkflow](https://www.activeworkflow.org/) - [GitHub](https://github.com/automaticmode/active_workflow) #OpenSource 
+	- forked from huginn
+	- supports other languages using agents running in separate processes - communication is using HTTP.
+	- hard to use
+	- encryption only in the enterprise version
+	- just a few pre-defined agents
+- [Apache NiFi](https://nifi.apache.org/) - #OpenSource 
+- [Automa](https://www.automa.site/) - extension for automating your browser by connecting blocks - [GitHub](https://github.com/AutomaApp/automa) #OpenSource 
+- * [Automatisch](https://automatisch.io/) - [GitHub](https://github.com/automatisch/automatisch) #OpenSource 
+	- doesn't support scripts
+	- supports whitelabel
+- [huginn](https://github.com/huginn/huginn) - #OpenSource 
+- [Node-RED](https://nodered.org/) - #OpenSource 
+- [n8n](https://n8n.io/) - [GitHub](https://github.com/n8n-io/n8n) #OpenSource 
+	- (beta) supports Python scripts
+	- supports whitelabel
+	- supports self-host
+	- Custom variables are available just on the Enterprise plan - [Docs](https://docs.n8n.io/code/variables/)
+	-  ![GitHub Repo stars](https://img.shields.io/github/stars/n8n-io/n8n)
+- * [Pipedream](https://pipedream.com/) - [GitHub](https://github.com/PipedreamHQ/pipedream) #OpenSource 
+	- supports Python scripts
+	- doesn't support self-hosting - [issue](https://github.com/PipedreamHQ/pipedream/issues/954)
+- [Temporal](https://temporal.io/) - [GitHub](https://github.com/temporalio/temporal) #OpenSource 
+### Others
 - [IFTTT](https://ifttt.com/)
+- [Integrately](https://integrately.com/)
 - [Make (Integromat)](https://www.make.com/)
-- [n8n](https://n8n.io/) - [GitHub](https://github.com/n8n-io/n8n)
 - [Tray.io](https://tray.io/)
 - [Workato](https://www.workato.com/)
 - [Zapier](https://zapier.com/)
@@ -69,6 +105,9 @@ aliases:
 - [Nmap](https://github.com/nmap/nmap) - Network Mapper
 - [OWASP Amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [relative-url-extractor](https://github.com/jobertabma/relative-url-extractor) - extracts relative URLs from a file
+
+## QR Code
+- [QRcode.show](https://qrcode.show/) - Free QR code generator
 
 ## Testing
 ### API

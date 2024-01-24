@@ -40,7 +40,8 @@ date: 2022-04-07T17:50:00+00:00
 | Starbucks     | [Pike Place Roast](https://www.starbucksathome.com/br/pike-place-roast-nespresso/p)                                                                   | 7           | :star:             |                    |
 | Starbucks     | [Blonde Espresso Roast](https://www.starbucksathome.com/br/starbucks-blonde-roast/p)                                                                  | 6           | :star::star:       |                    |
 | Caffè Corsini | [Gran Riserva Intenso](https://www.caffecorsini.com/it/prodotto/2398/MBYXEKGE/capsule-compatibili-nespresso-gran-riserva-intenso-10-pezzi)            | 11          | :star:             | :star:             |
-| 3 Corações    | [Cerrado Mineiro](https://www.cafe3coracoes.com.br/nossos-produtos/capsulas/compativeis/espresso-cerrado-mineiro/)                                    | 7           | :star::star:       |                    | 
+| 3 Corações    | [Cerrado Mineiro](https://www.cafe3coracoes.com.br/nossos-produtos/capsulas/compativeis/espresso-cerrado-mineiro/)                                    | 7           | :star::star:       |                    |
+| 3 Corações    | Mogiana Paulista                                                                                                                                      | 7           | :star::star::star: |                    |
 
 
 Legenda
