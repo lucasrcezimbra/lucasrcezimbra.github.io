@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Resume</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+          crossorigin="anonymous"
+          media="all"
+    >
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.2.0/css/fork-awesome.min.css"
+          integrity="sha256-XoaMnoYC5TH6/+ihMEnospgm0J1PM/nioxbOUdnM8HY=" crossorigin="anonymous">
+    <style>
+        .timeline {
+            border-left: 1px solid hsl(0, 0%, 90%);
+            position: relative;
+            list-style: none;
+        }
+
+        .timeline ul {
+            padding-left: 16px;
+        }
+
+        .timeline .timeline-item {
+            position: relative;
+            text-indent: -1rem;
+        }
+
+        .timeline .timeline-item:after {
+            position: absolute;
+            display: block;
+            top: 0;
+        }
+
+        .timeline .timeline-item:after {
+            background-color: hsl(0, 0%, 90%);
+            top: 8px;
+            left: -38px;
+            border-radius: 50%;
+            height: 11px;
+            width: 11px;
+            content: "";
+        }
+
+        .timeline .timeline-item ul li {
+            margin-left: -1rem;
+            text-indent: 0;
+        }
+
+        .fa {
+            font-size: 1.3em;
+        }
+
+        header {
+            background-color: #0a2c52;
+            color: white;
+        }
+
+        header a {
+            color: white;
+        }
+    </style>
+</head>
+<body>
+<main class="container-xxl">
+    <header class="row pt-3 pe-3">
+        <div class="col-md-4">
+            <ul style="list-style: none; margin-left: -15px;">
+                <li><h3 class="fs-3 text-white">Skills</h3></li>
+                <li class="mb-2">
+                    <span><i class="fa fa-usd" aria-hidden="true"></i> Business-driven</span>
+                </li>
+                <li class="mb-2">
+                    <span><i class="fa fa-lightbulb-o" aria-hidden="true"></i> Problem-Solving</span>
+                </li>
+                <li class="mb-2">
+                    <span><i class="fa fa-check" aria-hidden="true"></i> Test-driven Development</span>
+                </li>
+                <li class="mb-2">
+                    <span><i class="fa fa-python" aria-hidden="true"></i> Python</span>
+                </li>
+
+                <li class="mt-4"><h3 class="fs-3 text-white">Languages</h3></li>
+                <li>
+                    <i class="fa fa-square"></i>
+                    <i class="fa fa-square"></i>
+                    <i class="fa fa-square"></i>
+                    <i class="fa fa-square"></i>
+                    <i class="fa fa-square-o"></i>
+                    English
+                </li>
+                <li>
+                    <i class="fa fa-square"></i>
+                    <i class="fa fa-square"></i>
+                    <i class="fa fa-square"></i>
+                    <i class="fa fa-square"></i>
+                    <i class="fa fa-square"></i>
+                    Portuguese
+                </li>
+            </ul>
+
+        </div>
+        <div class="col-md-4 text-center">
+            <img src="static/images/lucas.jpg" class="img-fluid rounded mb-2" style="width: 230px;">
+            <h1 class="fs-2">Lucas Rangel Cezimbra</h1>
+        </div>
+        <div class="col-md-4">
+            <ul style="list-style: none; text-align: right">
+                <li><h3 class="fs-3 text-white">Contact</h3></li>
+                <li class="mb-2">
+                    <span class="text-white">Natal/RN, Brazil</span>
+                    <i class="fa fa-home" aria-hidden="true"></i>
+                </li>
+                <li class="mb-2">
+                    <a href="tel:+5551982100596">+55 51 98210.0596</a>
+                    <i class="fa fa-phone" aria-hidden="true"></i>
+                </li>
+                <li class="mb-2">
+                    <a href="mailto:lucas@cezimbra.tec.br">lucas@cezimbra.tec.br</a>
+                    <i class="fa fa-at" aria-hidden="true"></i>
+                </li>
+                <li class="mb-2">
+                    <a href="https://cezimbra.me/" target="_blank">cezimbra.me</a>
+                    <i class="fa fa-link" aria-hidden="true"></i>
+                </li>
+                <li class="mb-2">
+                    <a href="https://github.com/lucasrcezimbra/" target="_blank">lucasrcezimbra</a>
+                    <i class="fa fa-github" aria-hidden="true"></i>
+                </li>
+                <li class="mb-2">
+                    <a href="https://twitter.com/lucasrcezimbra" target="_top">lucasrcezimbra</a>
+                    <i class="fa fa-twitter" aria-hidden="true"></i>
+                </li>
+                <li class="mb-2">
+                    <a href="https://www.linkedin.com/in/lucas-rangel-cezimbra-b46969a8/">lucas-rangel-cezimbra-b46969a8</a>
+                    <i class="fa fa-linkedin" aria-hidden="true"></i>
+                </li>
+            </ul>
+        </div>
+    </header>
+    <div class="p-3" style="float: left">
+        <h2 class="fs-3">Summary</h2>
+        <p>In my 9-year career as a software developer, my commitment to software quality and craftsmanship has been a
+            key focus. My career is characterized by a deep appreciation for ownership and a commitment to delivering
+            business-centric solutions. My approach is defined by simplicity and effectiveness, favoring cohesive and
+            straightforward architectures.</p>
+
+        <h2 class="fs-3 mt-4">Experiences</h2>
+        <ul class="timeline">
+            <li class="timeline-item mb-4">
+                <h3 class="fs-5 mb-2">Tech Lead at Finetune</h3>
+                <h4 class="fs-6 text-muted mb-2">Mar 2022 - Current</h4>
+                <ul class="mb-2">
+                    <li>Technical decisions and collaboration with stakeholders to prioritize new features and fixes.
+                    </li>
+                    <li>Translated business requirements into user stories, bridging the gap between technical and
+                        non-technical stakeholders.
+                    </li>
+                    <li>Involved in the due diligence process, contributing to the successful acquisition of the company
+                        by Prometric.
+                    </li>
+                    <li>Responsible for conducting technical interviews.</li>
+                </ul>
+                <h4 class="fs-6 text-muted mb-2">Jun 2021 - Mar 2022 (10 months)</h4>
+                <ul>
+                    <li>Full-stack developer. Focus on building AI products integrated with Large Language Models
+                        (LLMs), utilizing mainly Python and React.
+                    </li>
+                    <li>Implemented significant refactors to enhance the codebase, improving maintainability and
+                        performance.
+                    </li>
+                    <li>Promoted to Tech Lead following the departure of the previous lead.</li>
+                </ul>
+            </li>
+
+            <li class="timeline-item mb-4">
+                <h3 class="fs-5 mb-2">Software Developer at Sicredi</h3>
+                <h4 class="fs-6 text-muted mb-2">Nov 2019 - Jun 2021 (1 year 8 months)</h4>
+                <ul>
+                    <li>Same as below, but hired directly by Sicredi.</li>
+                    <li>Left to work internationally.</li>
+                </ul>
+            </li>
+
+            <li class="timeline-item mb-4">
+                <h3 class="fs-5 mb-2">Software Developer at CWI Software</h3>
+                <h4 class="fs-6 text-muted mb-2">Jun 2018 - Nov 2019 (1 year 6 months)</h4>
+                <ul>
+                    <li>CWI employee working outsourced at Sicredi.</li>
+                    <li>Worked on the core banking migration. As the first developer of the risk team, engineered the
+                        transition from a legacy risk system (Clipper) to a Python-based solution on AWS, handling
+                        millions of operations.
+                    </li>
+                    <li>Achieved significant cost reductions and processing time improvements while modernizing
+                        technology infrastructure.
+                    </li>
+                    <li>Participated in frontend development using React.</li>
+                    <li>Worked on expanding the technical team, helping on technical interviews.</li>
+                    <li>Left because received an offer to work directly at Sicredi.</li>
+                </ul>
+                <p></p>
+                <h4 class="fs-6 text-muted mb-2">Jul 2017 - Jun 2018 (1 year)</h4>
+                <ul>
+                    <li>Worked on the implementation and maintenance of an API using Python and Django, and a frontend
+                        using Vanilla JavaScript.
+                    </li>
+                    <li>Contributed to the expansion of the system to new countries.</li>
+                    <li>Partly remote work coordinating with international teams.</li>
+                    <li>Left because the project was ending.</li>
+                </ul>
+            </li>
+
+            <li class="timeline-item mb-4">
+                <h3 class="fs-5 mb-2">...</h3>
+            </li>
+        </ul>
+    </div>
+</main>
+</body>
+</html>
