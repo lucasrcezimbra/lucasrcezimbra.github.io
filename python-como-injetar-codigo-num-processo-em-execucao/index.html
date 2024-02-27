@@ -14,11 +14,11 @@ Tentando descobrir o problema, dei SSH para o servidor e vi que num processo est
 <time datetime=2019-06-13T01:59:02Z>junho 13, 2019
 </time></span><span class=reading-time><i class="fa fa-clock-o" aria-hidden=true></i></span></div><div class=categories><i class="fa fa-folder" aria-hidden=true></i>
 <a href=/categories/python/>Python</a></div><div class=tags><i class="fa fa-tag" aria-hidden=true></i>
-<span class=tag><a href=/tags/debug/>debug</a>
+<span class=tag><a href=/tags/debug/>Debug</a>
 </span><span class=separator>•</span>
-<span class=tag><a href=/tags/linux/>linux</a>
+<span class=tag><a href=/tags/linux/>Linux</a>
 </span><span class=separator>•</span>
-<span class=tag><a href=/tags/python/>python</a></span></div></div></header><div class=post-content><p>Resposta curta: <a href=https://pyrasite.readthedocs.io/en/latest/ class=external-link target=_blank rel=noopener>pyrasite</a></p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>pip install pyrasite
+<span class=tag><a href=/tags/python/>Python</a></span></div></div></header><div class=post-content><p>Resposta curta: <a href=https://pyrasite.readthedocs.io/en/latest/ class=external-link target=_blank rel=noopener>pyrasite</a></p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>pip install pyrasite
 </span></span><span style=display:flex><span><span style=color:#cd00cd>echo</span> <span style=color:#cd00cd>0</span> | sudo tee /proc/sys/kernel/yama/ptrace_scope
 </span></span><span style=display:flex><span>pyrasite <span style=color:#00cdcd>$PID</span> dump_stacks.py
 </span></span><span style=display:flex><span>pyrasite-shell &amp;lt;pid&gt;
