@@ -23,7 +23,7 @@ aliases:
 - [REST APIs must be hypertext-driven](https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven)
 
 
-## Clean Architectures in [Python ]({{< ref "Python " >}})
+## Clean Architectures in [Python]({{< ref "Python" >}})
 - https://www.youtube.com/watch?v=C7MRkqP5NRI
 - by Leonardo Giordani - https://thedigitalcatonline.com
 - Archicture is about
