@@ -8,8 +8,10 @@ aliases:
 - [libSQL](https://github.com/tursodatabase/libsql)- fork of SQLite that is both Open Source, and Open Contributions.
 ## Vector
 - [Amazon OpenSearch](https://aws.amazon.com/opensearch-service/serverless-vector-engine/)
+- [Chroma](https://www.trychroma.com/) - SQLite of vector databases
 - [Elasticsearch Vector Search](https://www.elastic.co/what-is/vector-search)
 - [GraphDB](https://graphdb.ontotext.com/)
+- [Kùzu](https://kuzudb.com/)
 - [LanceDB](https://lancedb.com/) - [Repo](https://github.com/lancedb/lancedb)
 - [milvus](https://milvus.io/)
 - [pgvector](https://github.com/pgvector/pgvector) - [Python]({{< ref "Python" >}}) [support](https://github.com/pgvector/pgvector-python)

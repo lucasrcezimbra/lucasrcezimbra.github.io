@@ -2,14 +2,46 @@
 title: "Vendas 1a1"
 date: 2024-01-24T07:42:18-0300
 ---
-## Rejeição
+## 5 competências do vendedor bem sucedido
+por Sandro M - http://meusucesso.com/
+1. Conhecimento da oferta
+    - profundo conhecimento do bem que comercializa
+    - não só suas características intrínsecas, mas, e sobretudo, sua aplicação e benefícios a seu cliente
+    - conhecimento técnico + conhecimento do universo do cliente
+2. Construção de Relacionamento
+    - foco no longo prazo: conquista de confiança
+    - relacionamento de valor não é sinônimo de "tomar cafezinho com o cliente"
+3. Capacidade de comunicação
+    - saber comunicar: compreender, trabalhar e transmitir informações e conhecimentos sobre todo universo do negócio
+    - se colocar na posição fo cliente e enxergar os mundos com seus olhos
+4. Orientação para resultados
+    - 1º passo: definição dos objetivos comerciais do negócio e pessoais do indivíduo
+5. Atitude empreendedora
+    - Desejo pessoal de fazer a diferença
+
+## Cartilha de Vendas
+por Flávio Augusto
+1. Se vestir bem
+2. Postura, atitude
+    - olhar no olho
+3. Educado, tratar bem, simpático
+    - saber q tem a solução do problema do cliente
+    - manter a situação na sua mão
+- a arte de não fazer questão
+    - "qnt menos questão vc faz, mais o cliente quer o seu produto"
+
+## Processo de venda de alto valor
+- Pare de vender por WhatsApp/Direct e implemente um processo de venda de alto valor. "Pré-atendimento"
+
+## Curso ONM
+### Rejeição
 - Vai fazer parte do processo, até para os mais capacitados. Você vai ter que enfrentar.
 - Vendas é um jogo estatistico.
 - A rejeição não é personalissima. Aquela rejeição (grosseria, falta de educação, etc.) é referente a outra pessoa que está extravazando em você.
 - Racionalize e não pessoalize a rejeição.
 	- Exercício: escreva O que pode dar errado vs O que pode dar certo.
 
-## Cliente Ideal
+### Cliente Ideal
 - Fugir dos extremos. Você não pode vender pra ninguém, mas também não pode vender pra todo mundo.
 - Ao determinar isso você aumenta sua chance de se tornar uma autoridade.
 - As suas chances aumentam quando você se posiciona como especialista numa área ao invés de generalista.
@@ -29,7 +61,7 @@ date: 2024-01-24T07:42:18-0300
 		- Grau de escolaridade
 		- Qual a principal dor que você resolve?
 
-## Conexão com o cliente
+### Conexão com o cliente
 - Interesse genuíno na pessoa. Cliente tem que sentir-se ouvido.
 - **Você precisa ficar bom em fazer perguntas**
 - Framework de Perguntas
@@ -47,7 +79,7 @@ date: 2024-01-24T07:42:18-0300
 		- "O que te impediu até hoje de fazer X?"
 		- "Quais são as suas maiores dificuldades com X?"
 
-## Pare de brigar por preço
+### Pare de brigar por preço
 - PUV = Proposta Única de Valor
 	- O que você tem de diferente que seu concorrente não consegue te copiar?
 	- Proposta que saia dos padrões de mercado.
@@ -62,14 +94,14 @@ date: 2024-01-24T07:42:18-0300
 	- Posicionamento
 		- ONM=ecossistema (pilares: conteúdo de qualidade, comunidade, Mercado de Trabalho)
 
-## Vender sem depender de dom
+### Vender sem depender de dom
 - Venda não é dom. É um processo.
 - **As pessoas odeiam que vendam pra elas, mas adoram comprar.**
 	- Não pode parecer uma manipulação ou um processo de convencimento.
 	- Tem que parecer um jogo de troca. Não é eu contra você. Somos nós dois contra o seu problema.
 - Método DEF: 1. Descoberta (gerar conexão); 2. Encantamento; 3. Fechamento
 
-## (Descoberta) Venda não começa sendo uma venda
+### (Descoberta) Venda não começa sendo uma venda
 - Def = Descoberta
 - **Vendas não acontecem na etapa da descoberta.**
 - Objetivos
@@ -86,7 +118,7 @@ date: 2024-01-24T07:42:18-0300
 	- "Até pra entender se a nossa solução faz sentido OU NÃO pra você. Posso te fazer algumas perguntas ([Vendas 1a1#Conexão com o cliente]({{< ref "Vendas 1a1#conexão-com-o-cliente" >}}))?" (eu não estou aqui pra te vender a qualquer custo)
 	- Se não fizer sentido, realmente não tente vender.
 
-## (Encantamento) Cliente sonhar com seu produto
+### (Encantamento) Cliente sonhar com seu produto
 - dEf = Encantamento
 - Nessa etapa a conversa tem que ser por voz (ligação/áudio/etc.). Texto deixa a conversa fria.
 - Objetivos:
@@ -100,5 +132,3 @@ date: 2024-01-24T07:42:18-0300
 		- O que Ganha (emocional): exemplo: transição de carreira pro digital mais segura
 		- CTA: exemplos: Você acredito que dessa forma te ajudamos a estar mais próximo desse objetivo?
 		- Concordância: mostrar a escuta ativa, exemplo: "Massa, que bom que você gostou!"
-
-## (Fechamento) Concluindo a venda

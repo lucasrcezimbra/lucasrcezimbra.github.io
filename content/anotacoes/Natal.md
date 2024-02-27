@@ -16,18 +16,19 @@ date: 2023-08-15T07:30:00-03:00
 - Camarões
 - Curió
 	- Feijoada sábado e domingo
+- Mangai
 - Marechal
+- Mina d’água
 - Mormaço
 	- Macarrão limão siciliano com filé mignon
 - Nau
 - Obar
 - Outback Midway
+- O Poeta
 - Tábua de Carne
 - Thibet
 - Sal e Brasa
 - Zeh
-### Para conhecer
-- Mina d'água
 
 ## Docerias
 - Bocaditos
@@ -35,6 +36,8 @@ date: 2023-08-15T07:30:00-03:00
 ## Saúde
 ### Unimed
 #### Laboratórios
+- (em casa) Centro de Patologia Clinica
+    - WhatsApp: (84) 4004-3220
 - Drive Thru Cidade Verde
 	- Rua Gastão Mariz, 1063 - Nova Parnamirim
 	- Segunda a Sábado das 6h as 18h; Domingos e Feriados das 7h as 18h

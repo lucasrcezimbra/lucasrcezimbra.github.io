@@ -45,8 +45,13 @@ date: 2023-08-15T07:30:00-03:00
 	- https://huggingface.co/bigcode/starcoder
 	- https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode
 ### Copilot
-- https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt - ChatGPT no VSCode
+	- https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt - ChatGPT no VSCode
 - [Copilot Internals](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html) - Reverse engineering
+
+## Comparison
+- [Artificial Analysis](https://artificialanalysis.ai/) - independent analysis of AI models and hosting providers
+- [Chatbot Arena](https://chat.lmsys.org/) - Benchmarking LLMs in the Wild
+
 
 ## Datasets
 - https://pile.eleuther.ai/ - An 800GB Dataset of Diverse Text for Language Modeling
@@ -89,10 +94,9 @@ date: 2023-08-15T07:30:00-03:00
 - https://stockimg.ai/
 - https://www.tryleap.ai/
 
-
 ## Models
 - [OpenHermes 2.5 - Mistral 7B](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B) - can do function calling #OpenSource 
-## MPT
+### MPT
 - [Introducing MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs](https://www.mosaicml.com/blog/mpt-7b)
 - https://github.com/mosaicml/composer - PyTorch library that enables you to train neural networks faster, at lower cost, and to higher accuracy - [Python]({{< ref "Python" >}}) 
 - https://github.com/mosaicml/streaming - make training on large datasets from cloud storage as fast, cheap, and scalable as possible. [Python]({{< ref "Python" >}})
@@ -102,6 +106,11 @@ date: 2023-08-15T07:30:00-03:00
 - [Rivet](https://rivet.ironcladapp.com/) - The Open-Source Visual AI Programming Environment #OpenSource 
 - [Stack AI](https://www.stack-ai.com/) - The No-Code AI Automation Platform
 - [Vellum](https://www.vellum.ai/) - The dev platform for production LLM apps
+
+## RAG
+- [ColBERT](https://github.com/stanford-futuredata/ColBERT) - fast and accurate retrieval model, enabling scalable BERT-based search over large text collections in tens of milliseconds.
+	- [Exploring ColBERT with RAGatouille](https://til.simonwillison.net/llms/colbert-ragatouille)
+	- [RAGatouille](https://github.com/bclavie/RAGatouille) - bridging the gap between state-of-the-art research and alchemical RAG pipeline practices
 
 ## SDKs
 - [Guardrails](https://github.com/guardrails-ai/guardrails) - lets a user add structure, type and quality guarantees to the outputs of LLMs.
@@ -114,7 +123,7 @@ date: 2023-08-15T07:30:00-03:00
 	- [BabyAGI](https://github.com/yoheinakajima/babyagi) #Pinecone
 	- [Langflow](https://github.com/logspace-ai/langflow) - UI designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [LiteLLM](https://docs.litellm.ai/docs/) - Call 100+ LLMs using the same Input/Output format #OpenSource 
-- [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/index.html) - #OpenSource 
+- [LlamaIndex](https://docs.llamaindex.ai/en/stable/) - framework for RAG #OpenSource 
 - [LLM](https://llm.datasette.io/en/stable/) - A CLI utility and [Python]({{< ref "Python" >}}) lib for interacting with OpenAI, PaLM and local models installed on your own machine #OpenSource 
 - [MonkeyPatch](https://github.com/monkeypatch/monkeypatch.py) - easily call an LLM in place of the function body in Python. The more you use MonkeyPatch functions, the cheaper and faster they gets (up to 9-10x!) through automatic model distillation. #OpenSource 
 - [Prompt Engine](https://github.com/microsoft/prompt-engine) - [Javascript]({{< ref "Javascript" >}}) lib for creating and maintaining prompts #OpenSource 

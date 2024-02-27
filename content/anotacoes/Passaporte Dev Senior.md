@@ -47,7 +47,7 @@ date: 2022-10-07T16:38:24-03:00
 - [https://www.viget.com/articles/multi-tenancy-in-django/](https://www.viget.com/articles/multi-tenancy-in-django/)
 - ao invés de middleware do Django, também pode-se fazer outra aplicação WSGI para pegar o tenant, injetar na thread e depois chamar o Django
     - `application = tenant_wsgi(get_wsgi_application())`
-- o tenant tem q ser especifíco por thread, pode-se usar o `[threading.Local()](https://docs.python.org/3/library/threading.html#thread-local-data)`
+- o tenant tem q ser especifíco por thread, pode-se usar o [`threading.Local()`](https://docs.python.org/3/library/threading.html#thread-local-data)
 - fazer um experimento com [threading.Local](https://docs.python.org/3/library/threading.html#thread-local-data)
 - fazer experimento em usar o DATABASE_ROUTERS do Django
     - [https://docs.djangoproject.com/en/4.0/ref/settings/#std:setting-DATABASE_ROUTERS](https://docs.djangoproject.com/en/4.0/ref/settings/#std:setting-DATABASE_ROUTERS)

@@ -10,21 +10,38 @@ date: 2023-08-15T07:30:00-03:00
 - https://thirdweb.com/ - thirdweb - The complete web3 development framework.
 	- https://twitter.com/svpino/status/1534575485262258176
 
-## IPFS
+## Social
+- [AT Protocol](https://atproto.com/) - Social networking technology created by [Bluesky](https://bsky.app/)
+- [Farcaster](https://www.farcaster.xyz/) - a protocol for decentralized social apps
+### Crossposters
+- [Agora](https://agorasocial.app/) - Follow your favorite topics in the Nostr-verse (and even posts from Mastodon, Reddit, Bluesky, and Twitter)
+- [mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - [archived](https://write.as/renatolond/timeline-for-the-shutdown-of-the-mastodon-twitter-crossposter-instance-at) 
+- [Mostr](https://gitlab.com/soapbox-pub/mostr) - a bridge between Nostr and the Fediverse (Mastodon, ActivityPub, etc.)
+- [touitomamout](https://github.com/louisgrasset/touitomamout) - sync tweets to Mastodon and Bluesky
+### Fediverse
+- Powered by [ActivityPub](https://activitypub.rocks/) - decentralized social networking protocol based upon the ActivityStreams 2.0 data format. - [W3C](https://www.w3.org/TR/activitypub/)
+- [Statistics](https://fedidb.org/)
+- [Projects](https://fediverse.info/explore/projects)
+	- [Mastodon](https://joinmastodon.org/) - microblog
+	- [PeerTube](https://joinpeertube.org/) - videos
+	- [Pixelfed](https://pixelfed.org/) - photos
+	- [Pleroma](https://pleroma.social/) - microblog
+### nostr
+- Notes and Other Stuff Transmitted by Relays
+- https://github.com/nostr-protocol/nostr
+- [awesome-nostr](https://nostr.net/) - [GitHub](https://github.com/aljazceru/awesome-nostr)
+- https://github.com/unclebob/more-speech - Desktop client in [Clojure]({{< ref "Clojure" >}}) by Uncle Bob -
+- by https://fiatjaf.com/
+- vs [ActivityPub](https://nostr.com/comparisons/mastodon)
+
+## Files
+### IPFS
 - https://ipfs.tech/ - IPFS powers the Distributed Web
 	- https://docs.ipfs.tech/concepts/comparisons/#how-is-ipfs-different-from-other-solutions - How is IPFS different from other solutions?
 	- https://docs.ipfs.tech/concepts/how-ipfs-works/#how-ipfs-works - How IPFS works
 - [How IPFS is broken](https://fiatjaf.com/d5031e5b.html)
 - https://docs.ipfs.tech/concepts/dht/ - A distributed hash table (DHT) is a distributed system for mapping keys to values. In IPFS, the DHT is used as the fundamental component of the content routing system and acts like a cross between a catalog and a navigation system. It maps what the user is looking for to the peer that is storing the matching content.
-
-## nostr
-- Notes and Other Stuff Transmitted by Relays
-- https://github.com/nostr-protocol/nostr
-- https://github.com/aljazceru/awesome-nostr
-- https://github.com/unclebob/more-speech - Desktop client in [Clojure]({{< ref "Clojure" >}}) by Uncle Bob -
-- by https://fiatjaf.com/
-
-## Storj
+### Storj
 - https://www.storj.io/ - Fast, secure cloud storage at a fraction of the cost.
 	- https://www.storj.io/node - Host a node
 - Earnings Estimator

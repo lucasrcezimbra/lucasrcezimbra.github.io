@@ -56,14 +56,14 @@ aliases:
 
 ## Integrations
 ### Open Source 
-- * [Activepieces](https://www.activepieces.com/) - #OpenSource 
+- * [Activepieces](https://www.activepieces.com/) - [GitHub](https://github.com/activepieces/activepieces) - [Forum](https://community.activepieces.com/) #OpenSource 
 	- [vs others](https://www.activepieces.com/blog/open-source-alternatives-to-zapier)
 	- doesn't support Python scripts
 	- supports whitelabel
 	- supports self-host
 	- secrets security?
 	- ![GitHub Repo stars](https://img.shields.io/github/stars/activepieces/activepieces)
-- * [ActiveWorkflow](https://www.activeworkflow.org/) - [GitHub](https://github.com/automaticmode/active_workflow) #OpenSource 
+- [ActiveWorkflow](https://www.activeworkflow.org/) - [GitHub](https://github.com/automaticmode/active_workflow) #OpenSource 
 	- forked from huginn
 	- supports other languages using agents running in separate processes - communication is using HTTP.
 	- hard to use
@@ -74,15 +74,20 @@ aliases:
 - * [Automatisch](https://automatisch.io/) - [GitHub](https://github.com/automatisch/automatisch) #OpenSource 
 	- doesn't support scripts
 	- supports whitelabel
+	-  ![GitHub Repo stars](https://img.shields.io/github/stars/automatisch/automatisch)
 - [huginn](https://github.com/huginn/huginn) - #OpenSource 
 - [Node-RED](https://nodered.org/) - #OpenSource 
-- [n8n](https://n8n.io/) - [GitHub](https://github.com/n8n-io/n8n) #OpenSource 
+	- runs on Raspberry PI
+	- Very technical
+	-  ![GitHub Repo stars](https://img.shields.io/github/stars/node-red/node-red)
+- * [n8n](https://n8n.io/) - [GitHub](https://github.com/n8n-io/n8n) #OpenSource 
 	- (beta) supports Python scripts
 	- supports whitelabel
 	- supports self-host
 	- Custom variables are available just on the Enterprise plan - [Docs](https://docs.n8n.io/code/variables/)
+	- doesn't run on Raspberry PI
 	-  ![GitHub Repo stars](https://img.shields.io/github/stars/n8n-io/n8n)
-- * [Pipedream](https://pipedream.com/) - [GitHub](https://github.com/PipedreamHQ/pipedream) #OpenSource 
+- [Pipedream](https://pipedream.com/) - [GitHub](https://github.com/PipedreamHQ/pipedream) #OpenSource 
 	- supports Python scripts
 	- doesn't support self-hosting - [issue](https://github.com/PipedreamHQ/pipedream/issues/954)
 - [Temporal](https://temporal.io/) - [GitHub](https://github.com/temporalio/temporal) #OpenSource 
@@ -90,6 +95,7 @@ aliases:
 - [IFTTT](https://ifttt.com/)
 - [Integrately](https://integrately.com/)
 - [Make (Integromat)](https://www.make.com/)
+- [Pluga](https://pluga.co/)
 - [Tray.io](https://tray.io/)
 - [Workato](https://www.workato.com/)
 - [Zapier](https://zapier.com/)
