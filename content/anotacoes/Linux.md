@@ -161,6 +161,14 @@ aliases:
 	sudo nmap -p 1-65535 <ip>
 	```
 
+## Terminal Emulators
+- [Alacritty](https://github.com/alacritty/alacritty) - #OpenSource 
+	- No tabs or splits
+- [kitty](https://github.com/kovidgoyal/kitty)
+- [rio](https://github.com/raphamorim/rio)
+- [Warp](https://www.warp.dev/) - closed source
+- [WezTerm](https://github.com/wez/wezterm)
+	- [vs Alacritty](https://github.com/wez/wezterm/discussions/1769)
 ## ThinkPad
 - Fix keyboard to work `/` (slash) key #troubleshooting - [Source](https://askubuntu.com/questions/184465/slash-in-thinkpad-t420-abnt-keyboard)
 	```bash

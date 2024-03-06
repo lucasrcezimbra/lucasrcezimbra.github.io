@@ -350,6 +350,7 @@ Fonte: https://fstring.help/
 	Mock().wrong_method()
 	# Out: <Mock name='mock.wrong_method()' id='140607049530000'>
 
+	# with spec
 	Mock(spec=MyClass).wrong_method()
 	# raises "AttributeError: Mock object has no attribute 'wrong_method'"
 	```
@@ -360,11 +361,13 @@ Fonte: https://fstring.help/
 	class MyClass:
 	    myobj = object
 
-	create_autospec(MyClass).myobj.wrong_method()
-	# raises "AttributeError: Mock object has no attribute 'wrong_method'"
-
+	# without autospec
 	Mock(spec=MyClass).myobj.wrong_method()
 	# Out: <Mock name='mock.myobj.wrong_method()' id='140671042320272'>
+
+	# with autospec
+	create_autospec(MyClass).myobj.wrong_method()
+	# raises "AttributeError: Mock object has no attribute 'wrong_method'"
 	```
 
 

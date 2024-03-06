@@ -9,7 +9,8 @@ date: 2023-08-15T07:30:00-03:00
 	- https://ar.io/ - a global network, protocol, and currency that enables the permaweb.
 - https://thirdweb.com/ - thirdweb - The complete web3 development framework.
 	- https://twitter.com/svpino/status/1534575485262258176
-
+- [The RSS Endpoint List](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2#scrapers-and-running-instances)
+- [WebSub](https://en.wikipedia.org/wiki/WebSub) - 
 ## Social
 - [AT Protocol](https://atproto.com/) - Social networking technology created by [Bluesky](https://bsky.app/)
 - [Farcaster](https://www.farcaster.xyz/) - a protocol for decentralized social apps
@@ -21,6 +22,7 @@ date: 2023-08-15T07:30:00-03:00
 ### Fediverse
 - Powered by [ActivityPub](https://activitypub.rocks/) - decentralized social networking protocol based upon the ActivityStreams 2.0 data format. - [W3C](https://www.w3.org/TR/activitypub/)
 - [Statistics](https://fedidb.org/)
+- [Can We Get More Decentralised Than The Fediverse?](https://gist.github.com/loreanvictor/bddd8824c744024d338e935bd7e96707)
 - [Projects](https://fediverse.info/explore/projects)
 	- [Mastodon](https://joinmastodon.org/) - microblog
 	- [PeerTube](https://joinpeertube.org/) - videos

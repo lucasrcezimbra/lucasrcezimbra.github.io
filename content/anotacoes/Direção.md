@@ -152,9 +152,49 @@ Curso por [Roger Gomes](https://www.instagram.com/rogergomes.psi/)
 - Não é a vontade que move o dever, mas o dever que move a vontade.
 
 
-
 ### Como planejar
 - Sonho: idealização/vago. Exemplo: ganhar mais, gastar menos, casar, ler mais, etc.
 - Plano: sonho colocado no papel. Avaliar o porquê, se faz sentido e procurar os meios de colocar em prática.
 - Meta: quantificar o sonho colocando prazos, investimentos, tempo, etc.
 - Objetivo: colocar o sonho na sua agenda cotidiana.
+
+
+### Como organizar sua rotina
+- Seja consciente do tempo que você gasta na sua rotina.
+#### Quadrantes
+- Compromissos (Importante e Urgente)
+	- Tem que ser você, naquela hora/lugar e com aquela pessoa
+	- Faça agora
+	- Marcar na agenda
+	- Sempre coloque margens para imprevistos
+- Terafas (Importante, mas não-urgente)
+	- Tem que ser feito por você até determinado prazo, mas não tem hora específica
+	- Exemplo: academia não precisa ser necessariamente pela manhã.
+- Urgências (Não-importante, mas urgente)
+	- Delegue
+	- Situações não-programadas que precisam ser realizadas imediatamente.
+- Superfluos (Não-importante e não-urgente)
+	- Elimine ou realize quando (e se) sobrar tempo.
+
+
+##  Exercício: Missão, visão e valores
+- **Objetivo**
+- **Missão**: 3 a 5 áreas para se chegar no objetivo.
+- **Visão**: 3 a 5 metas concretas e realizáveis em casa área. Separar metas em dia, semana, mês e extras (não-recorrentes).
+- **Valores**: regras do jogo
+
+### Exemplo
+Objetivo: Renda de 10k/mês
+Missão e Visão:
+1. Receita - aumentar renda em 5k/mês
+	1. regenegociar contratos atuais (extras)
+2. Despesas - reduzir despesas em 1k/mês
+	1. Cortar streamings não-usados
+	2. Diminuir iFood
+3. Trabalho - conseguir 3 clientes novos
+	1. Prospectar 1 cliente por semana (semana)
+	2. 2 blogposts por semana (semana)
+4. Estudos - especializar em vendas pra trazer os clientes
+	1. 30min/aula por dia (dia)
+5. Saúde - dormir suficiente
+	1. 8 horas por noite (dia)
