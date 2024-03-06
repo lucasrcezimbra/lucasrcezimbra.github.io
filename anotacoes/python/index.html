@@ -185,6 +185,7 @@ In [1]: from decimal import Decimal In [2]: Decimal(0.1) Out[2]: Decimal('0.1000
 </span></span><span style=display:flex><span>Mock()<span style=color:#39c>.</span>wrong_method()
 </span></span><span style=display:flex><span><span style=color:navy># Out: &lt;Mock name=&#39;mock.wrong_method()&#39; id=&#39;140607049530000&#39;&gt;</span>
 </span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:navy># with spec</span>
 </span></span><span style=display:flex><span>Mock(spec<span style=color:#39c>=</span>MyClass)<span style=color:#39c>.</span>wrong_method()
 </span></span><span style=display:flex><span><span style=color:navy># raises &#34;AttributeError: Mock object has no attribute &#39;wrong_method&#39;&#34;</span>
 </span></span></code></pre></div></li><li>Why to use autospec? (<a href=https://twitter.com/lucasrcezimbra/status/1714230538305692145 class=external-link target=_blank rel=noopener>Tweet</a>)<div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:#cd00cd>from</span> unittest.mock <span style=color:#cd00cd>import</span> create_autospec, Mock
@@ -192,11 +193,13 @@ In [1]: from decimal import Decimal In [2]: Decimal(0.1) Out[2]: Decimal('0.1000
 </span></span><span style=display:flex><span><span style=color:#cdcd00>class</span> <span style=color:#00cdcd>MyClass</span>:
 </span></span><span style=display:flex><span>    myobj <span style=color:#39c>=</span> <span style=color:#cd00cd>object</span>
 </span></span><span style=display:flex><span>
-</span></span><span style=display:flex><span>create_autospec(MyClass)<span style=color:#39c>.</span>myobj<span style=color:#39c>.</span>wrong_method()
-</span></span><span style=display:flex><span><span style=color:navy># raises &#34;AttributeError: Mock object has no attribute &#39;wrong_method&#39;&#34;</span>
-</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:navy># without autospec</span>
 </span></span><span style=display:flex><span>Mock(spec<span style=color:#39c>=</span>MyClass)<span style=color:#39c>.</span>myobj<span style=color:#39c>.</span>wrong_method()
 </span></span><span style=display:flex><span><span style=color:navy># Out: &lt;Mock name=&#39;mock.myobj.wrong_method()&#39; id=&#39;140671042320272&#39;&gt;</span>
+</span></span><span style=display:flex><span>
+</span></span><span style=display:flex><span><span style=color:navy># with autospec</span>
+</span></span><span style=display:flex><span>create_autospec(MyClass)<span style=color:#39c>.</span>myobj<span style=color:#39c>.</span>wrong_method()
+</span></span><span style=display:flex><span><span style=color:navy># raises &#34;AttributeError: Mock object has no attribute &#39;wrong_method&#39;&#34;</span>
 </span></span></code></pre></div></li></ul><h2 id=web>Web
 <a class=heading-link href=#web><i class="fa fa-link" aria-hidden=true title="Link to heading"></i>
 <span class=sr-only>Link to heading</span></a></h2><ul><li><a href=https://github.com/jordaneremieff/mangum class=external-link target=_blank rel=noopener>Mangum</a> - <a href=https://cezimbra.me/anotacoes/aws/>AWS</a> Lambda support for ASGI applications</li></ul><h3 id=django>Django
