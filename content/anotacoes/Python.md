@@ -90,6 +90,10 @@ date: 2023-08-15T07:30:00-03:00
 - [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
 
 
+## Auth
+- [Authlib](https://authlib.org/) - The ultimate library in building OAuth and OpenID Connect servers
+
+
 ## Background tasks
 Relates to [Message Queues]({{< ref "Message Queues" >}})
 - [Celery](https://github.com/celery/celery)
@@ -403,6 +407,12 @@ Fonte: https://fstring.help/
 - [Semantic UI](https://github.com/globophobe/django-semantic-admin) - [Docs](https://globophobe.github.io/django-semantic-admin/)
 - [Unfold Admin](https://unfoldadmin.com/) - [GitHub](https://github.com/unfoldadmin/django-unfold) - HTMX, Alpine.js and TailwindCSS
 - [Volt](https://github.com/app-generator/django-admin-volt) - Based on Bootstrap 5
+
+#### Auth
+- [django-allauth](https://docs.allauth.org/en/latest/)
+- [social-app-django](https://github.com/python-social-auth/social-app-django)
+
+
 
 #### GraphQL Server
 - [Ariadne](https://github.com/mirumee/ariadne-django)
