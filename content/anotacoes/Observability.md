@@ -12,13 +12,15 @@ date: 2023-08-15T07:30:00-03:00
 		- A Span is best used to when the operation has a start and an end.
 		- A Span Event is a information of the Span. It's best used to track operations with singular point in time.
 
-## LLM
+## [LLM]({{< ref "LLM" >}})
 - [arize](https://arize.com/)
 - [baserun](https://baserun.ai/welcome) - From identifying an issue to evaluating the solution
 - [Datadog](https://www.datadoghq.com/solutions/openai/) - OpenAI Monitoring
 - [fiddler](https://www.fiddler.ai/llmops) - 
 - [Gantry](https://www.gantry.io/) - observability, analytics, and evaluation for your AI-powered products.
 - [Helicone](https://www.helicone.ai/) - monitoring, logging, and tracing for your LLM applications out of the box #OpenSource 
+- [OpenInference](https://github.com/Arize-ai/openinference) - set of conventions and plugins that is complimentary to OpenTelemetry #OpenSource 
+- [OpenLLMetry](https://github.com/traceloop/openllmetry) - set of extensions built on top of OpenTelemetry #OpenSource 
 - [Phoenix](https://phoenix.arize.com/) - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook #OpenSource 
 - [Vellum](https://www.vellum.ai/) - prompt engineering, semantic search, version control, quantitative testing, and performance monitoring.
 

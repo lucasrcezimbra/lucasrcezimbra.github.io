@@ -28,3 +28,22 @@ date: 2023-08-29T10:09:49-0300
 - [MathJax](https://www.mathjax.org/)
 - [MathLive](https://github.com/arnog/mathlive/)
 - [QuickLaTeX](https://www.quicklatex.com/)
+
+## Storages
+| Type            | Capacity | Supported Types                                           | Lifetime                                                    | Access                                              |     |
+| --------------- | -------- | --------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------- | --- |
+| Cookies         | 4KB      | Strings                                                   | until expiration date or manually deleted by user or webapp | Shared between tabs and windows and with the server |     |
+| Session Storage | 5MB      | Strings                                                   | until tab is closed                                         | Not shared between tabs or windows                  |     |
+| Local Storage   | 5MB      | Strings                                                   | until manually deleted by the user or webapp                | Shared between tabs and windows                     |     |
+| IndexedDB       | >50MB    | Keys (Strings) and Values (objects, arrays, binary, etc.) | until manually deleted by the user or webapp                | Shared between tabs and windows                     |     |
+
+- [Please Stop Using Local Storage](https://www.rdegges.com/2018/please-stop-using-local-storage/) - string only; synchronous; can’t be used by web workers; Any JavaScript code on your page can access;
+- [OWASP - HTML5 Security Cheat Sheet # Local Storage](https://cheatsheetseries.owasp.org/cheatsheets/HTML5_Security_Cheat_Sheet.html#local-storage)
+- [HTML Standard - Web Storage](https://html.spec.whatwg.org/multipage/webstorage.html)
+
+References:
+- GPT-4
+- [MDN - IndexedDB API](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+- [MDN - Shared Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Shared_Storage_API)
+- [MDN - Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
+- [Stack Overflow - What is the difference between localStorage, sessionStorage, session and cookies?](https://stackoverflow.com/questions/19867599/what-is-the-difference-between-localstorage-sessionstorage-session-and-cookies)

@@ -141,7 +141,11 @@ aliases:
 - [Data Rabbit](https://www.datarabbit.com/)
 - [Google Sheet](https://www.google.com/sheets/about/)
 - [Rows](https://rows.com/)
-- 
+
 ## Website Builder
 - [Durable](https://durable.co/) - AI website builder that generates an entire website with images and copy in seconds.
 - [Webflow](https://webflow.com/)
+
+
+## WhatsApp Integrations
+- [Typebot](https://typebot.io/) - WhatsApp only on Pro ($89/month) - #OpenSource 

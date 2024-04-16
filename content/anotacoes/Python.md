@@ -376,96 +376,8 @@ Fonte: https://fstring.help/
 
 
 ## Web
+- [Django]({{< ref "Django" >}})
 - [Mangum](https://github.com/jordaneremieff/mangum) - [AWS]({{< ref "AWS" >}}) Lambda support for ASGI applications
-### Django
-- [Ninja](https://github.com/vitalik/django-ninja)
-	- Fields selections [Issue](https://github.com/vitalik/django-ninja/issues/333)
-- [Scaffold](https://github.com/Abdenasser/dr_scaffold)
-- How to test unmanaged models? [Source](https://stackoverflow.com/a/72593718)
-	```python
-	# <project>/tests/conftest.py
-	
-	def pytest_sessionstart():
-		from django.apps import apps
-		
-		unmanaged_models = [m for m in apps.get_models() if not m._meta.managed]
-		
-		for m in unmanaged_models:
-			m._meta.managed = True
-	```
-- `virtual_only` fields
-	- Advantages: 1. Improved performance; 2. Consistent interface; 3. Compatibility with Django’s ORM; 4. Integration with serialization.
-	- from https://henriquebastos.net/how-chatgpt-quickly-helped-me-understand-djangos-source-code
-- `django.core.exceptions.ImproperlyConfigured: Cannot import '<app>'. Check that '<project>.<app>.apps.<App>Config.name' is correct.` #troubleshooting 
-	- Rename `<App>Config.name` from `<app>` to `<project>.<app>`
-
-#### Admin
-- [AdminLTE](https://github.com/wuyue92tree/django-adminlte-ui) - Admin dashboard template based on Bootstrap
-- Awesome [1](https://github.com/iamfoysal/Best-Django-Admin-interface) and [2](https://github.com/originalankur/awesome-django-admin)
-- [jazzmin](https://github.com/farridav/django-jazzmin) - AdminLTE 3 & Bootstrap 4
-- [JET Reboot](https://github.com/assem-ch/django-jet-reboot) - 
-- [Semantic UI](https://github.com/globophobe/django-semantic-admin) - [Docs](https://globophobe.github.io/django-semantic-admin/)
-- [Unfold Admin](https://unfoldadmin.com/) - [GitHub](https://github.com/unfoldadmin/django-unfold) - HTMX, Alpine.js and TailwindCSS
-- [Volt](https://github.com/app-generator/django-admin-volt) - Based on Bootstrap 5
-
-#### Auth
-- [django-allauth](https://docs.allauth.org/en/latest/)
-- [social-app-django](https://github.com/python-social-auth/social-app-django)
-
-
-
-#### GraphQL Server
-- [Ariadne](https://github.com/mirumee/ariadne-django)
-	- Missing maintainer 
-- [Graphene](https://github.com/graphql-python/graphene-django/)
-	- [docs](https://docs.graphene-python.org/projects/django/en/latest/)
-	- Poor integration between Models and Queries
-- [Strawberry](https://github.com/strawberry-graphql/strawberry-graphql-django)
-	- Needs to define a schema class. Example:
-    ```python
-    @strawberry.django.type(models.Fruit)
-    class Fruit:
-        id: auto
-        name: auto
-        color: 'Color'
-	  ```
-- [Tartiflette](https://github.com/tartiflette/tartiflette-aiohttp)
-
-#### Request/Response Cycle
-```mermaid
-flowchart TD
-
-asgi["(A|W)SGI"]
-db[Database]
-client[Client]
-
-
-subgraph Django
-	middlewares[Middlewares]
-	urls[URLs]
-	view[View]
-	orm[ORM]
-	templates[Templates]
-
-	middlewares-- Request -->urls-- Request -->view
-	view-- Response -->middlewares
-
-	middlewares -. Query objects ...- orm
-	view-. Query objects ...- orm
-	view-. Render ...- templates
-end
-
-client<-- HTTP req/res -->asgi
-asgi<-- Request/Response -->middlewares
-
-orm<-. Query/Data .->db
-```
-
-#### Tree structures
-- [django-mptt](https://github.com/django-mptt/django-mptt) - Utilities for implementing Modified Preorder Tree Traversal (This project is currently unmaintained)
-- [django-tree](https://github.com/BertrandBordage/django-tree) - Fast and easy tree structures (In beta, it can’t be used yet in production.)
-- [django-treebeard](https://github.com/django-treebeard/django-treebeard) - Efficient tree implementations
-- [django-tree-queries](https://github.com/matthiask/django-tree-queries) - Adjacency-list trees using recursive common table expressions
 
 ### GraphQL Server
 - Ariadne - https://ariadnegraphql.org/
@@ -498,3 +410,9 @@ orm<-. Query/Data .->db
 	- Port forward [example](https://github.com/paramiko/paramiko/blob/main/demos/forward.py)
 	- [sshtunnel](https://github.com/pahaz/sshtunnel) - SSH tunnels to remote server
 - 
+
+
+## WebAssembly
+- [Extism](https://extism.org/) - The cross-language framework - [SDK](https://github.com/extism/python-sdk)
+- [Pyodide](https://pyodide.org/en/stable/) - distribution for the browser and Node.js based on WebAssembly - [GitHub](https://github.com/pyodide/pyodide)
+- [PyScript](https://pyscript.net/) - Run Python in Your HTML 

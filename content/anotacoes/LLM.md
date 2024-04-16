@@ -85,6 +85,7 @@ date: 2023-08-15T07:30:00-03:00
 	- [DALL·E 2 Prompt Engineering Guide](https://docs.google.com/document/d/11WlzjBT0xRpQhP9tFMtxzd0q6ANIdHPUBkMV-YB043U/edit#)
 	- [Use DALL-E to create infinite zoom movies](https://dosinga.medium.com/use-dall-e-to-create-infinite-zoom-movies-234fb72c85ab)
 - [DreamStudio](https://beta.dreamstudio.ai/)
+- [Hidden in Plain Sight](https://www.factsmachine.ai/p/hidden-in-plain-sight) - Hide text into images
 - [Midjourney]({{< ref "Midjourney" >}})
 - [Stable Diffusion](https://github.com/CompVis/stable-diffusion)
 	- [Demo Hugging Face](https://huggingface.co/spaces/stabilityai/stable-diffusion)

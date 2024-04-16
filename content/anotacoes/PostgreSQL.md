@@ -7,12 +7,15 @@ aliases: [
     "/psql/",
 ]
 ---
-
 - [Serverless Postgres](https://neon.tech/)
 - [Postgres: a Better Message Queue than Kafka?](https://dagster.io/blog/skip-kafka-use-postgres-message-queue)
 
-Como listar todas as tabelas do banco
+`\` commands
+```
+\d - list tables, views, and sequences
+```
 
+Como listar todas as tabelas do banco
 ```sql
 SELECT 
     *
@@ -30,16 +33,10 @@ DROP SCHEMA public CASCADE;
 CREATE SCHEMA public;
 ```
 
-
 Remover todos caracteres que não são letras
 ```sql
 regexp_replace(value, '[^A-z ]+', '', 'g')
 ```
-
-
-Row-Level permission
-- https://www.postgresql.org/docs/current/ddl-rowsecurity.html
-- https://www.enterprisedb.com/postgres-tutorials/how-implement-column-and-row-level-security-postgresql
 
 
 Criar uma função PL/pgSQL
@@ -66,3 +63,8 @@ $function$
 ;
 
 SELECT even_odds(100);
+```
+
+## Row-level permission
+- https://www.postgresql.org/docs/current/ddl-rowsecurity.html
+- https://www.enterprisedb.com/postgres-tutorials/how-implement-column-and-row-level-security-postgresql

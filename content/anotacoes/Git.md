@@ -4,6 +4,13 @@ date: 2023-08-15T07:30:00-03:00
 aliases:
   - /git
 ---
+- Using bisect to find bugs
+	```shell
+	git bisect start
+	git bisect good <sha1>  # mark commit as good
+	git bisect bad <sha1>  # mark commit as bad
+	git bisect run <cmd>  # run cmd automatically to find bad commit
+	```
 - (GitHub) How to recover the deleted branch of a PR?
 	```shell
 	git clone git@github.com:<username>/<repo>.git

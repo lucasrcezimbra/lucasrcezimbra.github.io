@@ -30,10 +30,11 @@ date: 2023-08-15T07:30:00-03:00
 	- [Pleroma](https://pleroma.social/) - microblog
 ### nostr
 - Notes and Other Stuff Transmitted by Relays
-- https://github.com/nostr-protocol/nostr
-- [awesome-nostr](https://nostr.net/) - [GitHub](https://github.com/aljazceru/awesome-nostr)
-- https://github.com/unclebob/more-speech - Desktop client in [Clojure]({{< ref "Clojure" >}}) by Uncle Bob -
+- [GitHub](https://github.com/nostr-protocol/nostr)
 - by https://fiatjaf.com/
+- [awesome-nostr](https://nostr.net/) - [GitHub](https://github.com/aljazceru/awesome-nostr)
+- [more-speech](https://github.com/unclebob/more-speech) - Desktop client in [Clojure]({{< ref "Clojure" >}}) by Uncle Bob
+- [Nosta](https://nosta.me/) - set up with a profile - [GitHub](https://github.com/GBKS/nosta-me)
 - vs [ActivityPub](https://nostr.com/comparisons/mastodon)
 
 ## Files
