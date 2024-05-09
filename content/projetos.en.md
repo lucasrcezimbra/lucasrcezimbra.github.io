@@ -4,6 +4,12 @@ date: 2022-04-08T20:08:54-03:00
 slug: "projects"
 ---
 
+{{< project
+    name="ninja-api-key"
+    description="API Key authentication for Django Ninja"
+    github="lucasrcezimbra/ninja-api-key"
+    pypi="ninja-api-key"
+>}}
 
 {{< project
     name="Missas.com.br"
