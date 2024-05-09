@@ -46,14 +46,18 @@ aliases:
 
 
 ## OAuth2
-- [RFC 6749 - The OAuth 2.0 Authorization Framework](https://datatracker.ietf.org/doc/html/rfc6749)
-- https://oauth.net/2/
-- https://swagger.io/docs/specification/authentication/oauth2/
-- [The False Identifier Anti-pattern](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/the-false-identifier-anti-pattern/ba-p/3846013) - use of claims other than subject (`sub`) to uniquely identify an user
 - [IETF - OAuth 2.0 Security Best Current Practice](https://datatracker.ietf.org/doc/html/draft-ietf-oauth-security-topics)
 - [IETF - OAuth 2.0 for Browser-Based Apps](https://datatracker.ietf.org/doc/draft-ietf-oauth-browser-based-apps/)
+- [IETF - RFC 6749 - The OAuth 2.0 Authorization Framework](https://datatracker.ietf.org/doc/html/rfc6749)
+- [The False Identifier Anti-pattern](https://techcommunity.microsoft.com/t5/microsoft-entra-blog/the-false-identifier-anti-pattern/ba-p/3846013) - use of claims other than subject (`sub`) to uniquely identify an user
+- https://oauth.net/2/
+- https://swagger.io/docs/specification/authentication/oauth2/
 
 ### OpenID Connect
 OpenID Connect (OIDC) is an identity layer built on top of the OAuth 2.0.
 - https://openid.net/developers/how-connect-works/
 - https://swagger.io/docs/specification/authentication/openid-connect-discovery/
+
+
+## Session
+- [IETF - RFC6265 - HTTP State Management Mechanism](https://www.rfc-editor.org/rfc/rfc6265.html)

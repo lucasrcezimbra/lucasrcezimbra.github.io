@@ -11,6 +11,14 @@ date: 2023-08-15T07:30:00-03:00
 - Feroli - [@feroli_oficial](https://www.instagram.com/feroli_oficial/) - não parece ser um clube
 - NH Shooting Club - [@nhshootingclub](https://www.instagram.com/nhshootingclub/)
 
+## Flores
+- [Agroflores](https://www.agroflores.com.br/)
+	- [Av. Capitão Mor Gouveia N2294, Cidade da Esperança](https://maps.app.goo.gl/heA3XoeLj5dDHAJJ6)
+	- (84) 3605-0513
+- [Blum](https://universoblum.com/)
+	- Av. Miguel Castro, 1142 - Lagoa Nova
+	- (84) 9912-8345
+
 ## Restaurantes
 - Agaricus
 - Camarões
@@ -51,12 +59,14 @@ date: 2023-08-15T07:30:00-03:00
 	- Av. Senador Salgado Filho, 2233 - Lagoa Nova
 	- Segunda a sábado das 7h as 13h
 #### Hospitais
-- Hospital Rio Grande
-	- Av. Afonso Pena, 754 - Tirol
-	- (84) 4009-1000
 - Hospital Memorial São Francisco
+	- Emergência costuma atender rápido
 	- Av. Gov. Juvenal Lamarine, 979 - Tirol
 	- (84) 3133.4200
+- Hospital Rio Grande
+	- Emergência demora algumas horas se não for urgente
+	- Av. Afonso Pena, 754 - Tirol
+	- (84) 4009-1000
 - Policlinica do Alecrim
 	- Rua Sílvio Pelico, 181 - Alecrim
 - Casa de Saúde São Lucas

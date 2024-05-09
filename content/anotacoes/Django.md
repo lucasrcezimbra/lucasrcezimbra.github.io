@@ -2,6 +2,7 @@
 title: "Django"
 date: 2024-04-16T17:44:46-0300
 ---
+- [Snippet - Django password hashers time comparison](https://gist.github.com/lucasrcezimbra/69286c9f1cbdb355e242990d2bc85e02)
 - [OWASP - Django Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Django_Security_Cheat_Sheet.html)
 - [Ninja](https://github.com/vitalik/django-ninja)
 	- Fields selections [Issue](https://github.com/vitalik/django-ninja/issues/333)
@@ -113,3 +114,5 @@ orm<-. Query/Data .->db
 - [django-tree](https://github.com/BertrandBordage/django-tree) - Fast and easy tree structures (In beta, it can’t be used yet in production.)
 - [django-treebeard](https://github.com/django-treebeard/django-treebeard) - Efficient tree implementations
 - [django-tree-queries](https://github.com/matthiask/django-tree-queries) - Adjacency-list trees using recursive common table expressions
+
+

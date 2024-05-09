@@ -11,6 +11,11 @@ date: 2023-08-15T07:30:00-03:00
 - [Meditações Padre Milton](https://open.spotify.com/show/2JIUpfvGA2sPJT0OORW4nA?si=6afc9a32738d4b9f)
 - [Plano de Vida](https://planodevidaespiritual.wordpress.com/)
 
+## Lojas
+- Carvalho Arte Sacra - [Site](https://www.carvalhoartesacra.com.br/) - [Instagram](https://www.instagram.com/carvalhoartesacra)
+- Pietá - [Site](https://www.pietaloja.com.br/) - [Instagram](https://www.instagram.com/pieta.artesacra/)
+- TerraCotta Arte Sacra - [Site](https://www.lojaterracotta.com.br ) - [Instagram](https://www.instagram.com/terracottaartesacra)
+
 ## Batismo
 > Em caso de necessidade, qualquer pessoa pode batizar, desde que tenha a intenção de fazer o que faz a Igreja, e que derrame água sobre a cabeça do candidato, dizendo: "Eu te batizo em nome do Pai e do Filho e do Espírito Santo".
 >  

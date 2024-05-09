@@ -95,7 +95,7 @@ aliases:
 ### Transport Security
 - mTLS
 - [Stunnel](https://www.stunnel.org/)
-- [VPN]({{< ref "VPN" >}})
+- [Toolbox#VPN]({{< ref "Toolbox#vpn" >}})
 
 
 ## Software Development Hour: From Developer to Architect with Nathaniel Schutta

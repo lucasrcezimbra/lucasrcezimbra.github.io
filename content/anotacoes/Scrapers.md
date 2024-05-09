@@ -4,6 +4,7 @@ date: 2023-08-15T07:30:00-03:00
 ---
 ## Instagram
 - https://github.com/adw0rd/instagrapi
+- * https://github.com/subzeroid/instagrapi
 - https://github.com/stanvanrooy/instauto
 - https://pypi.org/project/insomniac/
 - https://pypi.org/project/instagram-story/

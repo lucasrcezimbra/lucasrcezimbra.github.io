@@ -48,4 +48,5 @@ Os lideres jamais manipulam os outros. *Potestas* (poder próprio do cargo) rara
 	- Enunciar a missão da empresa é criar uma grande unidade e um enorme compromisso. É o que guia. Não sendo necessario que alguém dirija, controle ou critique as pessoas. Cultura >> Processo
 	- Na Direção por Objetivos, a missão deixa de ser um critério. Foca-se no QUE ao invés do PORQUÊ. Sem saber o porquê, dificulta saber o como e impossibilita o comprometimento dos subordinados. 
 	- Na Direção por Missão, os empregados são avaliados pela sua contribuição para a missão tanto quanto pelos resultados financeiros e operacionais. 
-- Meios magna
+- Meios magnanimos para fins magnanimos
+- 

@@ -3,11 +3,13 @@ title: Toolbox
 date: 2023-10-09T07:45:33-0300
 aliases:
   - /anotacoes/integrations-platforms/
+  - /anotacoes/vpn/
 ---
 - [PageSpeed Insights](https://pagespeed.web.dev/)
 - [Landingsite](https://landingsite.ai/)
 - [Snapdrop](https://snapdrop.net/) - Transfer files across devices in the same network.
-
+- [portr](https://github.com/amalshaji/portr) - #OpenSource ngr
+- [No Code Map App](https://www.nocodemapapp.com/) - spreadsheet to interactive map
 ## AI Code Reviewers
 - [CodeRabbit](https://coderabbit.ai/)
 - [CodiumAI](https://www.codium.ai/)
@@ -46,6 +48,7 @@ aliases:
 
 ## Hosting
 ### Platform as a Service
+- [Dokploy](https://dokploy.com/) - #OpenSource - [GitHub](https://github.com/Dokploy/dokploy)
 - [Easypanel](https://easypanel.io/) - Server Control Panel - deploy Docker containers of any type of applications, manage databases, and provision SSL certificates.
 - [Encore](https://encore.dev/) - Backend Development Platform that automates infrastructure
 - [Heroku](https://www.heroku.com/)
@@ -118,6 +121,7 @@ aliases:
 ## Testing
 ### API
 - [Hurl](https://hurl.dev/)
+
 ## Twitter
 - [Typefully](https://typefully.com/)
 - [Tweet Hunter](https://tweethunter.io/)
@@ -141,6 +145,14 @@ aliases:
 - [Data Rabbit](https://www.datarabbit.com/)
 - [Google Sheet](https://www.google.com/sheets/about/)
 - [Rows](https://rows.com/)
+
+
+## VPN
+- [AWS VPN](https://aws.amazon.com/pt/vpn/)
+- [tailscale](https://tailscale.com/) - VPN, remote access, tunneling
+- [Zerotier](https://www.zerotier.com/) - VPN, remote access, tunneling
+- [Twingate](https://www.twingate.com/)
+
 
 ## Website Builder
 - [Durable](https://durable.co/) - AI website builder that generates an entire website with images and copy in seconds.
