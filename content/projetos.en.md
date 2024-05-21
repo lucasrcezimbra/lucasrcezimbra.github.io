@@ -12,6 +12,13 @@ slug: "projects"
 >}}
 
 {{< project
+    name="llm-jupyter"
+    description="LLM plugin to run an IPython interpreter or notebook in the LLM virtual environment and use the LLM from within the interpreter or notebook as a magic function."
+    github="lucasrcezimbra/llm-jupyter"
+    pypi="llm-jupyter"
+>}}
+
+{{< project
     name="Missas.com.br"
     description="Website with Catholic mass times."
     website="https://missas.com.br"

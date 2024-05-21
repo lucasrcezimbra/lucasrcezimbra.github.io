@@ -5,9 +5,16 @@ date: 2022-04-08T20:08:54-03:00
 
 {{< project
     name="ninja-api-key"
-    description="API Key authentication for Django Ninja"
+    description="Autenticação usando API Key no Django Ninja"
     github="lucasrcezimbra/ninja-api-key"
     pypi="ninja-api-key"
+>}}
+
+{{< project
+    name="llm-jupyter"
+    description="Plug-in LLM para executar um interpretador ou notebook IPython no ambiente virtual do LLM e usar o LLM de dentro do interpretador or notebook como uma magic function."
+    github="lucasrcezimbra/llm-jupyter"
+    pypi="llm-jupyter"
 >}}
 
 {{< project
