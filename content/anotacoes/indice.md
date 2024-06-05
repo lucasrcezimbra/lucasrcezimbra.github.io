@@ -48,7 +48,7 @@ date: 2023-08-15T07:30:00-03:00
 - [GitHub]({{< ref "GitHub" >}})
 - [GraphQL]({{< ref "GraphQL" >}})
 - [Hasura]({{< ref "Hasura" >}})
-- [HTML over the wire]({{< ref "HTML over the wire" >}})
+- [Home Assistant]({{< ref "Home Assistant" >}})
 - [HTTP]({{< ref "HTTP" >}})
 - [Hugo]({{< ref "Hugo" >}})
 - [Inbox]({{< ref "Inbox" >}})

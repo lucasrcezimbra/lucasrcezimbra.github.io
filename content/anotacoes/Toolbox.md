@@ -34,6 +34,28 @@ aliases:
 - [unami](https://umami.is/) - free plan (10K events/month) #OpenSource 
 - [Wide Angle](https://wideangle.co/) - No free plans
 
+## Bookmark manager
+
+|                                        | Datasette                                                                      | [Raindrop.io](https://raindrop.io/)  | [LinkAce](https://www.linkace.org) | [Instapaper](https://www.instapaper.com/) | [Readwise](https://readwise.io/read) | [Pocket](https://getpocket.com/) |
+| -------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------ | ---------------------------------- | ----------------------------------------- | ------------------------------------ | -------------------------------- |
+| **Notes**                              | Not a bookmark manager, but can be used for it.                                |                                      |                                    |                                           |                                      |                                  |
+| **Hosting**                            | Self-hosted                                                                    | Cloud                                | Self-hosted                        | Cloud                                     | Cloud                                | Cloud                            |
+| **Open source**                        | ✅                                                                              | ❌                                    | ✅                                  | ❌                                         | ❌                                    |                                  |
+| **Saves pages content**                | [Can be implemented](https://github.com/AndyTheFactory/newspaper4k)            | Paid version only                    | Internet Archive                   | Paid version only                         | Paid version only                    | Paid version only                |
+| **Exportable**                         | ✅                                                                              | CSV and HTML                         | CSV and HTML                       | ✅                                         | CSV                                  |                                  |
+| **Publishable**                        | ✅                                                                              | ✅                                    | ✅                                  | ✅                                         | Paid version only                    |                                  |
+| **Pricing**                            | Free                                                                           | Free, R$16,36/month or R$152,65/year | Free                               | Free, $5.99/month or $59.99/year          | $12.99/month or $119.88/year         | Free, $4.99/month or $44.99/year |
+| **Search page content**                | Can be implemented                                                             | Paid version only                    | ❌                                  | Paid version only                         | Paid version only                    | Paid version only                |
+| **Semantic search**                    | [Can be implemented](https://llm.datasette.io/en/stable/embeddings/index.html) | Paid version only                    | ❌                                  |                                           | ❌                                    |                                  |
+| **Clustering content**                 | [Can be implemented](https://github.com/simonw/llm-cluster)                    |                                      | ❌                                  |                                           |                                      |                                  |
+| **Unroll X Threads**                   | [Can be implemented](https://github.com/dogsheep/twitter-to-sqlite)            | ❌                                    | ❌                                  | ❌                                         | Paid version only                    |                                  |
+| **E-mail to subscribe to newsletters** | Can be implemented                                                             | Can be implemented                   | Can be implemented                 | ✅                                         | Paid version only                    |                                  |
+Others:
+- [Briefkasten](https://briefkastenhq.com) - didn't work
+- [Lynkmark](https://www.lynkmark.com/) - doesn't save pages content
+- [Toast](https://www.dotoast.com/) - browser extension only
+- [WebCrate](https://webcrate.app/) - needs to be deployed in a specific cloud
+
 ## Coverage
 - [Codecov](https://about.codecov.io/)
 - [Code Climate](https://codeclimate.com/)

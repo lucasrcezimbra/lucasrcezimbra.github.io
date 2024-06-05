@@ -85,6 +85,15 @@ date: 2023-08-15T07:30:00-03:00
 	```shell
 	pip install git+ssh://git@github.com/<org>/<repo>
 	```
+- How to split string as CLI args? ([Tweet](https://twitter.com/lucasrcezimbra/status/1790034271727493258))
+	```python
+    >>> "--system 'string w/ multiple words'".split()
+	['--system', "'string", 'w/', 'multiple', "words'"]
+	
+    >>> import shlex
+    >>> shlex.split("--system 'string w/ multiple words'")
+	['--system', 'string w/ multiple words']
+	```
 
 ## Anti-Patterns
 - [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)

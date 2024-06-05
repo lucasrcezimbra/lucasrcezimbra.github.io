@@ -2,6 +2,10 @@
 title: "Obsidian"
 date: 2023-08-15T07:30:00-03:00
 ---
+## Clipping
+- [Obsidian Clipper](https://github.com/jplattel/obsidian-clipper)
+- [Obsidian Web Clipper](https://stephango.com/obsidian-web-clipper) - bookmark
+- * [MarkDownload](https://github.com/deathau/markdownload) for [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/markdownload/) and [Chrome](https://chromewebstore.google.com/detail/markdownload-markdown-web/pcmpcfapbekmbjjkdalcgopdkipoggdi)
 ## Publish
 - https://help.obsidian.md/Obsidian+Publish/Customize+your+site
 - How to publish images?

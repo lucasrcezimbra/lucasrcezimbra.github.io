@@ -26,6 +26,7 @@ date: 2023-08-15T07:30:00-03:00
 	- Feijoada sábado e domingo
 - Mangai
 - Marechal
+	- não gostamos
 - Mina d’água
 - Mormaço
 	- Macarrão limão siciliano com filé mignon
@@ -38,8 +39,21 @@ date: 2023-08-15T07:30:00-03:00
 - Sal e Brasa
 - Zeh
 
-## Docerias
+### Cafeterias
+- Muso Café
+- Observatório do Café
+
+### Docerias
+- Bacio di Latte
 - Bocaditos
+- Jolie
+- San Paolo
+
+### Padarias
+- Casa Nacre
+- Mercatto
+- Paneer
+- Pão & Companhia
 
 ## Saúde
 ### Unimed

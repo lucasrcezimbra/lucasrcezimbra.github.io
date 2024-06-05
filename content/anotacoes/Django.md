@@ -30,7 +30,7 @@ date: 2024-04-16T17:44:46-0300
 	- from https://henriquebastos.net/how-chatgpt-quickly-helped-me-understand-djangos-source-code
 - `django.core.exceptions.ImproperlyConfigured: Cannot import '<app>'. Check that '<project>.<app>.apps.<App>Config.name' is correct.` #troubleshooting 
 	- Rename `<App>Config.name` from `<app>` to `<project>.<app>`
-
+- [How to Switch to a Custom Django User Model Mid-Project](https://www.caktusgroup.com/blog/2019/04/26/how-switch-custom-django-user-model-mid-project/) and [Document how to migrate from a built-in User model to a custom User model](https://code.djangoproject.com/ticket/25313#comment:24)
 ## Admin
 - [AdminLTE](https://github.com/wuyue92tree/django-adminlte-ui) - Admin dashboard template based on Bootstrap
 - Awesome [1](https://github.com/iamfoysal/Best-Django-Admin-interface) and [2](https://github.com/originalankur/awesome-django-admin)
@@ -64,6 +64,12 @@ date: 2024-04-16T17:44:46-0300
 ## Health Check
 - [django-health-check](https://github.com/revsys/django-health-check)
 - [django-watchman](https://github.com/mwarkentin/django-watchman)
+
+## Multi-tenancy
+- django-tenants - [GitHub](https://github.com/django-tenants/django-tenants/)
+	- Examples of projects using it: [bakeup](https://github.com/bruecksen/bakeup), [Zango](https://github.com/Healthlane-Technologies/Zango), [authentik](https://github.com/goauthentik/authentik/), [koku](https://github.com/project-koku/koku)
+	- django-tenant-users - [GitHub]
+		- Examples: [RPGnotes](https://github.com/Findus23/RPGnotes)
 
 ## Request/Response Cycle
 ```mermaid

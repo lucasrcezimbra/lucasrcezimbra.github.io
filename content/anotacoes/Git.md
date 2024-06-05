@@ -63,6 +63,12 @@ aliases:
 	git log -c -G'removed.*code' <path/to/file> # search for regex
 	```
 
+- Search for a code in multiple branches
+	```bash
+	git reflog -S '<string>' <path/to/file>
+	git reflog -G '<pattern>' <path/to/file>
+	```
+
 - Edit a commit ([Tweet](https://twitter.com/lucasrcezimbra/status/1712070772418912359))
 	```bash
 	git rebase -i '<commit_hash>^'

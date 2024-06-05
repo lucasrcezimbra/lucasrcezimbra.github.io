@@ -13,6 +13,7 @@ aliases: [
 `\` commands
 ```
 \d - list tables, views, and sequences
+\dn - list schemas
 ```
 
 Como listar todas as tabelas do banco

@@ -143,6 +143,17 @@ date: 2023-08-15T07:30:00-03:00
 >   
   cân. 1128
 
+### Sacerdócio
+#### e casamento
+> Nas Igrejas orientais está em vigor, há séculos, uma disciplina diferente: enquanto os Bispos são escolhidos somente entre os celibatários, homens casados podem ser ordenados diáconos e padres. Esta praxe é considerada legítima há muito tempo. Esses padres exercem um ministério muito útil no seio de suas comunidades. O celibato dos presbíteros, no entanto, é muito honrado nas Igrejas orientais, e são numerosos os que o escolhem livremente, por causa do Reino de Deus. No Oriente como no Ocidente, aquele que recebeu o sacramento da Ordem não pode mais se casar.
+> 
+> cân. 1580
+- [5 mitos sobre padres casados no catolicismo oriental](https://fasbam.edu.br/2020/03/11/5-mitos-sobre-padres-casados-no-catolicismo-oriental/)
+	1. Católicos orientais não valorizam o celibato
+	2. Padres católicos orientais são “autorizados a se casar”
+	3. A disciplina católica oriental é uma “aberração”
+	4. Famílias de padres casados ​​sofrem de negligência
+	5. Os padres católicos orientais casados ​​são pastores ineficazes
 
 ## Supertição
 > Quando se atribui uma importância de algum modo mágica a certas práticas, de outra forma legítimas ou necessárias, ou se atribui a eficácia das orações ou dos sinais sacramentais apenas à sua materialidade, independentemente das disposições interiores que são necessárias, isso significa cair na superstição.

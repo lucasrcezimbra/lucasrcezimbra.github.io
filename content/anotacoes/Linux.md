@@ -177,7 +177,8 @@ aliases:
 
 ## XFCE4
 - Window top part (minimize, maximize, close, etc.) disappeared #troubleshooting : `xfwm4`
-- Desktop icons disappeared #troubleshooting : `xfdesktop`
+- Desktop icons disappeared #troubleshooting: `xfdesktop`
+- Dead keys stopped working #troubleshooting: `setxkbmap -option`
 - Sending notification
 	```shell
 	notify-send "<title>" "<message>"
