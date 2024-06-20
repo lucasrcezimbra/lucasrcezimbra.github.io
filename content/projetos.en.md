@@ -116,6 +116,13 @@ slug: "projects"
 ### Code
 
 {{< contribution
+    status="open"
+    url="https://github.com/model-bakers/model_bakery/pull/480"
+    project="model_bakery"
+    title="Fix make_recipe to work with _quantity"
+    date="2024-06-20"
+>}}
+{{< contribution
     status="merged"
     url="https://github.com/bloomberg/attrs-strict/pull/108"
     project="attrs-strict"

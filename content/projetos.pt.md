@@ -115,6 +115,13 @@ date: 2022-04-08T20:08:54-03:00
 ### Código
 
 {{< contribution
+    status="open"
+    url="https://github.com/model-bakers/model_bakery/pull/480"
+    project="https://github.com/bloomberg/attrs-strict/pull/108"
+    title="Fix make_recipe to work with _quantity"
+    date="2024-06-20"
+>}}
+{{< contribution
     status="merged"
     url="https://github.com/bloomberg/attrs-strict/pull/108"
     project="attrs-strict"
