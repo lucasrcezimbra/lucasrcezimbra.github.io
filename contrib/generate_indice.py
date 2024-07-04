@@ -18,9 +18,14 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 
 
 def get_last_commit_date(filepath):
-    output = subprocess.check_output(
-        ["git", "log", "-1", "--format=%cd", "--date=iso", "--", filepath],
-    ).decode('utf-8').strip()
+    cmd = ["git", "log", "-1", "--format=%aI", "--date=iso", "--", filepath]
+    output = subprocess.check_output(cmd).decode('utf-8').strip()
+    return output
+
+
+def get_first_commit_date(filepath):
+    cmd = ["git", "log", "--diff-filter=A", "--follow", "--format=%aI", "-1", "--", filepath]
+    output = subprocess.check_output(cmd).decode('utf-8').strip()
     return output
 
 
@@ -34,7 +39,10 @@ def get_pages(directory):
 
         title = str(filepath.relative_to(notes_dir)).replace('.md', '')
 
-        yield (f'- [{title}]({{{{< ref "{title}" >}}}})', get_last_commit_date(filepath))
+        yield (
+            f'- [{title}]({{{{< ref "{title}" >}}}})',
+            (get_last_commit_date(filepath), get_first_commit_date(filepath))
+        )
 
 
 def main():
