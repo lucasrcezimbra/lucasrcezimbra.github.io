@@ -116,7 +116,7 @@ slug: "projects"
 ### Code
 
 {{< contribution
-    status="open"
+    status="merged"
     url="https://github.com/model-bakers/model_bakery/pull/480"
     project="model_bakery"
     title="Fix make_recipe to work with _quantity"
