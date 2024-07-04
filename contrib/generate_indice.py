@@ -18,27 +18,29 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 
 
 def get_last_commit_date(filepath):
-    try:
-        output = subprocess.check_output(
-            ["git", "log", "-1", "--format=%cd", "--date=iso", "--", filepath],
-            cwd=os.path.dirname(os.path.abspath(filepath))
-        ).decode('utf-8').strip()
-        return output
-    except subprocess.CalledProcessError:
-        return None
+    output = subprocess.check_output(
+        ["git", "log", "-1", "--format=%cd", "--date=iso", "--", filepath],
+    ).decode('utf-8').strip()
+    return output
+
+
+def get_pages(directory):
+    for filepath in directory.iterdir():
+        if filepath.is_dir():
+            yield from get_pages(filepath)
+
+        if filepath.name == 'indice.md' or not filepath.name.endswith('.md'):
+            continue
+
+        title = str(filepath.relative_to(notes_dir)).replace('.md', '')
+
+        yield (f'- [{title}]({{{{< ref "{title}" >}}}})', get_last_commit_date(filepath))
 
 
 def main():
-    pages = []
-
-    for filepath in notes_dir.iterdir():
-        if filepath.is_dir() or filepath.name == 'indice.md' or not filepath.name.endswith('.md'):
-            continue
-
-        title = filepath.name.replace('.md', '')
-        pages.append((f'- [{title}]({{{{< ref "{title}" >}}}})', get_last_commit_date(filepath)))
-
-    lines = [p[0] for p in sorted(pages, key=lambda p: p[1], reverse=True)]
+    pages_generator = get_pages(notes_dir)
+    sorted_pages = sorted(pages_generator, key=lambda p: p[1], reverse=True)
+    lines = [p[0] for p in sorted_pages]
 
     with open(notes_dir / 'indice.md', 'w') as f:
         f.write('\n'.join([header, *lines]))
