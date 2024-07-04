@@ -7,6 +7,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2024-06-30 - 2024-07-06]({{< ref "Weeknotes/2024-06-30 - 2024-07-06" >}})
 - [Inbox]({{< ref "Inbox" >}})
 - [Python]({{< ref "Python" >}})
 - [My thoughts about software]({{< ref "My thoughts about software" >}})
