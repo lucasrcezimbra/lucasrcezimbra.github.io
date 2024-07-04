@@ -45,7 +45,7 @@ date: 2023-08-15T07:30:00-03:00
 	- https://huggingface.co/bigcode/starcoder
 	- https://marketplace.visualstudio.com/items?itemName=HuggingFace.huggingface-vscode
 ### Copilot
-	- https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt - ChatGPT no VSCode
+- https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt - ChatGPT no VSCode
 - [Copilot Internals](https://thakkarparth007.github.io/copilot-explorer/posts/copilot-internals.html) - Reverse engineering
 
 ## Comparison
@@ -79,8 +79,7 @@ date: 2023-08-15T07:30:00-03:00
 - [MLX](https://github.com/ml-explore/mlx) - An array framework for Apple silicon
 	
 ## Image Generation
-- [Clipdrop](https://clipdrop.co/)
-- [DALL-E 2](https://openai.com/dall-e-2/)
+- DALL-E
 	- [Prompt book](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y)
 	- [DALL·E 2 Prompt Engineering Guide](https://docs.google.com/document/d/11WlzjBT0xRpQhP9tFMtxzd0q6ANIdHPUBkMV-YB043U/edit#)
 	- [Use DALL-E to create infinite zoom movies](https://dosinga.medium.com/use-dall-e-to-create-infinite-zoom-movies-234fb72c85ab)
@@ -128,8 +127,7 @@ date: 2023-08-15T07:30:00-03:00
 - [LLM](https://llm.datasette.io/en/stable/) - A CLI utility and [Python]({{< ref "Python" >}}) lib for interacting with OpenAI, PaLM and local models installed on your own machine #OpenSource 
 - [MonkeyPatch](https://github.com/monkeypatch/monkeypatch.py) - easily call an LLM in place of the function body in Python. The more you use MonkeyPatch functions, the cheaper and faster they gets (up to 9-10x!) through automatic model distillation. #OpenSource 
 - [Prompt Engine](https://github.com/microsoft/prompt-engine) - [Javascript]({{< ref "Javascript" >}}) lib for creating and maintaining prompts #OpenSource 
-- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) -  [Python]({{< ref "Python" >}}) and C# libs that allow to define plugins that can be chained together #OpenSource
-- 
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) -  [Python]({{< ref "Python" >}}) and C# libs that allow to define plugins that can be chained together #OpenSource 
 
 ## Speech Recognition 
 - https://github.com/openai/whisper - general-purpose speech recognition model

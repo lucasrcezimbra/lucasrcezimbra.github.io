@@ -94,6 +94,28 @@ date: 2023-08-15T07:30:00-03:00
     >>> shlex.split("--system 'string w/ multiple words'")
 	['--system', 'string w/ multiple words']
 	```
+- Send arguments into a generator
+	```python
+	In [1]: def generator():
+	    ...:     while True:
+	    ...:         received = yield 'DATA'
+	    ...:         print('Received:', received)
+	    ...:
+	
+	In [2]: g = generator()
+	
+	In [3]: next(g)
+	Out[3]: 'DATA'
+	
+	In [4]: g.send(1)
+	Received: 1
+	Out[4]: 'DATA'
+	
+	In [5]: g.send(2)
+	Received: 2
+	Out[5]: 'DATA'
+	```
+
 
 ## Anti-Patterns
 - [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)

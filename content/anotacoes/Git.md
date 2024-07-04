@@ -93,13 +93,6 @@ aliases:
 	git log --all -- <file-path>
 	```
 
-- Better git log format
-	```bash
-	git config --global alias.lg "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'"
-	git lg
-	```
-	![git lg, a better log](/anotacoes/Assets/git-lg.png)
-
 - Add some parts of a file ([Tweet](https://twitter.com/lucasrcezimbra/status/1712070761928908992))	
 	```bash
 	git add -p
@@ -137,11 +130,18 @@ aliases:
   git pull --ff-only origin $TO
   git branch -D downmerge-$FROM-to-$TO
   git checkout -b downmerge-$FROM-to-$TO
-  git pull origin $FROM
+  git pull --no-ff --no-rebase origin $FROM
   # fix conflicts
   git commit
   git push origin downmerge-$FROM-to-$TO
   ```
+
+- Better git log format
+	```bash
+	git config --global alias.lg "log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'"
+	git lg
+	```
+	![git lg, a better log](Assets/git-lg.png)
 
 ## Trunk based
 - https://trunkbaseddevelopment.com/#one-line-summary

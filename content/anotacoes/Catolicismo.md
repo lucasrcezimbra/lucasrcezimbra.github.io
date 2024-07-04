@@ -2,7 +2,9 @@
 title: "Catolicismo"
 date: 2023-08-15T07:30:00-03:00
 ---
- - [O uso do tabaco não é pecado](https://www.veritatis.com.br/o-uso-do-tabaco-nao-e-pecado/)
+> Sê firme, amável e justo.
+
+- [O uso do tabaco não é pecado](https://www.veritatis.com.br/o-uso-do-tabaco-nao-e-pecado/)
 - Pax Romana
 - [ ] CRISTIANISMO: A VITÓRIA DA INTELIGÊNCIA SOBRE O MUNDO DAS RELIGIÕES https://interceda.webnode.com.br/news/cristianismo:%20a%20vitoria%20da%20intelig%C3%AAncia%20sobre%20o%20mundo%20das%20religi%C3%B5es%20/
 - [ ] https://opusdei.org/pt-br/article/vai-e-faze-a-mesma-coisa-1-foi-a-mim-que-o-fizestes - “Vai e faze a mesma coisa” (1): foi a mim que o fizestes - Doutrina Social da Igreja
@@ -131,6 +133,13 @@ date: 2023-08-15T07:30:00-03:00
 > Se um cristão estiver em perigo de morte, um presbítero pode dar-lhe a Confirmação.
 >
 > cân. 1314 
+
+
+## Orações
+> Vinde, Espírito Santo, enchei os corações dos vossos fiéis e acendei neles o fogo do Vosso amor. Enviai o Vosso Espírito e tudo será criado, e renovareis a face da Terra!
+> 
+> Oremos: Deus que instruístes os corações dos Vossos fiéis, com a luz do Espírito Santo, fazei que apreciemos retamente todas as coisas, segundo o mesmo Espírito e gozemos sempre de Suas consolações, por Cristo, Senhor Nosso. Amém!
+
 
 
 ## Protestantismo

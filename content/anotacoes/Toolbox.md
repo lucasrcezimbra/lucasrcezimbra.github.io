@@ -8,16 +8,42 @@ aliases:
 - [PageSpeed Insights](https://pagespeed.web.dev/)
 - [Landingsite](https://landingsite.ai/)
 - [Snapdrop](https://snapdrop.net/) - Transfer files across devices in the same network.
-- [portr](https://github.com/amalshaji/portr) - #OpenSource ngr
+- [portr](https://github.com/amalshaji/portr) - #OpenSource ngrok
 - [No Code Map App](https://www.nocodemapapp.com/) - spreadsheet to interactive map
-## AI Code Reviewers
+## AI
+### Chats
+- [Bing Chat](https://www.bing.com/chat)
+- [Claude](https://claude.ai/)
+- [DuckDuckGo AI](https://duckduckgo.com/?q=DuckDuckGo&ia=chat)
+- [Gemini](https://gemini.google.com/)
+- [Meta AI](https://ai.meta.com/meta-ai/)
+### Coding
+#### Assistants
+- [Blackbox](https://www.blackbox.ai/)
+- [Codium](https://www.codium.ai/)
+- [GitHub Copilot](https://github.com/features/copilot)
+- [Supermaven](https://supermaven.com/)
+#### Reviewers
 - [CodeRabbit](https://coderabbit.ai/)
 - [CodiumAI](https://www.codium.ai/)
 - [Sourcery](https://sourcery.ai/)
-
-## AI Image Editing
+### Locally
+- [LM Studio](https://lmstudio.ai/)
+- [Ollama](https://ollama.com/)
+### Image
+#### Computer Vision
+- [Roboflow](https://universe.roboflow.com/) - collection of open source computer vision datasets and APIs.
+#### Generation
+- [DALL-E 3](https://openai.com/index/dall-e-3/)
+- [Leonardo AI](https://leonardo.ai/)
+- [Midjourney](https://www.midjourney.com/home)
+- [Stable Diffusion](https://stability.ai/stable-assistant)
+#### Editing
+- [Clipdrop](https://clipdrop.co/)
 - [OpenArt](https://openart.ai/)
 - [Runway](https://runwayml.com/)
+### Search engines
+- [Perplexity](https://www.perplexity.ai/)
 
 ## Analytics
 - [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/)
@@ -177,7 +203,13 @@ Others:
 
 
 ## Website Builder
+- [Carrd](https://carrd.co/)
 - [Durable](https://durable.co/) - AI website builder that generates an entire website with images and copy in seconds.
+- [Framer](https://www.framer.com/)
+- [Instapage](https://instapage.com/)
+- [Leadpages](https://www.leadpages.com/)
+- [Squarespace](https://www.squarespace.com/)
+- [Unbounce](https://unbounce.com/)
 - [Webflow](https://webflow.com/)
 
 

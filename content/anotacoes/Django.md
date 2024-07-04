@@ -24,6 +24,10 @@ date: 2024-04-16T17:44:46-0300
 		
 		for m in unmanaged_models:
 			m._meta.managed = True
+
+	# pyproject.toml
+	[tool.pytest.ini_options]
+	addopts = "--no-migrations"
 	```
 - `virtual_only` fields
 	- Advantages: 1. Improved performance; 2. Consistent interface; 3. Compatibility with Django’s ORM; 4. Integration with serialization.

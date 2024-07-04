@@ -104,6 +104,11 @@ aliases:
 	...
 	zprof
 	```
+- Run command skipping alias
+	```shell
+	\<command>
+	```
+	![](/anotacoes/Assets/linux-shell-skip-alias.png)
 ## Debian
 - How to validate a .desktop file
 	```bash

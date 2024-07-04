@@ -19,8 +19,19 @@ date: 2023-08-15T07:30:00-03:00
 	- Av. Miguel Castro, 1142 - Lagoa Nova
 	- (84) 9912-8345
 
-## Restaurantes
-- Agaricus
+## Alimentação 
+⭐️ = odiei
+⭐️⭐️ = não gostei
+⭐️⭐️⭐️ = bom 
+⭐️⭐️⭐️⭐️ = muito bom
+⭐️⭐️⭐️⭐️⭐️ = favorito
+💸 = barato
+💸💸 = 
+💸💸💸 = 
+💸💸💸💸 =
+💸💸💸💸💸 = caro
+### Restaurantes
+- Agaricus - ⭐️⭐️⭐️⭐️- 💸💸💸💸
 - Camarões
 - Curió
 	- Feijoada sábado e domingo
