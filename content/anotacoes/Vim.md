@@ -37,3 +37,15 @@ date: 2023-08-15T07:30:00-03:00
 - Error while lunarvim installation `unknown flag 'u'`
 	- Uninstall nvim installed using snap
 	- https://github.com/LunarVim/LunarVim/issues/3612
+#### Plugins
+✅ = using
+🧪 = testing
+❔ = to test
+❌ = discarded
+🧊 = unmaintained
+- 🧊 [hop](https://github.com/hadronized/hop.nvim) - Neovim motions on speed! -  "unmaintained for probably forever"
+- 🧪 [leap](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse
+- 🧊 [lightspeed](https://github.com/ggandor/lightspeed.nvim) - deprecated in favor of leap.nvim
+- ❌ [minimap](https://github.com/wfxr/minimap.vim) - blazing fast minimap/scrollbar - I didn't like because it doesn't show the code, only dots
+- ❌ [numb](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend - It didn't interest me.
+- 🧪 [nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim

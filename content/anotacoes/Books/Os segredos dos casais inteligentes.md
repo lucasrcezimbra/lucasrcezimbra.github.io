@@ -3,10 +3,10 @@ title: Os segredos dos casais inteligentes
 date: 2024-07-04T21:25:46-0300
 aliases:
 ---
-## My Notes
+## Minhas Notas
 - 
 
-## Quotes
+## Citações
 ### 1. A teoria funciona na prática?
 - (pág. 24) 10 passos para a construção de riquezas:
 	1. Negociar as dívidas
@@ -60,4 +60,37 @@ aliases:
 	- "É preciso adotar um estilo de vida em que os gastos se situem em um patamar menor sem comprometer nossa realização pessoal e nossa segurança finaneira."
 - (pág. 85 a 87) Quando a preocupação é apenas gastar
 	- "descubram o que é realmente importante para cada um de vocês e incluam a verba para isso em seu orçamento mensal"
-	- "Façam dos maiores desejos uma rotina, não um projeto eventual. Conscientes de que terão mais uma oportunidade dentro de algumas semanas, "
+	- "Façam dos maiores desejos uma rotina, não um projeto eventual. Conscientes de que terão mais uma oportunidade dentro de algumas semanas, vocês saberão lidar melhor com a dúvida e deixar um pouco do prazer da comprar para o próximo mês."
+- (pág. 90) 10 argumentos a favor do aluguel
+	- "Quanto menor o imóvel, maior tende a ser o preço do aluguel, pois há maior concorrência entre interessados. Na cidade de São Paulo, enquanto o aluguel mensal de um imóvel popular custa cerca de 0,8% do valor de venda do mesmo, é possível alugar imóveis de alto padrão com taxas de aluguel inferiores a 0,5% de seu valor comercial."
+
+### 6. Dívidas? Talvez
+- (pág. 107 a 113) Quando vale a pena pagar juros I: projetos que potencializem nossos ganhos
+	1. "projetos pessoais ou de negócios que potencializem nossos ganhos;"
+	2. "lidar com imprevistos e desejos não planejados e preservar planos maiores"
+
+### 7. Aposentadoria? Para que pressa?
+- (pág. 121 a 123) Carreira: um projeto do casal
+	- "por mais que o trabalho nos consuma, temos que nos esforçar para não perder de vista nossos principais objetivos. Precisamos nos desapegar dos laços de comodismo que o trabalho e a rotina impõem. E, nesse sentido, ninguém melhor para nos ajudar do que a pessoa que escolhemos para ter ao lado nessa jornada."
+	- "A carreira não deve ser pensada ou planejada como um projeto do indivíduo, mas como um projeto do casal. E esse projeto não pode, de maneira alguma, ser diassoaciado dos planos de construção de riqueza de ambos, pois a carreira nada mais é do que o um meio de adquirir nossa independência financeira."
+	- Minhas notas: e um meio de serviço ao próximo e santificação do trabalho, como diria São Josemaria Escrivá
+- (pág. 126 a 132) O papel de cada um na carreira dos dois
+	- 1. Formação profissional e 2. Diferenciação profissional: são fases de estresse e sacrifícios, principalmente de agenda.
+	- "3. Estabilidade: o crescimento nos traz mais responsabiilidade, autonomia e possibilidades de delegar."
+	- 4. Transição para a independência financeira: "discustir conjuntamente planos sobre como lidar com uma vida menos previsível e que deixará de contar com a rotina". "Se decidirem montar um negócio, passarão a ser uma família empresária" "pois o começo de qualquer negócio requer dedicação total. Isso acaba envolvendo direta ou indiretamenta a família"
+- (pág. 132 e 134) "Quanto poupar, afinal?" "A resposta é simples: depende de quanto tempo vocês estão dispostos a esperar para colher os resultados."
+
+### 8. Que dê certo mesmo quando não dá certo
+- (pág. 138 a 142) É bom falar de coisas ruins
+	- "contratar seguros" "os mais importantes são de saúde, moradia e automóveis" " e de vida"
+	- "Manter registros organizados do patrimônio, dos seguros contratados, dos acordos e do contato do advogado de confiança da família"
+- (pág. 142 a 144) Como planejar o imprevisível
+	- "contar sempre com um plano B serve apenas para condicionar nossa mente a agir racionalmente caso algo inesperado aconteça."
+
+### 9. Foco naquilo que vocês realmente querem
+- "É possível, sim, aproveitar uma vida muito rica ao mesmo tempo que construímos nossa independência financeira. A chave está no equilíbrio."
+- (pág. 154 a ) Providências a adotar após a leitura
+	- "orçamento do casal"
+	- "organização das informações sobre patrimônio, seguros, previdência, contratos e documentos"
+	- "controle dos investimentos"
+	- "estratégia para entender e acompanhar com mais frequência os investimentos"
