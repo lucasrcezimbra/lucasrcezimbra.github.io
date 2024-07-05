@@ -7,10 +7,11 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Books/Os segredos dos casais inteligentes]({{< ref "Books/Os segredos dos casais inteligentes" >}})
 - [Books/Casais inteligentes enriquecem juntos]({{< ref "Books/Casais inteligentes enriquecem juntos" >}})
 - [Books/Staff Engineer - Leadership beyond the management track]({{< ref "Books/Staff Engineer - Leadership beyond the management track" >}})
-- [Books/Virtudes & Liderança]({{< ref "Books/Virtudes & Liderança" >}})
 - [Weeknotes/2024-06-30 - 2024-07-06]({{< ref "Weeknotes/2024-06-30 - 2024-07-06" >}})
+- [Books/Virtudes & Liderança]({{< ref "Books/Virtudes & Liderança" >}})
 - [My thoughts about software]({{< ref "My thoughts about software" >}})
 - [Ulauncher]({{< ref "Ulauncher" >}})
 - [Django]({{< ref "Django" >}})
