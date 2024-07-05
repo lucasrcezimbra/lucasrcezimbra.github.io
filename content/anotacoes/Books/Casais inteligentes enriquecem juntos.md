@@ -54,4 +54,37 @@ aliases:
 	- "O estabelecimento de compromissos por escrito ajuda a evitar as compras por impulso."
 - (pág. 71 a 75) Independência financeira: o futuro garantido
 	- "**A sensação de riqueza se mede pelo estado de espírito, e não pela conta bancária.** É rico quem tem uma vida feliz, saúde para vivê-la e também uma renda garantida para manter essa felicidade conquistada ao longo da existência."
+	- "Se vocês vivem com R$ 3000,00 por mês e planejam manter-se com essa renda pelo resto da vida, precisam criar uma fonte de recursos que gere os R$ 3000,00 mensais indefinidamente."
+	- passos para a independência financeira: 1. "gastar menos do que se ganha"; 2. "traçar um plano que defina quanto poupar por mes e por quanto tempo"
+	- "é correto investir sobra de recursos na antecipação da aposentadoria?" "Não. Se, de vez em quando, sobram recursos, não é pecado aproveitar esse bom momento e se dar o direito de alguns luxos"
+- (pág. 75 e 76) Livrando-se das pedras no caminho
+	- "É preciso declarar guerra às dívidas. Vocês devem fazer todos os esforços para pagar as dívidas no menor prazo possível."
+	- "Não há investimento bom para quem está atolado em dívidas."
+- (pág. 81 a 83) Quando comprar a casa
+	- Minhas notas: faltou levar em consideração: 1. maior dificuldade de manter uma poupanã com liquidez (é mais fácil sacar e gastar do que vender um imóvel e gastar); 2. a segurança emocional de ter algo próprio e não ter que se mudar caso o propietário peça o imóvel.
+
+#### Capítulo 5. As finanças dos casais com filhos
+- (pág. 88 a 90) Planos de previdência e seguros
+	- "a melhor solução é contratar apenas planos hospitalares, bem mais baratos, que cobrem acidentes e internações."
+- (pág. 95 a 98) Os filhos devem conhecer o orçamento da família?
+	- "dizer a uma criança que seu pai ganha, por exemplo, R$ 1.000,00 por mês pode gerar consequências bastante indesejáveis. É uma renda imensa para uma criança - mesmo que esse valor esteja abaixo do mínimo necessário para sustentar uma família"
+	- "não se deve discutir sobre a poupança da família nem o planejamento para a independência financeira enquanto a criança não tiver maturidade para entender conceitos como aposentadoria e expectativa de vida."
+
+### Parte 3. Um futuro a dois mais rico
+#### Capítulo 8. Valores que devem ser construídos ao longo da vida
+- (pág. 135 e 136) Como resistir à tentação de gastar
+	1. "incluir em minha planilha" "quanto recebo de juros de meus investimentos e quanto falta para conquistar a independência financeira"
+	2. "pensem em coisas que serão importantes para vocês no futuro"
+- (pág. 136 e 137) Adeus, rotina
+	- "incluir, entre os gatos essenciais do mês, uma verba para sair da rotina" "Chamo essa verba de finanças da reconquista diária"
+	- exemplos: "toda semana, conhecer um bar ou restaurante diferente" ou "a cada dois meses, viajar para algum lugar que não conhecem durante um fim de semana"
+- (pág. 138 e 139) Sonhos de consumo
+	- o valor de uma 2ª ou 3ª propriedade "- mais os custos de manutenção - pagaria férias fantásticas, talvez com frequência maior do que o usufruto da casa e sem preocupações com reparos nem limpeza"
+	- "Não façam grandes negócios sem antes pensar alguns dias nos custos e nos benefícios."
+
+#### Capítulo 10. A riqueza como objetivo de vida
+- "Se algum dia tiverem uma discussão áspera por erros de planejamento financeiro, parabéns. Não existe relacionamento sem pequenos conflitos. Se a razão do conflito for a busca de acordo em relação a um futuro melhor, ótimo. Ambos estão lutando por maior convergência."
+- (pág. 157 e 158) Ganhem e doem
+	- "Ganhem e doem: mas planejem-se para poder fazer isso sempre."
+	- "Se, ao doar, vocês não se permitirem sobras de recursos para investir em seu futuro, estarão prejudicando esse futuro e também o daqueles que precisam de sua ajuda."
 	- 

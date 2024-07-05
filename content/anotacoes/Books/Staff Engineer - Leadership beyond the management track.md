@@ -1,5 +1,5 @@
 ---
-title: Staff Engineer
+title: Staff Engineer - Leadership beyond the management track
 date: 2024-06-24T15:28:13-0300
 aliases: 
 author: Will Larson
