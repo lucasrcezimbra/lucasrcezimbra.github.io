@@ -8,9 +8,10 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Books/Os segredos dos casais inteligentes]({{< ref "Books/Os segredos dos casais inteligentes" >}})
+- [Weeknotes/2024-06-30 - 2024-07-06]({{< ref "Weeknotes/2024-06-30 - 2024-07-06" >}})
+- [Vim]({{< ref "Vim" >}})
 - [Books/Casais inteligentes enriquecem juntos]({{< ref "Books/Casais inteligentes enriquecem juntos" >}})
 - [Books/Staff Engineer - Leadership beyond the management track]({{< ref "Books/Staff Engineer - Leadership beyond the management track" >}})
-- [Weeknotes/2024-06-30 - 2024-07-06]({{< ref "Weeknotes/2024-06-30 - 2024-07-06" >}})
 - [Books/Virtudes & Liderança]({{< ref "Books/Virtudes & Liderança" >}})
 - [My thoughts about software]({{< ref "My thoughts about software" >}})
 - [Ulauncher]({{< ref "Ulauncher" >}})
@@ -102,7 +103,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Entregabilidade de E-mails]({{< ref "Entregabilidade de E-mails" >}})
 - [ChatGPT - Decimal approximation in Python]({{< ref "ChatGPT - Decimal approximation in Python" >}})
 - [Hasura]({{< ref "Hasura" >}})
-- [Vim]({{< ref "Vim" >}})
 - [EdTech]({{< ref "EdTech" >}})
 - [IoT]({{< ref "IoT" >}})
 - [OpenTelemetry]({{< ref "OpenTelemetry" >}})
