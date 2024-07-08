@@ -14,3 +14,4 @@ aliases:
 - Do NOT start building your own platform - PaaS will be better built and cheaper than hiring DevOps and building internally.
 - PostgreSQL is probably the only database you need
 - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
+- All code must serve the business.
