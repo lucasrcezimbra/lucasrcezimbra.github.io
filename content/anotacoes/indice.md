@@ -7,13 +7,15 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
-- [Books/Os segredos dos casais inteligentes]({{< ref "Books/Os segredos dos casais inteligentes" >}})
+- [Weeknotes/2024-07-07 - 2024-07-13]({{< ref "Weeknotes/2024-07-07 - 2024-07-13" >}})
 - [Weeknotes/2024-06-30 - 2024-07-06]({{< ref "Weeknotes/2024-06-30 - 2024-07-06" >}})
+- [My thoughts about software]({{< ref "My thoughts about software" >}})
+- [Livros]({{< ref "Livros" >}})
+- [Books/Os segredos dos casais inteligentes]({{< ref "Books/Os segredos dos casais inteligentes" >}})
 - [Vim]({{< ref "Vim" >}})
 - [Books/Casais inteligentes enriquecem juntos]({{< ref "Books/Casais inteligentes enriquecem juntos" >}})
 - [Books/Staff Engineer - Leadership beyond the management track]({{< ref "Books/Staff Engineer - Leadership beyond the management track" >}})
 - [Books/Virtudes & Liderança]({{< ref "Books/Virtudes & Liderança" >}})
-- [My thoughts about software]({{< ref "My thoughts about software" >}})
 - [Ulauncher]({{< ref "Ulauncher" >}})
 - [Django]({{< ref "Django" >}})
 - [Marketing Digital]({{< ref "Marketing Digital" >}})
@@ -31,7 +33,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Frontend]({{< ref "Frontend" >}})
 - [Smart Home]({{< ref "Smart Home" >}})
 - [PostgreSQL]({{< ref "PostgreSQL" >}})
-- [Livros]({{< ref "Livros" >}})
 - [Terraform]({{< ref "Terraform" >}})
 - [Obsidian]({{< ref "Obsidian" >}})
 - [Using Android as Linux Server]({{< ref "Using Android as Linux Server" >}})
