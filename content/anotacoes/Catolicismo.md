@@ -140,10 +140,12 @@ date: 2023-08-15T07:30:00-03:00
 > 
 > Oremos: Deus que instruístes os corações dos Vossos fiéis, com a luz do Espírito Santo, fazei que apreciemos retamente todas as coisas, segundo o mesmo Espírito e gozemos sempre de Suas consolações, por Cristo, Senhor Nosso. Amém!
 
+> Inspirai, Senhor, as nossas ações e ajudai-nos a realizá-las, para que em Vós comece e termine tudo aquilo que fizermos. Por Cristo, Senhor nosso. Amém.
 
+> Senhor, Pai Santo, Deus eterno e todo-poderoso, nós vos damos graças e bendizemos o vosso Santo Nome. Vós criastes o homem e a mulher para serem autênticos cristãos e diligentes construtores da cidade terrena. Permiti que vivamos juntos por longo tempo, em alegria e paz, para que os nossos corações possam sempre elevar a vós o louvor e a ação de graças, por meio do vosso Filho, Jesus Cristo, Senhor nosso. Amém.
 
 ## Protestantismo
-> Quando urge uma necessidade grave, a critério do ordinário, os ministros católicos podem dar os sacramentos (Eucaristia, Peni-tência, Unção dos Enfermos) aos outros cristãos que não estão em plena comunhão com a Igreja católica, mas que os pedem espontaneamente: é preciso, então, que manifestem a fé católica no tocante a esses sacramentos e que apresentem as disposições exigidas
+> Quando urge uma necessidade grave, a critério do ordinário, os ministros católicos podem dar os sacramentos (Eucaristia, Penitência, Unção dos Enfermos) aos outros cristãos que não estão em plena comunhão com a Igreja católica, mas que os pedem espontaneamente: é preciso, então, que manifestem a fé católica no tocante a esses sacramentos e que apresentem as disposições exigidas
 > 
 > cân. 1401
 
@@ -171,7 +173,8 @@ date: 2023-08-15T07:30:00-03:00
 
 
 ## Virtudes
-- Cardinais: prudência; justiça; fortaleza (ou Força); temperança (ou Moderação)
+- Cardinais: prudência; justiça; fortaleza (ou força); temperança (ou moderação).
+- Teologais: fé; esperança; caridade (ou amor).
 
 ### Humildade
 #### Ladainha
