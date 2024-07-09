@@ -9,6 +9,7 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 
 - [Weeknotes/2024-07-07 - 2024-07-13]({{< ref "Weeknotes/2024-07-07 - 2024-07-13" >}})
 - [Weeknotes/2024-06-30 - 2024-07-06]({{< ref "Weeknotes/2024-06-30 - 2024-07-06" >}})
+- [Catolicismo]({{< ref "Catolicismo" >}})
 - [My thoughts about software]({{< ref "My thoughts about software" >}})
 - [Livros]({{< ref "Livros" >}})
 - [Books/Os segredos dos casais inteligentes]({{< ref "Books/Os segredos dos casais inteligentes" >}})
@@ -28,7 +29,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Git]({{< ref "Git" >}})
 - [Linux]({{< ref "Linux" >}})
 - [LLM]({{< ref "LLM" >}})
-- [Catolicismo]({{< ref "Catolicismo" >}})
 - [Home Assistant]({{< ref "Home Assistant" >}})
 - [Frontend]({{< ref "Frontend" >}})
 - [Smart Home]({{< ref "Smart Home" >}})
