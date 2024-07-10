@@ -4,6 +4,19 @@ date: 2023-08-15T07:30:00-03:00
 ---
 > Sê firme, amável e justo.
 
+> A autoridade existe para o bem daquele sobre que ela é estabelecida. (Diferença entre autoridade e autoritarismo)
+
+> Os jovens não só devem ser amados, como devem saber que são amados
+> 
+> São João Bosco
+
+> O cristianismo é a única religião que tem um Deus feito homem
+
+> "Ó feliz culpa (do pecado original)!" - hino do sábado de aleluia - porque despertou a misericórdia de Deus
+
+> Deus nos fez para conhece-Lo, ama-Lo e servi-Lo
+
+- [The Veil Removed](https://www.youtube.com/watch?v=OOLZDaTgIaM)
 - [O uso do tabaco não é pecado](https://www.veritatis.com.br/o-uso-do-tabaco-nao-e-pecado/)
 - Pax Romana
 - [ ] CRISTIANISMO: A VITÓRIA DA INTELIGÊNCIA SOBRE O MUNDO DAS RELIGIÕES https://interceda.webnode.com.br/news/cristianismo:%20a%20vitoria%20da%20intelig%C3%AAncia%20sobre%20o%20mundo%20das%20religi%C3%B5es%20/

@@ -68,6 +68,15 @@ aliases:
 - [Stack Overflow Architecture](https://stackexchange.com/performance)
 - [What Powers Instagram: Hundreds of Instances, Dozens of Technologies](https://instagram-engineering.com/what-powers-instagram-hundreds-of-instances-dozens-of-technologies-adf2e22da2ad)
 
+## RPC
+> (in most cases) is a dangerous illusion.
+> 
+> Local call: 1. Single process; 2. Negligible latency; 3. Call-stack built-in; 4. Same language and data types; 5. No partial failure;
+> 
+> Fallacies of distributed computing: 1. The network is reliable; 2. Latency is zero; 3. Bandwidth is infinite; 4. The network is secure; 5. Topology doesn't change; 6. There is one administrator; 7. Transport cost is zero; 8. The network is homogeneous;
+> 
+> from https://d1.awsstatic.com/events/Summits/reinvent2022/API308_Are-you-integrating-or-building-distributed-applications.pdf page 38
+
 ## Security
 ### Basic Auth
 #### API Key
