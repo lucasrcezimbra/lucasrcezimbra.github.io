@@ -8,8 +8,10 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2024-07-07 - 2024-07-13]({{< ref "Weeknotes/2024-07-07 - 2024-07-13" >}})
-- [Weeknotes/2024-06-30 - 2024-07-06]({{< ref "Weeknotes/2024-06-30 - 2024-07-06" >}})
+- [EdTech]({{< ref "EdTech" >}})
 - [Catolicismo]({{< ref "Catolicismo" >}})
+- [Architecture]({{< ref "Architecture" >}})
+- [Weeknotes/2024-06-30 - 2024-07-06]({{< ref "Weeknotes/2024-06-30 - 2024-07-06" >}})
 - [My thoughts about software]({{< ref "My thoughts about software" >}})
 - [Livros]({{< ref "Livros" >}})
 - [Books/Os segredos dos casais inteligentes]({{< ref "Books/Os segredos dos casais inteligentes" >}})
@@ -37,7 +39,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Obsidian]({{< ref "Obsidian" >}})
 - [Using Android as Linux Server]({{< ref "Using Android as Linux Server" >}})
 - [Auth]({{< ref "Auth" >}})
-- [Architecture]({{< ref "Architecture" >}})
 - [Scrapers]({{< ref "Scrapers" >}})
 - [Web3]({{< ref "Web3" >}})
 - [Nespresso]({{< ref "Nespresso" >}})
@@ -104,7 +105,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Entregabilidade de E-mails]({{< ref "Entregabilidade de E-mails" >}})
 - [ChatGPT - Decimal approximation in Python]({{< ref "ChatGPT - Decimal approximation in Python" >}})
 - [Hasura]({{< ref "Hasura" >}})
-- [EdTech]({{< ref "EdTech" >}})
 - [IoT]({{< ref "IoT" >}})
 - [OpenTelemetry]({{< ref "OpenTelemetry" >}})
 - [Joplin]({{< ref "Joplin" >}})
