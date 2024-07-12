@@ -3,7 +3,12 @@ title: Architecture
 date: 2023-08-15T07:30:00-03:00
 aliases:
   - /anotacoes/microservices
+  - /anotacoes/manifest-architecture
 ---
+- References
+	- [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+	- [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
+	- [The Twelve-Factor App](https://12factor.net/)
 - [How to drive your architecture decisions with a simple framework](https://twitter.com/milan_milanovic/status/1721442290760057223)
 - Getting the Basics - Software Architecture Introduction
 	- https://www.youtube.com/watch?v=8UlLgOf20Ho
@@ -127,3 +132,7 @@ aliases:
 	- Translate the message (security, performance, etc) for the particular audience. Business will not care about tech. 
 	- Maintenance - "Did you go to an airplane that didn't have maintenance for months/years?
 - Book - How to win friend and influence people - It will help in your architecture role.
+
+## References
+![architecture_boat.jpeg](/anotacoes/Assets/architecture_boat.jpeg)
+Source: https://x.com/vlad_mihalcea/status/1735564011666633001?s=46

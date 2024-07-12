@@ -12,6 +12,10 @@ aliases:
 - Monolith first and [The Majestic Monolith](https://signalvnoise.com/svn3/the-majestic-monolith/)
 - Microservices are about team topologies and scaling systems with different types of bounds
 - Do NOT start building your own platform - PaaS will be better built and cheaper than hiring DevOps and building internally.
+	- When to build a platform internally?
+		- When the cost of building and maintaining is smaller than paying a PaaS
+		- Or when you have a specific use case not supported by PaaS (uncommon)
 - PostgreSQL is probably the only database you need
 - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
 - All code must serve the business.
+- [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load/blob/main/README.md)

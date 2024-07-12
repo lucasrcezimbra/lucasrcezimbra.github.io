@@ -1,6 +1,8 @@
 ---
-title: "Python"
+title: Python
 date: 2023-08-15T07:30:00-03:00
+aliases:
+  - /anotacoes/manifest-python-data-classes/
 ---
 - How to print a tree ([Tweet](https://twitter.com/lucasrcezimbra/status/1711423408909803716))
 	```python
