@@ -7,14 +7,12 @@ notes_dir = ROOT / 'content' / 'anotacoes'
 
 
 def header(title):
-    now = datetime \
-        .now(tz=timezone(timedelta(hours=-3)))\
-        .strftime('%Y-%m-%dT%H:%M:%S%z')
+    today = datetime.today().strftime('%Y-%m-%d')
     return dedent(
         f"""\
         ---
         title: "{title}"
-        date: {now}
+        date: {today}
         ---"""
     )
 
