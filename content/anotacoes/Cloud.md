@@ -1,6 +1,6 @@
 ---
 title: "Cloud"
-date: 2023-08-15T07:30:00-03:00
+date: 2023-08-15
 lastmod: 2023-08-15
 ---
 ## [Cloud]({{< ref "Cloud" >}}) vs On Premises

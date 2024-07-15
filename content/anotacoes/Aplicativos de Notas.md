@@ -1,6 +1,6 @@
 ---
 title: "Aplicativos de Notas"
-date: 2023-08-15T07:30:00-03:00
+date: 2023-08-15
 lastmod: 2024-07-04
 ---
 - https://www.getdnote.com/

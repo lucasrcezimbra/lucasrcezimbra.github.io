@@ -1,6 +1,6 @@
 ---
 title: "(Manifest) REST"
-date: 2023-11-25T16:22:52-0300
+date: 2023-11-25
 lastmod: 2024-03-06
 ---
 - Topics

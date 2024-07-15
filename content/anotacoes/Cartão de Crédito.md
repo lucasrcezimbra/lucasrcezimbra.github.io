@@ -1,6 +1,6 @@
 ---
 title: "Cartão de Crédito"
-date: 2023-11-25T16:22:52-0300
+date: 2023-11-25
 lastmod: 2023-11-25
 ---
 ## Programa de Pontos

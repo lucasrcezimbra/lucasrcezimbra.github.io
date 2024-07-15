@@ -1,6 +1,6 @@
 ---
 title: "Observability"
-date: 2023-08-15T07:30:00-03:00
+date: 2023-08-15
 lastmod: 2024-04-16
 ---
 - [Sentry]({{< ref "Sentry" >}})

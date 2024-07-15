@@ -1,6 +1,6 @@
 ---
 title: "Passaporte Dev Senior"
-date: 2022-10-07T16:38:24-03:00
+date: 2022-10-07
 lastmod: 2024-02-27
 ---
 

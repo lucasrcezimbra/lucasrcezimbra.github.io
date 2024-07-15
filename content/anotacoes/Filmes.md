@@ -1,6 +1,6 @@
 ---
 title: "Filmes"
-date: 2024-01-24T07:42:18-0300
+date: 2024-01-24
 lastmod: 2024-07-04
 ---
 | Filme | Recomendação                                            |

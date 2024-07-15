@@ -1,6 +1,6 @@
 ---
 title: "CSS"
-date: 2023-10-13T10:26:51-0300
+date: 2023-10-13
 lastmod: 2023-11-17
 ---
 ## Features

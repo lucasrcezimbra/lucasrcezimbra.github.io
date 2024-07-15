@@ -1,6 +1,6 @@
 ---
 title: "stunnel"
-date: 2023-08-31T06:34:19-0300
+date: 2023-08-31
 lastmod: 2024-03-06
 ---
 - [Homepage](https://www.stunnel.org/)

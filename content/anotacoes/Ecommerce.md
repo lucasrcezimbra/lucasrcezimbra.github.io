@@ -1,6 +1,6 @@
 ---
 title: "Ecommerce"
-date: 2023-09-15T09:33:06-0300
+date: 2023-09-15
 lastmod: 2023-09-15
 ---
 ## Plataformas

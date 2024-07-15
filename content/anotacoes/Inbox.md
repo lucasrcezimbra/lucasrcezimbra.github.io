@@ -1,6 +1,6 @@
 ---
 title: "Inbox"
-date: 2023-10-27T18:49:21-0300
+date: 2023-10-27
 lastmod: 2024-07-04
 ---
 - https://www.apt-browse.org/

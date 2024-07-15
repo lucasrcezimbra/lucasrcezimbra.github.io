@@ -1,6 +1,6 @@
 ---
 title: "Smart Home"
-date: 2022-12-27T15:42:01-03:00
+date: 2022-12-27
 lastmod: 2024-06-05
 ---
 ## Communication

@@ -1,6 +1,6 @@
 ---
 title: "Using Android as Linux Server"
-date: 2024-05-09T17:27:33-0300
+date: 2024-05-09
 lastmod: 2024-05-09
 ---
 ## Installing

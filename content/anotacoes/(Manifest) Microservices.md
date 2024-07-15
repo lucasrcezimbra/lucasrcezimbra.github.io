@@ -1,6 +1,6 @@
 ---
 title: "(Manifest) Microservices"
-date: 2023-11-25T16:22:52-0300
+date: 2023-11-25
 lastmod: 2024-01-24
 ---
 - Microservices are good when your system has different scale needs. For example, in a e-commerce the products page can be hard cached but the payment doesn’t and it needs high availability. 

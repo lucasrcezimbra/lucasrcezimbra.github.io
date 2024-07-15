@@ -1,6 +1,6 @@
 ---
 title: Home Assistant
-date: 2024-06-03T15:27:01-03:00
+date: 2024-06-03
 lastmod: 2024-06-05
 ---
 - [Home Assistant](https://www.home-assistant.io/)

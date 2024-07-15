@@ -1,6 +1,6 @@
 ---
 title: "Hugo"
-date: 2023-09-11T08:55:38-0300
+date: 2023-09-11
 lastmod: 2023-10-27
 ---
 - How to add icon for external links ([Source](https://www.jayeless.net/2021/08/hugo-mark-external-links.html))

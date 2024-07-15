@@ -1,6 +1,6 @@
 ---
 title: "Bancos PJ Com API"
-date: 2022-10-01T17:24:44-03:00
+date: 2022-10-01
 lastmod: 2023-08-15
 ---
 

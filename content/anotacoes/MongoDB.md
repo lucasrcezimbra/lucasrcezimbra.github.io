@@ -1,6 +1,6 @@
 ---
 title: MongoDB
-date: 2018-11-21T21:28:05+00:00
+date: 2018-11-21
 lastmod: 2023-09-27
 aliases:
   - /anotacoes/banco-de-dados/mongodb/

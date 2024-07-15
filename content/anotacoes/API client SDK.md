@@ -1,6 +1,6 @@
 ---
 title: "API client SDK"
-date: 2024-02-27T18:03:37-0300
+date: 2024-02-27
 lastmod: 2024-02-27
 ---
 - [capiboss](https://github.com/HBNetwork/python-eduzz/tree/main/capiboss)

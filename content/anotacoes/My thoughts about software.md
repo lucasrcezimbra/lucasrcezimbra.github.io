@@ -1,6 +1,6 @@
 ---
 title: My Principles for building software
-date: 2024-07-04T10:28:28-0300
+date: 2024-07-04
 lastmod: 2024-07-12
 aliases:
 ---

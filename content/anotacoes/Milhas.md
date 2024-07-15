@@ -1,6 +1,6 @@
 ---
 title: "Milhas"
-date: 2023-09-13T07:18:25-0300
+date: 2023-09-13
 lastmod: 2023-09-13
 ---
 - Programas bancários

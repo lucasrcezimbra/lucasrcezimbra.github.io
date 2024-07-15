@@ -1,6 +1,6 @@
 ---
 title: "Virtudes & Liderança"
-date: 2024-04-16T17:44:46-0300
+date: 2024-04-16
 lastmod: 2024-07-04
 ---
 ## A essência da liderança: o caráter 

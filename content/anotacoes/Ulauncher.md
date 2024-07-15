@@ -1,6 +1,6 @@
 ---
 title: Ulauncher
-date: 2024-06-21T17:46:26-0300
+date: 2024-06-21
 lastmod: 2024-07-04
 aliases:
 ---

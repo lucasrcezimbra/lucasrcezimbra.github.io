@@ -1,6 +1,6 @@
 ---
 title: "Seguranca"
-date: 2022-10-14T19:43:49-03:00
+date: 2022-10-14
 lastmod: 2023-10-16
 ---
 - Senhas vazadas
