@@ -1,6 +1,7 @@
 ---
 title: "Data Science na Prática 3.0"
 date: 2022-09-29T08:13:55-03:00
+lastmod: 2023-08-15
 ---
 
 

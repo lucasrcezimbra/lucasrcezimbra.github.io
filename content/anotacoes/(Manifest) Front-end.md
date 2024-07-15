@@ -1,6 +1,7 @@
 ---
 title: "(Manifest) Front-end"
 date: 2023-11-25T16:22:52-0300
+lastmod: 2023-11-25
 ---
 ## References
 - [CSS Utility Classes and "Separation of Concerns"](https://adamwathan.me/css-utility-classes-and-separation-of-concerns/)

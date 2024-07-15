@@ -1,6 +1,7 @@
 ---
 title: "Joplin"
 date: 2023-08-15T07:30:00-03:00
+lastmod: 2023-08-15
 ---
 - https://github.com/laurent22/joplin/ 
 - an open source note taking and to-do application with synchronisation capabilities

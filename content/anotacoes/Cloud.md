@@ -1,6 +1,7 @@
 ---
 title: "Cloud"
 date: 2023-08-15T07:30:00-03:00
+lastmod: 2023-08-15
 ---
 ## [Cloud]({{< ref "Cloud" >}}) vs On Premises
 > No último mês a Lambda3 saiu de uma infra on premises pra outra 100% nuvem. Desligamos uma estrutura com 2 servidores físicos de dez anos de idade (redundância) que tinham quase 200GB de RAM cada, diversos switches, firewall e cancelamos um link dedicado de 2 mil reais. Tínhamos umas dez VMs rodando.

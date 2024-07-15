@@ -1,6 +1,7 @@
 ---
 title: "Django"
 date: 2024-04-16T17:44:46-0300
+lastmod: 2024-07-04
 ---
 - [Snippet - Django password hashers time comparison](https://gist.github.com/lucasrcezimbra/69286c9f1cbdb355e242990d2bc85e02)
 - [OWASP - Django Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Django_Security_Cheat_Sheet.html)

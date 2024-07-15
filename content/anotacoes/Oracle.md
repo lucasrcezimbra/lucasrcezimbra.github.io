@@ -1,6 +1,7 @@
 ---
 title: Oracle
 date: 2019-03-26T18:27:03+00:00
+lastmod: 2023-09-27
 aliases:
   - /anotacoes/banco-de-dados/oracle/
   - /dicas-rapidas-oracle-database/

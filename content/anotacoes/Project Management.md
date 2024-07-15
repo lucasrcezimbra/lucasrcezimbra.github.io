@@ -1,6 +1,7 @@
 ---
 title: "Project Management"
 date: 2023-09-20T08:51:25-0300
+lastmod: 2023-10-13
 ---
 - [Everyone on Support](https://signalvnoise.com/posts/3676-everyone-on-support)
 ## Tools

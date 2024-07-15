@@ -1,6 +1,7 @@
 ---
 title: "Virtudes & Liderança"
 date: 2024-04-16T17:44:46-0300
+lastmod: 2024-07-04
 ---
 ## A essência da liderança: o caráter 
 A essência da liderança é o caráter. O conteúdo do caráter são as virtudes. A virtude aumenta a capacidade de ação e gera confiança. 

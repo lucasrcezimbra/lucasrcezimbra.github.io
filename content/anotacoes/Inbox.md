@@ -1,6 +1,7 @@
 ---
 title: "Inbox"
 date: 2023-10-27T18:49:21-0300
+lastmod: 2024-07-04
 ---
 - https://www.apt-browse.org/
 - https://twitter.com/thiagoghisi/status/1708626218688430350?s=46

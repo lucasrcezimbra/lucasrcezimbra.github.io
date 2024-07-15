@@ -1,6 +1,7 @@
 ---
 title: My Principles for building software
 date: 2024-07-04T10:28:28-0300
+lastmod: 2024-07-12
 aliases:
 ---
 (Inspiration: [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/) and [My Principles for Building Software](https://kevinmahoney.co.uk/articles/my-principles-for-building-software/))

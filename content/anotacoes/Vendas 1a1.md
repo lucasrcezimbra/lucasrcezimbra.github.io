@@ -1,6 +1,7 @@
 ---
 title: "Vendas 1a1"
 date: 2024-01-24T07:42:18-0300
+lastmod: 2024-02-27
 ---
 ## 5 competências do vendedor bem sucedido
 por Sandro M - http://meusucesso.com/

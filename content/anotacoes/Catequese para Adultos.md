@@ -1,6 +1,7 @@
 ---
 title: "Catequese para Adultos"
 date: 2023-08-15T07:30:00-03:00
+lastmod: 2023-08-15
 ---
 - Curso: https://padrepauloricardo.org/cursos/categoria/catequese-para-adultos
 - por [Padre Paulo Ricardo]({{< ref "Padre Paulo Ricardo" >}})

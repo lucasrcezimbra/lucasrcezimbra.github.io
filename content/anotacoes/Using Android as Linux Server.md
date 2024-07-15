@@ -1,6 +1,7 @@
 ---
 title: "Using Android as Linux Server"
 date: 2024-05-09T17:27:33-0300
+lastmod: 2024-05-09
 ---
 ## Installing
 1. Install UserLAnd from PlayStore

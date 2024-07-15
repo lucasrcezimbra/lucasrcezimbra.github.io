@@ -1,6 +1,7 @@
 ---
 title: "IoT"
 date: 2023-08-15T07:30:00-03:00
+lastmod: 2023-08-15
 ---
 > LoRa (from "long range") is a physical proprietary radio communication technique. (...). The continued development of the LoRaWAN protocol is managed by the open, non-profit LoRa Alliance (...).
 >

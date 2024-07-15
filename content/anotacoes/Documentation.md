@@ -1,6 +1,7 @@
 ---
 title: "Documentation"
 date: 2023-08-15T07:30:00-03:00
+lastmod: 2023-10-27
 ---
 ## ADR - Architecture Decision Records
 - [Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)

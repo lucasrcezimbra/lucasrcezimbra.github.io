@@ -1,6 +1,7 @@
 ---
 title: "Obsidian"
 date: 2023-08-15T07:30:00-03:00
+lastmod: 2024-06-05
 ---
 ## Clipping
 - [Obsidian Clipper](https://github.com/jplattel/obsidian-clipper)

@@ -1,6 +1,7 @@
 ---
 title: "Midjourney"
 date: 2023-08-15T07:30:00-03:00
+lastmod: 2023-11-17
 ---
 - https://www.midjourney.com/
 - `realistic photograph of a futuristic home office with a rustic wooden table`

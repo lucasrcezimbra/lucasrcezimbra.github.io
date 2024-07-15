@@ -1,6 +1,7 @@
 ---
 title: "Direção"
 date: 2024-02-27T18:03:37-0300
+lastmod: 2024-03-06
 ---
 Curso por [Roger Gomes](https://www.instagram.com/rogergomes.psi/)
 

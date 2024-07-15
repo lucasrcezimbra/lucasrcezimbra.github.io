@@ -1,6 +1,7 @@
 ---
 title: "Web3"
 date: 2023-08-15T07:30:00-03:00
+lastmod: 2024-04-16
 ---
 > **Fundador do Twitter aumenta para 10 BTC recompensa para quem criar alternativa descentralizada ao GitHub:** para Jack Dorsey, esse novo sistema para controle de versões seria idealmente baseado no Nostr, protocolo criado pelo desenvolvedor brasileiro “fiatjaf”. As informações são do perfil de Dorsey na rede Nostr.
   > 
