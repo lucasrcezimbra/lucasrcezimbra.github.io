@@ -13,6 +13,7 @@ def header(title):
         ---
         title: "{title}"
         date: {today}
+        lastmod: {today}
         ---"""
     )
 
