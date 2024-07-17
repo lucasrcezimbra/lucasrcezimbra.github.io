@@ -22,7 +22,7 @@ mkdir <new-repo> cd <new-repo> git init git remote add <old-repo> git@github."><
 </span></span><span style=display:flex><span>git init
 </span></span><span style=display:flex><span>git remote add &lt;old-repo&gt; git@github.com:&lt;username&gt;/&lt;old-repo&gt;.git
 </span></span><span style=display:flex><span>git fetch &lt;old-repo&gt;
-</span></span><span style=display:flex><span>git merge &lt;old-repo&gt;/&lt;master&gt; --allow-unrelated-histories 
+</span></span><span style=display:flex><span>git merge &lt;old-repo&gt;/&lt;master&gt; --allow-unrelated-histories
 </span></span><span style=display:flex><span><span style=color:navy># Go to next bullet &#34;Isolate commits...&#34;</span>
 </span></span></code></pre></div></li><li><p>Isolate commits related to specific directories using <a href=https://github.com/newren/git-filter-repo class=external-link target=_blank rel=noopener>git-filter-repo</a> <a href=https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html class=external-link target=_blank rel=noopener>&ndash;path</a></p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-shell data-lang=shell><span style=display:flex><span>sudo apt install git-filter-repo
 </span></span><span style=display:flex><span>git filter-repo --path &lt;path1&gt; --path &lt;path2&gt; --path &lt;pathN&gt;
