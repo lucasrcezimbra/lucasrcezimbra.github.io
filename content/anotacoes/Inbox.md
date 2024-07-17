@@ -1,7 +1,7 @@
 ---
 title: "Inbox"
 date: 2023-10-27
-lastmod: 2024-07-04
+lastmod: 2024-07-17
 ---
 - https://www.apt-browse.org/
 - https://twitter.com/thiagoghisi/status/1708626218688430350?s=46
@@ -15,3 +15,10 @@ lastmod: 2024-07-04
 https://twitter.com/i/flow/login?redirect_after_login=%2Fericof%2F
 
 > Para finalizar, um recado: se você está na posição do Moacir de alguns anos atrás, com medo de perder suas garantias ao arriscar empreender, eu espero que esse texto te ajude. Não tenha medo de empreender. Planeje-se, junte uma grana, faça um colchão financeiro de segurança e se jogue. Se der certo, você ganha, se der errado, você desenvolveu uma série de habilidades que te tornarão um profissional melhor.
+
+- https://www.pluggy.ai/
+- https://belvo.com/
+Quanto
+- https://plaid.com/
+- https://www.sensedia.com.br/
+- MX
