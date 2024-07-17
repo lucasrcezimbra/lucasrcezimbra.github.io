@@ -8,10 +8,10 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
-- [Inbox]({{< ref "Inbox" >}})
-- [Weeknotes/2024-07-14 - 2024-07-20]({{< ref "Weeknotes/2024-07-14 - 2024-07-20" >}})
-- [Videos/Git Hidden Gems]({{< ref "Videos/Git Hidden Gems" >}})
 - [Videos/DVC 13 - Arquitetura de Software com Rodrigo Branas e Elton Minetto]({{< ref "Videos/DVC 13 - Arquitetura de Software com Rodrigo Branas e Elton Minetto" >}})
+- [Weeknotes/2024-07-14 - 2024-07-20]({{< ref "Weeknotes/2024-07-14 - 2024-07-20" >}})
+- [Inbox]({{< ref "Inbox" >}})
+- [Videos/Git Hidden Gems]({{< ref "Videos/Git Hidden Gems" >}})
 - [Weeknotes/2024-07-07 - 2024-07-13]({{< ref "Weeknotes/2024-07-07 - 2024-07-13" >}})
 - [My thoughts about software]({{< ref "My thoughts about software" >}})
 - [Python]({{< ref "Python" >}})

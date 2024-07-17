@@ -16,9 +16,8 @@ https://twitter.com/i/flow/login?redirect_after_login=%2Fericof%2F
 
 > Para finalizar, um recado: se você está na posição do Moacir de alguns anos atrás, com medo de perder suas garantias ao arriscar empreender, eu espero que esse texto te ajude. Não tenha medo de empreender. Planeje-se, junte uma grana, faça um colchão financeiro de segurança e se jogue. Se der certo, você ganha, se der errado, você desenvolveu uma série de habilidades que te tornarão um profissional melhor.
 
-- https://www.pluggy.ai/
-- https://belvo.com/
-Quanto
-- https://plaid.com/
-- https://www.sensedia.com.br/
-- MX
+- Open Finance / Open Banking / PFM platforms
+    - https://www.pluggy.ai/
+    - https://belvo.com/
+    - https://plaid.com/ - Não tem suporte ao Brasil
+    - MX - Não tem suporte ao Brasil
