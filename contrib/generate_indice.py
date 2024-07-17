@@ -1,5 +1,5 @@
-import os
 import subprocess
+from datetime import date
 from pathlib import Path
 
 ROOT_DIR = Path(__file__).parent.parent
@@ -8,7 +8,8 @@ notes_dir = ROOT_DIR / "content" / "anotacoes"
 header = f"""\
 ---
 title: "Anotações"
-date: 2023-08-15T07:30:00-03:00
+date: 2023-08-15
+lastmod: {date.today().strftime("%Y-%m-%d")}
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
@@ -17,25 +18,18 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 """
 
 
-def get_last_commit_date(filepath):
-    cmd = ["git", "log", "-1", "--format=%aI", "--date=iso", "--", filepath]
-    output = subprocess.check_output(cmd).decode("utf-8").strip()
-    return output
+def get_lastmod_date(filepath):
+    with open(filepath) as f:
+        for line in f:
+            if line.startswith("lastmod:"):
+                return line.split(":")[1].strip()
 
 
-def get_first_commit_date(filepath):
-    cmd = [
-        "git",
-        "log",
-        "--diff-filter=A",
-        "--follow",
-        "--format=%aI",
-        "-1",
-        "--",
-        filepath,
-    ]
-    output = subprocess.check_output(cmd).decode("utf-8").strip()
-    return output
+def get_date(filepath):
+    with open(filepath) as f:
+        for line in f:
+            if line.startswith("date:"):
+                return line.split(":")[1].strip()
 
 
 def get_pages(directory):
@@ -52,7 +46,7 @@ def get_pages(directory):
 
         yield (
             f'- [{title}]({{{{< ref "{title}" >}}}})',
-            (get_last_commit_date(filepath), get_first_commit_date(filepath)),
+            (get_lastmod_date(filepath), get_date(filepath)),
         )
 
 
