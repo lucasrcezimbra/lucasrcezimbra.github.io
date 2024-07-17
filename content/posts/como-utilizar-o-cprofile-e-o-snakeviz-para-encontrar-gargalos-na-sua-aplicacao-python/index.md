@@ -178,9 +178,9 @@ E assim percebemos que:
 - As funções `main` e `read_and_insert` levaram o mesmo tempo do processo como esperado;
 - A função `exists` não aparece mais no gráfico, pois foi removida do código;
 - Agora a maior parte do tempo (~48 segundos) foi gasta na função `insert`; especificamente no `*method 'commit' of 'sqlite3...*` que fica dentro do `Cursor.__exit__.`
-    
+
     ![](grafico3.png)
-    
+
 
 ### Segunda Otimização
 
@@ -275,7 +275,7 @@ Nem sempre faz sentido otimizar a performance do seu software. Muitas vezes, ent
 Como disse Donald Knuth: “Otimização precoce é a raiz de todos os males.”
 
 > Premature optimization is the root of all evil.
-> 
+>
 
 Otimize só quando houver métricas que demonstrem a necessidade.
 

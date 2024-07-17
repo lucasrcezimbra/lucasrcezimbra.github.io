@@ -17,7 +17,7 @@ git log | grep Author | sort | uniq -c | sort -n -r | head -n 20
 
 ## O que fazem esses comandos?
 
-### git log 
+### git log
 Mostra o log da branch atual do git
 {{< figure src="git-log-git.png" alt="Resultado do git log na branch master do projeto git" caption="Resultado do git log na branch master do projeto git" >}}
 

@@ -19,7 +19,7 @@ aliases: [
 
 Como listar todas as tabelas do banco
 ```sql
-SELECT 
+SELECT
     *
 FROM
     pg_catalog.pg_tables

@@ -8,7 +8,7 @@ lastmod: 2023-08-15
 	- Query: `{{namespace [[Root Page] ]}}`
 - Create aliases: add property `alias:: First alias, Second Alias`
 - Default templates: `:default-templates {:journals "Template Name"}`
-- How to Login on Logseq? #troubleshooting 
+- How to Login on Logseq? #troubleshooting
 	- 1. Create a `.desktop` file
 	  ```
 	  [Desktop Entry]

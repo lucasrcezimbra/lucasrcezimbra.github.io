@@ -14,13 +14,12 @@ lastmod: 2023-08-15
 > Dez mil reais, dois servidores, por dez anos, custa meros 166 reais por mês. Ok, coloca mais 2 de 5 mil reais, pra usar de firewall com OpnSense ou PFSense (redundância), dá 250 reais por mês.
 > O custo maior vai estar no link, já que os provedores residenciais não entregam nenhuma qualidade. A gente usava fibra de uma grande operadora de SP, e dava problema toda hora, e a impressão que dá é que eles fazem de propósito pq você está usando muito. Só quando trocamos pra um dedicado de apenas 50mbps isso resolveu, mas custava 2 mil reais, mas havia links profissionais mais baratos, por cerca de mil reais. Então, 1.250 reais, mais o custo da energia e eventualmente alguma troca de HD/SSD a cada X anos.
 > Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.
-> 
+>
 > Mudamos por outros motivos, se fosse por custo manteríamos nossa infra velhinha por mais dez anos.
-> 
+>
 > Fora que na cloud você tem algumas limitações. Por exemplo, SMTP relay é proibido em toda grande cloud, pra evitar farms de spam, então você é obrigado a contratar um provedor de e-mail. E banda de Internet é sempre muito cara quando comparada com alternativas fora da cloud.
-> 
+>
 > Ou seja, fiquem atentas(os), porque depende. Mas é bom ter isso em mente.
 >
 >
 > Giovanni Bassi on https://twitter.com/giovannibassi/status/1656710931575980038
-

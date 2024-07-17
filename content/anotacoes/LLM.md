@@ -23,11 +23,11 @@ lastmod: 2024-07-04
 	- https://arstechnica.com/information-technology/2023/02/meta-develops-an-ai-language-bot-that-can-use-external-software-tools/
 	- https://arxiv.org/abs/2302.04761
 - [You probably don't know how to do Prompt Engineering](https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf)
-- https://github.com/Lightning-AI/lit-llama #OpenSource 
+- https://github.com/Lightning-AI/lit-llama #OpenSource
 > Good speech-to-text models have this trait, along with language translation programs and on-screen swipe keyboards. In each of these cases we want to be understood, not surprised. AI, therefore, makes the most sense as a translation layer between humans, who are incurably chaotic, and traditional software, which is deterministic.
-> 
+>
 > an adaptive interface between chaotic real-world problems and secure, well-architected technical solutions. AI may not truly understand us, but it can deliver our intentions to an API with reasonable accuracy and describe the results in a way we understand.
-> 
+>
 > from https://stackoverflow.blog/2023/05/01/ai-isnt-the-app-its-the-ui/
 
 ## ChatGPT
@@ -58,7 +58,7 @@ lastmod: 2024-07-04
 - https://pile.eleuther.ai/ - An 800GB Dataset of Diverse Text for Language Modeling
 - https://laion.ai/ - Large-scale Artificial Intelligence Open Network - TRULY OPEN AI. 100% NON-PROFIT. 100% FREE.
 
-## Hosting 
+## Hosting
 ### Cloud
 - https://www.cerebrium.ai/ - makes it easier to train, deploy and monitor machine learning models with just a few lines of code - Serverless GPU Model Deployment
 - https://cohere.ai/ - build high performance, secure LLM for the enterprise - powerful capabilities, like content generation, summarization, and search
@@ -78,7 +78,7 @@ lastmod: 2024-07-04
 	- [A comprehensive guide to running Llama 2 locally](https://replicate.com/blog/run-llama-locally)
 - [MLC LLM](https://mlc.ai/mlc-llm/) - LLM on iPhone - [App Store](https://apps.apple.com/us/app/mlc-chat/id6448482937?platform=iphone) - [Repository](https://github.com/mlc-ai/mlc-llm)
 - [MLX](https://github.com/ml-explore/mlx) - An array framework for Apple silicon
-	
+
 ## Image Generation
 - DALL-E
 	- [Prompt book](https://pitch.com/v/DALL-E-prompt-book-v1-tmd33y)
@@ -96,15 +96,15 @@ lastmod: 2024-07-04
 - https://www.tryleap.ai/
 
 ## Models
-- [OpenHermes 2.5 - Mistral 7B](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B) - can do function calling #OpenSource 
+- [OpenHermes 2.5 - Mistral 7B](https://huggingface.co/teknium/OpenHermes-2.5-Mistral-7B) - can do function calling #OpenSource
 ### MPT
 - [Introducing MPT-7B: A New Standard for Open-Source, Commercially Usable LLMs](https://www.mosaicml.com/blog/mpt-7b)
-- https://github.com/mosaicml/composer - PyTorch library that enables you to train neural networks faster, at lower cost, and to higher accuracy - [Python]({{< ref "Python" >}}) 
+- https://github.com/mosaicml/composer - PyTorch library that enables you to train neural networks faster, at lower cost, and to higher accuracy - [Python]({{< ref "Python" >}})
 - https://github.com/mosaicml/streaming - make training on large datasets from cloud storage as fast, cheap, and scalable as possible. [Python]({{< ref "Python" >}})
 - https://github.com/mosaicml/llm-foundry
 
 ## Low-code platforms
-- [Rivet](https://rivet.ironcladapp.com/) - The Open-Source Visual AI Programming Environment #OpenSource 
+- [Rivet](https://rivet.ironcladapp.com/) - The Open-Source Visual AI Programming Environment #OpenSource
 - [Stack AI](https://www.stack-ai.com/) - The No-Code AI Automation Platform
 - [Vellum](https://www.vellum.ai/) - The dev platform for production LLM apps
 
@@ -115,22 +115,22 @@ lastmod: 2024-07-04
 
 ## SDKs
 - [Guardrails](https://github.com/guardrails-ai/guardrails) - lets a user add structure, type and quality guarantees to the outputs of LLMs.
-- [Guidance](https://github.com/microsoft/guidance/) - [Python]({{< ref "Python" >}}) lib that allows you to interleave generation, prompting, and logical control into a single continuous flow matching #OpenSource 
-- [Kor](https://eyurtsev.github.io/kor/index.html) - [Python]({{< ref "Python" >}}) lib that “helps” you extract structured data from text using LLMs #OpenSource 
+- [Guidance](https://github.com/microsoft/guidance/) - [Python]({{< ref "Python" >}}) lib that allows you to interleave generation, prompting, and logical control into a single continuous flow matching #OpenSource
+- [Kor](https://eyurtsev.github.io/kor/index.html) - [Python]({{< ref "Python" >}}) lib that “helps” you extract structured data from text using LLMs #OpenSource
 - [LangChain](https://langchain.readthedocs.io/en/latest/ ) -  [Python]({{< ref "Python" >}}) lib to develop AI applications - PromptTemplate, LLMs interface, etc. #OpenSource
 	- **Agents** use an LLM to determine which actions to take and in what order.
 	- Pros
 		- [Builtin Chain serialization](https://python.langchain.com/en/latest/modules/chains/generic/serialization.htm)
 	- [BabyAGI](https://github.com/yoheinakajima/babyagi) #Pinecone
 	- [Langflow](https://github.com/logspace-ai/langflow) - UI designed with react-flow to provide an effortless way to experiment and prototype flows.
-- [LiteLLM](https://docs.litellm.ai/docs/) - Call 100+ LLMs using the same Input/Output format #OpenSource 
-- [LlamaIndex](https://docs.llamaindex.ai/en/stable/) - framework for RAG #OpenSource 
-- [LLM](https://llm.datasette.io/en/stable/) - A CLI utility and [Python]({{< ref "Python" >}}) lib for interacting with OpenAI, PaLM and local models installed on your own machine #OpenSource 
-- [MonkeyPatch](https://github.com/monkeypatch/monkeypatch.py) - easily call an LLM in place of the function body in Python. The more you use MonkeyPatch functions, the cheaper and faster they gets (up to 9-10x!) through automatic model distillation. #OpenSource 
-- [Prompt Engine](https://github.com/microsoft/prompt-engine) - [Javascript]({{< ref "Javascript" >}}) lib for creating and maintaining prompts #OpenSource 
-- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) -  [Python]({{< ref "Python" >}}) and C# libs that allow to define plugins that can be chained together #OpenSource 
+- [LiteLLM](https://docs.litellm.ai/docs/) - Call 100+ LLMs using the same Input/Output format #OpenSource
+- [LlamaIndex](https://docs.llamaindex.ai/en/stable/) - framework for RAG #OpenSource
+- [LLM](https://llm.datasette.io/en/stable/) - A CLI utility and [Python]({{< ref "Python" >}}) lib for interacting with OpenAI, PaLM and local models installed on your own machine #OpenSource
+- [MonkeyPatch](https://github.com/monkeypatch/monkeypatch.py) - easily call an LLM in place of the function body in Python. The more you use MonkeyPatch functions, the cheaper and faster they gets (up to 9-10x!) through automatic model distillation. #OpenSource
+- [Prompt Engine](https://github.com/microsoft/prompt-engine) - [Javascript]({{< ref "Javascript" >}}) lib for creating and maintaining prompts #OpenSource
+- [Semantic Kernel](https://github.com/microsoft/semantic-kernel) -  [Python]({{< ref "Python" >}}) and C# libs that allow to define plugins that can be chained together #OpenSource
 
-## Speech Recognition 
+## Speech Recognition
 - https://github.com/openai/whisper - general-purpose speech recognition model
 	- https://github.com/ggerganov/whisper.cpp - runs on the CPU
 		- https://huggingface.co/ggerganov/whisper.cpp/tree/main - models

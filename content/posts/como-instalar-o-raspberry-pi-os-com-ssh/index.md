@@ -1,4 +1,4 @@
-+++ 
++++
 date = 2022-09-04T17:54:17-03:00
 title = "Como instalar o Raspberry Pi OS com SSH"
 +++
@@ -34,7 +34,7 @@ shutdown -r now
 
     - se tiver algum problema na instalação rode
         ```bash
-        sudo apt --fix-broken install 
+        sudo apt --fix-broken install
         sudo dpkg -i imager_latest_amd64.deb
         ```
 1. Insira o cartão SD na máquina;

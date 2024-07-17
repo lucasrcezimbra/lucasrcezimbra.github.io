@@ -63,7 +63,7 @@ aliases:
 	```
 - Formatar pendrive
 	```bash
-	df -h 
+	df -h
 	# encontre o pendrive a ser formatado
 	sudo umount /dev/sdXX
 	sudo mkfs.vfat /dev/sdXX
@@ -140,7 +140,7 @@ aliases:
 	sudo apt install inxi
 	inxi -G
 	```
-	
+
 - How to show Intel GPU usage
 	```bash
 	sudo apt install intel-gpu-tools
@@ -162,13 +162,13 @@ aliases:
 	sudo apt update && sudo apt install nmap
 	sudo nmap -sn 192.168.0.0/24
 	```
-- How to discover the open ports of a specific device: 
+- How to discover the open ports of a specific device:
 	```bash
 	sudo nmap -p 1-65535 <ip>
 	```
 
 ## Terminal Emulators
-- [Alacritty](https://github.com/alacritty/alacritty) - #OpenSource 
+- [Alacritty](https://github.com/alacritty/alacritty) - #OpenSource
 	- No tabs or splits
 - [kitty](https://github.com/kovidgoyal/kitty)
 - [rio](https://github.com/raphamorim/rio)

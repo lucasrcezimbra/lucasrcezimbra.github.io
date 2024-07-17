@@ -19,7 +19,7 @@ lastmod: 2023-08-15
 	- A vida é cruel. A vida não é fácil, ninguém disse que seria.
 - Conclusão: Ou o ser humano é o único animal defeituoso na natureza, pois busca uma felicidade inatingivel; Ou só seremos plenamente felizes nos unindo a Deus.
 - Gênesis 2: Deus criou o homem e o colocou no paraíso.
-	- Deus fez o ser humano e o ser humano podia ser feliz. 
+	- Deus fez o ser humano e o ser humano podia ser feliz.
 - Gênesis 3: O homem pecou, desobedecendo a Deus.
 	- O ser humano quis ser feliz sem Deus.
 	- O homem tinha a **felicidade humana** e jogou fora.
@@ -36,7 +36,7 @@ lastmod: 2023-08-15
 		- Jesus é uma revelação. Se eu olhar para o Filho eu vou conhecer o Pai.
 - Fé humana é crer numa pessoa devido a sua autoridade.
 	- Jesus não se engana e não ninguém.
-	- Fé é crer mais no que Ele está dizendo do que no que você está vendo. 
+	- Fé é crer mais no que Ele está dizendo do que no que você está vendo.
 	- Exemplo: Você vê o pão, mas Ele disse "Isto é o meu corpo"
 
 ### 4. Não há Cristo sem Igreja

@@ -8,7 +8,7 @@ lastmod: 2024-06-05
 
 ## DNS
 - What Top-Level Domain can I use for my internal domains?
-	- `.local` conflicts with Multicast DNS. 
+	- `.local` conflicts with Multicast DNS.
 	- Unregistered TLD are not recommenced, but these can be used without conflicts (for now): `.intranet.`, `.internal.`, `.private.`, `.corp.`, `.home.`, `.lan.`
 	- Reference: [RFC 6762 - Appendix G.  Private DNS Namespaces](https://datatracker.ietf.org/doc/html/rfc6762#appendix-G)
 

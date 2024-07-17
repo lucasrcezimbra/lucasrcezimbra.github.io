@@ -13,7 +13,7 @@ lastmod: 2024-05-09
 
 ## Installing Docker
 
-References: 
+References:
 - https://github.com/CypherpunkArmory/UserLAnd
 - https://github.com/CypherpunkArmory/UserLAnd/wiki/FAQ
 - https://github.com/CypherpunkArmory/UserLAnd/issues/1222

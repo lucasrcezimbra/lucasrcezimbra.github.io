@@ -45,7 +45,7 @@ pip install pyrasite
 
 
 #### Habilitar o trace
-No Linux, por uma questão de segurança, o trace é desabilitado por padrão. Então temos que habilitar para conseguir debugar com o pyrasite. 
+No Linux, por uma questão de segurança, o trace é desabilitado por padrão. Então temos que habilitar para conseguir debugar com o pyrasite.
 
 ```bash
 echo 0 | sudo tee /proc/sys/kernel/yama/ptrace_scope

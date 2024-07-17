@@ -11,6 +11,6 @@ lastmod: 2024-06-05
 - https://help.obsidian.md/Obsidian+Publish/Customize+your+site
 - How to publish images?
 	> need to publish the folder with the image files in it
-	> 
+	>
 	> from https://forum.obsidian.md/t/images-in-publish/14665/4
 - https://github.com/devidw/obsidian-to-hugo

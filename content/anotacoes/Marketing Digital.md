@@ -23,9 +23,9 @@ lastmod: 2024-07-04
 
 ## Montinho e Montão
 Vídeo Érico Rocha; https://www.youtube.com/watch?v=QrPT-Vvo9jI
-Explicação GPT-4o: 
+Explicação GPT-4o:
 > A estratégia "Montinho e Montão" se baseia na ideia de começar com pequenos passos (montinhos) que, acumulados ao longo do tempo, resultam em grandes conquistas (montão). O conceito pode ser aplicado em diversas áreas de um negócio, mas é especialmente relevante no contexto do marketing digital e dos lançamentos de produtos.
-> 
+>
 > ### Detalhes da Estratégia:
 > 1. **Pequenos Investimentos**: Inicialmente, você faz pequenos investimentos (montinhos) em campanhas de marketing, anúncios, conteúdos e iniciativas que comprovem ser bem-sucedidas.
 > 2. **Teste e Aprendizado**: Esses pequenos testes permitem aprender o que funciona e o que não funciona sem arriscar grandes quantidades de dinheiro ou recursos.
@@ -34,9 +34,9 @@ Explicação GPT-4o:
 > 5. **Consistência e Paciência**: A chave para o sucesso dessa estratégia é a consistência e a paciência. Não se trata de obter resultados gigantescos da noite para o dia, mas sim de construir uma base sólida e crescer de forma incremental e sustentável.
 >
 > ### Aplicações Comuns:
-> 
+>
 > - **Marketing Digital**: Testando diferentes canais, tipos de anúncios, públicos-alvo e mensagens para identificar o que gera mais engajamento e conversões.
 > - **Produtos e Serviços**: Lançando versões de teste de produtos ou serviços para avaliar a resposta do mercado antes de um lançamento completo.
 > - **Conteúdo**: Publicando diferentes tipos de conteúdo (blogs, vídeos, posts em redes sociais) para ver qual ressoa mais com seu público antes de investir mais tempo e recursos.
-> 
+>
 > Ao aplicar a estratégia "Montinho e Montão", você cria um ciclo virtuoso de aprendizado e crescimento que minimiza os riscos e maximiza as oportunidades de sucesso a longo prazo.

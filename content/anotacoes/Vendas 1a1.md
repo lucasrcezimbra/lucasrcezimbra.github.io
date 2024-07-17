@@ -74,7 +74,7 @@ por Flávio Augusto
 		- As pessoas adoram de falar de si mesmas
 		- Escuta ativa e interesse genuíno
 - Tipos de perguntas
-	- Situação (1 ou 2) - 
+	- Situação (1 ou 2) -
 	- Motivação (1 ou 2) - o que está movendo (vontade de ganhar ou medo de perder) a pessoa a considerar a sua solução.
 	- Impeditivo - antecipar possíveis objeções ou coletar informações do porquê não faria sentido oferecer a sua solução para aquela pessoa.
 		- "O que te impediu até hoje de fazer X?"
@@ -114,7 +114,7 @@ por Flávio Augusto
 	 3. Antecipar objeções
 		 - Fazer isso com todas as objeções recorrentes.
 		 - Exemplo: não tenho tempo - "Como é a sua rotina? Que horas trabalha? Que dias trabalha? Você conseguiria assistir uma aula de 40 minutos por semana?"
-- Recuo estratégico - 
+- Recuo estratégico -
 	- As pessoas ligam um sinal de alerta ao interagir com vendedores.
 	- "Até pra entender se a nossa solução faz sentido OU NÃO pra você. Posso te fazer algumas perguntas ([Vendas 1a1#Conexão com o cliente]({{< ref "Vendas 1a1#conexão-com-o-cliente" >}}))?" (eu não estou aqui pra te vender a qualquer custo)
 	- Se não fizer sentido, realmente não tente vender.
@@ -123,9 +123,9 @@ por Flávio Augusto
 - dEf = Encantamento
 - Nessa etapa a conversa tem que ser por voz (ligação/áudio/etc.). Texto deixa a conversa fria.
 - Objetivos:
-	1. manter o diálogo (não transformar num monólogo/palestra); 
+	1. manter o diálogo (não transformar num monólogo/palestra);
 	2. resolva o problema (dor/desejo) mapeado na descoberta.
-	3. criar o sentimento "esse produto foi feito pra mim" (Proposta Única de Valor - [Vendas 1a1#Pare de brigar por preço]({{< ref "Vendas 1a1#pare-de-brigar-por-preço" >}}) - explicar os pilares) 
+	3. criar o sentimento "esse produto foi feito pra mim" (Proposta Única de Valor - [Vendas 1a1#Pare de brigar por preço]({{< ref "Vendas 1a1#pare-de-brigar-por-preço" >}}) - explicar os pilares)
 - Use argumentos racionais (faturar mais; economizar; posicionamento estratégico; etc.) e emocionais (mais tempo com a família; reconhecimento; etc.) que conversam entre si. - Daniel Kanemman
 	-  Estrutura de Diálogo: fazer para os 3 pilates da PUV
 		- O Quê (racional): exemplo: conteúdo de qualidade

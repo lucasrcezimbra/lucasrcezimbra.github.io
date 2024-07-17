@@ -13,4 +13,4 @@ lastmod: 2023-08-15
 	- Laissez-faire.
 - [Manage process before people](https://world.hey.com/dhh/manage-process-before-people-20736695)
 - [Moonlighting managers ain’t got no time for bullshit](https://m.signalvnoise.com/moonlighting-managers-aint-got-no-time-for-bullshit/)
-- 
+-

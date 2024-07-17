@@ -23,7 +23,7 @@ aliases:
 ## Frameworks
 - [Alpine.js](https://alpinejs.dev/) - Your new, lightweight, JavaScript framework.
 - [htmx](https://htmx.org/) - high power tools for HTML
-- [htmz](http://leanrada.com/htmz/) 
+- [htmz](http://leanrada.com/htmz/)
 - [hyperscript](https://hyperscript.org/) - An easy & approachable language for modern web front-ends
 
 ## HTML over the wire
@@ -31,7 +31,7 @@ aliases:
 	- [for](https://github.com/hotwire-django) [Python#Django]({{< ref "Python#django" >}})
 	- [Stimulus](https://stimulus.hotwired.dev/) - modest [JavaScript]({{< ref "JavaScript" >}}) framework
 	- [Strada](https://strada.hotwired.dev/) - fully native controls, driven by your web app.
-		- [Android](https://strada.hotwired.dev/handbook/android) - [GitHub](https://github.com/hotwired/strada-android) 
+		- [Android](https://strada.hotwired.dev/handbook/android) - [GitHub](https://github.com/hotwired/strada-android)
 		- [iOS](https://strada.hotwired.dev/handbook/ios) - [GitHub](https://github.com/hotwired/strada-ios)
 		- [Web](https://strada.hotwired.dev/handbook/web) - [GitHub](https://github.com/hotwired/strada-web)
 - [htmx](https://htmx.org/)

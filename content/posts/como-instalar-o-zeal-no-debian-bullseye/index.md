@@ -1,4 +1,4 @@
-+++ 
++++
 date = 2022-09-01T09:42:56-03:00
 title = "Como instalar o Zeal no Debian Bullseye"
 +++

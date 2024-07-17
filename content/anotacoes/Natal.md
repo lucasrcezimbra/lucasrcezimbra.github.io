@@ -20,15 +20,15 @@ lastmod: 2024-07-04
 	- Av. Miguel Castro, 1142 - Lagoa Nova
 	- (84) 9912-8345
 
-## Alimentação 
+## Alimentação
 ⭐️ = odiei
 ⭐️⭐️ = não gostei
-⭐️⭐️⭐️ = bom 
+⭐️⭐️⭐️ = bom
 ⭐️⭐️⭐️⭐️ = muito bom
 ⭐️⭐️⭐️⭐️⭐️ = favorito
 💸 = barato
-💸💸 = 
-💸💸💸 = 
+💸💸 =
+💸💸💸 =
 💸💸💸💸 =
 💸💸💸💸💸 = caro
 ### Restaurantes

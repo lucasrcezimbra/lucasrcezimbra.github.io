@@ -23,4 +23,3 @@ merger.append(path / 'casa2.pdf')
 merger.write(path / 'casa.pdf')
 merger.close()
 ```
-

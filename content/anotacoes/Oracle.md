@@ -20,7 +20,7 @@ ALTER USER my_user IDENTIFIED BY my_password;
 
 Adicionar _grants_ para um usuário do banco
 ```sql
-GRANT 
+GRANT
     insert,
     select,
     update,

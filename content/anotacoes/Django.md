@@ -20,9 +20,9 @@ lastmod: 2024-07-04
 	# conftest.py
 	def pytest_sessionstart():
 		from django.apps import apps
-		
+
 		unmanaged_models = [m for m in apps.get_models() if not m._meta.managed]
-		
+
 		for m in unmanaged_models:
 			m._meta.managed = True
 
@@ -33,14 +33,14 @@ lastmod: 2024-07-04
 - `virtual_only` fields
 	- Advantages: 1. Improved performance; 2. Consistent interface; 3. Compatibility with Django’s ORM; 4. Integration with serialization.
 	- from https://henriquebastos.net/how-chatgpt-quickly-helped-me-understand-djangos-source-code
-- `django.core.exceptions.ImproperlyConfigured: Cannot import '<app>'. Check that '<project>.<app>.apps.<App>Config.name' is correct.` #troubleshooting 
+- `django.core.exceptions.ImproperlyConfigured: Cannot import '<app>'. Check that '<project>.<app>.apps.<App>Config.name' is correct.` #troubleshooting
 	- Rename `<App>Config.name` from `<app>` to `<project>.<app>`
 - [How to Switch to a Custom Django User Model Mid-Project](https://www.caktusgroup.com/blog/2019/04/26/how-switch-custom-django-user-model-mid-project/) and [Document how to migrate from a built-in User model to a custom User model](https://code.djangoproject.com/ticket/25313#comment:24)
 ## Admin
 - [AdminLTE](https://github.com/wuyue92tree/django-adminlte-ui) - Admin dashboard template based on Bootstrap
 - Awesome [1](https://github.com/iamfoysal/Best-Django-Admin-interface) and [2](https://github.com/originalankur/awesome-django-admin)
 - [jazzmin](https://github.com/farridav/django-jazzmin) - AdminLTE 3 & Bootstrap 4
-- [JET Reboot](https://github.com/assem-ch/django-jet-reboot) - 
+- [JET Reboot](https://github.com/assem-ch/django-jet-reboot) -
 - [Semantic UI](https://github.com/globophobe/django-semantic-admin) - [Docs](https://globophobe.github.io/django-semantic-admin/)
 - [Unfold Admin](https://unfoldadmin.com/) - [GitHub](https://github.com/unfoldadmin/django-unfold) - HTMX, Alpine.js and TailwindCSS
 - [Volt](https://github.com/app-generator/django-admin-volt) - Based on Bootstrap 5
@@ -51,7 +51,7 @@ lastmod: 2024-07-04
 
 ## GraphQL Server
 - [Ariadne](https://github.com/mirumee/ariadne-django)
-	- Missing maintainer 
+	- Missing maintainer
 - [Graphene](https://github.com/graphql-python/graphene-django/)
 	- [docs](https://docs.graphene-python.org/projects/django/en/latest/)
 	- Poor integration between Models and Queries
@@ -113,7 +113,7 @@ orm<-. Query/Data .->db
 - [Mangum](https://github.com/jordaneremieff/mangum) - running ASGI applications in [AWS#Lambda]({{< ref "AWS#lambda" >}}).
 - [uvicorn](https://github.com/encode/uvicorn) - supports HTTP/1.1 and WebSockets.
 ### WSGI
-- [gunicorn](https://github.com/benoitc/gunicorn) 
+- [gunicorn](https://github.com/benoitc/gunicorn)
 - [Hypercorn](https://github.com/pgjones/hypercorn)
 
 ## Testing
@@ -125,5 +125,3 @@ orm<-. Query/Data .->db
 - [django-tree](https://github.com/BertrandBordage/django-tree) - Fast and easy tree structures (In beta, it can’t be used yet in production.)
 - [django-treebeard](https://github.com/django-treebeard/django-treebeard) - Efficient tree implementations
 - [django-tree-queries](https://github.com/matthiask/django-tree-queries) - Adjacency-list trees using recursive common table expressions
-
-

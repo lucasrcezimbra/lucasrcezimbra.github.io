@@ -2,7 +2,7 @@
 title: Staff Engineer - Leadership beyond the management track
 date: 2024-06-24
 lastmod: 2024-07-04
-aliases: 
+aliases:
 author: Will Larson
 ---
 ## My Notes
@@ -36,7 +36,7 @@ author: Will Larson
 (pages 13, 15)
 - Guides the approach and execution of a particular team; partner closely with a single manager (sometime with two or three).
 - Some companies also have a Tech Lead Manager (relates with [Why an Engineering Manager Should Not Review Code](https://betterprogramming.pub/why-an-engineering-manager-should-not-review-code-46f87c08db66)).
-- The most common archetype. 
+- The most common archetype.
 - Lead one team or a cluster of teams in their approach and execution.
 - Comfortable scoping complex tasks, coordinating their team towards solving them, and unblocking them along the way.
 - Carry the team's context and maintain many of the essential cross-team and cross-functional relationships necessary for the team's success.

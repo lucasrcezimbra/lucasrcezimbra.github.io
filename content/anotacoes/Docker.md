@@ -10,7 +10,7 @@ lastmod: 2023-10-13
 	- `docker system prune && docker image prune`
 - Remove all images - [Linux]({{< ref "Linux" >}})
 	- `docker images -q | xargs docker rmi`
-- Error: `failed to start daemon: Error initializing network controller: error obtaining controller instance: failed to create NAT` #troubleshooting 
+- Error: `failed to start daemon: Error initializing network controller: error obtaining controller instance: failed to create NAT` #troubleshooting
 	- `sudo shutdown -r now`
 	- If reboot doesn't work: `sudo update-alternatives --set iptables /usr/sbin/iptables-legacy && sudo update-alternatives --set ip6tables /usr/sbin/ip6tables-legacy`
 - [export command](https://docs.docker.com/engine/reference/commandline/export/) - export the contents of the _underlying_ directory, not the contents of the volume.

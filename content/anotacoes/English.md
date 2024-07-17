@@ -8,7 +8,7 @@ lastmod: 2024-02-27
 - https://www.englishpage.com/prepositions/location_prepositions.htm
 - https://www.englishpage.com/prepositions/prepositions.html
 ## Pronounce
-- `-ed`: https://www.englishclub.com/pronunciation/-ed.htm 
+- `-ed`: https://www.englishclub.com/pronunciation/-ed.htm
 ## Verb Tenses
 - Past participle
     - Eat, ate, eaten

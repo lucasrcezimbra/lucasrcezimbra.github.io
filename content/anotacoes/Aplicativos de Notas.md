@@ -46,7 +46,7 @@ lastmod: 2024-07-04
 
 ## Obsidian
 ### Pros
-- Usabilidade 
+- Usabilidade
 - Grafo
 - Encriptado
 - Fácil de integrar com arquivos de outros projetos

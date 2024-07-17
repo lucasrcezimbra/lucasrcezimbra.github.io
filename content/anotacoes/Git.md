@@ -26,7 +26,7 @@ aliases:
 	git init
 	git remote add <old-repo> git@github.com:<username>/<old-repo>.git
 	git fetch <old-repo>
-	git merge <old-repo>/<master> --allow-unrelated-histories 
+	git merge <old-repo>/<master> --allow-unrelated-histories
 	# Go to next bullet "Isolate commits..."
 	```
 - Isolate commits related to specific directories using [git-filter-repo](https://github.com/newren/git-filter-repo) [--path](https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html)
@@ -94,7 +94,7 @@ aliases:
 	git log --all -- <file-path>
 	```
 
-- Add some parts of a file ([Tweet](https://twitter.com/lucasrcezimbra/status/1712070761928908992))	
+- Add some parts of a file ([Tweet](https://twitter.com/lucasrcezimbra/status/1712070761928908992))
 	```bash
 	git add -p
 	```
@@ -110,7 +110,7 @@ aliases:
 		OLD_EMAIL="<the old e-mail>"
 		CORRECT_NAME="<the new name>"
 		CORRECT_EMAIL="<the new e-mail>"
-	
+
 		if [ "$GIT_COMMITTER_EMAIL" = "$OLD_EMAIL" ]
 		then
 			export GIT_COMMITTER_NAME="$CORRECT_NAME"

@@ -5,7 +5,7 @@ lastmod: 2024-07-04
 aliases:
 ---
 ## Notas
-- 
+-
 
 ## Citações
 ### Parte 1. Uma união financeiramente feliz
@@ -32,7 +32,7 @@ aliases:
 - (pág. 35) Porque falhamos ao manter um plano de independência?
 	1. não nos colocamos em primeiro lugar
 	2. "deve-se levar em consideração que a burocrática rotina de controlar gastos e traçar estratégias não é tão prazerosa" "mas o hábito de estabelecer objetivos, traçar planos para atingi-los e colocá-los em prática pode ser muito gratificante, **sobretudo quando os objetivos são traçados a dois** e têm como meta grandes conquistas"
-	3. "Sedução do dinheiro." "**Se seus objetivos de vida não forem claramente estabelecidos, será muito difícil abrir mão da possibilidade de adquirir um item de consumo.**" 
+	3. "Sedução do dinheiro." "**Se seus objetivos de vida não forem claramente estabelecidos, será muito difícil abrir mão da possibilidade de adquirir um item de consumo.**"
 - (pág. 36 e 37) Os benefícios do planejamento financeiro de longo prazo
 	- "Mais importante do que conquistar um padrão de vida é mantê-lo, e é para isso que devemos planejar."
 	- "É importante ter em mente que não há propósito em guardar dinheiro tão somente pelo ato de guardar em si."
@@ -43,7 +43,7 @@ aliases:
 - (pág. 62 e 63) Início do planejamento financeiro
 	- "Qualquer casal pode fazer o próprio planejamento financeiro se dedicar alguns minutos por semana"
 	- "**O planejamento financeiro familiar não pode ser complicado.** Após dedicar algumas poucas horas a sua elaboração, basta fazer pequenos ajustes periódicos (talvez, semestralmente)." "se for dificil demais e lhes tomar muito tempo, vocês tenderão a abandoná-lo""
-	- Pontos essenciais no planejamento financeiro: "controle de gastos; estabelecimento de metas; disciplina com investimentos; ajustes referentes a inflação e mudanças na renda; administração do que se conquistou."  
+	- Pontos essenciais no planejamento financeiro: "controle de gastos; estabelecimento de metas; disciplina com investimentos; ajustes referentes a inflação e mudanças na renda; administração do que se conquistou."
 - (pág. 63 a 67) Orçamento: dá para cortar?
 	- o fato de não sobrarem recursos para poupar não está nos grandes gastos, está nos pequenos, aqueles que fogem ao controle
 	- "imponham limites a cada categoria de gastos e sigam com precisão"
@@ -88,4 +88,4 @@ aliases:
 - (pág. 157 e 158) Ganhem e doem
 	- "Ganhem e doem: mas planejem-se para poder fazer isso sempre."
 	- "Se, ao doar, vocês não se permitirem sobras de recursos para investir em seu futuro, estarão prejudicando esse futuro e também o daqueles que precisam de sua ajuda."
-	- 
+	-

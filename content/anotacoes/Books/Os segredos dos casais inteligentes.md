@@ -5,7 +5,7 @@ lastmod: 2024-07-05
 aliases:
 ---
 ## Minhas Notas
-- 
+-
 
 ## Citações
 ### 1. A teoria funciona na prática?

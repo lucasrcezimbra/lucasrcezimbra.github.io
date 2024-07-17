@@ -34,7 +34,7 @@ aliases:
 - by Leonardo Giordani - https://thedigitalcatonline.com
 - Archicture is about
   > Firmitas, Utilitas, Venustas (Durability, Utility, Beauty)
-  > 
+  >
   > Vitruvius, De architecture, 15 BC
 - Books suggestions
 	- Object Oriented Software Engineering: A Use-Case Driven Approach - Ivar Jacobson
@@ -59,8 +59,8 @@ aliases:
 	- ORM that couples with Relational Databases - that's true
 	- Models are aware/connected to the database (can be saved/retrieved natively) - partially true
 		> When you test your Django application, you need the database. It's possible to test without the database, but you are sort of fighting against the framework.
-		
-	- "You usually implement your business logic in views" - That's not true. You can do it in every frameworks. But you should avoid in all, including Django. 
+
+	- "You usually implement your business logic in views" - That's not true. You can do it in every frameworks. But you should avoid in all, including Django.
 
 
 ## Event-driven
@@ -76,11 +76,11 @@ aliases:
 
 ## RPC
 > (in most cases) is a dangerous illusion.
-> 
+>
 > Local call: 1. Single process; 2. Negligible latency; 3. Call-stack built-in; 4. Same language and data types; 5. No partial failure;
-> 
+>
 > Fallacies of distributed computing: 1. The network is reliable; 2. Latency is zero; 3. Bandwidth is infinite; 4. The network is secure; 5. Topology doesn't change; 6. There is one administrator; 7. Transport cost is zero; 8. The network is homogeneous;
-> 
+>
 > from https://d1.awsstatic.com/events/Summits/reinvent2022/API308_Are-you-integrating-or-building-distributed-applications.pdf page 38
 
 ## Security
@@ -130,7 +130,7 @@ aliases:
 	- You will not know all answers, but you need to know how research and who ask
 	- You have a limited social capital (influence currency) - You need to choose your battles.
 - How to bring global context to your local team? Help the team to see the big picture.
-	- Translate the message (security, performance, etc) for the particular audience. Business will not care about tech. 
+	- Translate the message (security, performance, etc) for the particular audience. Business will not care about tech.
 	- Maintenance - "Did you go to an airplane that didn't have maintenance for months/years?
 - Book - How to win friend and influence people - It will help in your architecture role.
 

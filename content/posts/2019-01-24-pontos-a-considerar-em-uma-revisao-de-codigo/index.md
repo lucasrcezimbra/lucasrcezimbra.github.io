@@ -8,7 +8,7 @@ tags = ["software"]
 
 
 
-A revisão de código é um processo importante do desenvolvimento de software. Outras pessoas olhando para o código ajudam a identificar falhas que passaram desapercebidas ou melhorias que poderiam ser implementadas. 
+A revisão de código é um processo importante do desenvolvimento de software. Outras pessoas olhando para o código ajudam a identificar falhas que passaram desapercebidas ou melhorias que poderiam ser implementadas.
 
 {{< figure src="code-review.png" alt="Code review do GitHub" caption="Code review do GitHub" >}}
 

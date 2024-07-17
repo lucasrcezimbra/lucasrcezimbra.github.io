@@ -3,12 +3,12 @@ title: "(Manifest) Microservices"
 date: 2023-11-25
 lastmod: 2024-01-24
 ---
-- Microservices are good when your system has different scale needs. For example, in a e-commerce the products page can be hard cached but the payment doesn’t and it needs high availability. 
-- Microservices are good for large organizations where each team supports a service. Conway's law. 
+- Microservices are good when your system has different scale needs. For example, in a e-commerce the products page can be hard cached but the payment doesn’t and it needs high availability.
+- Microservices are good for large organizations where each team supports a service. Conway's law.
 
 > Monoliths are good enough for almost everything.
-> 
-> Microservices need justification.  
+>
+> Microservices need justification.
 https://x.com/milan_milanovic/status/1722252645438484810?s=46
 ## References
 - Meme: [Microservices](https://youtu.be/y8OnoxKotPQ?si=gB0Gpt8Pwey-Mt9Z) orchestration complexity

@@ -73,7 +73,7 @@ by Eduardo Matos
 
 ## O que Esperar de Líderes Técnicos
 by [Henrique Bastos](https://henriquebastos.net/)
-- Idealismo do código certo. "Refatorar como ticket solto não existe". 
+- Idealismo do código certo. "Refatorar como ticket solto não existe".
 - **"Não existe decisão técnica, toda decisão é de negócio"**.
 - "As pessoas quererem experimentar e se expressar no trabalho dá muita confusão."
 - "Como Principal (engineer) meu trabalho é fazer todo mundo trabalhar 10x"
@@ -83,6 +83,6 @@ by [Henrique Bastos](https://henriquebastos.net/)
 	- Pq aquele software existe? Como que faz dinheiro?
 - Livro: A Fórmula da Eficácia - Alisson Vale
 - Tech Lead
-	- Mais hands-on - 0% gerenciando equipe - 100% gerenciando projeto - 
+	- Mais hands-on - 0% gerenciando equipe - 100% gerenciando projeto -
 	- É Tech. Manager é outra carreira.
 	- Não tem que assignar tarefas. As pessoas que puxam o que tem fazer.

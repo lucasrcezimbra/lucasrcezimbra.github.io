@@ -16,7 +16,7 @@ Curso por [Roger Gomes](https://www.instagram.com/rogergomes.psi/)
 ### Nosso tempo
 - Não temos mais as tradições
 > diferentemente dos animais, os homens não tem mais os instintos para lhe dizerem o que eles tem que fazer. E diferentemente do homem antigo, o homem moderno já não tem mais as tradições para dizer o que eles deveriam fazer. Sem saber o que tem q fazer e nem o que deveriam fazer, os homens estão sem direção
-> 
+>
 > Viktor Frankl sobre o século 20
 - Resulta em totalitarismo e conformismo
     - Totalitarismo: elege alguém pra dizer o que ela deveria fazer
@@ -135,14 +135,14 @@ Curso por [Roger Gomes](https://www.instagram.com/rogergomes.psi/)
 ## Planejamento de vida
 ### Missão
 - Todos temos uma missão **única** (só você pode fazer, **irrepetivel** (ninguém mais pode fazer), **intransferivel** (não pode passar para outra pessoa) e **irrevogavel** (não pode recusar).
-- Como a missão é dificil de encontrar, podemos começar organizando nosso dia. 
+- Como a missão é dificil de encontrar, podemos começar organizando nosso dia.
 	- O dia é como um resumo da vida (acordar/nascer, viver, dormir/morrer)
 	- O dia é como uma peça de um quebra-cabeça. Uma vida com sentido permite que você entenda todas as peças.
 - Entender sua missão faz com que você saiba elencar as prioridades e saber o que deveria (ou não) estar fazendo.
 
 
 ### Valores
-- Elenque suas prioridades (seus deveres de estado, fase de vida, pessoas em dívida, pessoas sob sua responsabilidade). Comece com 3 a 5. 
+- Elenque suas prioridades (seus deveres de estado, fase de vida, pessoas em dívida, pessoas sob sua responsabilidade). Comece com 3 a 5.
 
 
 ### Procrastinação

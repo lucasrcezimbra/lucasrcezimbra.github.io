@@ -4,20 +4,20 @@ date: 2023-08-15
 lastmod: 2024-04-16
 ---
 > **Fundador do Twitter aumenta para 10 BTC recompensa para quem criar alternativa descentralizada ao GitHub:** para Jack Dorsey, esse novo sistema para controle de versões seria idealmente baseado no Nostr, protocolo criado pelo desenvolvedor brasileiro “fiatjaf”. As informações são do perfil de Dorsey na rede Nostr.
-  > 
+  >
   from Filipe Deschamps Newsletter
 - https://www.arweave.org/ - Arweave: Permanent information storage
 	- https://ar.io/ - a global network, protocol, and currency that enables the permaweb.
 - https://thirdweb.com/ - thirdweb - The complete web3 development framework.
 	- https://twitter.com/svpino/status/1534575485262258176
 - [The RSS Endpoint List](https://gist.github.com/thefranke/63853a6f8c499dc97bc17838f6cedcc2#scrapers-and-running-instances)
-- [WebSub](https://en.wikipedia.org/wiki/WebSub) - 
+- [WebSub](https://en.wikipedia.org/wiki/WebSub) -
 ## Social
 - [AT Protocol](https://atproto.com/) - Social networking technology created by [Bluesky](https://bsky.app/)
 - [Farcaster](https://www.farcaster.xyz/) - a protocol for decentralized social apps
 ### Crossposters
 - [Agora](https://agorasocial.app/) - Follow your favorite topics in the Nostr-verse (and even posts from Mastodon, Reddit, Bluesky, and Twitter)
-- [mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - [archived](https://write.as/renatolond/timeline-for-the-shutdown-of-the-mastodon-twitter-crossposter-instance-at) 
+- [mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) - [archived](https://write.as/renatolond/timeline-for-the-shutdown-of-the-mastodon-twitter-crossposter-instance-at)
 - [Mostr](https://gitlab.com/soapbox-pub/mostr) - a bridge between Nostr and the Fediverse (Mastodon, ActivityPub, etc.)
 - [touitomamout](https://github.com/louisgrasset/touitomamout) - sync tweets to Mastodon and Bluesky
 ### Fediverse

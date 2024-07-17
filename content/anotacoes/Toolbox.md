@@ -49,16 +49,16 @@ aliases:
 ## Analytics
 - [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics/)
 - [Fathom Analytics](https://usefathom.com/) - GDPR-compliant; No free plans
-- [GoatCounter](https://www.goatcounter.com/) - #OpenSource 
+- [GoatCounter](https://www.goatcounter.com/) - #OpenSource
 - [Google Analytics](https://analytics.google.com/)
 - [Hotjar](https://www.hotjar.com/)
 - [Matomo](https://matomo.org/) - No free plans #OpenSource
-- [Microanalytics](https://microanalytics.io/)  - free plan (1000 pageviews/month) 
+- [Microanalytics](https://microanalytics.io/)  - free plan (1000 pageviews/month)
 - [Mixpanel](https://mixpanel.com/)
-- [Open Web Analytics](https://www.openwebanalytics.com/) - No hosted version #OpenSource 
-- [Pirsch](https://pirsch.io/) - No free plans #OpenSource 
+- [Open Web Analytics](https://www.openwebanalytics.com/) - No hosted version #OpenSource
+- [Pirsch](https://pirsch.io/) - No free plans #OpenSource
 - [Plausible](https://plausible.io/) - No free plans #OpenSource
-- [unami](https://umami.is/) - free plan (10K events/month) #OpenSource 
+- [unami](https://umami.is/) - free plan (10K events/month) #OpenSource
 - [Wide Angle](https://wideangle.co/) - No free plans
 
 ## Bookmark manager
@@ -92,7 +92,7 @@ Others:
 - [Bitrix24](https://www.bitrix24.com.br/)
 - [Pipedrive](https://www.pipedrive.com/)
 ## Importers
-- [TableFlow](https://tableflow.com/) - CSV importer #OpenSource 
+- [TableFlow](https://tableflow.com/) - CSV importer #OpenSource
 - [Flatfile](https://flatfile.com/) - Data file import
 
 ## Hosting
@@ -107,42 +107,42 @@ Others:
 - [Render](https://render.com/) - a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.
 
 ## Integrations
-### Open Source 
-- * [Activepieces](https://www.activepieces.com/) - [GitHub](https://github.com/activepieces/activepieces) - [Forum](https://community.activepieces.com/) #OpenSource 
+### Open Source
+- * [Activepieces](https://www.activepieces.com/) - [GitHub](https://github.com/activepieces/activepieces) - [Forum](https://community.activepieces.com/) #OpenSource
 	- [vs others](https://www.activepieces.com/blog/open-source-alternatives-to-zapier)
 	- doesn't support Python scripts
 	- supports whitelabel
 	- supports self-host
 	- secrets security?
 	- ![GitHub Repo stars](https://img.shields.io/github/stars/activepieces/activepieces)
-- [ActiveWorkflow](https://www.activeworkflow.org/) - [GitHub](https://github.com/automaticmode/active_workflow) #OpenSource 
+- [ActiveWorkflow](https://www.activeworkflow.org/) - [GitHub](https://github.com/automaticmode/active_workflow) #OpenSource
 	- forked from huginn
 	- supports other languages using agents running in separate processes - communication is using HTTP.
 	- hard to use
 	- encryption only in the enterprise version
 	- just a few pre-defined agents
-- [Apache NiFi](https://nifi.apache.org/) - #OpenSource 
-- [Automa](https://www.automa.site/) - extension for automating your browser by connecting blocks - [GitHub](https://github.com/AutomaApp/automa) #OpenSource 
-- * [Automatisch](https://automatisch.io/) - [GitHub](https://github.com/automatisch/automatisch) #OpenSource 
+- [Apache NiFi](https://nifi.apache.org/) - #OpenSource
+- [Automa](https://www.automa.site/) - extension for automating your browser by connecting blocks - [GitHub](https://github.com/AutomaApp/automa) #OpenSource
+- * [Automatisch](https://automatisch.io/) - [GitHub](https://github.com/automatisch/automatisch) #OpenSource
 	- doesn't support scripts
 	- supports whitelabel
 	-  ![GitHub Repo stars](https://img.shields.io/github/stars/automatisch/automatisch)
-- [huginn](https://github.com/huginn/huginn) - #OpenSource 
-- [Node-RED](https://nodered.org/) - #OpenSource 
+- [huginn](https://github.com/huginn/huginn) - #OpenSource
+- [Node-RED](https://nodered.org/) - #OpenSource
 	- runs on Raspberry PI
 	- Very technical
 	-  ![GitHub Repo stars](https://img.shields.io/github/stars/node-red/node-red)
-- * [n8n](https://n8n.io/) - [GitHub](https://github.com/n8n-io/n8n) #OpenSource 
+- * [n8n](https://n8n.io/) - [GitHub](https://github.com/n8n-io/n8n) #OpenSource
 	- (beta) supports Python scripts
 	- supports whitelabel
 	- supports self-host
 	- Custom variables are available just on the Enterprise plan - [Docs](https://docs.n8n.io/code/variables/)
 	- doesn't run on Raspberry PI
 	-  ![GitHub Repo stars](https://img.shields.io/github/stars/n8n-io/n8n)
-- [Pipedream](https://pipedream.com/) - [GitHub](https://github.com/PipedreamHQ/pipedream) #OpenSource 
+- [Pipedream](https://pipedream.com/) - [GitHub](https://github.com/PipedreamHQ/pipedream) #OpenSource
 	- supports Python scripts
 	- doesn't support self-hosting - [issue](https://github.com/PipedreamHQ/pipedream/issues/954)
-- [Temporal](https://temporal.io/) - [GitHub](https://github.com/temporalio/temporal) #OpenSource 
+- [Temporal](https://temporal.io/) - [GitHub](https://github.com/temporalio/temporal) #OpenSource
 ### Others
 - [IFTTT](https://ifttt.com/)
 - [Integrately](https://integrately.com/)
@@ -177,15 +177,15 @@ Others:
 
 ## Search
 ### Client-side
-- [Fuse.js](https://github.com/krisk/fuse) - lightweight fuzzy-search, in JavaScript, with zero dependencies #OpenSource 
-- [Lunr.js](https://github.com/olivernn/lunr.js) - small, full-text search library for use in the browser #OpenSource 
-- [orama](https://github.com/oramasearch/orama) - full-text and vector search #OpenSource 
-- [Pagefind](https://github.com/cloudcannon/pagefind) - fully static search library that aims to perform well on large sites, while using as little of your users’ bandwidth as possible, and without hosting any infrastructure #OpenSource 
+- [Fuse.js](https://github.com/krisk/fuse) - lightweight fuzzy-search, in JavaScript, with zero dependencies #OpenSource
+- [Lunr.js](https://github.com/olivernn/lunr.js) - small, full-text search library for use in the browser #OpenSource
+- [orama](https://github.com/oramasearch/orama) - full-text and vector search #OpenSource
+- [Pagefind](https://github.com/cloudcannon/pagefind) - fully static search library that aims to perform well on large sites, while using as little of your users’ bandwidth as possible, and without hosting any infrastructure #OpenSource
 
 ## Shell
 - [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output.
 - [dust](https://github.com/bootandy/dust) - A more intuitive version of du
-- [grex](https://github.com/pemistahl/grex) - CLI for generating regular expressions from 
+- [grex](https://github.com/pemistahl/grex) - CLI for generating regular expressions from
 - [nushell](https://github.com/nushell/nushell) - A new type of shell.user-provided test cases.
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative).
 
@@ -215,4 +215,4 @@ Others:
 
 
 ## WhatsApp Integrations
-- [Typebot](https://typebot.io/) - WhatsApp only on Pro ($89/month) - #OpenSource 
+- [Typebot](https://typebot.io/) - WhatsApp only on Pro ($89/month) - #OpenSource

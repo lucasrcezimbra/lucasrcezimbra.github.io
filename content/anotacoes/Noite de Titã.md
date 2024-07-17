@@ -39,7 +39,7 @@ por [Lucas Maia Maciel](https://instagram.com/lucasmaiamaciel)
 
 ## Melhorando todos os dias
 - Livro: A Vida Intelectual - A.D Sertillanges
-- Sempre aprenda algo novo. 
+- Sempre aprenda algo novo.
 
 
 ## Efeito Zeigarnik
@@ -52,4 +52,3 @@ por [Lucas Maia Maciel](https://instagram.com/lucasmaiamaciel)
 - Alimentação a noite
     - Mais carboidrato porque estimulam o sono.
     - Comer até ficar satisfeito, não mais.
-

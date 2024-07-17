@@ -17,24 +17,24 @@ aliases:
 	import inspect
 	inspect.getfullargspec(<func>).args
 	```
-	
+
 	```python
 	In [1]: import inspect
 
 	In [2]: def f(x,y):
 	    ...:     pass
-	    ...: 
-	
+	    ...:
+
 	In [3]: inspect.getfullargspec(f).args
 	Out[3]: ['x', 'y']
 	```
 - Why avoid initing Decimal from float ([Tweet](https://twitter.com/lucasrcezimbra/status/1696892876116914633))
 	```python
 	In [1]: from decimal import Decimal
-	
+
 	In [2]: Decimal(0.1)
 	Out[2]: Decimal('0.1000000000000000055511151231257827021181583404541015625')
-	
+
 	In [3]: Decimal('0.1')
 	Out[3]: Decimal('0.1')
 	```
@@ -46,7 +46,7 @@ aliases:
 
 	In [2]: f("x", 1)
 	Out[2]: {'x': 1}
-	
+
 	In [3]: f("y", 2)
 	Out[3]: {'x': 1, 'y': 2}
 	```
@@ -68,7 +68,7 @@ aliases:
 	# True ['a', 'b'] ['a', 'b']
 	```
 - https://github.com/haralyzer/haralyzer/ - Lib to read HAR files #tools
-- `[extras.pipfile_deprecated_finder.2] 'pip-shims<=0.3.4' does not match '^[a-zA-Z-_.0-9]+$` #troubleshooting 
+- `[extras.pipfile_deprecated_finder.2] 'pip-shims<=0.3.4' does not match '^[a-zA-Z-_.0-9]+$` #troubleshooting
 	  - `pre-commit autoupdate`
 - How to move from pip to Poetry ([Tweet](https://twitter.com/lucasrcezimbra/status/1696637161993326741))
 	```bash
@@ -92,7 +92,7 @@ aliases:
 	```python
     >>> "--system 'string w/ multiple words'".split()
 	['--system', "'string", 'w/', 'multiple', "words'"]
-	
+
     >>> import shlex
     >>> shlex.split("--system 'string w/ multiple words'")
 	['--system', 'string w/ multiple words']
@@ -104,16 +104,16 @@ aliases:
 	    ...:         received = yield 'DATA'
 	    ...:         print('Received:', received)
 	    ...:
-	
+
 	In [2]: g = generator()
-	
+
 	In [3]: next(g)
 	Out[3]: 'DATA'
-	
+
 	In [4]: g.send(1)
 	Received: 1
 	Out[4]: 'DATA'
-	
+
 	In [5]: g.send(2)
 	Received: 2
 	Out[5]: 'DATA'
@@ -139,7 +139,7 @@ Relates to [Message Queues]({{< ref "Message Queues" >}})
 - [Procrastinate](https://github.com/procrastinate-org/procrastinate) - PostgreSQL-based Task Queue for Python
 - [rq](https://python-rq.org/) (Redis Queue) - library for queueing jobs and processing them in the background with workers.
 
- 
+
 ## Cache
 - https://github.com/grantjenks/python-diskcache
 - https://github.com/uqfoundation/klepto - persistent caching to memory, disk, or database
@@ -218,7 +218,7 @@ Relates to [Message Queues]({{< ref "Message Queues" >}})
 - Pydra: https://github.com/nipype/pydra ![GitHub Repo stars](https://img.shields.io/github/stars/nipype/pydra)
 	- A simple dataflow engine with scalable semantics.
 - Ray: https://github.com/ray-project/ray ![GitHub Repo stars](https://img.shields.io/github/stars/ray-project/ray)
-	- unified framework for scaling AI 
+	- unified framework for scaling AI
 	- consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for simplifying ML compute
 
 ### General
@@ -236,7 +236,7 @@ Relates to [Message Queues]({{< ref "Message Queues" >}})
 	- integrated with OpenStack
 	- define tasks and workflows in a simple YAML and a distributed environment
 - [Ploomber](https://github.com/ploomber/ploomber) ![GitHub Repo stars](https://img.shields.io/github/stars/ploomber/ploomber) - [Docs](https://docs.ploomber.io/en/latest/index.html)
-	- 
+	-
 - [pygrametl](https://github.com/chrthomsen/pygrametl) ![GitHub Repo stars](https://img.shields.io/github/stars/chrthomsen/pygrametl)
 	- provides commonly used functionality for the development of ETL processes.
 - [Pypeln](https://github.com/cgarciae/pypeln/) ![GitHub Repo stars](https://img.shields.io/github/stars/cgarciae/pypeln)
@@ -337,42 +337,42 @@ Fonte: https://fstring.help/
 - Why to fixtures instead of namespace variables for mocked data ([Tweet](https://twitter.com/lucasrcezimbra/status/1704810879169024089))
 	```python
 	# without fixture
-	
+
 	MOCK_DATA = [{"field": "value"}]
-	
-	
+
+
 	def test_one():
 	    MOCK_DATA[0]['field'] = 'other value'
 	    assert MOCK_DATA[0]['field'] == 'other value'
-	
-	
+
+
 	def test_two():
 	    assert MOCK_DATA[0]['field'] == 'value'
-	
-	
+
+
 	# with fixture
-	
+
 	@pytest.fixture
 	def mock_data():
 		return [{"field": "value"}]
-	
-	
+
+
 	def test_three(mock_data):
 	    mock_data[0]['field'] = 'other value'
 	    assert MOCK_DATA[0]['field'] == 'other value'
-	
-	
+
+
 	def test_four(mock_data):
 	    assert mock_data[0]['field'] == 'value'
 	```
-	
+
 	```python
 	    def test_two():
 	>       assert MOCK_DATA[0]['field'] == 'value'
 	E       AssertionError: assert 'other value' == 'value'
 	E         - value
 	E         + other value
-	
+
 	path/to/tests/test_zero.py:15: AssertionError
 	=====================<mark> 1 failed, 3 passed in 0.18s </mark>=====================
 	```
@@ -380,7 +380,7 @@ Fonte: https://fstring.help/
 - Why to use spec when using Mock? ([Tweet](https://twitter.com/lucasrcezimbra/status/1713876531754201433))
 	```python
 	from unittest.mock import Mock
-	
+
 	class MyClass:
 		pass
 
@@ -419,7 +419,7 @@ Fonte: https://fstring.help/
 	- Has not been maintained
 - Strawberry - https://strawberry.rocks/
 	- Hard to understand the codebase
-- Tartiflette - https://tartiflette.io/ 
+- Tartiflette - https://tartiflette.io/
 	- Needs to write the resolvers by hand. I didn't find a good integration w/ ORMs
 
 ### Keycloak
@@ -435,7 +435,7 @@ Fonte: https://fstring.help/
 
 ## RPC
 - [gRPC](https://grpc.io/docs/languages/python/quickstart/)
-- [RPyC](https://github.com/tomerfiliba-org/rpyc) - [Docs](https://rpyc.readthedocs.io/en/latest/) - library for symmetrical remote procedure calls, clustering, and distributed-computing #OpenSource 
+- [RPyC](https://github.com/tomerfiliba-org/rpyc) - [Docs](https://rpyc.readthedocs.io/en/latest/) - library for symmetrical remote procedure calls, clustering, and distributed-computing #OpenSource
 
 
 ## SSH
@@ -443,10 +443,10 @@ Fonte: https://fstring.help/
 	- It doesn't support SOCKS5 proxy (`ssh -D`) - [issue](https://github.com/paramiko/paramiko/pull/1873); [third-party PR](https://github.com/linwownil/paramiko/pull/1/)
 	- Port forward [example](https://github.com/paramiko/paramiko/blob/main/demos/forward.py)
 	- [sshtunnel](https://github.com/pahaz/sshtunnel) - SSH tunnels to remote server
-- 
+-
 
 
 ## WebAssembly
 - [Extism](https://extism.org/) - The cross-language framework - [SDK](https://github.com/extism/python-sdk)
 - [Pyodide](https://pyodide.org/en/stable/) - distribution for the browser and Node.js based on WebAssembly - [GitHub](https://github.com/pyodide/pyodide)
-- [PyScript](https://pyscript.net/) - Run Python in Your HTML 
+- [PyScript](https://pyscript.net/) - Run Python in Your HTML

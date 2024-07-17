@@ -3,7 +3,7 @@ title: "Joplin"
 date: 2023-08-15
 lastmod: 2023-08-15
 ---
-- https://github.com/laurent22/joplin/ 
+- https://github.com/laurent22/joplin/
 - an open source note taking and to-do application with synchronisation capabilities
 
 ## Plugins
@@ -12,7 +12,7 @@ lastmod: 2023-08-15
 - Graph
 	- https://github.com/treymo/joplin-link-graph
 	- https://github.com/agerardin/joplin-plugin-knowledge-graph
-- https://github.com/ylc395/joplin-plugin-pages-publisher - generates a static website from your picked notes 
+- https://github.com/ylc395/joplin-plugin-pages-publisher - generates a static website from your picked notes
 - https://github.com/FelisDiligens/joplin-plugin-search-and-replace
 - https://discourse.joplinapp.org/t/embed-any-search-with-content/14328
 - https://discourse.joplinapp.org/t/automatic-backlinks-with-manual-insert-option/13632
