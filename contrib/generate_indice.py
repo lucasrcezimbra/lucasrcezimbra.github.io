@@ -37,9 +37,9 @@ def get_pages(directory):
         if filepath.is_dir():
             yield from get_pages(filepath)
 
-        if filepath.name in ("index.md", "indice.md") or not filepath.name.endswith(
-            ".md"
-        ):
+        is_index = filepath.name in ("index.md", "indice.md")
+        is_markdown = filepath.name.endswith(".md")
+        if is_index or not is_markdown:
             continue
 
         title = str(filepath.relative_to(notes_dir)).replace(".md", "")
