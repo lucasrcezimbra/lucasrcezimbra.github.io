@@ -1,4 +1,15 @@
 repos:
+  - repo: local
+    hooks:
+      - id: lastmod
+        name: Update lastmod
+        entry: contrib/lastmod.sh
+        language: script
+        files: \.md$
+      - id: index
+        name: Generate notes index
+        entry: python contrib/generate_indice.py
+        language: python
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.6.0
     hooks:
@@ -30,10 +41,3 @@ repos:
     rev: v1.7.1
     hooks:
       - id: actionlint
-  - repo: local
-    hooks:
-      - id: lastmod
-        name: Update lastmod
-        entry: contrib/lastmod.sh
-        language: script
-        files: \.md$

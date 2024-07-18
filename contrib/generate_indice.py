@@ -57,6 +57,7 @@ def main():
 
     with open(notes_dir / "indice.md", "w") as f:
         f.write("\n".join([header, *lines]))
+        f.write("\n")
 
 
 if __name__ == "__main__":
