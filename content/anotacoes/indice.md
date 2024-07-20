@@ -1,13 +1,14 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-07-19
+lastmod: 2024-07-20
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2024-07-21 - 2024-07-27]({{< ref "Weeknotes/2024-07-21 - 2024-07-27" >}})
 - [Weeknotes/2024-07-14 - 2024-07-20]({{< ref "Weeknotes/2024-07-14 - 2024-07-20" >}})
 - [Videos/DVC 13 - Arquitetura de Software com Rodrigo Branas e Elton Minetto]({{< ref "Videos/DVC 13 - Arquitetura de Software com Rodrigo Branas e Elton Minetto" >}})
 - [Inbox]({{< ref "Inbox" >}})
