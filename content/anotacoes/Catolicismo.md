@@ -1,7 +1,7 @@
 ---
 title: "Catolicismo"
 date: 2023-08-15
-lastmod: 2024-07-10
+lastmod: 2024-07-22
 ---
 > Sê firme, amável e justo.
 
@@ -16,6 +16,8 @@ lastmod: 2024-07-10
 > "Ó feliz culpa (do pecado original)!" - hino do sábado de aleluia - porque despertou a misericórdia de Deus
 
 > Deus nos fez para conhece-Lo, ama-Lo e servi-Lo
+
+> Senhor, dai-me força para* mudar o que pode ser mudado... Resignação para aceitar o que não pode ser mudado... E sabedoria para distinguir uma coisa da outra
 
 - [The Veil Removed](https://www.youtube.com/watch?v=OOLZDaTgIaM)
 - [O uso do tabaco não é pecado](https://www.veritatis.com.br/o-uso-do-tabaco-nao-e-pecado/)

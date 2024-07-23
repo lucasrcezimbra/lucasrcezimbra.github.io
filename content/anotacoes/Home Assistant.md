@@ -1,9 +1,11 @@
 ---
 title: Home Assistant
 date: 2024-06-03
-lastmod: 2024-06-05
+lastmod: 2024-07-22
 ---
+
 - [Home Assistant](https://www.home-assistant.io/)
+- [Awesome Home Assistant Awesome](https://github.com/frenck/awesome-home-assistant)
 - [Awesome HA Blueprints](https://epmatt.github.io/awesome-ha-blueprints/)
 - [best-of-hassio](https://github.com/legovaer/best-of-hassio)
 - https://github.com/rospogrigio/localtuya

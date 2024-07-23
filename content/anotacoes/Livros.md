@@ -1,7 +1,7 @@
 ---
 title: Livros
 date: 2023-08-15
-lastmod: 2024-07-08
+lastmod: 2024-07-22
 tags:
   - listas
   - livros
@@ -65,3 +65,4 @@ tags:
 | Luiz Claudio Binato                         | O modelo do pensador                                                                    |            |           | Moacir Moda: “Se você é líder … esse livro é obrigatório. … é obrigatório para qualquer um que esteja comprometido com o autodesenvolvimento”          |
 | Daniel Rops                                 | Historia Sagrada do Povo de Deus                                                        |            |           |                                                                                                                                                        |
 | Paul Jarvis                                 | Company of One                                                                          |            |           | Daniel Bastos                                                                                                                                          |
+| Richard Weaver                              | As Ideias tem Consequências                                                             | Para ler   |           | Gabriel Kanner                                                                                                                                         |

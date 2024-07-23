@@ -1,14 +1,22 @@
 ---
 title: "English"
 date: 2024-02-27
-lastmod: 2024-02-27
+lastmod: 2024-07-22
 ---
+
+- `Doesn't it... ?` vs `Does not it... ?` vs `Does it not... ?`
+	- `Doesn't it... ?` is better
+	- `Does not it... ?` is 'wrong' "unless you're some old philosopher"
+	- `Does it not... ?`  "it might imply bluntness or that you're having a hard time believing/understanding"
+
 ## Prepositions
 - https://medium.com/@english_grammar/how-to-use-preposition-in-english-grammar-on-at-in-of-for-2fdb11e80029
 - https://www.englishpage.com/prepositions/location_prepositions.htm
 - https://www.englishpage.com/prepositions/prepositions.html
+
 ## Pronounce
 - `-ed`: https://www.englishclub.com/pronunciation/-ed.htm
+
 ## Verb Tenses
 - Past participle
     - Eat, ate, eaten
