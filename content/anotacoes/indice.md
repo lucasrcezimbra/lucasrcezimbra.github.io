@@ -1,13 +1,14 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-07-26
+lastmod: 2024-07-29
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2024-07-28 - 2024-08-03]({{< ref "Weeknotes/2024-07-28 - 2024-08-03" >}})
 - [Weeknotes/2024-07-21 - 2024-07-27]({{< ref "Weeknotes/2024-07-21 - 2024-07-27" >}})
 - [Books/Virtudes & Liderança]({{< ref "Books/Virtudes & Liderança" >}})
 - [Books/Não eu, mas Deus]({{< ref "Books/Não eu, mas Deus" >}})
