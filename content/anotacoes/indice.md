@@ -1,7 +1,7 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-07-29
+lastmod: 2024-07-30
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
@@ -9,6 +9,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2024-07-28 - 2024-08-03]({{< ref "Weeknotes/2024-07-28 - 2024-08-03" >}})
+- [Hasura]({{< ref "Hasura" >}})
 - [Weeknotes/2024-07-21 - 2024-07-27]({{< ref "Weeknotes/2024-07-21 - 2024-07-27" >}})
 - [Books/Virtudes & Liderança]({{< ref "Books/Virtudes & Liderança" >}})
 - [Books/Não eu, mas Deus]({{< ref "Books/Não eu, mas Deus" >}})
@@ -102,7 +103,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Catequese para Adultos]({{< ref "Catequese para Adultos" >}})
 - [The most famous 5 laws in the world]({{< ref "The most famous 5 laws in the world" >}})
 - [ChatGPT - Decimal approximation in Python]({{< ref "ChatGPT - Decimal approximation in Python" >}})
-- [Hasura]({{< ref "Hasura" >}})
 - [IoT]({{< ref "IoT" >}})
 - [OpenTelemetry]({{< ref "OpenTelemetry" >}})
 - [Empreendedorismo]({{< ref "Empreendedorismo" >}})
