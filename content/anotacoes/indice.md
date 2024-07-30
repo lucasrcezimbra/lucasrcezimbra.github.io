@@ -10,6 +10,7 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 
 - [Weeknotes/2024-07-28 - 2024-08-03]({{< ref "Weeknotes/2024-07-28 - 2024-08-03" >}})
 - [Hasura]({{< ref "Hasura" >}})
+- [Catolicismo]({{< ref "Catolicismo" >}})
 - [Weeknotes/2024-07-21 - 2024-07-27]({{< ref "Weeknotes/2024-07-21 - 2024-07-27" >}})
 - [Books/Virtudes & Liderança]({{< ref "Books/Virtudes & Liderança" >}})
 - [Books/Não eu, mas Deus]({{< ref "Books/Não eu, mas Deus" >}})
@@ -17,7 +18,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [English]({{< ref "English" >}})
 - [Inbox]({{< ref "Inbox" >}})
 - [Livros]({{< ref "Livros" >}})
-- [Catolicismo]({{< ref "Catolicismo" >}})
 - [Weeknotes/2024-07-14 - 2024-07-20]({{< ref "Weeknotes/2024-07-14 - 2024-07-20" >}})
 - [Videos/DVC 13 - Arquitetura de Software com Rodrigo Branas e Elton Minetto]({{< ref "Videos/DVC 13 - Arquitetura de Software com Rodrigo Branas e Elton Minetto" >}})
 - [Videos/Git Hidden Gems]({{< ref "Videos/Git Hidden Gems" >}})
