@@ -1,7 +1,7 @@
 ---
 title: Toolbox
 date: 2023-10-09
-lastmod: 2024-07-04
+lastmod: 2024-07-31
 aliases:
   - /anotacoes/integrations-platforms/
   - /anotacoes/vpn/
@@ -20,6 +20,7 @@ aliases:
 - [Meta AI](https://ai.meta.com/meta-ai/)
 ### Coding
 #### Assistants
+- [Aider](https://github.com/paul-gauthier/aider) - AI pair programming in your terminal
 - [Blackbox](https://www.blackbox.ai/)
 - [Codium](https://www.codium.ai/)
 - [GitHub Copilot](https://github.com/features/copilot)
@@ -77,9 +78,13 @@ aliases:
 | **Clustering content**                 | [Can be implemented](https://github.com/simonw/llm-cluster)                    |                                      | ❌                                  |                                           |                                      |                                  |
 | **Unroll X Threads**                   | [Can be implemented](https://github.com/dogsheep/twitter-to-sqlite)            | ❌                                    | ❌                                  | ❌                                         | Paid version only                    |                                  |
 | **E-mail to subscribe to newsletters** | Can be implemented                                                             | Can be implemented                   | Can be implemented                 | ✅                                         | Paid version only                    |                                  |
+
 Others:
+- [Astral](https://github.com/astralapp/astral) - specific for GitHub stars
 - [Briefkasten](https://briefkastenhq.com) - didn't work
+- [linkding](https://github.com/sissbruecker/linkding) - didn't test
 - [Lynkmark](https://www.lynkmark.com/) - doesn't save pages content
+- [Shiori](https://github.com/go-shiori/shiori) - didn't test
 - [Toast](https://www.dotoast.com/) - browser extension only
 - [WebCrate](https://webcrate.app/) - needs to be deployed in a specific cloud
 

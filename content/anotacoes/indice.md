@@ -1,7 +1,7 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-07-30
+lastmod: 2024-07-31
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
@@ -9,6 +9,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2024-07-28 - 2024-08-03]({{< ref "Weeknotes/2024-07-28 - 2024-08-03" >}})
+- [Toolbox]({{< ref "Toolbox" >}})
 - [Hasura]({{< ref "Hasura" >}})
 - [Catolicismo]({{< ref "Catolicismo" >}})
 - [Weeknotes/2024-07-21 - 2024-07-27]({{< ref "Weeknotes/2024-07-21 - 2024-07-27" >}})
@@ -35,7 +36,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Django]({{< ref "Django" >}})
 - [Marketing Digital]({{< ref "Marketing Digital" >}})
 - [Filmes]({{< ref "Filmes" >}})
-- [Toolbox]({{< ref "Toolbox" >}})
 - [Natal]({{< ref "Natal" >}})
 - [Git]({{< ref "Git" >}})
 - [Linux]({{< ref "Linux" >}})
