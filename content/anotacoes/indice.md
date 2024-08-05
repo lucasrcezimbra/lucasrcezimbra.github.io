@@ -1,13 +1,15 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-07-31
+lastmod: 2024-08-05
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2024-08-04 - 2024-08-10]({{< ref "Weeknotes/2024-08-04 - 2024-08-10" >}})
+- [Python]({{< ref "Python" >}})
 - [Weeknotes/2024-07-28 - 2024-08-03]({{< ref "Weeknotes/2024-07-28 - 2024-08-03" >}})
 - [Toolbox]({{< ref "Toolbox" >}})
 - [Hasura]({{< ref "Hasura" >}})
@@ -24,7 +26,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Videos/Git Hidden Gems]({{< ref "Videos/Git Hidden Gems" >}})
 - [Weeknotes/2024-07-07 - 2024-07-13]({{< ref "Weeknotes/2024-07-07 - 2024-07-13" >}})
 - [My thoughts about software]({{< ref "My thoughts about software" >}})
-- [Python]({{< ref "Python" >}})
 - [Vim]({{< ref "Vim" >}})
 - [Architecture]({{< ref "Architecture" >}})
 - [EdTech]({{< ref "EdTech" >}})

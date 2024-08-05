@@ -1,7 +1,7 @@
 ---
 title: Python
 date: 2023-08-15
-lastmod: 2024-07-12
+lastmod: 2024-08-05
 aliases:
   - /anotacoes/manifest-python-data-classes/
 ---
@@ -258,6 +258,7 @@ Relates to [Message Queues]({{< ref "Message Queues" >}})
 
 
 ## Profiling
+- [pyinstrument](https://github.com/joerick/pyinstrument)
 - [pyperf](https://github.com/psf/pyperf)
 - [scalene](https://github.com/plasma-umass/scalene)
 
