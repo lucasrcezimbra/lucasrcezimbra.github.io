@@ -1,7 +1,7 @@
 ---
 title: "Documentation"
 date: 2023-08-15
-lastmod: 2023-10-27
+lastmod: 2024-08-07
 ---
 ## ADR - Architecture Decision Records
 - [Documenting Architecture Decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
@@ -28,6 +28,8 @@ lastmod: 2023-10-27
 - [TimeMapper](https://github.com/okfn/timemapper) - timelines and timemaps from Google Spreadsheets #OpenSource
 	- [Spreadsheet template](https://docs.google.com/a/okfn.org/spreadsheet/ccc?key=0AqR8dXc6Ji4JdFRNOTVYYTRqTmh6TUNNd3U2X2pKMGc#gid=0)
 - [TimelineSetter](http://propublica.github.io/timeline-setter/) - creates beautiful timelines #OpenSource
+- [Timesheet.js](https://github.com/sbstjn/timesheet.js)
+- [vis.js](https://visjs.org/)
 
 
 ## [Python]({{< ref "Python" >}})
