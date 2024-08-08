@@ -1,23 +1,24 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-08-07
+lastmod: 2024-08-08
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Do zero aos R$ 10k MRR em 3 meses]({{< ref "Do zero aos R$ 10k MRR em 3 meses" >}})
 - [Weeknotes/2024-08-04 - 2024-08-10]({{< ref "Weeknotes/2024-08-04 - 2024-08-10" >}})
+- [Books/Não eu, mas Deus]({{< ref "Books/Não eu, mas Deus" >}})
+- [Catolicismo]({{< ref "Catolicismo" >}})
 - [Documentation]({{< ref "Documentation" >}})
 - [Python]({{< ref "Python" >}})
 - [Weeknotes/2024-07-28 - 2024-08-03]({{< ref "Weeknotes/2024-07-28 - 2024-08-03" >}})
 - [Toolbox]({{< ref "Toolbox" >}})
 - [Hasura]({{< ref "Hasura" >}})
-- [Catolicismo]({{< ref "Catolicismo" >}})
 - [Weeknotes/2024-07-21 - 2024-07-27]({{< ref "Weeknotes/2024-07-21 - 2024-07-27" >}})
 - [Books/Virtudes & Liderança]({{< ref "Books/Virtudes & Liderança" >}})
-- [Books/Não eu, mas Deus]({{< ref "Books/Não eu, mas Deus" >}})
 - [Home Assistant]({{< ref "Home Assistant" >}})
 - [English]({{< ref "English" >}})
 - [Inbox]({{< ref "Inbox" >}})
