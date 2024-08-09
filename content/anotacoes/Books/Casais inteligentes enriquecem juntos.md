@@ -88,4 +88,3 @@ aliases:
 - (pág. 157 e 158) Ganhem e doem
 	- "Ganhem e doem: mas planejem-se para poder fazer isso sempre."
 	- "Se, ao doar, vocês não se permitirem sobras de recursos para investir em seu futuro, estarão prejudicando esse futuro e também o daqueles que precisam de sua ajuda."
-	-

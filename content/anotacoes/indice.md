@@ -1,16 +1,16 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-08-08
+lastmod: 2024-08-09
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
-- [Do zero aos R$ 10k MRR em 3 meses]({{< ref "Do zero aos R$ 10k MRR em 3 meses" >}})
 - [Weeknotes/2024-08-04 - 2024-08-10]({{< ref "Weeknotes/2024-08-04 - 2024-08-10" >}})
 - [Books/Não eu, mas Deus]({{< ref "Books/Não eu, mas Deus" >}})
+- [Do zero aos R$ 10k MRR em 3 meses]({{< ref "Do zero aos R$ 10k MRR em 3 meses" >}})
 - [Catolicismo]({{< ref "Catolicismo" >}})
 - [Documentation]({{< ref "Documentation" >}})
 - [Python]({{< ref "Python" >}})

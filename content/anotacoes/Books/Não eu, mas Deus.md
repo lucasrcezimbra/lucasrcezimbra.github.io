@@ -1,7 +1,7 @@
 ---
 title: "Não eu, mas Deus"
 date: 2024-06-30
-lastmod: 2024-08-08
+lastmod: 2024-08-09
 aliases:
 ---
 
@@ -32,3 +32,17 @@ aliases:
   como xérox'"
 - (pag. 13) "Ser santo é ser discípulo de Jesus no aqui e agora de cada um de
   nós"
+- (pág. 16 e 17) "Reduzir o cristianismo a qualqer outra coisa que não seja a
+  relação pessoal com Jesus Cristo significa sempre centrar a vida no 'eu', e
+  não em 'Deus'."
+- (pág. 16 e 17) Carlo: "A santidade não é um processe de soma, mas de
+  subtração: menos eu para deixar espaço a Deus"
+    * Jaculatória: Que eu diminua e o senhor cresça em mim.
+
+
+### Viver a partir do fim
+- (pág. 24) "Para todos os cristãos, é importante a meditação constante dos
+  chamados Novíssimos, palavra que signica 'as coisas últimas', as realidades
+  finais". São eles: "morte, juízo, inferno e paraíso".
+- (pág. 25) "o que vocês sabem do amanhã?" "Vocês deveriam dizer: 'Se o Senhor
+  quiser, nós viveremos e faremos isto ou aquilo'" (Tg 4, 13-15)
