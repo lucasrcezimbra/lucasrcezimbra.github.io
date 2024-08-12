@@ -1,13 +1,15 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-08-09
+lastmod: 2024-08-12
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Videos/The End Of Object Inheritance and The Beginning Of A New Modularity]({{< ref "Videos/The End Of Object Inheritance and The Beginning Of A New Modularity" >}})
+- [Weeknotes/2024-08-11 - 2024-08-17]({{< ref "Weeknotes/2024-08-11 - 2024-08-17" >}})
 - [Weeknotes/2024-08-04 - 2024-08-10]({{< ref "Weeknotes/2024-08-04 - 2024-08-10" >}})
 - [Books/Não eu, mas Deus]({{< ref "Books/Não eu, mas Deus" >}})
 - [Do zero aos R$ 10k MRR em 3 meses]({{< ref "Do zero aos R$ 10k MRR em 3 meses" >}})
