@@ -1,7 +1,7 @@
 ---
 title: "Catolicismo"
 date: 2023-08-15
-lastmod: 2024-08-08
+lastmod: 2024-08-13
 ---
 > Sê firme, amável e justo.
 
@@ -355,6 +355,8 @@ lastmod: 2024-08-08
 
 
 ## Virtudes
+[Magnanimidade vs Humildade]({{< ref "Magnanimidade vs Humildade" >}})
+
 - Cardinais: prudência; justiça; fortaleza (ou força); temperança (ou moderação).
 - Teologais: fé; esperança; caridade (ou amor).
 
