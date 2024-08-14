@@ -19,7 +19,7 @@ nada é contraditório.
 Outra virtude é a humildade, e como todas as virtudes, a humildade se encontra
 no meio termo. Temos que lembrar que somos criaturas, não somos nada sem a graça
 divina, mas ao mesmo tempo somos filhos de Deus. Ele nos escolheu para estarmos
-aqui, nos pensou e amou antes  mesmo de existirmos.
+aqui, nos pensou e amou antes mesmo de existirmos.
 
 Essas duas virtudes só podem caminhar juntas, temos que ter a magnanimidade, mas
 ao mesmo tempo temos que lembrar que só com a graça divina para alcançarmos
