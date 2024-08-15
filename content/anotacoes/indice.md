@@ -1,16 +1,16 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-08-14
+lastmod: 2024-08-15
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2024-08-11 - 2024-08-17]({{< ref "Weeknotes/2024-08-11 - 2024-08-17" >}})
 - [Magnanimidade vs Humildade]({{< ref "Magnanimidade vs Humildade" >}})
 - [O que eu faria diferente]({{< ref "O que eu faria diferente" >}})
-- [Weeknotes/2024-08-11 - 2024-08-17]({{< ref "Weeknotes/2024-08-11 - 2024-08-17" >}})
 - [English]({{< ref "English" >}})
 - [Catolicismo]({{< ref "Catolicismo" >}})
 - [Videos/The End Of Object Inheritance and The Beginning Of A New Modularity]({{< ref "Videos/The End Of Object Inheritance and The Beginning Of A New Modularity" >}})
