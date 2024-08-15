@@ -9,6 +9,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2024-08-11 - 2024-08-17]({{< ref "Weeknotes/2024-08-11 - 2024-08-17" >}})
+- [Livros]({{< ref "Livros" >}})
 - [Magnanimidade vs Humildade]({{< ref "Magnanimidade vs Humildade" >}})
 - [O que eu faria diferente]({{< ref "O que eu faria diferente" >}})
 - [English]({{< ref "English" >}})
@@ -27,7 +28,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Books/Virtudes & Liderança]({{< ref "Books/Virtudes & Liderança" >}})
 - [Home Assistant]({{< ref "Home Assistant" >}})
 - [Inbox]({{< ref "Inbox" >}})
-- [Livros]({{< ref "Livros" >}})
 - [Weeknotes/2024-07-14 - 2024-07-20]({{< ref "Weeknotes/2024-07-14 - 2024-07-20" >}})
 - [Videos/DVC 13 - Arquitetura de Software com Rodrigo Branas e Elton Minetto]({{< ref "Videos/DVC 13 - Arquitetura de Software com Rodrigo Branas e Elton Minetto" >}})
 - [Videos/Git Hidden Gems]({{< ref "Videos/Git Hidden Gems" >}})
