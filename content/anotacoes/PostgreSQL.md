@@ -1,7 +1,7 @@
 ---
 title: 'PostgreSQL'
 date: 2020-11-02
-lastmod: 2024-06-05
+lastmod: 2024-08-16
 aliases: [
     "/anotacoes/banco-de-dados/postgresql/",
     "/dicas-rapidas-postgresql/",
@@ -16,6 +16,23 @@ aliases: [
 \d - list tables, views, and sequences
 \dn - list schemas
 ```
+
+- Listing active transactions:
+   ```sql
+   SELECT
+       datname AS database,
+       usename AS user,
+       pid,
+       application_name,
+       client_addr,
+       state,
+       state_change,
+       query
+   FROM
+       pg_stat_activity
+   WHERE
+       state = 'active' OR state = 'idle in transaction';
+   ```
 
 Como listar todas as tabelas do banco
 ```sql

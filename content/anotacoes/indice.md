@@ -1,7 +1,7 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-08-15
+lastmod: 2024-08-16
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
@@ -9,6 +9,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2024-08-11 - 2024-08-17]({{< ref "Weeknotes/2024-08-11 - 2024-08-17" >}})
+- [PostgreSQL]({{< ref "PostgreSQL" >}})
 - [Livros]({{< ref "Livros" >}})
 - [Magnanimidade vs Humildade]({{< ref "Magnanimidade vs Humildade" >}})
 - [O que eu faria diferente]({{< ref "O que eu faria diferente" >}})
@@ -53,7 +54,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Terraform]({{< ref "Terraform" >}})
 - [Obsidian]({{< ref "Obsidian" >}})
 - [Smart Home]({{< ref "Smart Home" >}})
-- [PostgreSQL]({{< ref "PostgreSQL" >}})
 - [Using Android as Linux Server]({{< ref "Using Android as Linux Server" >}})
 - [Auth]({{< ref "Auth" >}})
 - [Scrapers]({{< ref "Scrapers" >}})
