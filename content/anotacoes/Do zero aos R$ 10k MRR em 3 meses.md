@@ -1,7 +1,7 @@
 ---
 title: "Aula Do zero aos R$ 10k MRR em 3 meses"
 date: 2024-08-07
-lastmod: 2024-08-08
+lastmod: 2024-08-20
 aliases:
 ---
 
@@ -29,8 +29,8 @@ por [Moacir Moda](https://moacirmoda.com/) do [Tintim](https://tintim.app/)
 - Porque?
     - Quando você resolve a própria dor, você é o ICP
     - Você já conhece o problema e como resolver
-    - Você já é a validação inicial; se você tem o problema, é provável que outros
-      tenham
+    - Você já é a validação inicial; se você tem o problema, é provável que
+      outros tenham
 
 #### ICP
 - ICP = Ideal Customer Profile ou Perfil de Cliente Ideal
@@ -80,11 +80,59 @@ por [Moacir Moda](https://moacirmoda.com/) do [Tintim](https://tintim.app/)
   construir software nem ganhar dinheiro
 
 
+## Distribuição
+- Aquisição (de Leads) > Conversão > Retenção
+
+### Estratégia de webinar semanal
+- Conteúdo sobre webinar: Russell Branson
+- Webinar é uma estratégia muito consolidada no mercado de infoproduto
+- Lead frio > Webinar > Qualifica lead > Conversão
+1. Planejamento: oferta (+bônus) irresistível
+    * que o lead queira e se sinta idiota caso não compre
+    * o lead não quer ver seu webinar de vendas, então a oferta tem que ser boa
+      para ele
+    * tem que conhecer seu público-alvo e montar a oferta voltada pra ele
+    * preço melhor ou ocasião especial (black friday)
+    * exemplo: suporte prioritário; call de onboarding;
+2. Captura: gerar leads (através de ads) levando para página de captura
+    * funil é uma junção de pequenas conversões: lead frio > anúncio > página >
+      formulário > grupo > webinar > reunião de fechamento > venda
+    1. anúncio
+        * o objetivo do anúncio não é vender a ferramenta, mas vender que
+          consegue resolver a dor do lead
+        * um bom criativo não se parece com um anúncio; exemplo: seguir trend da
+          rede social
+        * Não reinvente a roda; use estruturas prontas; exemplo: AIDA
+          (atenção-interesse-desejo-ação); PAS (problema-ação-solução); FAB
+          (feature-advantage-benefit)
+    2. página
+        * **Prova social é o que ganha o jogo** - devem mostrar o valor do
+          produto; resolvem 2 maiores objeções: 1. será que funciona; 2. será
+          que é pra mim?
+            * suporte e comercial orientados a estimular depoimentos
+    3. funil
+        * redirecionar para o WhatsApp: centraliza e barateia a comunicação;
+3. Antecipação: pro lead não esquecer de você - emails, grupo do WhatsApp,
+   mensagens (privadas) de lembrete no dia do evento
+4. Apresentação: benefício > prova social > problema > solução > demo > mais
+   provas sociais > pitch
+5. Reunião de fechamento: quebrar objeções
+    * vendedor só sai quando o pagamento for concluído
+
 
 ## Outros
 - Marketing é mais importante do que tecnologia; distribuição ganha de qualidade
 - A ideia se vende falando com as pessoas para ver se tem interesse.
 - Livro: O Teste da Mãe - Rob Fitzpatrick
+- Executar é muito importante porque você vai descobrindo meio do caminho.
+- SDR qualifica o lead > Closer faz a venda
+- API do oficial do WhatsApp
+    * $0.06/mensagem
+    * Como enviar? Business Manager da Meta + Make ou Python
+- [Z-API](https://www.z-api.io/) - API não-oficial do WhatsApp
+- SaaS é jogo de relacionamento, não de aquisição
+- Volume de saturação do público: nem sempre mais verba em tráfego é melhor; a
+  Meta vai mostrar para pessoas menos qualificadas;
 
 
 ## Minhas Reflexões
@@ -93,4 +141,4 @@ por [Moacir Moda](https://moacirmoda.com/) do [Tintim](https://tintim.app/)
     * teste e veja se é o que quer
     * não fique tentando resolver algo prático no mundo das idéias
     * não tenha medo de errar ou de "perder tempo" em algo que não gostou ou de
-      ter que mudar no caminho
+      ter que mudar no caminho; o erro é aprendizado

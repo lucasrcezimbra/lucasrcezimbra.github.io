@@ -9,6 +9,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2024-08-18 - 2024-08-24]({{< ref "Weeknotes/2024-08-18 - 2024-08-24" >}})
+- [Do zero aos R$ 10k MRR em 3 meses]({{< ref "Do zero aos R$ 10k MRR em 3 meses" >}})
 - [Weeknotes/2024-08-11 - 2024-08-17]({{< ref "Weeknotes/2024-08-11 - 2024-08-17" >}})
 - [PostgreSQL]({{< ref "PostgreSQL" >}})
 - [Livros]({{< ref "Livros" >}})
@@ -21,7 +22,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Hasura]({{< ref "Hasura" >}})
 - [Weeknotes/2024-08-04 - 2024-08-10]({{< ref "Weeknotes/2024-08-04 - 2024-08-10" >}})
 - [Books/Não eu, mas Deus]({{< ref "Books/Não eu, mas Deus" >}})
-- [Do zero aos R$ 10k MRR em 3 meses]({{< ref "Do zero aos R$ 10k MRR em 3 meses" >}})
 - [Documentation]({{< ref "Documentation" >}})
 - [Python]({{< ref "Python" >}})
 - [Weeknotes/2024-07-28 - 2024-08-03]({{< ref "Weeknotes/2024-07-28 - 2024-08-03" >}})
