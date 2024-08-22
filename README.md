@@ -1,9 +1,6 @@
 # cezimbra.me
 
-## How to export Obsidian?
+## How to generate assets/books.csv
 ```shell
-poetry install
-poetry run python -m obsidian_to_hugo --obsidian-vault-dir <path_to_obsidian> --hugo-content-dir ./content/anotacoes
-poetry run python contrib/add_headers.py
-poetry run python contrib/generate_indice.py
+wget "https://docs.google.com/spreadsheets/d/11BOeAnQqzE5zgA7UYG2Nj9yjE8d06X001TSvBnuRW-4/gviz/tq?tqx=out:csv&sheet=Index" -O assets/books.csv
 ```
