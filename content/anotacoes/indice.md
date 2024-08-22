@@ -10,10 +10,10 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 
 - [Logging]({{< ref "Logging" >}})
 - [Weeknotes/2024-08-18 - 2024-08-24]({{< ref "Weeknotes/2024-08-18 - 2024-08-24" >}})
+- [Livros]({{< ref "Livros" >}})
 - [Do zero aos R$ 10k MRR em 3 meses]({{< ref "Do zero aos R$ 10k MRR em 3 meses" >}})
 - [Weeknotes/2024-08-11 - 2024-08-17]({{< ref "Weeknotes/2024-08-11 - 2024-08-17" >}})
 - [PostgreSQL]({{< ref "PostgreSQL" >}})
-- [Livros]({{< ref "Livros" >}})
 - [Magnanimidade vs Humildade]({{< ref "Magnanimidade vs Humildade" >}})
 - [O que eu faria diferente]({{< ref "O que eu faria diferente" >}})
 - [English]({{< ref "English" >}})
