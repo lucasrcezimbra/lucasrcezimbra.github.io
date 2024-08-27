@@ -1,8 +1,15 @@
 ---
-title: Linha do tempo dos Santos Católicos
+title: Santos Católicos
 date: 2024-08-27
 lastmod: 2024-08-27
 aliases:
 ---
 
+## Linha do tempo
 {{< csv-to-timeline "santos.csv" >}}
+
+<br />
+<br />
+
+## Tabela
+{{< csv-to-table "santos.csv" >}}
