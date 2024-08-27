@@ -77,8 +77,17 @@ images = ['images/lucas-180x180.jpg']  # used by Twitter cards: https://gohugo.i
 enableTwemoji = true
 colorScheme = "dark"
 font_size = "xs"
-customCSS = ["styles/custom.css", "styles/project.css", "styles/contribution.css", "styles/jquery.dataTables.min.css", "styles/timeline.css"]
-customJS = ["scripts/jquery-3.6.1.min.js", "scripts/jquery.dataTables.min.js"]
+customCSS = [
+  "contribution.css",
+  "custom.css",
+  "jquery.dataTables.min.css",
+  "project.css",
+  "timeline.css",
+]
+customJS = [
+  "jquery-3.6.1.min.js",
+  "jquery.dataTables.min.js",
+]
 
 
 [params.goatCounter]
