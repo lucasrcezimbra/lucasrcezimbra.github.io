@@ -83,10 +83,12 @@ customCSS = [
   "jquery.dataTables.min.css",
   "project.css",
   "timeline.css",
+  "vis-timeline-graph2d.min.css",
 ]
 customJS = [
   "jquery-3.6.1.min.js",
   "jquery.dataTables.min.js",
+  "vis-timeline-graph2d.min.js",
 ]
 
 

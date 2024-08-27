@@ -1,0 +1,37 @@
+{{ with $file := .Get 0 }}
+  {{ with resources.Get $file }}
+    {{ with . | transform.Unmarshal }}
+      <div id="timeline"></div>
+
+      <script type="text/javascript">
+        function loadTimeline() {
+          $('.container').css('max-width', '90%');
+          $('table').DataTable({paging: false, info: false});
+
+          var container = document.getElementById('timeline');
+
+          var items = new vis.DataSet([
+            {{ range $i, $row := after 1 . }}
+              {
+                title: {{ index $row 0 }},
+                content: {{ index $row 0 }},
+                start: {{ index $row 1 }},
+                {{ if index $row 2 }}end: {{ index $row 2 }},{{ end }}
+              },
+            {{ end }}
+          ]);
+
+          var options = {};
+
+          var timeline = new vis.Timeline(container, items, options);
+        };
+        document.addEventListener("DOMContentLoaded", loadTimeline);
+        loadTimeline();
+      </script>
+    {{ end }}
+  {{ else }}
+    {{ errorf "The %q shortcode was unable to find %s. See %s" $.Name $file $.Position }}
+  {{ end }}
+{{ else }}
+  {{ errorf "The %q shortcode requires one positional argument, the path to the CSV file relative to the assets directory. See %s" .Name .Position }}
+{{ end }}
