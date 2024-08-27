@@ -9,6 +9,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2024-08-25 - 2024-08-31]({{< ref "Weeknotes/2024-08-25 - 2024-08-31" >}})
+- [Natal]({{< ref "Natal" >}})
 - [Livros]({{< ref "Livros" >}})
 - [Weeknotes/2024-08-18 - 2024-08-24]({{< ref "Weeknotes/2024-08-18 - 2024-08-24" >}})
 - [Logging]({{< ref "Logging" >}})
@@ -48,7 +49,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Django]({{< ref "Django" >}})
 - [Marketing Digital]({{< ref "Marketing Digital" >}})
 - [Filmes]({{< ref "Filmes" >}})
-- [Natal]({{< ref "Natal" >}})
 - [Git]({{< ref "Git" >}})
 - [Linux]({{< ref "Linux" >}})
 - [Aplicativos de Notas]({{< ref "Aplicativos de Notas" >}})

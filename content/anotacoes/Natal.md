@@ -1,7 +1,7 @@
 ---
 title: "Natal"
 date: 2023-08-15
-lastmod: 2024-07-04
+lastmod: 2024-08-27
 ---
 
 ## Cludes de Tiro
@@ -19,53 +19,6 @@ lastmod: 2024-07-04
 - [Blum](https://universoblum.com/)
 	- Av. Miguel Castro, 1142 - Lagoa Nova
 	- (84) 9912-8345
-
-## Alimentação
-⭐️ = odiei
-⭐️⭐️ = não gostei
-⭐️⭐️⭐️ = bom
-⭐️⭐️⭐️⭐️ = muito bom
-⭐️⭐️⭐️⭐️⭐️ = favorito
-💸 = barato
-💸💸 =
-💸💸💸 =
-💸💸💸💸 =
-💸💸💸💸💸 = caro
-### Restaurantes
-- Agaricus - ⭐️⭐️⭐️⭐️- 💸💸💸💸
-- Camarões
-- Curió
-	- Feijoada sábado e domingo
-- Mangai
-- Marechal
-	- não gostamos
-- Mina d’água
-- Mormaço
-	- Macarrão limão siciliano com filé mignon
-- Nau
-- Obar
-- Outback Midway
-- O Poeta
-- Tábua de Carne
-- Thibet
-- Sal e Brasa
-- Zeh
-
-### Cafeterias
-- Muso Café
-- Observatório do Café
-
-### Docerias
-- Bacio di Latte
-- Bocaditos
-- Jolie
-- San Paolo
-
-### Padarias
-- Casa Nacre
-- Mercatto
-- Paneer
-- Pão & Companhia
 
 ## Saúde
 ### Unimed
@@ -100,3 +53,14 @@ lastmod: 2024-07-04
 	- (84) 3220.5433
 - Prontoclínica Dr. Paulo Gurgel
 	- Rua Monte Sinai, 1948 - Cidade Jardim
+
+
+## Alimentação
+
+**Legenda**
+
+Nota: ⭐️ = não gostei; ⭐️⭐️ = gostei; ⭐️⭐️⭐️ = gostei muito; ⭐️⭐️⭐️⭐️ = favorito
+
+Preço: 💸 = barato; 💸💸 = ok; 💸💸💸 = caro; 💸💸💸💸 = muito caro
+
+{{< csv-to-table "natal.csv" >}}
