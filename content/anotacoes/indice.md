@@ -8,6 +8,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Santos Catolicos]({{< ref "Santos Catolicos" >}})
 - [Weeknotes/2024-08-25 - 2024-08-31]({{< ref "Weeknotes/2024-08-25 - 2024-08-31" >}})
 - [Natal]({{< ref "Natal" >}})
 - [Livros]({{< ref "Livros" >}})
