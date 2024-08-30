@@ -1,7 +1,7 @@
 ---
 title: "Vim"
 date: 2023-08-15
-lastmod: 2024-07-12
+lastmod: 2024-08-30
 ---
 - Profilling startup time
 	- https://github.com/dstein64/vim-startuptime
@@ -14,16 +14,21 @@ lastmod: 2024-07-12
 	- https://stackoverflow.com/questions/3776117/what-is-the-difference-between-the-remap-noremap-nnoremap-and-vnoremap-mapping
 - Search and add new line (with indentation)
 	```vim
-	:g/search/norm otext of the new line
+	:g/<pattern>/norm otext of the new line
 	```
-- Search and delete
+- Search and delete all lines
 	```vim
-	:g/pattern/d
+	:g/<pattern>/d
+	```
+- Search and delete all lines that do NOT match
+	```vim
+	:g!/<pattern>/d
 	```
  - Search and replace
 	```vim
 	:s/remove(.*)/\1/
 	```
+
 ## Neovim
 - config .vimrc `~/.config/nvim/init.vim`
 - Error: `No "python3" provider found.` #troubleshooting
@@ -33,6 +38,17 @@ lastmod: 2024-07-12
 - vim-illuminate not highlighting #troubleshooting
 	- https://github.com/RRethy/vim-illuminate/issues/154
 	- `set termguicolors`
+
+### Creating a new plugin
+- Tutorials
+    - [Neovim Plugin Development](https://lyz-code.github.io/blue-book/vim_plugin_development)
+- Templates
+    - [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template)
+    - [FGtatsuro/cookiecutter-neovim-plugin](https://github.com/FGtatsuro/cookiecutter-neovim-plugin)
+    - [gennaro-tedesco/boilit](https://github.com/gennaro-tedesco/boilit)
+    - [jacobsimpson/nvim-example-python-plugin](https://github.com/jacobsimpson/nvim-example-python-plugin)
+    - [nvimdev/nvim-plugin-template](https://github.com/nvimdev/nvim-plugin-template)
+    - [nvim-lua/nvim-lua-plugin-template](https://github.com/nvim-lua/nvim-lua-plugin-template)
 
 ### Lunarvim
 - Error while lunarvim installation `unknown flag 'u'`

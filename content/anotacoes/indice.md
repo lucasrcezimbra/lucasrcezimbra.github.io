@@ -1,15 +1,17 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-08-28
+lastmod: 2024-08-30
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
-- [Santos Catolicos]({{< ref "Santos Catolicos" >}})
+- [Lua]({{< ref "Lua" >}})
 - [Weeknotes/2024-08-25 - 2024-08-31]({{< ref "Weeknotes/2024-08-25 - 2024-08-31" >}})
+- [Vim]({{< ref "Vim" >}})
+- [Santos Catolicos]({{< ref "Santos Catolicos" >}})
 - [Natal]({{< ref "Natal" >}})
 - [Livros]({{< ref "Livros" >}})
 - [Weeknotes/2024-08-18 - 2024-08-24]({{< ref "Weeknotes/2024-08-18 - 2024-08-24" >}})
@@ -39,7 +41,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Videos/Git Hidden Gems]({{< ref "Videos/Git Hidden Gems" >}})
 - [Weeknotes/2024-07-07 - 2024-07-13]({{< ref "Weeknotes/2024-07-07 - 2024-07-13" >}})
 - [My thoughts about software]({{< ref "My thoughts about software" >}})
-- [Vim]({{< ref "Vim" >}})
 - [Architecture]({{< ref "Architecture" >}})
 - [EdTech]({{< ref "EdTech" >}})
 - [Weeknotes/2024-06-30 - 2024-07-06]({{< ref "Weeknotes/2024-06-30 - 2024-07-06" >}})
