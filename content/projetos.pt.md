@@ -19,7 +19,8 @@ date: 2022-04-08T20:08:54-03:00
 
 {{< project
     name="Missas.com.br"
-    description="Site com horário das missas."
+    description="Site com horário das missas e confissões."
+    github="lucasrcezimbra/missas.com.br"
     website="https://missas.com.br"
 >}}
 

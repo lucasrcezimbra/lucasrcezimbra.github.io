@@ -21,6 +21,7 @@ slug: "projects"
 {{< project
     name="Missas.com.br"
     description="Website with Catholic mass times."
+    github="lucasrcezimbra/missas.com.br"
     website="https://missas.com.br"
 >}}
 

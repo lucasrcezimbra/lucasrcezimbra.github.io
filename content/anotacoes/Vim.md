@@ -1,7 +1,7 @@
 ---
 title: "Vim"
 date: 2023-08-15
-lastmod: 2024-08-30
+lastmod: 2024-09-02
 ---
 - Profilling startup time
 	- https://github.com/dstein64/vim-startuptime
@@ -44,11 +44,14 @@ lastmod: 2024-08-30
     - [Neovim Plugin Development](https://lyz-code.github.io/blue-book/vim_plugin_development)
 - Templates
     - [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template)
-    - [FGtatsuro/cookiecutter-neovim-plugin](https://github.com/FGtatsuro/cookiecutter-neovim-plugin)
-    - [gennaro-tedesco/boilit](https://github.com/gennaro-tedesco/boilit)
-    - [jacobsimpson/nvim-example-python-plugin](https://github.com/jacobsimpson/nvim-example-python-plugin)
     - [nvimdev/nvim-plugin-template](https://github.com/nvimdev/nvim-plugin-template)
     - [nvim-lua/nvim-lua-plugin-template](https://github.com/nvim-lua/nvim-lua-plugin-template)
+    - [jacobsimpson/nvim-example-python-plugin](https://github.com/jacobsimpson/nvim-example-python-plugin) -
+      template for plugins written in Python
+    - [FGtatsuro/cookiecutter-neovim-plugin](https://github.com/FGtatsuro/cookiecutter-neovim-plugin) -
+      last commit 6 years ago
+    - [gennaro-tedesco/boilit](https://github.com/gennaro-tedesco/boilit) -
+      didn't like; it's a CLI written in Go, not a template
 
 ### Lunarvim
 - Error while lunarvim installation `unknown flag 'u'`
