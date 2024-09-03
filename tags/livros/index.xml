@@ -1,5 +1,1481 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Livros on Lucas Cezimbra</title><link>https://cezimbra.me/tags/livros/</link><description>Recent content in Livros on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Tue, 27 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/tags/livros/index.xml" rel="self" type="application/rss+xml"/><item><title>Livros</title><link>https://cezimbra.me/anotacoes/livros/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/livros/</guid><description>Legenda
-Status: ✅=Lido; 👀=Lendo; ☑=Para ler; ❌=Abandonado;
-Tipo: 🛒=Não tenho; 📗=Físico; 📱=Digital
-Nota: ⭐=Não gostei; ⭐⭐=Gostei; ⭐⭐⭐=Gostei muito; ⭐⭐⭐⭐=Favoritos;
-Autor Título Status Tipo Nota Indicado por Igreja Catecismo 👀 📗 ⭐⭐⭐⭐ Machado de Assis Dom Casmurro ✅ 📗 ⭐⭐⭐⭐ Fiódor Dostoiévski Crime e Castigo ✅ 📗 ⭐⭐⭐⭐ Alexandre Harvard Virtudes &amp;amp; Liderança ✅ 📗 ⭐⭐⭐⭐ Roger Érico Verissimo O Tempo e o Vento - O Continente vol. 1 ✅ 📗 ⭐⭐⭐⭐ Dale Carnegie Como fazer amigos e influenciar pessoas ✅ 📗📱 ⭐⭐⭐⭐ Jordan Peterson 12 Regras Para a Vida: Um Antídoto Para o Caos ✅ 📗📱 ⭐⭐⭐⭐ Ichiro Kishimi &amp;amp; Fumitake Koga A coragem de não agradar ✅ 📗📱 ⭐⭐⭐⭐ Jeremy Siegel Investindo em ações no longo prazo ✅ 📱 ⭐⭐⭐⭐ Robert Kiyosaki Pai Rico, Pai Pobre ✅ ⭐⭐⭐⭐ Nelson Rodrigues A Vida Como Ela É ❌ 📗📱 ⭐⭐⭐ George R.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Livros on Lucas Cezimbra</title><link>https://cezimbra.me/tags/livros/</link><description>Recent content in Livros on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/tags/livros/index.xml" rel="self" type="application/rss+xml"/><item><title>Livros</title><link>https://cezimbra.me/anotacoes/livros/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/livros/</guid><description>&lt;p>&lt;strong>Legenda&lt;/strong>&lt;/p>
+&lt;p>Status: ✅=Lido; 👀=Lendo; ☑=Para ler; ❌=Abandonado;&lt;/p>
+&lt;p>Tipo: 🛒=Não tenho; 📗=Físico; 📱=Digital&lt;/p>
+&lt;p>Nota: ⭐=Não gostei; ⭐⭐=Gostei; ⭐⭐⭐=Gostei muito; ⭐⭐⭐⭐=Favoritos;&lt;/p>
+
+ 
+ 
+ &lt;table class="compact">
+ &lt;thead>
+ &lt;tr>
+ 
+ &lt;th>Autor&lt;/th>
+ 
+ &lt;th>Título&lt;/th>
+ 
+ &lt;th>Status&lt;/th>
+ 
+ &lt;th>Tipo&lt;/th>
+ 
+ &lt;th>Nota&lt;/th>
+ 
+ &lt;th>Indicado por&lt;/th>
+ 
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ 
+ &lt;tr>
+ 
+ &lt;td>Igreja&lt;/td>
+ 
+ &lt;td>Catecismo&lt;/td>
+ 
+ &lt;td>👀&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>⭐⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Machado de Assis&lt;/td>
+ 
+ &lt;td>Dom Casmurro&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>⭐⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Fiódor Dostoiévski&lt;/td>
+ 
+ &lt;td>Crime e Castigo&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>⭐⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Alexandre Harvard&lt;/td>
+ 
+ &lt;td>Virtudes &amp;amp; Liderança&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>⭐⭐⭐⭐&lt;/td>
+ 
+ &lt;td>Roger&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Érico Verissimo&lt;/td>
+ 
+ &lt;td>O Tempo e o Vento - O Continente vol. 1&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>⭐⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Dale Carnegie&lt;/td>
+ 
+ &lt;td>Como fazer amigos e influenciar pessoas&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗📱&lt;/td>
+ 
+ &lt;td>⭐⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Jordan Peterson&lt;/td>
+ 
+ &lt;td>12 Regras Para a Vida: Um Antídoto Para o Caos&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗📱&lt;/td>
+ 
+ &lt;td>⭐⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Ichiro Kishimi &amp;amp; Fumitake Koga&lt;/td>
+ 
+ &lt;td>A coragem de não agradar&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗📱&lt;/td>
+ 
+ &lt;td>⭐⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Jeremy Siegel&lt;/td>
+ 
+ &lt;td>Investindo em ações no longo prazo&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📱&lt;/td>
+ 
+ &lt;td>⭐⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Robert Kiyosaki&lt;/td>
+ 
+ &lt;td>Pai Rico, Pai Pobre&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>⭐⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Nelson Rodrigues&lt;/td>
+ 
+ &lt;td>A Vida Como Ela É&lt;/td>
+ 
+ &lt;td>❌&lt;/td>
+ 
+ &lt;td>📗📱&lt;/td>
+ 
+ &lt;td>⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>George R.R. Martin&lt;/td>
+ 
+ &lt;td>As Crônicas de Gelo e Fogo - A Guerra dos Tronos&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>George R.R. Martin&lt;/td>
+ 
+ &lt;td>As Crônicas de Gelo e Fogo - A Fúria dos Reis&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>George R.R. Martin&lt;/td>
+ 
+ &lt;td>As Crônicas de Gelo e Fogo - A Tormenta de Espadas&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>George R.R. Martin&lt;/td>
+ 
+ &lt;td>As Crônicas de Gelo e Fogo - O Festim dos Corvos&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Benjamin Stevenson&lt;/td>
+ 
+ &lt;td>Todo mundo da minha família já matou alguém&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>George Orwell&lt;/td>
+ 
+ &lt;td>A revolução dos bichos&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗📱&lt;/td>
+ 
+ &lt;td>⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Robert B. Cialdini&lt;/td>
+ 
+ &lt;td>As armas da persuasão&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📱&lt;/td>
+ 
+ &lt;td>⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Nassim Nicholas Taleb&lt;/td>
+ 
+ &lt;td>A lógica do Cisne Negro&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📱&lt;/td>
+ 
+ &lt;td>⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Nassim Nicholas Taleb&lt;/td>
+ 
+ &lt;td>Antifrágil&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📱&lt;/td>
+ 
+ &lt;td>⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Walter Isaacson&lt;/td>
+ 
+ &lt;td>Steve Jobs&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>⭐⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Jaron Lanier&lt;/td>
+ 
+ &lt;td>Dez Argumentos para você deletar agora suas redes sociais&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Jason Evert&lt;/td>
+ 
+ &lt;td>Vida de São João Paulo II&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Ricardo Figueiredo&lt;/td>
+ 
+ &lt;td>Não eu, mas Deus&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Gustavo Cerbasi&lt;/td>
+ 
+ &lt;td>Os Segredos dos Casais Inteligentes&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Gustavo Cerbasi&lt;/td>
+ 
+ &lt;td>Casais Inteligentes Enriquecem Juntos&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Jostein Gaarder&lt;/td>
+ 
+ &lt;td>O Mundo de Sofia&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗📱&lt;/td>
+ 
+ &lt;td>⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Clóvis Barros de Filho &amp;amp; Pedro Calabrez&lt;/td>
+ 
+ &lt;td>Em buscas de nós mesmos&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📱&lt;/td>
+ 
+ &lt;td>⭐⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>T. Harv Eker&lt;/td>
+ 
+ &lt;td>Os Segredos da Mente Milionária&lt;/td>
+ 
+ &lt;td>❌&lt;/td>
+ 
+ &lt;td>📱&lt;/td>
+ 
+ &lt;td>⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>J. D. Salinger&lt;/td>
+ 
+ &lt;td>O Apanhador no Campo de Centeio&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗📱&lt;/td>
+ 
+ &lt;td>⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Robert Fisher&lt;/td>
+ 
+ &lt;td>O Cavaleiro Preso na Armadura&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📱&lt;/td>
+ 
+ &lt;td>⭐&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Hugo de Azevedo&lt;/td>
+ 
+ &lt;td>Lições do burro&lt;/td>
+ 
+ &lt;td>👀&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Data Science para Negócios&lt;/td>
+ 
+ &lt;td>❌&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Roger Scruton&lt;/td>
+ 
+ &lt;td>Beleza&lt;/td>
+ 
+ &lt;td>❌&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>George R.R. Martin&lt;/td>
+ 
+ &lt;td>As Crônicas de Gelo e Fogo - A Dança dos Dragões&lt;/td>
+ 
+ &lt;td>❌&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Tim Ferris&lt;/td>
+ 
+ &lt;td>Trabalhe 4 Horas por Semana&lt;/td>
+ 
+ &lt;td>❌&lt;/td>
+ 
+ &lt;td>📗📱&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Desconstruindo a Ansiedade&lt;/td>
+ 
+ &lt;td>❌&lt;/td>
+ 
+ &lt;td>📱&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Antoine Saint-Exupéry&lt;/td>
+ 
+ &lt;td>O Pequeno Príncipe&lt;/td>
+ 
+ &lt;td>❌&lt;/td>
+ 
+ &lt;td>📱&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Ayn Rand&lt;/td>
+ 
+ &lt;td>A Revolta de Atlas&lt;/td>
+ 
+ &lt;td>❌&lt;/td>
+ 
+ &lt;td>📱&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Gustavo Cerbasi&lt;/td>
+ 
+ &lt;td>Dinheiro: Os Segredos de Quem Tem&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Flávio Augusto&lt;/td>
+ 
+ &lt;td>Ponto de Inflexão&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📱&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Carol Dweck&lt;/td>
+ 
+ &lt;td>Mindset&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>John C. Bogle&lt;/td>
+ 
+ &lt;td>O Investidor de Bom Senso&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Theodore Dalrymple&lt;/td>
+ 
+ &lt;td>Podres de Mimados&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Theodore Dalrymple&lt;/td>
+ 
+ &lt;td>A Vida na Sarjeta&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Machado de Assis&lt;/td>
+ 
+ &lt;td>Memórias Póstumas de Braz Cubas&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Fulton J.sheen&lt;/td>
+ 
+ &lt;td>Três Para Casar&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>David J. Schwartz&lt;/td>
+ 
+ &lt;td>A mágica de pensar grande&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;a href="https://open.spotify.com/episode/5a9joga74kQKntRkdUQIgX" class="external-link" target="_blank" rel="noopener">Podcast De/Para&lt;/a>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan &amp;amp; Al Switzler &amp;amp; Emily Gregory&lt;/td>
+ 
+ &lt;td>Conversas Cruciais&lt;/td>
+ 
+ &lt;td>👀&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Lance&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Walter Isaacson&lt;/td>
+ 
+ &lt;td>Elon Musk&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Jordan Peterson&lt;/td>
+ 
+ &lt;td>Além da Ordem: Mais 12 Regras Para a Vida&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Érico Verissimo&lt;/td>
+ 
+ &lt;td>O Tempo e o Vento - O Continente vol. 2&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Érico Verissimo&lt;/td>
+ 
+ &lt;td>O Tempo e o Vento - O Retrato vol. 1&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Érico Verissimo&lt;/td>
+ 
+ &lt;td>O Tempo e o Vento - O Retrato vol. 2&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Team Topologies&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Ivar Jacobson&lt;/td>
+ 
+ &lt;td>Object Oriented Software Engineering: A Use-Case Driven Approach -&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>E. Gamma, R. Helm, R. Johnson, J. Vlissides&lt;/td>
+ 
+ &lt;td>Design Patterns&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Robert Martin&lt;/td>
+ 
+ &lt;td>Design Principles and Design Patterns&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Eric Evans&lt;/td>
+ 
+ &lt;td>Domain-Driven Design: Tackling Complexity in the Heart of Software&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;a href="https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc" class="external-link" target="_blank" rel="noopener">DHH&lt;/a>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>H. Hohpe, B. Woolf&lt;/td>
+ 
+ &lt;td>Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Chris Voss&lt;/td>
+ 
+ &lt;td>Negocie como se sua vida dependesse disso&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Jocko Willink; Leif Babin&lt;/td>
+ 
+ &lt;td>Extreme Ownership: How U.S. Navy SEALs Lead and Win Hardcover&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Historia das Heresias&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;a href="https://www.youtube.com/watch?v=E2bVGJmD07U" class="external-link" target="_blank" rel="noopener">Padre José Eduardo&lt;/a>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Benjamin Hardy&lt;/td>
+ 
+ &lt;td>Força de Vontade não funciona&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Reila Gracie&lt;/td>
+ 
+ &lt;td>Carlos Gracie. O Criador De Uma Dinastia&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Respire - uma vida em movimento&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>A Dieta Gracie: o Segredo dos Campeões&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Gracie Jiu Jitsu&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Efeito Composto&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;a href="https://open.spotify.com/episode/5a9joga74kQKntRkdUQIgX" class="external-link" target="_blank" rel="noopener">Podcast De/Para&lt;/a>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Tiago Forte&lt;/td>
+ 
+ &lt;td>Building a Second Brain&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;a href="https://www.youtube.com/watch?v=miLvpv-PKOY" class="external-link" target="_blank" rel="noopener">https://www.youtube.com/watch?v=miLvpv-PKOY&lt;/a>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Iron John&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;a href="https://www.youtube.com/live/BEK3szeq_Nk" class="external-link" target="_blank" rel="noopener">https://www.youtube.com/live/BEK3szeq_Nk&lt;/a> (40:00)&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>David Allen&lt;/td>
+ 
+ &lt;td>A arte de fazer acontecer&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Sönke Ahrens&lt;/td>
+ 
+ &lt;td>How to Take Smart Notes&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;a href="https://www.youtube.com/watch?v=zBsz9B-G8AY" class="external-link" target="_blank" rel="noopener">https://www.youtube.com/watch?v=zBsz9B-G8AY&lt;/a>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Rafael Vitola Brodbeck&lt;/td>
+ 
+ &lt;td>Família Católica, Igreja doméstica&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Gestão de Alta Performance&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Mentoria DevPro&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Shalom Arush&lt;/td>
+ 
+ &lt;td>O Jardim da Paz&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Manual de casamento para homens - Roger&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Extreme Programming&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Rafael Llano Cifuentes&lt;/td>
+ 
+ &lt;td>As crises conjugais: e os conflitos do amor&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Roger&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Liz Wiseman&lt;/td>
+ 
+ &lt;td>Multipliers: How the Best Leaders Make Everyone Smarter&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;a href="https://newsletter.techworld-with-milan.com/p/how-to-be-a-multiplier-as-a-leader" class="external-link" target="_blank" rel="noopener">https://newsletter.techworld-with-milan.com/p/how-to-be-a-multiplier-as-a-leader&lt;/a>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Peter Drucker&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Alexandre Havard no livro Virtudes &amp;amp; Liderança&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Stephen Covey&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Alexandre Havard no livro Virtudes &amp;amp; Liderança&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Luiz Claudio Binato&lt;/td>
+ 
+ &lt;td>O modelo do pensador&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Moacir Moda: “Se você é líder … esse livro é obrigatório. … é obrigatório para qualquer um que esteja comprometido com o autodesenvolvimento”&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Daniel Rops&lt;/td>
+ 
+ &lt;td>Historia Sagrada do Povo de Deus&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Paul Jarvis&lt;/td>
+ 
+ &lt;td>Company of One&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Daniel Bastos&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Richard Weaver&lt;/td>
+ 
+ &lt;td>As Ideias tem Consequências&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Gabriel Kanner&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Érico Verissimo&lt;/td>
+ 
+ &lt;td>O Tempo e o Vento - O Arquipélago vol. 1&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Érico Verissimo&lt;/td>
+ 
+ &lt;td>O Tempo e o Vento - O Arquipélago vol. 2&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Érico Verissimo&lt;/td>
+ 
+ &lt;td>O Tempo e o Vento - O Arquipélago vol. 3&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Martin Fowler&lt;/td>
+ 
+ &lt;td>Patterns of Enterprise Application Architecture&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;a href="https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc" class="external-link" target="_blank" rel="noopener">DHH&lt;/a>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Kent Beck&lt;/td>
+ 
+ &lt;td>Smalltalk Best Practice Patterns&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;a href="https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc" class="external-link" target="_blank" rel="noopener">DHH&lt;/a>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;/tbody>
+ &lt;/table>
+ 
+ 
+
+
+&lt;script>
+ function loadTable() {
+ $('.container').css('max-width', '90%');
+ $('table').DataTable({paging: false, info: false});
+ };
+ document.addEventListener("DOMContentLoaded", loadTable);
+ loadTable();
+&lt;/script></description></item></channel></rss>

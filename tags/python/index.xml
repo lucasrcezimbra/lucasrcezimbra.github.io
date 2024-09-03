@@ -1,5 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on Lucas Cezimbra</title><link>https://cezimbra.me/tags/python/</link><description>Recent content in Python on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 13 Jun 2019 01:59:02 +0000</lastBuildDate><atom:link href="https://cezimbra.me/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>Python: Como injetar código num processo em execução</title><link>https://cezimbra.me/python-como-injetar-codigo-num-processo-em-execucao/</link><pubDate>Thu, 13 Jun 2019 01:59:02 +0000</pubDate><guid>https://cezimbra.me/python-como-injetar-codigo-num-processo-em-execucao/</guid><description>Resposta curta: pyrasite
-pip install pyrasite echo 0 | sudo tee /proc/sys/kernel/yama/ptrace_scope pyrasite $PID dump_stacks.py pyrasite-shell &amp;amp;lt;pid&amp;gt; Utilizando pyrasite para injetar código num console Python
-Contexto Link to heading Esses dias estava com um bug intermitente que só ocorria no servidor de desenvolvimento, então não estava conseguindo reproduzir localmente.
-Tentando descobrir o problema, dei SSH para o servidor e vi que num processo estava justamente acontecendo o que eu queria corrigir.</description></item><item><title>Como colocar um timeout numa função Python</title><link>https://cezimbra.me/como-colocar-um-timeout-numa-funcao-python/</link><pubDate>Fri, 31 May 2019 03:03:11 +0000</pubDate><guid>https://cezimbra.me/como-colocar-um-timeout-numa-funcao-python/</guid><description>Resposta curta: timeout-decorator
-pip install timeout-decorator from timeout_decorator import timeout @timeout(5) # tempo em segundos def my_slow_function(): ... Contexto Link to heading Esses dias estava dando manutenção num serviço que lê mensagens de uma fila SQS, processa e apaga a mensagem da fila. Só que estava tendo um problema que às vezes o processamento demorava mais do que o tempo máximo definido no SQS. A mensagem acabava voltando para fila, era lida por outro processo e gerava duplicação desnecessária.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on Lucas Cezimbra</title><link>https://cezimbra.me/tags/python/</link><description>Recent content in Python on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 13 Jun 2019 01:59:02 +0000</lastBuildDate><atom:link href="https://cezimbra.me/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>Python: Como injetar código num processo em execução</title><link>https://cezimbra.me/python-como-injetar-codigo-num-processo-em-execucao/</link><pubDate>Thu, 13 Jun 2019 01:59:02 +0000</pubDate><guid>https://cezimbra.me/python-como-injetar-codigo-num-processo-em-execucao/</guid><description>&lt;p>Resposta curta: &lt;a href="https://pyrasite.readthedocs.io/en/latest/" class="external-link" target="_blank" rel="noopener">pyrasite&lt;/a>&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>pip install pyrasite
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd00cd">echo&lt;/span> &lt;span style="color:#cd00cd">0&lt;/span> | sudo tee /proc/sys/kernel/yama/ptrace_scope
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>pyrasite &lt;span style="color:#00cdcd">$PID&lt;/span> dump_stacks.py
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>pyrasite-shell &amp;amp;lt;pid&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;figure>&lt;img src="https://cezimbra.me/python-como-injetar-codigo-num-processo-em-execucao/pyrasite.png"
+ alt="Utilizando pyrasite para injetar código num console Python">&lt;figcaption>
+ &lt;p>Utilizando pyrasite para injetar código num console Python&lt;/p>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h2 id="contexto">
+ Contexto
+ &lt;a class="heading-link" href="#contexto">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Esses dias estava com um bug intermitente que só ocorria no servidor de desenvolvimento, então não estava conseguindo reproduzir localmente.&lt;/p></description></item><item><title>Como colocar um timeout numa função Python</title><link>https://cezimbra.me/como-colocar-um-timeout-numa-funcao-python/</link><pubDate>Fri, 31 May 2019 03:03:11 +0000</pubDate><guid>https://cezimbra.me/como-colocar-um-timeout-numa-funcao-python/</guid><description>&lt;p>Resposta curta: &lt;a href="https://github.com/pnpnpn/timeout-decorator" class="external-link" target="_blank" rel="noopener">timeout-decorator&lt;/a>&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>pip install timeout&lt;span style="color:#39c">-&lt;/span>decorator
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd00cd">from&lt;/span> timeout_decorator &lt;span style="color:#cd00cd">import&lt;/span> timeout
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>@timeout(&lt;span style="color:#cd00cd">5&lt;/span>) &lt;span style="color:#000080"># tempo em segundos&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">def&lt;/span> my_slow_function():
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#39c">...&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="contexto">
+ Contexto
+ &lt;a class="heading-link" href="#contexto">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Esses dias estava dando manutenção num serviço que lê mensagens de uma fila SQS, processa e apaga a mensagem da fila. Só que estava tendo um problema que às vezes o processamento demorava mais do que o tempo máximo definido no SQS. A mensagem acabava voltando para fila, era lida por outro processo e gerava duplicação desnecessária.&lt;/p></description></item></channel></rss>

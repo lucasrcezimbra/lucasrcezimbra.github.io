@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Git on Lucas Cezimbra</title><link>https://cezimbra.me/tags/git/</link><description>Recent content in Git on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 01 Mar 2019 01:55:23 +0000</lastBuildDate><atom:link href="https://cezimbra.me/tags/git/index.xml" rel="self" type="application/rss+xml"/><item><title>Como criar um ranking de commiters no bash</title><link>https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/</link><pubDate>Fri, 01 Mar 2019 01:55:23 +0000</pubDate><guid>https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/</guid><description>Resposta curta:
-git log | grep Author | sort | uniq -c | sort -n -r | head -n 20 20 maiores commiters do projeto git
-O que fazem esses comandos? Link to heading git log Link to heading Mostra o log da branch atual do git Resultado do git log na branch master do projeto git
-| (pipe) Link to heading Pega o output do comando e joga como entrada do próximo comando.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Git on Lucas Cezimbra</title><link>https://cezimbra.me/tags/git/</link><description>Recent content in Git on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 01 Mar 2019 01:55:23 +0000</lastBuildDate><atom:link href="https://cezimbra.me/tags/git/index.xml" rel="self" type="application/rss+xml"/><item><title>Como criar um ranking de commiters no bash</title><link>https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/</link><pubDate>Fri, 01 Mar 2019 01:55:23 +0000</pubDate><guid>https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/</guid><description>&lt;p>Resposta curta:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>git log | grep Author | sort | uniq -c | sort -n -r | head -n &lt;span style="color:#cd00cd">20&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;figure>&lt;img src="https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/git-log-grep-author-sort-uniq-sort-head.png"
+ alt="20 maiores commiters do projeto git">&lt;figcaption>
+ &lt;p>20 maiores commiters do projeto git&lt;/p>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h2 id="o-que-fazem-esses-comandos">
+ O que fazem esses comandos?
+ &lt;a class="heading-link" href="#o-que-fazem-esses-comandos">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="git-log">
+ git log
+ &lt;a class="heading-link" href="#git-log">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>Mostra o log da branch atual do git
+&lt;figure>&lt;img src="https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/git-log-git.png"
+ alt="Resultado do git log na branch master do projeto git">&lt;figcaption>
+ &lt;p>Resultado do git log na branch master do projeto git&lt;/p></description></item></channel></rss>
