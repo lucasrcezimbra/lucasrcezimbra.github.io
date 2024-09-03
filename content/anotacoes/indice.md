@@ -1,7 +1,7 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-09-02
+lastmod: 2024-09-03
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
@@ -9,12 +9,12 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2024-09-01 - 2024-09-07]({{< ref "Weeknotes/2024-09-01 - 2024-09-07" >}})
+- [Livros]({{< ref "Livros" >}})
 - [Lua]({{< ref "Lua" >}})
 - [Vim]({{< ref "Vim" >}})
 - [Weeknotes/2024-08-25 - 2024-08-31]({{< ref "Weeknotes/2024-08-25 - 2024-08-31" >}})
 - [Santos Catolicos]({{< ref "Santos Catolicos" >}})
 - [Natal]({{< ref "Natal" >}})
-- [Livros]({{< ref "Livros" >}})
 - [Weeknotes/2024-08-18 - 2024-08-24]({{< ref "Weeknotes/2024-08-18 - 2024-08-24" >}})
 - [Logging]({{< ref "Logging" >}})
 - [Do zero aos R$ 10k MRR em 3 meses]({{< ref "Do zero aos R$ 10k MRR em 3 meses" >}})
