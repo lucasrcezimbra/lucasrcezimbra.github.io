@@ -1,7 +1,7 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-09-03
+lastmod: 2024-09-05
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
@@ -9,6 +9,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2024-09-01 - 2024-09-07]({{< ref "Weeknotes/2024-09-01 - 2024-09-07" >}})
+- [English]({{< ref "English" >}})
 - [Livros]({{< ref "Livros" >}})
 - [Lua]({{< ref "Lua" >}})
 - [Vim]({{< ref "Vim" >}})
@@ -22,7 +23,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [PostgreSQL]({{< ref "PostgreSQL" >}})
 - [Magnanimidade vs Humildade]({{< ref "Magnanimidade vs Humildade" >}})
 - [O que eu faria diferente]({{< ref "O que eu faria diferente" >}})
-- [English]({{< ref "English" >}})
 - [Catolicismo]({{< ref "Catolicismo" >}})
 - [Videos/The End Of Object Inheritance and The Beginning Of A New Modularity]({{< ref "Videos/The End Of Object Inheritance and The Beginning Of A New Modularity" >}})
 - [GraphQL]({{< ref "GraphQL" >}})
