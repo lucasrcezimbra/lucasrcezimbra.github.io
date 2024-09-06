@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Tue, 03 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-09-01 - 2024-09-07</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-01---2024-09-07/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-01---2024-09-07/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-08-25---2024-08-31/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-09-01 - 2024-09-07</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-01---2024-09-07/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-01---2024-09-07/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-08-25---2024-08-31/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -34,10 +34,26 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://github.com/valkey-io/valkey" class="external-link" target="_blank" rel="noopener">valkey-io/valkey&lt;/a> - #OpenSource
-#AlternativeTo Redis&lt;/li>
-&lt;li>&lt;a href="https://github.com/bvaughn/react-window" class="external-link" target="_blank" rel="noopener">bvaughn/react-window&lt;/a> - efficiently
-handle large data sets by rendering just enough to fill the viewport&lt;/li>
+&lt;li>&lt;a href="https://github.com/valkey-io/valkey" class="external-link" target="_blank" rel="noopener">Valkey&lt;/a> - #OpenSource #AlternativeTo
+Redis&lt;/li>
+&lt;li>&lt;a href="https://github.com/bvaughn/react-window" class="external-link" target="_blank" rel="noopener">react-window&lt;/a> - efficiently handle
+large data sets by rendering just enough to fill the viewport&lt;/li>
+&lt;li>&lt;a href="https://github.com/lobehub/lobe-chat" class="external-link" target="_blank" rel="noopener">Lobe Chat&lt;/a> - #OpenSource #AlternativeTo
+ChatGPT&lt;/li>
+&lt;li>&lt;a href="https://github.com/billmei/every-chatgpt-gui" class="external-link" target="_blank" rel="noopener">Every front-end GUI client for ChatGPT API&lt;/a> -
+list GUI alternative to ChatGPT&lt;/li>
+&lt;li>&lt;a href="https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web" class="external-link" target="_blank" rel="noopener">NextChat (ChatGPT Next Web)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/enricoros/big-agi" class="external-link" target="_blank" rel="noopener">big-AGI&lt;/a> - #OpenSource #AlternativeTo
+ChatGPT&lt;/li>
+&lt;li>&lt;a href="https://github.com/anse-app/anse" class="external-link" target="_blank" rel="noopener">Anse&lt;/a> - #OpenSource #AlternativeTo ChatGPT&lt;/li>
+&lt;li>&lt;a href="https://github.com/mckaywrigley/chatbot-ui" class="external-link" target="_blank" rel="noopener">Chatbot UI&lt;/a> - #OpenSource
+#AlternativeTo ChatGPT - depends on Supabase&lt;/li>
+&lt;li>&lt;a href="https://github.com/ztjhz/BetterChatGPT" class="external-link" target="_blank" rel="noopener">Better ChatGPT&lt;/a> - #OpenSource
+#AlternativeTo ChatGPT&lt;/li>
+&lt;li>&lt;a href="https://github.com/ShipBit/slickgpt" class="external-link" target="_blank" rel="noopener">SlickGPT&lt;/a> - #OpenSource #AlternativeTo
+ChatGPT - depends on Firebase&lt;/li>
+&lt;li>&lt;a href="https://github.com/neuralinkcorp/tsui" class="external-link" target="_blank" rel="noopener">tsui&lt;/a> - TUI for Tailscale&lt;/li>
+&lt;li>&lt;a href="https://neal.fun/printing-money/" class="external-link" target="_blank" rel="noopener">Printing Money&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-articles">
  Read articles
@@ -84,6 +100,7 @@ SaaS; exemplos: workshop, ebook, planilha, mentoria.&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;a href="https://moacirmoda.substack.com/p/empreendedor-consegue-tirar-ferias" class="external-link" target="_blank" rel="noopener">Empreendedor consegue tirar férias?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://kennethfriedman.org/thoughts/2019/the-2034-website" class="external-link" target="_blank" rel="noopener">The 2034 Website&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-news">
  Read news
@@ -95,6 +112,9 @@ SaaS; exemplos: workshop, ebook, planilha, mentoria.&lt;/li>
 &lt;ul>
 &lt;li>&lt;a href="https://www.bleepingcomputer.com/news/security/docker-osx-image-used-for-security-research-hit-by-apple-dmca-takedown" class="external-link" target="_blank" rel="noopener">Docker-OSX image used for security research hit by Apple DMCA takedown&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://aws.amazon.com/about-aws/whats-new/2024/08/amazon-s3-conditional-writes" class="external-link" target="_blank" rel="noopener">Amazon S3 now supports conditional writes&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.androidauthority.com/searchgpt-first-reactions-3478389" class="external-link" target="_blank" rel="noopener">The first reviews of ChatGPT’s Google Search rival are here, and they’re a mixed bag - Android Authority&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://9to5mac.com/2024/09/04/bluetooth-6-0-apple-find-my" class="external-link" target="_blank" rel="noopener">Bluetooth 6.0 will help Apple improve its Find My network&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://analyticsindiamag.com/ai-news-updates/alibaba-launches-qwen2-vl-surpasses-gpt-4o-claude-3-5-sonnet" class="external-link" target="_blank" rel="noopener">Alibaba Launches Qwen2-VL, Surpasses GPT-4o &amp;amp; Claude 3.5 Sonnet&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="watched">
  Watched
@@ -2722,7 +2742,8 @@ virtude aumenta a capacidade de ação e gera confiança.&lt;/p></description></
 &lt;ul>
 &lt;li>&lt;code>Doesn't it... ?&lt;/code> is better&lt;/li>
 &lt;li>&lt;code>Does not it... ?&lt;/code> is &amp;lsquo;wrong&amp;rsquo; &amp;ldquo;unless you&amp;rsquo;re some old philosopher&amp;rdquo;&lt;/li>
-&lt;li>&lt;code>Does it not... ?&lt;/code>  &amp;ldquo;it might imply bluntness or that you&amp;rsquo;re having a hard time believing/understanding&amp;rdquo;&lt;/li>
+&lt;li>&lt;code>Does it not... ?&lt;/code>  &amp;ldquo;it might imply bluntness or that you&amp;rsquo;re having a hard
+time believing/understanding&amp;rdquo;&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
@@ -2734,16 +2755,51 @@ virtude aumenta a capacidade de ação e gera confiança.&lt;/p></description></
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;strong>&amp;ldquo;allowed for&amp;rdquo;&lt;/strong> when talking about making provisions for, including, or taking into account something.
+&lt;li>&lt;strong>&amp;ldquo;allowed for&amp;rdquo;&lt;/strong> when talking about making provisions for, including, or
+taking into account something.
 &lt;ul>
-&lt;li>&amp;ldquo;The schedule allowed for a 30-minute break.&amp;rdquo; (The schedule included or made provision for a 30-minute break.)&lt;/li>
-&lt;li>&amp;ldquo;Make sure to allow for traffic delays when planning your trip.&amp;rdquo; (Take into account the possibility of traffic delays.)&lt;/li>
+&lt;li>&amp;ldquo;The schedule allowed for a 30-minute break.&amp;rdquo; (The schedule included or
+made provision for a 30-minute break.)&lt;/li>
+&lt;li>&amp;ldquo;Make sure to allow for traffic delays when planning your trip.&amp;rdquo; (Take
+into account the possibility of traffic delays.)&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>&lt;strong>&amp;ldquo;allowed to&amp;rdquo;&lt;/strong> to indicate that someone has permission or is permitted to do something..
+&lt;li>&lt;strong>&amp;ldquo;allowed to&amp;rdquo;&lt;/strong> to indicate that someone has permission or is permitted to
+do something.
 &lt;ul>
-&lt;li>&amp;ldquo;You are allowed to leave early today.&amp;rdquo; (You have permission to leave early.)&lt;/li>
-&lt;li>&amp;ldquo;Are children allowed to play in this park?&amp;rdquo; (Do children have permission to play here?)&lt;/li>
+&lt;li>&amp;ldquo;You are allowed to leave early today.&amp;rdquo; (You have permission to leave
+early.)&lt;/li>
+&lt;li>&amp;ldquo;Are children allowed to play in this park?&amp;rdquo; (Do children have permission
+to play here?)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="holding-up-vs-holding-back">
+ Holding up vs. Holding back
+ &lt;a class="heading-link" href="#holding-up-vs-holding-back">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Holding Up: often implies causing a delay or providing support
+&lt;ul>
+&lt;li>Causing a delay or interruption; &amp;ldquo;The traffic jam is holding up my
+commute.&amp;rdquo;&lt;/li>
+&lt;li>In a more colloquial sense, can mean committing a robbery; &amp;ldquo;The store was
+held up by thieves last night.&amp;rdquo;&lt;/li>
+&lt;li>Supporting or maintaining something in a position; &amp;ldquo;The scaffolding is
+holding up the building.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Holding Back: generally suggests restraint or prevention
+&lt;ul>
+&lt;li>Restraining oneself or someone else, physically or emotionally; &amp;ldquo;She was
+holding back tears&amp;rdquo; or &amp;ldquo;He held back his anger.&amp;rdquo;&lt;/li>
+&lt;li>Preventing progress or keeping something from advancing; &amp;ldquo;Fear of failure
+is holding him back from pursuing his dreams.&amp;rdquo;&lt;/li>
+&lt;li>Withholding: not sharing or giving something fully; &amp;ldquo;He was holding back
+crucial information.&amp;rdquo;&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
@@ -2756,8 +2812,8 @@ virtude aumenta a capacidade de ação e gera confiança.&lt;/p></description></
 &lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://medium.com/@english_grammar/how-to-use-preposition-in-english-grammar-on-at-in-of-for-2fdb11e80029" class="external-link" target="_blank" rel="noopener">https://medium.com/@english_grammar/how-to-use-preposition-in-english-grammar-on-at-in-of-for-2fdb11e80029&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.englishpage.com/prepositions/location_prepositions.htm" class="external-link" target="_blank" rel="noopener">https://www.englishpage.com/prepositions/location_prepositions.htm&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.englishpage.com/prepositions/prepositions.html" class="external-link" target="_blank" rel="noopener">https://www.englishpage.com/prepositions/prepositions.html&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.englishpage.com/prepositions/location_prepositions.htm" class="external-link" target="_blank" rel="noopener">Location Prepositions (at, in, on) | ENGLISH PAGE&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.englishpage.com/prepositions/prepositions.html" class="external-link" target="_blank" rel="noopener">Prepositions | ENGLISH PAGE&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="pronounce">
  Pronounce
@@ -4039,6 +4095,8 @@ R$ 1060 a cada R$ 100.000 (R$ -190)&lt;/p></description></item><item><title>Micr
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-01---2024-09-07/" >Weeknotes/2024-09-01 - 2024-09-07&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/english/" >English&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/livros/" >Livros&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/lua/" >Lua&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/vim/" >Vim&lt;/a>&lt;/li>
@@ -4052,7 +4110,6 @@ R$ 1060 a cada R$ 100.000 (R$ -190)&lt;/p></description></item><item><title>Micr
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/postgresql/" >PostgreSQL&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/magnanimidade-vs-humildade/" >Magnanimidade vs Humildade&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/o-que-eu-faria-diferente/" >O que eu faria diferente&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/english/" >English&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/catolicismo/" >Catolicismo&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/videos/the-end-of-object-inheritance-and-the-beginning-of-a-new-modularity/" >Videos/The End Of Object Inheritance and The Beginning Of A New Modularity&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/graphql/" >GraphQL&lt;/a>&lt;/li>
@@ -4085,7 +4142,6 @@ R$ 1060 a cada R$ 100.000 (R$ -190)&lt;/p></description></item><item><title>Micr
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/git/" >Git&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/linux/" >Linux&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/aplicativos-de-notas/" >Aplicativos de Notas&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/frontend/" >Frontend&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/terraform/" >Terraform&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/obsidian/" >Obsidian&lt;/a>&lt;/li>
@@ -4411,9 +4467,9 @@ R$ 1060 a cada R$ 100.000 (R$ -190)&lt;/p></description></item><item><title>Micr
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7055,9 +7111,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode86s1hbhb">
+&lt;h2 id="llmhahahugoshortcode84s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode86s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode84s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
