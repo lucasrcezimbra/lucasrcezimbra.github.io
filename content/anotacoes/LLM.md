@@ -1,7 +1,7 @@
 ---
 title: "LLM"
 date: 2023-08-15
-lastmod: 2024-07-04
+lastmod: 2024-09-06
 ---
 - [Observability]({{< ref "Observability" >}})
 - Vector [Databases]({{< ref "Databases" >}})
@@ -29,6 +29,17 @@ lastmod: 2024-07-04
 > an adaptive interface between chaotic real-world problems and secure, well-architected technical solutions. AI may not truly understand us, but it can deliver our intentions to an API with reasonable accuracy and describe the results in a way we understand.
 >
 > from https://stackoverflow.blog/2023/05/01/ai-isnt-the-app-its-the-ui/
+
+## Web UIs for LLMs
+| Name                                                           | Web Browse | Web Search | Voice | Image Generation | Mobile UI | Static site | Depends on | Language |
+| -------------------------------------------------------------- | ---------- | ---------- | ----- | ---------------- | --------- | ----------- | ---------- | -------- |
+| [Lobe Chat](https://github.com/lobehub/lobe-chat)              | Plugins    | Plugins    | ✅    | ✅               | ✅        | ❌          |            | English  |
+| [big-AGI](https://github.com/enricoros/big-agi)                | ✅         | ✅         | ✅    | ✅               | ✅        |             |            | English  |
+| [NextChat](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) |            |            |       |                  |           | ❌          |            | Chinese  |
+| [Anse](https://github.com/anse-app/anse)                       |            |            |       |                  |           |             |            | English  |
+| [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui)       |            |            |       |                  |           | ❌          | Supabase   | English  |
+| [Better ChatGPT](https://github.com/ztjhz/BetterChatGPT)       |            |            |       |                  |           | ✅          |            | English  |
+| [SlickGPT](https://github.com/ShipBit/slickgpt)                |            |            |       |                  |           | ❌          | Firebase   | English  |
 
 ## ChatGPT
 - Plugins
