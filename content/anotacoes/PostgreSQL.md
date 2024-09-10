@@ -1,7 +1,7 @@
 ---
 title: 'PostgreSQL'
 date: 2020-11-02
-lastmod: 2024-08-16
+lastmod: 2024-09-10
 aliases: [
     "/anotacoes/banco-de-dados/postgresql/",
     "/dicas-rapidas-postgresql/",
@@ -55,6 +55,12 @@ CREATE SCHEMA public;
 Remover todos caracteres que não são letras
 ```sql
 regexp_replace(value, '[^A-z ]+', '', 'g')
+```
+
+
+Split string in multiple rows
+```sql
+SELECT regexp_split_to_table('row1,row2,row3', ',')
 ```
 
 
