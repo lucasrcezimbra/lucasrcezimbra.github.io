@@ -6,7 +6,8 @@
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;p>Estava eu tentando formatar e instalar o Debian ❤ num notebook novo Dell Latitude 5400 que estava com Windows.&lt;/p></description></item><item><title>Como criar um ranking de commiters no bash</title><link>https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/</link><pubDate>Fri, 01 Mar 2019 01:55:23 +0000</pubDate><guid>https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/</guid><description>&lt;p>Resposta curta:&lt;/p>
+&lt;p>Estava eu tentando formatar e instalar o Debian ❤ num notebook novo Dell Latitude 5400 que estava com Windows.&lt;/p>
+&lt;p>Porém estava tendo um problema que a instalação do Debian não reconhecia o HD da máquina. Primeiramente pensei que fosse devido ao BitLocker que estava instalado, então desativei-o pelo Windows, mas continuou não funcionando.&lt;/p></description></item><item><title>Como criar um ranking de commiters no bash</title><link>https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/</link><pubDate>Fri, 01 Mar 2019 01:55:23 +0000</pubDate><guid>https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/</guid><description>&lt;p>Resposta curta:&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>git log | grep Author | sort | uniq -c | sort -n -r | head -n &lt;span style="color:#cd00cd">20&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;figure>&lt;img src="https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/git-log-grep-author-sort-uniq-sort-head.png"
  alt="20 maiores commiters do projeto git">&lt;figcaption>
@@ -46,4 +47,44 @@
  &lt;/a>
 &lt;/h3>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>tar -zxvf arquivo.&lt;span style="color:#39c">(&lt;/span>tar.gz|tgz&lt;span style="color:#39c">)&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item></channel></rss>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="tarbz2">
+ .tar.bz2
+ &lt;a class="heading-link" href="#tarbz2">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>tar -jxvf arquivo.tar.bz2
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="tarxz">
+ .tar.xz
+ &lt;a class="heading-link" href="#tarxz">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>tar -Jxvf arquivo.tar.xz
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="o-que-é-cada-opção">
+ O que é cada opção
+ &lt;a class="heading-link" href="#o-que-%c3%a9-cada-op%c3%a7%c3%a3o">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>-x, --extract, --get
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> extrai arquivos
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-v, --verbose
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> verboso
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-f, --file
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> arquivo
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-z, --gzip, --gunzip --ungzip
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> para arquivos gzip .gz
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-J, --xz
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> para arquivos .xz
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-j, --bzip2
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> para arquivos bzip2 .bz2
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>

@@ -6,4 +6,5 @@
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;p>Estava eu tentando formatar e instalar o Debian ❤ num notebook novo Dell Latitude 5400 que estava com Windows.&lt;/p></description></item></channel></rss>
+&lt;p>Estava eu tentando formatar e instalar o Debian ❤ num notebook novo Dell Latitude 5400 que estava com Windows.&lt;/p>
+&lt;p>Porém estava tendo um problema que a instalação do Debian não reconhecia o HD da máquina. Primeiramente pensei que fosse devido ao BitLocker que estava instalado, então desativei-o pelo Windows, mas continuou não funcionando.&lt;/p></description></item></channel></rss>

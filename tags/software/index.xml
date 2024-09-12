@@ -5,4 +5,35 @@
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;p>Segue uma lista de itens que considero importantes e me guio ao fazer uma revisão de código:&lt;/p></description></item></channel></rss>
+&lt;p>Segue uma lista de itens que considero importantes e me guio ao fazer uma revisão de código:&lt;/p>
+&lt;h2 id="testes">
+ Testes
+ &lt;a class="heading-link" href="#testes">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Todos os testes estão passando? (O ideal é que os testes rodem automaticamente via alguma ferramenta de automação)&lt;/li>
+&lt;li>Foram adicionados testes referente ao código modificado?&lt;/li>
+&lt;li>A cobertura de testes está satisfatória?&lt;/li>
+&lt;/ul>
+&lt;h2 id="simplicidade-e-legibilidade">
+ Simplicidade e Legibilidade
+ &lt;a class="heading-link" href="#simplicidade-e-legibilidade">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>O código está simples e fácil de entender?&lt;/li>
+&lt;li>O código está organizado?&lt;/li>
+&lt;/ul>
+&lt;h2 id="alteração-nos-modelos">
+ Alteração nos modelos
+ &lt;a class="heading-link" href="#altera%c3%a7%c3%a3o-nos-modelos">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Se o projeto possui modelos que se comunicam com um banco de dados:&lt;/p></description></item></channel></rss>

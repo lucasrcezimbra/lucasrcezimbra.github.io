@@ -47,7 +47,55 @@
  
  &lt;div style="flex: 1 1 0;">
  &lt;!-- begin columns block -->
-&lt;p>&lt;img alt="Setup" src="https://cezimbra.me/sobre/setup.jpg">&lt;/p></description></item><item><title>Projects</title><link>https://cezimbra.me/en/projects/</link><pubDate>Fri, 08 Apr 2022 20:08:54 -0300</pubDate><guid>https://cezimbra.me/en/projects/</guid><description>&lt;div class="card ">
+&lt;p>&lt;img alt="Setup" src="https://cezimbra.me/sobre/setup.jpg">&lt;/p>
+ &lt;/div>
+ 
+ &lt;div style="flex: 1 1 0;">
+ &lt;!-- column separator -->
+&lt;ul>
+&lt;li>Notebook Thinkpad T480
+&lt;ul>
+&lt;li>Intel Core i5&lt;/li>
+&lt;li>16 GB RAM&lt;/li>
+&lt;li>SSD HP S700 250GB&lt;/li>
+&lt;li>&lt;a href="https://www.debian.org/releases/bullseye/" class="external-link" target="_blank" rel="noopener">Debian Bullseye&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.lg.com/br/monitores/lg-23MB35VQ" class="external-link" target="_blank" rel="noopener">LG LED 23&amp;quot; Monitor&lt;/a> on &lt;a href="https://a.co/d/5s1SwBV" class="external-link" target="_blank" rel="noopener">ELG F80N Stand&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://a.co/d/jgwzInX" class="external-link" target="_blank" rel="noopener">Webcam Logitech C920s&lt;/a> + &lt;a href="https://produto.mercadolivre.com.br/MLB-1794696234-anel-de-luz-ring-light-clip-celular-mesa-14-cm-articulado-_JM" class="external-link" target="_blank" rel="noopener">Ring Light&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://edifier.com.br/headphone-w800bt-plus-bluetooth-5-1-over-ear-edifier-preto.html" class="external-link" target="_blank" rel="noopener">Edifier W800BT Headphone&lt;/a> + &lt;a href="https://a.co/d/j1yTSn9" class="external-link" target="_blank" rel="noopener">Boya BY-M1 Microphone&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.logitech.com/pt-br/products/mice/m100-usb-mouse.910-001601.html" class="external-link" target="_blank" rel="noopener">Logitech M100 Mouse&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://produto.mercadolivre.com.br/MLB-2027205008-hub-6-em-1-type-c-hdmi-4k-rj45-macbook-m1-_JM" class="external-link" target="_blank" rel="noopener">Baseus 6 in 1 Hub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.instagram.com/dfmetalarts/" class="external-link" target="_blank" rel="noopener">dF Metal Arts Desk&lt;/a> and &lt;a href="https://plaxmetal.com.br/produtos/brizza-presidente/" class="external-link" target="_blank" rel="noopener">Plaxmetal Brizza Presidente Chair&lt;/a>&lt;/li>
+&lt;li>Paper and Pen&lt;/li>
+&lt;li>&lt;a href="https://www.santalberti.com.br/produtos/quadro-poster-a-mao-de-sao-jose/" class="external-link" target="_blank" rel="noopener">&amp;ldquo;A Mão de São José&amp;rdquo;&lt;/a> by &lt;a href="https://www.instagram.com/matheus.bazzo/" class="external-link" target="_blank" rel="noopener">Matheus Bazzo&lt;/a> in the background.&lt;/li>
+&lt;/ul>
+
+ &lt;/div>
+ 
+&lt;/div>
+
+&lt;h2 id="experiences">
+ Experiences
+ &lt;a class="heading-link" href="#experiences">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+
+&lt;div>
+
+
+&lt;div class="timeline-item" date-is='Mar 2022 - Current'>
+ &lt;h3>
+ &lt;i class="fa fa-solid fa-briefcase">&lt;/i>
+ 
+ Tech Lead at Finetune
+ &lt;/h3>
+ &lt;p>&lt;p>Technical decisions and collaboration with stakeholders to prioritize new features and fixes.
+Translated business requirements into user stories, bridging the gap between technical and non-technical stakeholders.
+Involved in the due diligence process, contributing to the successful acquisition of the company by Prometric.
+Responsible for conducting technical interviews.&lt;/p></description></item><item><title>Projects</title><link>https://cezimbra.me/en/projects/</link><pubDate>Fri, 08 Apr 2022 20:08:54 -0300</pubDate><guid>https://cezimbra.me/en/projects/</guid><description>&lt;div class="card ">
  &lt;div class="container">
  &lt;h3>&lt;b>ninja-api-key&lt;/b>&lt;/h3>
  &lt;span>API Key authentication for Django Ninja&lt;/span>

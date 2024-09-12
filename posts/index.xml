@@ -11,7 +11,19 @@
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>raspi-config &lt;span style="color:#000080"># 1 &amp;gt; S5 &amp;gt; B1 &amp;gt; Finish&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>raspi-config &lt;span style="color:#000080"># 5 &amp;gt; L2 &amp;gt; America &amp;gt; São Paulo &amp;gt; Finish&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>shutdown -r now
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item><item><title>Como instalar o Zeal no Debian Bullseye</title><link>https://cezimbra.me/posts/como-instalar-o-zeal-no-debian-bullseye/</link><pubDate>Thu, 01 Sep 2022 09:42:56 -0300</pubDate><guid>https://cezimbra.me/posts/como-instalar-o-zeal-no-debian-bullseye/</guid><description>&lt;p>Resposta curta:&lt;/p>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="montando-cartão-sd-bootável">
+ Montando Cartão SD bootável
+ &lt;a class="heading-link" href="#montando-cart%c3%a3o-sd-boot%c3%a1vel">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>Baixe o Raspberry Pi Imager: &lt;a href="https://www.raspberrypi.com/software/" class="external-link" target="_blank" rel="noopener">https://www.raspberrypi.com/software/&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Instale o Imager&lt;/p></description></item><item><title>Como instalar o Zeal no Debian Bullseye</title><link>https://cezimbra.me/posts/como-instalar-o-zeal-no-debian-bullseye/</link><pubDate>Thu, 01 Sep 2022 09:42:56 -0300</pubDate><guid>https://cezimbra.me/posts/como-instalar-o-zeal-no-debian-bullseye/</guid><description>&lt;p>Resposta curta:&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo &lt;span style="color:#cd00cd">echo&lt;/span> &lt;span style="color:#cd0000">&amp;#39;deb http://deb.debian.org/debian bullseye-backports main contrib non-free&amp;#39;&lt;/span> &amp;gt;&amp;gt; /etc/apt/sources.list
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt update
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt install zeal
@@ -20,7 +32,13 @@
  alt="Zeal is an offline documentation browser for software developers.">
 &lt;/figure>
 
-&lt;p>Eu estava com problemas para instala-lo no Debian Bullseye, pois não estava disponível no source padrão do Debian. Recebia o seguinte erro:&lt;/p></description></item><item><title>Aprendizados sobre multi-tenant no Django com o PDS</title><link>https://cezimbra.me/posts/aprendizados-sobre-multi-tenant-no-django-com-o-pds/</link><pubDate>Sat, 30 Jul 2022 09:41:01 -0300</pubDate><guid>https://cezimbra.me/posts/aprendizados-sobre-multi-tenant-no-django-com-o-pds/</guid><description>&lt;p>Leia &amp;ldquo;&lt;a href="https://henriquebastos.net/artigos/aprendizados-sobre-multi-tenant-no-django-com-o-pds/" class="external-link" target="_blank" rel="noopener">Aprendizados sobre multi-tenant no Django com o PDS&lt;/a>&amp;rdquo; na &lt;a href="https://henriquebastos.net/revista/" class="external-link" target="_blank" rel="noopener">Revista HBNetwork&lt;/a>.&lt;/p></description></item><item><title>Como utilizar o cProfile e o SnakeViz para encontrar gargalos na sua aplicação Python</title><link>https://cezimbra.me/posts/como-utilizar-o-cprofile-e-o-snakeviz-para-encontrar-gargalos-na-sua-aplicacao-python/</link><pubDate>Wed, 20 Apr 2022 15:30:00 -0300</pubDate><guid>https://cezimbra.me/posts/como-utilizar-o-cprofile-e-o-snakeviz-para-encontrar-gargalos-na-sua-aplicacao-python/</guid><description>&lt;p>Publicado originalmente na 1ª edição da &lt;a href="https://sites.google.com/view/revista-hbnetwork" class="external-link" target="_blank" rel="noopener">Revista HBNetwork&lt;/a>.&lt;/p>
+&lt;p>Eu estava com problemas para instala-lo no Debian Bullseye, pois não estava disponível no source padrão do Debian. Recebia o seguinte erro:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>$ sudo apt install zeal
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Reading package lists... Done
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Building dependency tree... Done
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Reading state information... Done
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>E: Unable to locate package zeal
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;a href="https://packages.debian.org/search?suite=all&amp;amp;searchon=names&amp;amp;keywords=zeal" class="external-link" target="_blank" rel="noopener">Pesquisando nos pacotes do Debian&lt;/a> vi que o Zeal só estava disponível no source &lt;code>bullseye-backports&lt;/code>.&lt;/p></description></item><item><title>Aprendizados sobre multi-tenant no Django com o PDS</title><link>https://cezimbra.me/posts/aprendizados-sobre-multi-tenant-no-django-com-o-pds/</link><pubDate>Sat, 30 Jul 2022 09:41:01 -0300</pubDate><guid>https://cezimbra.me/posts/aprendizados-sobre-multi-tenant-no-django-com-o-pds/</guid><description>&lt;p>Leia &amp;ldquo;&lt;a href="https://henriquebastos.net/artigos/aprendizados-sobre-multi-tenant-no-django-com-o-pds/" class="external-link" target="_blank" rel="noopener">Aprendizados sobre multi-tenant no Django com o PDS&lt;/a>&amp;rdquo; na &lt;a href="https://henriquebastos.net/revista/" class="external-link" target="_blank" rel="noopener">Revista HBNetwork&lt;/a>.&lt;/p></description></item><item><title>Como utilizar o cProfile e o SnakeViz para encontrar gargalos na sua aplicação Python</title><link>https://cezimbra.me/posts/como-utilizar-o-cprofile-e-o-snakeviz-para-encontrar-gargalos-na-sua-aplicacao-python/</link><pubDate>Wed, 20 Apr 2022 15:30:00 -0300</pubDate><guid>https://cezimbra.me/posts/como-utilizar-o-cprofile-e-o-snakeviz-para-encontrar-gargalos-na-sua-aplicacao-python/</guid><description>&lt;p>Publicado originalmente na 1ª edição da &lt;a href="https://sites.google.com/view/revista-hbnetwork" class="external-link" target="_blank" rel="noopener">Revista HBNetwork&lt;/a>.&lt;/p>
 &lt;h2 id="o-cprofile-e-o-snakeviz">
  O cProfile e o SnakeViz
  &lt;a class="heading-link" href="#o-cprofile-e-o-snakeviz">
@@ -28,7 +46,8 @@
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h2>
-&lt;p>O &lt;em>&lt;a href="https://docs.python.org/3/library/profile.html#module-cProfile" class="external-link" target="_blank" rel="noopener">cProfile&lt;/a>&lt;/em> é uma das ferramentas &lt;em>built-in&lt;/em> do &lt;em>Python&lt;/em> que serve para gerar estatísticas sobre o número de chamadas e o tempo de execução das funções de um programa, ou seja, para realizar aquilo que conhecemos por &lt;em>profiling&lt;/em>.&lt;/p></description></item><item><title>Solução: Instalação Debian não identificando HD</title><link>https://cezimbra.me/solucao-instalacao-debian-nao-identificando-hd/</link><pubDate>Tue, 12 Nov 2019 00:35:07 +0000</pubDate><guid>https://cezimbra.me/solucao-instalacao-debian-nao-identificando-hd/</guid><description>&lt;p>Resposta curta:&lt;/p>
+&lt;p>O &lt;em>&lt;a href="https://docs.python.org/3/library/profile.html#module-cProfile" class="external-link" target="_blank" rel="noopener">cProfile&lt;/a>&lt;/em> é uma das ferramentas &lt;em>built-in&lt;/em> do &lt;em>Python&lt;/em> que serve para gerar estatísticas sobre o número de chamadas e o tempo de execução das funções de um programa, ou seja, para realizar aquilo que conhecemos por &lt;em>profiling&lt;/em>.&lt;/p>
+&lt;p>A ferramenta pode ser usada pela linha de comando para gerar uma saída em texto (conforme ilustrado na imagem abaixo) que pode ser usada para descobrir os gargalos de um sistema. Porém, para facilitar a interpretação da saída do &lt;em>cProfile&lt;/em>, podemos usar o &lt;em>&lt;a href="https://github.com/jiffyclub/snakeviz" class="external-link" target="_blank" rel="noopener">SnakeViz&lt;/a>&lt;/em>.&lt;/p></description></item><item><title>Solução: Instalação Debian não identificando HD</title><link>https://cezimbra.me/solucao-instalacao-debian-nao-identificando-hd/</link><pubDate>Tue, 12 Nov 2019 00:35:07 +0000</pubDate><guid>https://cezimbra.me/solucao-instalacao-debian-nao-identificando-hd/</guid><description>&lt;p>Resposta curta:&lt;/p>
 &lt;p>&lt;code>BIOS -&amp;gt; System Configuration -&amp;gt; SATA Operation -&amp;gt; mudar &amp;quot;RAID On&amp;quot; para &amp;quot;AHCI&amp;quot;.&lt;/code>&lt;/p>
 &lt;figure>&lt;img src="https://cezimbra.me/solucao-instalacao-debian-nao-identificando-hd/Debian_graphical_installer.png"
  alt="Debian 9 instalação completa">&lt;figcaption>
@@ -36,7 +55,8 @@
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;p>Estava eu tentando formatar e instalar o Debian ❤ num notebook novo Dell Latitude 5400 que estava com Windows.&lt;/p></description></item><item><title>Python: Como injetar código num processo em execução</title><link>https://cezimbra.me/python-como-injetar-codigo-num-processo-em-execucao/</link><pubDate>Thu, 13 Jun 2019 01:59:02 +0000</pubDate><guid>https://cezimbra.me/python-como-injetar-codigo-num-processo-em-execucao/</guid><description>&lt;p>Resposta curta: &lt;a href="https://pyrasite.readthedocs.io/en/latest/" class="external-link" target="_blank" rel="noopener">pyrasite&lt;/a>&lt;/p>
+&lt;p>Estava eu tentando formatar e instalar o Debian ❤ num notebook novo Dell Latitude 5400 que estava com Windows.&lt;/p>
+&lt;p>Porém estava tendo um problema que a instalação do Debian não reconhecia o HD da máquina. Primeiramente pensei que fosse devido ao BitLocker que estava instalado, então desativei-o pelo Windows, mas continuou não funcionando.&lt;/p></description></item><item><title>Python: Como injetar código num processo em execução</title><link>https://cezimbra.me/python-como-injetar-codigo-num-processo-em-execucao/</link><pubDate>Thu, 13 Jun 2019 01:59:02 +0000</pubDate><guid>https://cezimbra.me/python-como-injetar-codigo-num-processo-em-execucao/</guid><description>&lt;p>Resposta curta: &lt;a href="https://pyrasite.readthedocs.io/en/latest/" class="external-link" target="_blank" rel="noopener">pyrasite&lt;/a>&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>pip install pyrasite
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd00cd">echo&lt;/span> &lt;span style="color:#cd00cd">0&lt;/span> | sudo tee /proc/sys/kernel/yama/ptrace_scope
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>pyrasite &lt;span style="color:#00cdcd">$PID&lt;/span> dump_stacks.py
@@ -54,7 +74,8 @@
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h2>
-&lt;p>Esses dias estava com um bug intermitente que só ocorria no servidor de desenvolvimento, então não estava conseguindo reproduzir localmente.&lt;/p></description></item><item><title>Como colocar um timeout numa função Python</title><link>https://cezimbra.me/como-colocar-um-timeout-numa-funcao-python/</link><pubDate>Fri, 31 May 2019 03:03:11 +0000</pubDate><guid>https://cezimbra.me/como-colocar-um-timeout-numa-funcao-python/</guid><description>&lt;p>Resposta curta: &lt;a href="https://github.com/pnpnpn/timeout-decorator" class="external-link" target="_blank" rel="noopener">timeout-decorator&lt;/a>&lt;/p>
+&lt;p>Esses dias estava com um bug intermitente que só ocorria no servidor de desenvolvimento, então não estava conseguindo reproduzir localmente.&lt;/p>
+&lt;p>Tentando descobrir o problema, dei SSH para o servidor e vi que num processo estava justamente acontecendo o que eu queria corrigir.&lt;/p></description></item><item><title>Como colocar um timeout numa função Python</title><link>https://cezimbra.me/como-colocar-um-timeout-numa-funcao-python/</link><pubDate>Fri, 31 May 2019 03:03:11 +0000</pubDate><guid>https://cezimbra.me/como-colocar-um-timeout-numa-funcao-python/</guid><description>&lt;p>Resposta curta: &lt;a href="https://github.com/pnpnpn/timeout-decorator" class="external-link" target="_blank" rel="noopener">timeout-decorator&lt;/a>&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>pip install timeout&lt;span style="color:#39c">-&lt;/span>decorator
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd00cd">from&lt;/span> timeout_decorator &lt;span style="color:#cd00cd">import&lt;/span> timeout
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
@@ -100,7 +121,38 @@
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;p>Segue uma lista de itens que considero importantes e me guio ao fazer uma revisão de código:&lt;/p></description></item><item><title>Como extrair arquivos tar</title><link>https://cezimbra.me/como-extrair-arquivos-tar/</link><pubDate>Thu, 15 Nov 2018 20:02:24 +0000</pubDate><guid>https://cezimbra.me/como-extrair-arquivos-tar/</guid><description>&lt;h2 id="como-extrair">
+&lt;p>Segue uma lista de itens que considero importantes e me guio ao fazer uma revisão de código:&lt;/p>
+&lt;h2 id="testes">
+ Testes
+ &lt;a class="heading-link" href="#testes">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Todos os testes estão passando? (O ideal é que os testes rodem automaticamente via alguma ferramenta de automação)&lt;/li>
+&lt;li>Foram adicionados testes referente ao código modificado?&lt;/li>
+&lt;li>A cobertura de testes está satisfatória?&lt;/li>
+&lt;/ul>
+&lt;h2 id="simplicidade-e-legibilidade">
+ Simplicidade e Legibilidade
+ &lt;a class="heading-link" href="#simplicidade-e-legibilidade">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>O código está simples e fácil de entender?&lt;/li>
+&lt;li>O código está organizado?&lt;/li>
+&lt;/ul>
+&lt;h2 id="alteração-nos-modelos">
+ Alteração nos modelos
+ &lt;a class="heading-link" href="#altera%c3%a7%c3%a3o-nos-modelos">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Se o projeto possui modelos que se comunicam com um banco de dados:&lt;/p></description></item><item><title>Como extrair arquivos tar</title><link>https://cezimbra.me/como-extrair-arquivos-tar/</link><pubDate>Thu, 15 Nov 2018 20:02:24 +0000</pubDate><guid>https://cezimbra.me/como-extrair-arquivos-tar/</guid><description>&lt;h2 id="como-extrair">
  Como extrair
  &lt;a class="heading-link" href="#como-extrair">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -115,4 +167,44 @@
  &lt;/a>
 &lt;/h3>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>tar -zxvf arquivo.&lt;span style="color:#39c">(&lt;/span>tar.gz|tgz&lt;span style="color:#39c">)&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item></channel></rss>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="tarbz2">
+ .tar.bz2
+ &lt;a class="heading-link" href="#tarbz2">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>tar -jxvf arquivo.tar.bz2
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="tarxz">
+ .tar.xz
+ &lt;a class="heading-link" href="#tarxz">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>tar -Jxvf arquivo.tar.xz
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="o-que-é-cada-opção">
+ O que é cada opção
+ &lt;a class="heading-link" href="#o-que-%c3%a9-cada-op%c3%a7%c3%a3o">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>-x, --extract, --get
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> extrai arquivos
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-v, --verbose
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> verboso
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-f, --file
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> arquivo
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-z, --gzip, --gunzip --ungzip
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> para arquivos gzip .gz
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-J, --xz
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> para arquivos .xz
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-j, --bzip2
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> para arquivos bzip2 .bz2
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>

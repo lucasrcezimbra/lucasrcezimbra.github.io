@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 06 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-09-01 - 2024-09-07</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-01---2024-09-07/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-01---2024-09-07/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-08-25---2024-08-31/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 12 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-09-08 - 2024-09-14</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-08---2024-09-14/</link><pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-08---2024-09-14/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-01---2024-09-07/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -24,7 +24,77 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/postgresql/" >PostgreSQL&lt;/a> query to split string in multiple rows: &lt;code>SELECT regexp_split_to_table('row1,row2,row3', ',')&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;h2 id="discovered-tools">
+ Discovered tools
+ &lt;a class="heading-link" href="#discovered-tools">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/twpayne/chezmoi" class="external-link" target="_blank" rel="noopener">chezmoi&lt;/a> - manage your dotfiles across
+multiple diverse machines, securely&lt;/li>
+&lt;li>&lt;a href="https://github.com/MadcowD/ell" class="external-link" target="_blank" rel="noopener">ell&lt;/a> - LLMs calls as Python functions&lt;/li>
+&lt;/ul>
+&lt;h2 id="read-articles">
+ Read articles
+ &lt;a class="heading-link" href="#read-articles">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
 &lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="read-news">
+ Read news
+ &lt;a class="heading-link" href="#read-news">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://openai.com/index/introducing-openai-o1-preview/" class="external-link" target="_blank" rel="noopener">Introducing OpenAI o1-preview&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="watched">
+ Watched
+ &lt;a class="heading-link" href="#watched">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="listened">
+ Listened
+ &lt;a class="heading-link" href="#listened">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-01---2024-09-07/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2024-09-01 - 2024-09-07</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-01---2024-09-07/</link><pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-01---2024-09-07/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-08-25---2024-08-31/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-08---2024-09-14/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;h2 id="books-being-read">
+ Books being read
+ &lt;a class="heading-link" href="#books-being-read">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Staff Engineer: Leadership beyond the management track
+&lt;ul>
+&lt;li>&lt;a href="https://staffeng.com/book" class="external-link" target="_blank" rel="noopener">Buy&lt;/a>&lt;/li>
+&lt;li>My notes: &lt;a href="https://cezimbra.me/anotacoes/books/staff-engineer---leadership-beyond-the-management-track/" >Staff Engineer - Leadership beyond the management track&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>(pt-BR) Conversas Cruciais - Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan &amp;amp;
+Al Switzler &amp;amp; Emily Gregory&lt;/li>
 &lt;/ul>
 &lt;h2 id="discovered-tools">
  Discovered tools
@@ -54,6 +124,8 @@ ChatGPT&lt;/li>
 ChatGPT - depends on Firebase&lt;/li>
 &lt;li>&lt;a href="https://github.com/neuralinkcorp/tsui" class="external-link" target="_blank" rel="noopener">tsui&lt;/a> - TUI for Tailscale&lt;/li>
 &lt;li>&lt;a href="https://neal.fun/printing-money/" class="external-link" target="_blank" rel="noopener">Printing Money&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/jazzband/django-silk" class="external-link" target="_blank" rel="noopener">django-silk&lt;/a> - Profiling for Django&lt;/li>
+&lt;li>&lt;a href="https://llmstxt.org" class="external-link" target="_blank" rel="noopener">The /llms.txt file – llms-txt&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-articles">
  Read articles
@@ -65,7 +137,11 @@ ChatGPT - depends on Firebase&lt;/li>
 &lt;ul>
 &lt;li>&lt;a href="https://eieio.games/essays/the-secret-in-one-million-checkboxes" class="external-link" target="_blank" rel="noopener">The secret inside One Million Checkboxes&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://world.hey.com/dhh/we-once-more-have-no-full-time-managers-at-37signals-f8611085" class="external-link" target="_blank" rel="noopener">We once more have no full-time managers at 37signals&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.paulgraham.com/foundermode.html" class="external-link" target="_blank" rel="noopener">Founder Mode&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.paulgraham.com/foundermode.html" class="external-link" target="_blank" rel="noopener">Founder Mode&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://tidyfirst.substack.com/p/the-founder-mode-tradeoff" class="external-link" target="_blank" rel="noopener">The Founder Mode Tradeoff&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;li>&lt;a href="https://eieio.games/essays/scaling-one-million-checkboxes" class="external-link" target="_blank" rel="noopener">Scaling One Million Checkboxes to 650,000,000 checks | eieio.games&lt;/a>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/bvaughn/react-window" class="external-link" target="_blank" rel="noopener">bvaughn/react-window&lt;/a> -
@@ -101,6 +177,8 @@ SaaS; exemplos: workshop, ebook, planilha, mentoria.&lt;/li>
 &lt;/li>
 &lt;li>&lt;a href="https://moacirmoda.substack.com/p/empreendedor-consegue-tirar-ferias" class="external-link" target="_blank" rel="noopener">Empreendedor consegue tirar férias?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://kennethfriedman.org/thoughts/2019/the-2034-website" class="external-link" target="_blank" rel="noopener">The 2034 Website&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://world.hey.com/dhh/optimize-for-bio-cores-first-silicon-cores-second-112a6c3f" class="external-link" target="_blank" rel="noopener">Optimize for bio cores first, silicon cores second&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://tidyfirst.substack.com/p/the-impossibility-of-making-an-elite" class="external-link" target="_blank" rel="noopener">The Impossibility of Making an Elite Engineer&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-news">
  Read news
@@ -115,6 +193,8 @@ SaaS; exemplos: workshop, ebook, planilha, mentoria.&lt;/li>
 &lt;li>&lt;a href="https://www.androidauthority.com/searchgpt-first-reactions-3478389" class="external-link" target="_blank" rel="noopener">The first reviews of ChatGPT’s Google Search rival are here, and they’re a mixed bag - Android Authority&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://9to5mac.com/2024/09/04/bluetooth-6-0-apple-find-my" class="external-link" target="_blank" rel="noopener">Bluetooth 6.0 will help Apple improve its Find My network&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://analyticsindiamag.com/ai-news-updates/alibaba-launches-qwen2-vl-surpasses-gpt-4o-claude-3-5-sonnet" class="external-link" target="_blank" rel="noopener">Alibaba Launches Qwen2-VL, Surpasses GPT-4o &amp;amp; Claude 3.5 Sonnet&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.anthropic.com/news/claude-for-enterprise" class="external-link" target="_blank" rel="noopener">Claude for Enterprise&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.rijksmuseum.nl/en/stories/operation-night-watch/story/ultra-high-resolution-image-of-the-night-watch" class="external-link" target="_blank" rel="noopener">Ultra high-resolution image of The Night Watch&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="watched">
  Watched
@@ -124,7 +204,6 @@ SaaS; exemplos: workshop, ebook, planilha, mentoria.&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=oFtjKbXKqbg" class="external-link" target="_blank" rel="noopener">Pieter Levels: Programming, Viral AI Startups, and Digital Nomad Life | Lex Fridman Podcast #440&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=OYxQ4Lvqn14" class="external-link" target="_blank" rel="noopener">Why You Need a Pocket Router: Hotels, Airports, Airplanes, Cruise Ships - Stay Connected Anywhere!&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=tSoFTD9Y8UU" class="external-link" target="_blank" rel="noopener">Making an HTTP request in Bash without &lt;code>curl&lt;/code> or &lt;code>wget&lt;/code> - on &lt;em>any&lt;/em> OS (Linux, Mac, illumos, etc.)&lt;/a>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080">#!/usr/bin/env bash
@@ -154,7 +233,22 @@ SaaS; exemplos: workshop, ebook, planilha, mentoria.&lt;/li>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">done&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd00cd">exec&lt;/span> 3&amp;gt;&amp;amp;- &lt;span style="color:#000080"># close the file descriptor&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item><item><title>Lua</title><link>https://cezimbra.me/anotacoes/lua/</link><pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/lua/</guid><description>&lt;ul>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=oFtjKbXKqbg" class="external-link" target="_blank" rel="noopener">Pieter Levels: Programming, Viral AI Startups, and Digital Nomad Life | Lex Fridman Podcast #440&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="listened">
+ Listened
+ &lt;a class="heading-link" href="#listened">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=5-h8Sf6nBas" class="external-link" target="_blank" rel="noopener">Homilia Diária | O mistério que os nazarenos não enxergaram (Segunda-feira da 22ª S. do Tempo Comum)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=yLrayc4wi7Y" class="external-link" target="_blank" rel="noopener">Homilia Diária | O segredo dos santos pastores (Memória de São Gregório Magno, Papa e Doutor)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=YuGUm98HoG8" class="external-link" target="_blank" rel="noopener">Homilia Diária | Jejum: manifestação de um amor reparador (Sexta-feira da 22ª S. do Tempo Comum)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-08-25---2024-08-31/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-08---2024-09-14/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>Lua</title><link>https://cezimbra.me/anotacoes/lua/</link><pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/lua/</guid><description>&lt;ul>
 &lt;li>Homepage: &lt;a href="https://www.lua.org/" class="external-link" target="_blank" rel="noopener">Lua&lt;/a>&lt;/li>
 &lt;li>Package manager: &lt;a href="https://luarocks.org/" class="external-link" target="_blank" rel="noopener">LuaRocks&lt;/a>&lt;/li>
 &lt;li>Opinionated code formatter: &lt;a href="https://github.com/JohnnyMorganz/StyLua" class="external-link" target="_blank" rel="noopener">StyLua&lt;/a>&lt;/li>
@@ -168,7 +262,30 @@ SaaS; exemplos: workshop, ebook, planilha, mentoria.&lt;/li>
 &lt;/h2>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sh" data-lang="sh">&lt;span style="display:flex;">&lt;span>sudo apt update
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt install lua5.4 luarocks
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item><item><title>Santos Católicos</title><link>https://cezimbra.me/anotacoes/santos-catolicos/</link><pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/santos-catolicos/</guid><description>&lt;h2 id="linha-do-tempo">
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="learning">
+ Learning
+ &lt;a class="heading-link" href="#learning">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="what-is-busted-file">
+ What is &lt;code>.busted&lt;/code> file?
+ &lt;a class="heading-link" href="#what-is-busted-file">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>Configuration file for Busted framework.&lt;/p>
+&lt;h3 id="what-is-busted">
+ What is Busted?
+ &lt;a class="heading-link" href="#what-is-busted">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>&lt;a href="https://lunarmodules.github.io/busted" class="external-link" target="_blank" rel="noopener">busted&lt;/a> is a unit testing framework
+with a focus on being easy to use&lt;/p></description></item><item><title>Santos Católicos</title><link>https://cezimbra.me/anotacoes/santos-catolicos/</link><pubDate>Tue, 27 Aug 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/santos-catolicos/</guid><description>&lt;h2 id="linha-do-tempo">
  Linha do tempo
  &lt;a class="heading-link" href="#linha-do-tempo">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -985,7 +1102,10 @@ chamados a mais na vida espiritual; a entregar-nos a Cristo.&lt;/li>
 fala sobre virtudes. O livro fala bastante sobre uma das virtudes que é a
 magnanimidade, a virtude de pensar e buscar grandes feitos.&lt;/p>
 &lt;p>O evangelho de hoje, 13 de agosto de 2024, fala sobre ser uma criança para
-entrar no reino do céu, ou como diria Santa Teresinha, percorrer a pequena via.&lt;/p></description></item><item><title>O que eu faria diferente</title><link>https://cezimbra.me/anotacoes/o-que-eu-faria-diferente/</link><pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/o-que-eu-faria-diferente/</guid><description>&lt;p>(in progress)&lt;/p>
+entrar no reino do céu, ou como diria Santa Teresinha, percorrer a pequena via.&lt;/p>
+&lt;p>Esses dois conceitos podem parecer contraditórios. Como podemos pensar grande e
+pequeno ao mesmo tempo, sermos grandes e pequenos ao mesmo tempo? Mas em Deus
+nada é contraditório.&lt;/p></description></item><item><title>O que eu faria diferente</title><link>https://cezimbra.me/anotacoes/o-que-eu-faria-diferente/</link><pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/o-que-eu-faria-diferente/</guid><description>&lt;p>(in progress)&lt;/p>
 &lt;ul>
 &lt;li>Esse texto é o que diria para o Lucas do passado e ele provavelmente não
 ouviria porque jovens são assim.&lt;/li>
@@ -1210,7 +1330,9 @@ CodeCommit&lt;/li>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> pg_stat_activity
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">WHERE&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">state&lt;/span> &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cd0000">&amp;#39;active&amp;#39;&lt;/span> &lt;span style="color:#cdcd00">OR&lt;/span> &lt;span style="color:#cdcd00">state&lt;/span> &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cd0000">&amp;#39;idle in transaction&amp;#39;&lt;/span>;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item><item><title>The End Of Object Inheritance &amp; The Beginning Of A New Modularity</title><link>https://cezimbra.me/anotacoes/videos/the-end-of-object-inheritance-and-the-beginning-of-a-new-modularity/</link><pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/videos/the-end-of-object-inheritance-and-the-beginning-of-a-new-modularity/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/watch?v=3MNVP9-hglc" class="external-link" target="_blank" rel="noopener">The End Of Object Inheritance &amp;amp; The Beginning Of A New Modularity&lt;/a>&lt;/p>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-08-04---2024-08-10/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-08-18---2024-08-24/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>The End Of Object Inheritance &amp; The Beginning Of A New Modularity</title><link>https://cezimbra.me/anotacoes/videos/the-end-of-object-inheritance-and-the-beginning-of-a-new-modularity/</link><pubDate>Sun, 11 Aug 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/videos/the-end-of-object-inheritance-and-the-beginning-of-a-new-modularity/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/watch?v=3MNVP9-hglc" class="external-link" target="_blank" rel="noopener">The End Of Object Inheritance &amp;amp; The Beginning Of A New Modularity&lt;/a>&lt;/p>
 &lt;h2 id="composition-over-inheritance">
  Composition over Inheritance
  &lt;a class="heading-link" href="#composition-over-inheritance">
@@ -1233,7 +1355,25 @@ CodeCommit&lt;/li>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">def&lt;/span> BlueMethod(self):
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#39c">...&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item><item><title>Aula Do zero aos R$ 10k MRR em 3 meses</title><link>https://cezimbra.me/anotacoes/do-zero-aos-r-10k-mrr-em-3-meses/</link><pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/do-zero-aos-r-10k-mrr-em-3-meses/</guid><description>&lt;p>por &lt;a href="https://moacirmoda.com/" class="external-link" target="_blank" rel="noopener">Moacir Moda&lt;/a> do &lt;a href="https://tintim.app/" class="external-link" target="_blank" rel="noopener">Tintim&lt;/a>&lt;/p>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>vs composition approach:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">class&lt;/span> &lt;span style="color:#00cdcd">Green&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">def&lt;/span> GreenMethod(self):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">raise&lt;/span> &lt;span style="color:#669;font-weight:bold">NotImplementedError&lt;/span>()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">class&lt;/span> &lt;span style="color:#00cdcd">ImplementedGreen&lt;/span>(Green):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">def&lt;/span> __init__(self, blue):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#39c">.&lt;/span>_blue &lt;span style="color:#39c">=&lt;/span> blue
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">def&lt;/span> GreenMethod(self):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#39c">...&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="object-inheritance-fails-at-fault-intolerance">
+ Object Inheritance Fails At Fault Intolerance
+ &lt;a class="heading-link" href="#object-inheritance-fails-at-fault-intolerance">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>(12:55)&lt;/p></description></item><item><title>Aula Do zero aos R$ 10k MRR em 3 meses</title><link>https://cezimbra.me/anotacoes/do-zero-aos-r-10k-mrr-em-3-meses/</link><pubDate>Wed, 07 Aug 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/do-zero-aos-r-10k-mrr-em-3-meses/</guid><description>&lt;p>por &lt;a href="https://moacirmoda.com/" class="external-link" target="_blank" rel="noopener">Moacir Moda&lt;/a> do &lt;a href="https://tintim.app/" class="external-link" target="_blank" rel="noopener">Tintim&lt;/a>&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;p>Busque equilíbrio entre planejar e executar, mas a pioridade é sempre a
@@ -1250,7 +1390,88 @@ acumuladas.&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
-&lt;p>Benchmarks do Tintim&lt;/p></description></item><item><title>2024-08-04 - 2024-08-10</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-08-04---2024-08-10/</link><pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-08-04---2024-08-10/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-07-28---2024-08-03/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-08-11---2024-08-17/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;p>Benchmarks do Tintim&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://hyros.com/" class="external-link" target="_blank" rel="noopener">Hyros&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://voluum.com/" class="external-link" target="_blank" rel="noopener">Voluum&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://redtrack.io/" class="external-link" target="_blank" rel="noopener">Redtrack&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="validação-da-ideia">
+ Validação da Ideia
+ &lt;a class="heading-link" href="#valida%c3%a7%c3%a3o-da-ideia">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="1-resolva-sua-própria-dor">
+ 1. Resolva sua própria dor
+ &lt;a class="heading-link" href="#1-resolva-sua-pr%c3%b3pria-dor">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Porque?
+&lt;ul>
+&lt;li>Quando você resolve a própria dor, você é o ICP&lt;/li>
+&lt;li>Você já conhece o problema e como resolver&lt;/li>
+&lt;li>Você já é a validação inicial; se você tem o problema, é provável que
+outros tenham&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="icp">
+ ICP
+ &lt;a class="heading-link" href="#icp">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h4>
+&lt;ul>
+&lt;li>ICP = Ideal Customer Profile ou Perfil de Cliente Ideal&lt;/li>
+&lt;li>Você não cria o ICP, você define uma hipótese de ICP e descobre se está certo&lt;/li>
+&lt;li>ICP bem mapeado ajuda em
+&lt;ul>
+&lt;li>marketing mais assertivo (e mais barato)&lt;/li>
+&lt;li>maior conversão (leads mais qualificados e indicações por estar vendendo
+pro ICP)&lt;/li>
+&lt;li>menos suporte (ICP vai saber usar o produto)&lt;/li>
+&lt;li>menos churn&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>ICP do Tintim = gestor (ou dono de agência) de trafego com mais de 6 clientes&lt;/li>
+&lt;/ul>
+&lt;h3 id="2-mercado-com-muito-dinheiro">
+ 2. Mercado com muito dinheiro
+ &lt;a class="heading-link" href="#2-mercado-com-muito-dinheiro">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Se o mercado é pequeno, resolver a própria dor pode não ser suficiente
+(depende do seu objetivo)&lt;/li>
+&lt;li>Benefícios: potencial de receita; escala (-custos e +margem); variedade de
+ICPs&lt;/li>
+&lt;li>Riscos: grandes mercados atraem competição (por isso é necessário um
+diferencial)&lt;/li>
+&lt;li>Como descobrir o tamanho de um mercado? Pesquisar pelo CNAE em soluções como
+Speedio, Empresômetro e Driva&lt;/li>
+&lt;li>Buscar por mercados jovens e/ou crescentes (por exemplo, marketing digital)&lt;/li>
+&lt;li>Evitar mercados consolidados (por exemplo, petróleo) por causa da barreira de
+entrada/competidores gigantes&lt;/li>
+&lt;/ul>
+&lt;h3 id="3-valide-a-dor-antes-de-codar">
+ 3. Valide a dor antes de codar
+ &lt;a class="heading-link" href="#3-valide-a-dor-antes-de-codar">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;blockquote>
+&lt;p>Apaixone-se pelo problema, não pela solução&lt;/p></description></item><item><title>2024-08-04 - 2024-08-10</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-08-04---2024-08-10/</link><pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-08-04---2024-08-10/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-07-28---2024-08-03/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-08-11---2024-08-17/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -1936,7 +2157,53 @@ drivers (fila, HTTP, CLI, etc.).&lt;/li>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	.via(Filters.Translator(...))
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	.via(myFunction)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	.toTarget(myDatabase);
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item><item><title>My Principles for building software</title><link>https://cezimbra.me/anotacoes/my-thoughts-about-software/</link><pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/my-thoughts-about-software/</guid><description>&lt;p>(Inspiration: &lt;a href="https://evanhahn.com/programming-beliefs-as-of-july-2024/" class="external-link" target="_blank" rel="noopener">My programming beliefs as of July 2024&lt;/a> and &lt;a href="https://kevinmahoney.co.uk/articles/my-principles-for-building-software/" class="external-link" target="_blank" rel="noopener">My Principles for Building Software&lt;/a>)&lt;/p>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;a href="https://nathanpeck.com/rethinking-infrastructure-as-code-from-scratch/" class="external-link" target="_blank" rel="noopener">Rethinking infrastructure as code from scratch&lt;/a> - (I read this some time ago and reread this week) - CSS classes for infrastructure as code&lt;/li>
+&lt;li>&lt;a href="https://architectelevator.com/cloud/iac-ifc-trends/" class="external-link" target="_blank" rel="noopener">IxC: Infrastructure as Code, from Code, with Code&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://architectelevator.com/architecture/stacktrace-abstraction/" class="external-link" target="_blank" rel="noopener">Programming without a stack trace: When abstractions become illusions&lt;/a> - Distributed systems add overhead, &lt;a href="https://cezimbra.me/anotacoes/observability/" >observability&lt;/a> medicate that.&lt;/li>
+&lt;/ul>
+&lt;h2 id="listened">
+ Listened
+ &lt;a class="heading-link" href="#listened">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=LsVU0w2eQO4" class="external-link" target="_blank" rel="noopener">Homilia Diária | O sentido espiritual da cura da filha de Jairo (Segunda-feira da 14ª Sem. T. Comum)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=DcdNmBqBVIU" class="external-link" target="_blank" rel="noopener">Homilia Diária | Uma vida de escondimento e humilhação (Memória de Santa Paulina, Virgem)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=1FXDJkH1BBw" class="external-link" target="_blank" rel="noopener">Homilia Diária | A presença de Judas entre os Doze Apóstolos (Quarta-feira da 14ª S. do Tempo Comum)&lt;/a> -
+Jesus passou a noite rezando antes de escolher os 12 apóstolos. Isso nos mostra a importância da oração antes das nossas decisões.&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=XhY_iRS-62w" class="external-link" target="_blank" rel="noopener">Homilia Diária | Cortar laços com a mundanidade (Memória de São Bento de Núrsia, Abade)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=dJnO5vwSFQk" class="external-link" target="_blank" rel="noopener">Homilia Diária | Como indefesos diante dos lobos (Sexta-feira da 14.ª Semana do Tempo Comum)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=ATpIDdVg-9A" class="external-link" target="_blank" rel="noopener">Homilia Diária | O tudo de Deus e o nada da criatura (Sábado da 14.ª Semana do Tempo Comum)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="books-being-read">
+ Books being read
+ &lt;a class="heading-link" href="#books-being-read">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Staff Engineer: Leadership beyond the management track
+&lt;ul>
+&lt;li>&lt;a href="https://staffeng.com/book" class="external-link" target="_blank" rel="noopener">Buy&lt;/a>&lt;/li>
+&lt;li>My notes: &lt;a href="https://cezimbra.me/anotacoes/books/staff-engineer---leadership-beyond-the-management-track/" >Staff Engineer - Leadership beyond the management track&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>(pt-BR) Virtudes &amp;amp; Liderança - Alexandre Havard
+&lt;ul>
+&lt;li>Minhas notas: &lt;a href="https://cezimbra.me/anotacoes/books/virtudes--lideran%C3%A7a/" >Virtudes &amp;amp; Liderança&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>(pt-BR) Não eu, mas Deus - Biografia espiritual do Beato Carlo Acutis - Ricardo Figueiredo
+&lt;ul>
+&lt;li>Minhas notas: &lt;a href="https://cezimbra.me/anotacoes/books/n%C3%A3o-eu-mas-deus/" >Não eu, mas Deus&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-06-30---2024-07-06/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-07-14---2024-07-20/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>My Principles for building software</title><link>https://cezimbra.me/anotacoes/my-thoughts-about-software/</link><pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/my-thoughts-about-software/</guid><description>&lt;p>(Inspiration: &lt;a href="https://evanhahn.com/programming-beliefs-as-of-july-2024/" class="external-link" target="_blank" rel="noopener">My programming beliefs as of July 2024&lt;/a> and &lt;a href="https://kevinmahoney.co.uk/articles/my-principles-for-building-software/" class="external-link" target="_blank" rel="noopener">My Principles for Building Software&lt;/a>)&lt;/p>
 &lt;ul>
 &lt;li>&amp;ldquo;Simplicity is the ultimate sophistication.&amp;rdquo;&lt;/li>
 &lt;li>Automated testing - could not be left out, although I believe it is already a consensus in the industry.&lt;/li>
@@ -2203,7 +2470,190 @@ drivers (fila, HTTP, CLI, etc.).&lt;/li>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h4>
-&lt;p>(pág. 25 e 26)&lt;/p></description></item><item><title>2024-06-30 - 2024-07-06</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-06-30---2024-07-06/</link><pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-06-30---2024-07-06/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-07-07---2024-07-13/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;p>(pág. 25 e 26)&lt;/p>
+&lt;ul>
+&lt;li>Poupadores
+&lt;ul>
+&lt;li>pontos fortes: disciplina e capacidade de economizar&lt;/li>
+&lt;li>pontos fracos: conformismo&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>gastadores
+&lt;ul>
+&lt;li>pontos fortes: aproveitar a vida&lt;/li>
+&lt;li>pontos fracos: insegurança financeira e falta de controle&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>descontrolados
+&lt;ul>
+&lt;li>pontos fortes: nenhum&lt;/li>
+&lt;li>pontos fracos: indisciplina e pagamentos desnecessário de juros&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>desligados
+&lt;ul>
+&lt;li>pontos fortes: espaço para reduzir gastos&lt;/li>
+&lt;li>pontos fracos: falta de disciplina e incapacidade de estipular e atingir objetivos&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>financistas
+&lt;ul>
+&lt;li>pontos fortes: facilidade de planejar e seguir&lt;/li>
+&lt;li>pontos fracos: &lt;strong>se não souberem se fazer entender, tornam-se uns chatos&lt;/strong>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="capitulo-2-a-dificuldade-de-planejar">
+ Capitulo 2. A dificuldade de planejar
+ &lt;a class="heading-link" href="#capitulo-2-a-dificuldade-de-planejar">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h4>
+&lt;ul>
+&lt;li>(pág. 33) &amp;ldquo;Quem não participa das finanças não percebe as metas serem atingidas gradativamente. Irá notar apenas o sacrifício no momento do desembolso.&amp;rdquo; Exemplo da mulher que recebeu um carro novo no final do ano, mas ficou com raiva por conta de tudo que teve que abrir mão durante o ano.&lt;/li>
+&lt;li>(pág. 35) Porque falhamos ao manter um plano de independência?
+&lt;ol>
+&lt;li>não nos colocamos em primeiro lugar&lt;/li>
+&lt;li>&amp;ldquo;deve-se levar em consideração que a burocrática rotina de controlar gastos e traçar estratégias não é tão prazerosa&amp;rdquo; &amp;ldquo;mas o hábito de estabelecer objetivos, traçar planos para atingi-los e colocá-los em prática pode ser muito gratificante, &lt;strong>sobretudo quando os objetivos são traçados a dois&lt;/strong> e têm como meta grandes conquistas&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;Sedução do dinheiro.&amp;rdquo; &amp;ldquo;&lt;strong>Se seus objetivos de vida não forem claramente estabelecidos, será muito difícil abrir mão da possibilidade de adquirir um item de consumo.&lt;/strong>&amp;rdquo;&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>(pág. 36 e 37) Os benefícios do planejamento financeiro de longo prazo
+&lt;ul>
+&lt;li>&amp;ldquo;Mais importante do que conquistar um padrão de vida é mantê-lo, e é para isso que devemos planejar.&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;É importante ter em mente que não há propósito em guardar dinheiro tão somente pelo ato de guardar em si.&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;O grande bem que o dinheiro pode lhes dar é permitir manter aquilo que vocês conquistaram&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="parte-2-planejamento-ao-longo-da-vida">
+ Parte 2. Planejamento ao longo da vida
+ &lt;a class="heading-link" href="#parte-2-planejamento-ao-longo-da-vida">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;h4 id="capitulo-4-as-finanças-dos-recém-casados">
+ Capitulo 4. As finanças dos recém-casados
+ &lt;a class="heading-link" href="#capitulo-4-as-finan%c3%a7as-dos-rec%c3%a9m-casados">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h4>
+&lt;ul>
+&lt;li>(pág. 62 e 63) Início do planejamento financeiro
+&lt;ul>
+&lt;li>&amp;ldquo;Qualquer casal pode fazer o próprio planejamento financeiro se dedicar alguns minutos por semana&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;&lt;strong>O planejamento financeiro familiar não pode ser complicado.&lt;/strong> Após dedicar algumas poucas horas a sua elaboração, basta fazer pequenos ajustes periódicos (talvez, semestralmente).&amp;rdquo; &amp;ldquo;se for dificil demais e lhes tomar muito tempo, vocês tenderão a abandoná-lo&amp;rdquo;&amp;quot;&lt;/li>
+&lt;li>Pontos essenciais no planejamento financeiro: &amp;ldquo;controle de gastos; estabelecimento de metas; disciplina com investimentos; ajustes referentes a inflação e mudanças na renda; administração do que se conquistou.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>(pág. 63 a 67) Orçamento: dá para cortar?
+&lt;ul>
+&lt;li>o fato de não sobrarem recursos para poupar não está nos grandes gastos, está nos pequenos, aqueles que fogem ao controle&lt;/li>
+&lt;li>&amp;ldquo;imponham limites a cada categoria de gastos e sigam com precisão&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;paguem-se primeiro, isto é, poupem o valor mensal previsto assim que receberem o salário&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;O casal deve incluir em seu orçamento recursos para formar uma poupança destinada a &amp;lsquo;reformar a casa&amp;rsquo; de tempos em tempos&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>(pág. 67 a 70) Estabelecendo metas
+&lt;ul>
+&lt;li>&amp;ldquo;o objetivo principal (do planejamento) é viabilizar a conquista dos sonhos. Se tiverem sucesso, seguramente conquistarão o objetivo de não sofrer com dificuldades financeiras.&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;Conversem sobre suas meas a dois e também sobre as metas individuais, analisem seu orçamento para adequá-lo à necessidadae de fazer reservas para essas metas.&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;O estabelecimento de compromissos por escrito ajuda a evitar as compras por impulso.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>(pág. 71 a 75) Independência financeira: o futuro garantido
+&lt;ul>
+&lt;li>&amp;ldquo;&lt;strong>A sensação de riqueza se mede pelo estado de espírito, e não pela conta bancária.&lt;/strong> É rico quem tem uma vida feliz, saúde para vivê-la e também uma renda garantida para manter essa felicidade conquistada ao longo da existência.&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;Se vocês vivem com R$ 3000,00 por mês e planejam manter-se com essa renda pelo resto da vida, precisam criar uma fonte de recursos que gere os R$ 3000,00 mensais indefinidamente.&amp;rdquo;&lt;/li>
+&lt;li>passos para a independência financeira: 1. &amp;ldquo;gastar menos do que se ganha&amp;rdquo;; 2. &amp;ldquo;traçar um plano que defina quanto poupar por mes e por quanto tempo&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;é correto investir sobra de recursos na antecipação da aposentadoria?&amp;rdquo; &amp;ldquo;Não. Se, de vez em quando, sobram recursos, não é pecado aproveitar esse bom momento e se dar o direito de alguns luxos&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>(pág. 75 e 76) Livrando-se das pedras no caminho
+&lt;ul>
+&lt;li>&amp;ldquo;É preciso declarar guerra às dívidas. Vocês devem fazer todos os esforços para pagar as dívidas no menor prazo possível.&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;Não há investimento bom para quem está atolado em dívidas.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>(pág. 81 a 83) Quando comprar a casa
+&lt;ul>
+&lt;li>Minhas notas: faltou levar em consideração: 1. maior dificuldade de manter uma poupanã com liquidez (é mais fácil sacar e gastar do que vender um imóvel e gastar); 2. a segurança emocional de ter algo próprio e não ter que se mudar caso o propietário peça o imóvel.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="capítulo-5-as-finanças-dos-casais-com-filhos">
+ Capítulo 5. As finanças dos casais com filhos
+ &lt;a class="heading-link" href="#cap%c3%adtulo-5-as-finan%c3%a7as-dos-casais-com-filhos">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h4>
+&lt;ul>
+&lt;li>(pág. 88 a 90) Planos de previdência e seguros
+&lt;ul>
+&lt;li>&amp;ldquo;a melhor solução é contratar apenas planos hospitalares, bem mais baratos, que cobrem acidentes e internações.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>(pág. 95 a 98) Os filhos devem conhecer o orçamento da família?
+&lt;ul>
+&lt;li>&amp;ldquo;dizer a uma criança que seu pai ganha, por exemplo, R$ 1.000,00 por mês pode gerar consequências bastante indesejáveis. É uma renda imensa para uma criança - mesmo que esse valor esteja abaixo do mínimo necessário para sustentar uma família&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;não se deve discutir sobre a poupança da família nem o planejamento para a independência financeira enquanto a criança não tiver maturidade para entender conceitos como aposentadoria e expectativa de vida.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="parte-3-um-futuro-a-dois-mais-rico">
+ Parte 3. Um futuro a dois mais rico
+ &lt;a class="heading-link" href="#parte-3-um-futuro-a-dois-mais-rico">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;h4 id="capítulo-8-valores-que-devem-ser-construídos-ao-longo-da-vida">
+ Capítulo 8. Valores que devem ser construídos ao longo da vida
+ &lt;a class="heading-link" href="#cap%c3%adtulo-8-valores-que-devem-ser-constru%c3%addos-ao-longo-da-vida">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h4>
+&lt;ul>
+&lt;li>(pág. 135 e 136) Como resistir à tentação de gastar
+&lt;ol>
+&lt;li>&amp;ldquo;incluir em minha planilha&amp;rdquo; &amp;ldquo;quanto recebo de juros de meus investimentos e quanto falta para conquistar a independência financeira&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;pensem em coisas que serão importantes para vocês no futuro&amp;rdquo;&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>(pág. 136 e 137) Adeus, rotina
+&lt;ul>
+&lt;li>&amp;ldquo;incluir, entre os gatos essenciais do mês, uma verba para sair da rotina&amp;rdquo; &amp;ldquo;Chamo essa verba de finanças da reconquista diária&amp;rdquo;&lt;/li>
+&lt;li>exemplos: &amp;ldquo;toda semana, conhecer um bar ou restaurante diferente&amp;rdquo; ou &amp;ldquo;a cada dois meses, viajar para algum lugar que não conhecem durante um fim de semana&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>(pág. 138 e 139) Sonhos de consumo
+&lt;ul>
+&lt;li>o valor de uma 2ª ou 3ª propriedade &amp;ldquo;- mais os custos de manutenção - pagaria férias fantásticas, talvez com frequência maior do que o usufruto da casa e sem preocupações com reparos nem limpeza&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;Não façam grandes negócios sem antes pensar alguns dias nos custos e nos benefícios.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="capítulo-10-a-riqueza-como-objetivo-de-vida">
+ Capítulo 10. A riqueza como objetivo de vida
+ &lt;a class="heading-link" href="#cap%c3%adtulo-10-a-riqueza-como-objetivo-de-vida">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h4>
+&lt;ul>
+&lt;li>&amp;ldquo;Se algum dia tiverem uma discussão áspera por erros de planejamento financeiro, parabéns. Não existe relacionamento sem pequenos conflitos. Se a razão do conflito for a busca de acordo em relação a um futuro melhor, ótimo. Ambos estão lutando por maior convergência.&amp;rdquo;&lt;/li>
+&lt;li>(pág. 157 e 158) Ganhem e doem
+&lt;ul>
+&lt;li>&amp;ldquo;Ganhem e doem: mas planejem-se para poder fazer isso sempre.&amp;rdquo;&lt;/li>
+&lt;li>&amp;ldquo;Se, ao doar, vocês não se permitirem sobras de recursos para investir em seu futuro, estarão prejudicando esse futuro e também o daqueles que precisam de sua ajuda.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>2024-06-30 - 2024-07-06</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-06-30---2024-07-06/</link><pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-06-30---2024-07-06/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-07-07---2024-07-13/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://learnxinyminutes.com/" class="external-link" target="_blank" rel="noopener">Learn X in Y minutes&lt;/a> - quick intro to many programming languages&lt;/li>
 &lt;/ul>
@@ -2311,7 +2761,9 @@ drivers (fila, HTTP, CLI, etc.).&lt;/li>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>In [&lt;span style="color:#cd00cd">5&lt;/span>]: g&lt;span style="color:#39c">.&lt;/span>send(&lt;span style="color:#cd00cd">2&lt;/span>)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Received: &lt;span style="color:#cd00cd">2&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Out[&lt;span style="color:#cd00cd">5&lt;/span>]: &lt;span style="color:#cd0000">&amp;#39;DATA&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item><item><title>Não eu, mas Deus</title><link>https://cezimbra.me/anotacoes/books/n%C3%A3o-eu-mas-deus/</link><pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/books/n%C3%A3o-eu-mas-deus/</guid><description>&lt;h2 id="minhas-notas">
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-07-07---2024-07-13/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>Não eu, mas Deus</title><link>https://cezimbra.me/anotacoes/books/n%C3%A3o-eu-mas-deus/</link><pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/books/n%C3%A3o-eu-mas-deus/</guid><description>&lt;h2 id="minhas-notas">
  Minhas Notas
  &lt;a class="heading-link" href="#minhas-notas">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -2560,7 +3012,12 @@ quiser, nós viveremos e faremos isto ou aquilo&amp;rsquo;&amp;rdquo; (Tg 4, 13-
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h2>
-&lt;p>References:&lt;/p></description></item><item><title>Django</title><link>https://cezimbra.me/anotacoes/django/</link><pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/django/</guid><description>&lt;ul>
+&lt;p>References:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/CypherpunkArmory/UserLAnd" class="external-link" target="_blank" rel="noopener">https://github.com/CypherpunkArmory/UserLAnd&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/CypherpunkArmory/UserLAnd/wiki/FAQ" class="external-link" target="_blank" rel="noopener">https://github.com/CypherpunkArmory/UserLAnd/wiki/FAQ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/CypherpunkArmory/UserLAnd/issues/1222" class="external-link" target="_blank" rel="noopener">https://github.com/CypherpunkArmory/UserLAnd/issues/1222&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Django</title><link>https://cezimbra.me/anotacoes/django/</link><pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/django/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://gist.github.com/lucasrcezimbra/69286c9f1cbdb355e242990d2bc85e02" class="external-link" target="_blank" rel="noopener">Snippet - Django password hashers time comparison&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cheatsheetseries.owasp.org/cheatsheets/Django_Security_Cheat_Sheet.html" class="external-link" target="_blank" rel="noopener">OWASP - Django Security Cheat Sheet&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/vitalik/django-ninja" class="external-link" target="_blank" rel="noopener">Ninja&lt;/a>
@@ -2574,7 +3031,214 @@ quiser, nós viveremos e faremos isto ou aquilo&amp;rsquo;&amp;rdquo; (Tg 4, 13-
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	&lt;span style="color:#cdcd00">if&lt;/span> &lt;span style="color:#cdcd00">not&lt;/span> hard:
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>		&lt;span style="color:#cdcd00">raise&lt;/span> DeleteError(&lt;span style="color:#cd0000">&amp;#34;Use Model.soft_delete()&amp;#34;&lt;/span>)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	&lt;span style="color:#cd00cd">super&lt;/span>()&lt;span style="color:#39c">.&lt;/span>delete(&lt;span style="color:#39c">*&lt;/span>args, &lt;span style="color:#39c">**&lt;/span>kwargs)ht
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item><item><title>Virtudes &amp; Liderança</title><link>https://cezimbra.me/anotacoes/books/virtudes--lideran%C3%A7a/</link><pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/books/virtudes--lideran%C3%A7a/</guid><description>&lt;h2 id="minhas-notas">
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>How to test unmanaged models? &lt;a href="https://stackoverflow.com/a/72593718" class="external-link" target="_blank" rel="noopener">Source&lt;/a>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># conftest.py&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">def&lt;/span> pytest_sessionstart():
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	&lt;span style="color:#cd00cd">from&lt;/span> django.apps &lt;span style="color:#cd00cd">import&lt;/span> apps
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	unmanaged_models &lt;span style="color:#39c">=&lt;/span> [m &lt;span style="color:#cdcd00">for&lt;/span> m &lt;span style="color:#cdcd00">in&lt;/span> apps&lt;span style="color:#39c">.&lt;/span>get_models() &lt;span style="color:#cdcd00">if&lt;/span> &lt;span style="color:#cdcd00">not&lt;/span> m&lt;span style="color:#39c">.&lt;/span>_meta&lt;span style="color:#39c">.&lt;/span>managed]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	&lt;span style="color:#cdcd00">for&lt;/span> m &lt;span style="color:#cdcd00">in&lt;/span> unmanaged_models:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>		m&lt;span style="color:#39c">.&lt;/span>_meta&lt;span style="color:#39c">.&lt;/span>managed &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cdcd00">True&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># pyproject.toml&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[tool&lt;span style="color:#39c">.&lt;/span>pytest&lt;span style="color:#39c">.&lt;/span>ini_options]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>addopts &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cd0000">&amp;#34;--no-migrations&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;code>virtual_only&lt;/code> fields
+&lt;ul>
+&lt;li>Advantages: 1. Improved performance; 2. Consistent interface; 3. Compatibility with Django’s ORM; 4. Integration with serialization.&lt;/li>
+&lt;li>from &lt;a href="https://henriquebastos.net/how-chatgpt-quickly-helped-me-understand-djangos-source-code" class="external-link" target="_blank" rel="noopener">https://henriquebastos.net/how-chatgpt-quickly-helped-me-understand-djangos-source-code&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;code>django.core.exceptions.ImproperlyConfigured: Cannot import '&amp;lt;app&amp;gt;'. Check that '&amp;lt;project&amp;gt;.&amp;lt;app&amp;gt;.apps.&amp;lt;App&amp;gt;Config.name' is correct.&lt;/code> #troubleshooting
+&lt;ul>
+&lt;li>Rename &lt;code>&amp;lt;App&amp;gt;Config.name&lt;/code> from &lt;code>&amp;lt;app&amp;gt;&lt;/code> to &lt;code>&amp;lt;project&amp;gt;.&amp;lt;app&amp;gt;&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.caktusgroup.com/blog/2019/04/26/how-switch-custom-django-user-model-mid-project/" class="external-link" target="_blank" rel="noopener">How to Switch to a Custom Django User Model Mid-Project&lt;/a> and &lt;a href="https://code.djangoproject.com/ticket/25313#comment:24" class="external-link" target="_blank" rel="noopener">Document how to migrate from a built-in User model to a custom User model&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="admin">
+ Admin
+ &lt;a class="heading-link" href="#admin">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/wuyue92tree/django-adminlte-ui" class="external-link" target="_blank" rel="noopener">AdminLTE&lt;/a> - Admin dashboard template based on Bootstrap&lt;/li>
+&lt;li>Awesome &lt;a href="https://github.com/iamfoysal/Best-Django-Admin-interface" class="external-link" target="_blank" rel="noopener">1&lt;/a> and &lt;a href="https://github.com/originalankur/awesome-django-admin" class="external-link" target="_blank" rel="noopener">2&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/farridav/django-jazzmin" class="external-link" target="_blank" rel="noopener">jazzmin&lt;/a> - AdminLTE 3 &amp;amp; Bootstrap 4&lt;/li>
+&lt;li>&lt;a href="https://github.com/assem-ch/django-jet-reboot" class="external-link" target="_blank" rel="noopener">JET Reboot&lt;/a> -&lt;/li>
+&lt;li>&lt;a href="https://github.com/globophobe/django-semantic-admin" class="external-link" target="_blank" rel="noopener">Semantic UI&lt;/a> - &lt;a href="https://globophobe.github.io/django-semantic-admin/" class="external-link" target="_blank" rel="noopener">Docs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://unfoldadmin.com/" class="external-link" target="_blank" rel="noopener">Unfold Admin&lt;/a> - &lt;a href="https://github.com/unfoldadmin/django-unfold" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> - HTMX, Alpine.js and TailwindCSS&lt;/li>
+&lt;li>&lt;a href="https://github.com/app-generator/django-admin-volt" class="external-link" target="_blank" rel="noopener">Volt&lt;/a> - Based on Bootstrap 5&lt;/li>
+&lt;/ul>
+&lt;h2 id="auth">
+ Auth
+ &lt;a class="heading-link" href="#auth">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.allauth.org/en/latest/" class="external-link" target="_blank" rel="noopener">django-allauth&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/python-social-auth/social-app-django" class="external-link" target="_blank" rel="noopener">social-app-django&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="graphql-server">
+ GraphQL Server
+ &lt;a class="heading-link" href="#graphql-server">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/mirumee/ariadne-django" class="external-link" target="_blank" rel="noopener">Ariadne&lt;/a>
+&lt;ul>
+&lt;li>Missing maintainer&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/graphql-python/graphene-django/" class="external-link" target="_blank" rel="noopener">Graphene&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.graphene-python.org/projects/django/en/latest/" class="external-link" target="_blank" rel="noopener">docs&lt;/a>&lt;/li>
+&lt;li>Poor integration between Models and Queries&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/strawberry-graphql/strawberry-graphql-django" class="external-link" target="_blank" rel="noopener">Strawberry&lt;/a>
+&lt;ul>
+&lt;li>Needs to define a schema class. Example:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>@strawberry.django.type(models&lt;span style="color:#39c">.&lt;/span>Fruit)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">class&lt;/span> &lt;span style="color:#00cdcd">Fruit&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cd00cd">id&lt;/span>: auto
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> name: auto
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> color: &lt;span style="color:#cd0000">&amp;#39;Color&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="">```&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;a href="https://github.com/tartiflette/tartiflette-aiohttp" class="external-link" target="_blank" rel="noopener">Tartiflette&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="health-check">
+ Health Check
+ &lt;a class="heading-link" href="#health-check">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/revsys/django-health-check" class="external-link" target="_blank" rel="noopener">django-health-check&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/mwarkentin/django-watchman" class="external-link" target="_blank" rel="noopener">django-watchman&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="multi-tenancy">
+ Multi-tenancy
+ &lt;a class="heading-link" href="#multi-tenancy">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>django-tenants - &lt;a href="https://github.com/django-tenants/django-tenants/" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>
+&lt;ul>
+&lt;li>Examples of projects using it: &lt;a href="https://github.com/bruecksen/bakeup" class="external-link" target="_blank" rel="noopener">bakeup&lt;/a>, &lt;a href="https://github.com/Healthlane-Technologies/Zango" class="external-link" target="_blank" rel="noopener">Zango&lt;/a>, &lt;a href="https://github.com/goauthentik/authentik/" class="external-link" target="_blank" rel="noopener">authentik&lt;/a>, &lt;a href="https://github.com/project-koku/koku" class="external-link" target="_blank" rel="noopener">koku&lt;/a>&lt;/li>
+&lt;li>django-tenant-users - [GitHub]
+&lt;ul>
+&lt;li>Examples: &lt;a href="https://github.com/Findus23/RPGnotes" class="external-link" target="_blank" rel="noopener">RPGnotes&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="requestresponse-cycle">
+ Request/Response Cycle
+ &lt;a class="heading-link" href="#requestresponse-cycle">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-fallback" data-lang="fallback">&lt;span style="display:flex;">&lt;span>flowchart TD
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>asgi[&amp;#34;(A|W)SGI&amp;#34;]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>db[Database]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>client[Client]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>subgraph Django
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	middlewares[Middlewares]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	urls[URLs]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	view[View]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	orm[ORM]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	templates[Templates]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	middlewares-- Request --&amp;gt;urls-- Request --&amp;gt;view
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	view-- Response --&amp;gt;middlewares
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	middlewares -. Query objects ...- orm
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	view-. Query objects ...- orm
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	view-. Render ...- templates
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>end
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>client&amp;lt;-- HTTP req/res --&amp;gt;asgi
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>asgi&amp;lt;-- Request/Response --&amp;gt;middlewares
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>orm&amp;lt;-. Query/Data .-&amp;gt;db
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="servers">
+ Servers
+ &lt;a class="heading-link" href="#servers">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="asgi">
+ ASGI
+ &lt;a class="heading-link" href="#asgi">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/django/daphne" class="external-link" target="_blank" rel="noopener">Daphne&lt;/a> - Django Channels HTTP/WebSocket server&lt;/li>
+&lt;li>&lt;a href="https://github.com/pgjones/hypercorn" class="external-link" target="_blank" rel="noopener">Hypercorn&lt;/a> -  ASGI and WSGI. Supports HTTP/1, HTTP/2, WebSockets (over HTTP/1 and HTTP/2). Can utilise asyncio, uvloop, or trio.&lt;/li>
+&lt;li>&lt;a href="https://github.com/jordaneremieff/mangum" class="external-link" target="_blank" rel="noopener">Mangum&lt;/a> - running ASGI applications in &lt;a href="https://cezimbra.me/anotacoes/aws/#lambda" >AWS#Lambda&lt;/a>.&lt;/li>
+&lt;li>&lt;a href="https://github.com/encode/uvicorn" class="external-link" target="_blank" rel="noopener">uvicorn&lt;/a> - supports HTTP/1.1 and WebSockets.&lt;/li>
+&lt;/ul>
+&lt;h3 id="wsgi">
+ WSGI
+ &lt;a class="heading-link" href="#wsgi">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/benoitc/gunicorn" class="external-link" target="_blank" rel="noopener">gunicorn&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/pgjones/hypercorn" class="external-link" target="_blank" rel="noopener">Hypercorn&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="testing">
+ Testing
+ &lt;a class="heading-link" href="#testing">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(pytest) How to define a project conftest (shared between all apps)?
+&lt;ul>
+&lt;li>The &lt;code>conftest.py&lt;/code> must be in the same directory of &lt;code>manage.py&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="tree-structures">
+ Tree structures
+ &lt;a class="heading-link" href="#tree-structures">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/django-mptt/django-mptt" class="external-link" target="_blank" rel="noopener">django-mptt&lt;/a> - Utilities for implementing Modified Preorder Tree Traversal (This project is currently unmaintained)&lt;/li>
+&lt;li>&lt;a href="https://github.com/BertrandBordage/django-tree" class="external-link" target="_blank" rel="noopener">django-tree&lt;/a> - Fast and easy tree structures (In beta, it can’t be used yet in production.)&lt;/li>
+&lt;li>&lt;a href="https://github.com/django-treebeard/django-treebeard" class="external-link" target="_blank" rel="noopener">django-treebeard&lt;/a> - Efficient tree implementations&lt;/li>
+&lt;li>&lt;a href="https://github.com/matthiask/django-tree-queries" class="external-link" target="_blank" rel="noopener">django-tree-queries&lt;/a> - Adjacency-list trees using recursive common table expressions&lt;/li>
+&lt;/ul></description></item><item><title>Virtudes &amp; Liderança</title><link>https://cezimbra.me/anotacoes/books/virtudes--lideran%C3%A7a/</link><pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/books/virtudes--lideran%C3%A7a/</guid><description>&lt;h2 id="minhas-notas">
  Minhas notas
  &lt;a class="heading-link" href="#minhas-notas">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -2589,7 +3253,11 @@ quiser, nós viveremos e faremos isto ou aquilo&amp;rsquo;&amp;rdquo; (Tg 4, 13-
  &lt;/a>
 &lt;/h3>
 &lt;p>A essência da liderança é o caráter. O conteúdo do caráter são as virtudes. A
-virtude aumenta a capacidade de ação e gera confiança.&lt;/p></description></item><item><title>Design de API</title><link>https://cezimbra.me/anotacoes/design-de-api/</link><pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/design-de-api/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLeKXYyZCJHxdD1CXDeEymwI1S9wlcsmYo" class="external-link" target="_blank" rel="noopener">https://www.youtube.com/playlist?list=PLeKXYyZCJHxdD1CXDeEymwI1S9wlcsmYo&lt;/a>&lt;/p>
+virtude aumenta a capacidade de ação e gera confiança.&lt;/p>
+&lt;p>A liderança não é de nascença. É uma vocação para muitos. Não está relacionada
+ao temperamento. É uma questão de caráter e o caráter não nos é imposto pela
+natureza. Fortalecemos nosso caráter pela pratica das virtudes. Ninguém nasce
+líder, torna-se através de treino e prática. Todos podem crescer nas virtudes.&lt;/p></description></item><item><title>Design de API</title><link>https://cezimbra.me/anotacoes/design-de-api/</link><pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/design-de-api/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/playlist?list=PLeKXYyZCJHxdD1CXDeEymwI1S9wlcsmYo" class="external-link" target="_blank" rel="noopener">https://www.youtube.com/playlist?list=PLeKXYyZCJHxdD1CXDeEymwI1S9wlcsmYo&lt;/a>&lt;/p>
 &lt;ul>
 &lt;li>API History
 &lt;ul>
@@ -3235,7 +3903,17 @@ Explicação GPT-4o:&lt;/p></description></item><item><title>Pesca</title><link>
 &lt;p>R$ 12.5 a cada R$ 1.000
 R$ 125 a cada R$ 10.000
 R$ 1250 a cada R$ 100.000
-R$ 1060 a cada R$ 100.000 (R$ -190)&lt;/p></description></item><item><title>Micro-SaaS</title><link>https://cezimbra.me/anotacoes/micro-saas/</link><pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/micro-saas/</guid><description>&lt;ul>
+R$ 1060 a cada R$ 100.000 (R$ -190)&lt;/p>
+&lt;h3 id="c6">
+ C6
+ &lt;a class="heading-link" href="#c6">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>R$ 17,50 a cada R$ 1.000 ($4)
+R$ 14 a cada R$ 1.000 ($5)
+R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS</title><link>https://cezimbra.me/anotacoes/micro-saas/</link><pubDate>Sat, 25 Nov 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/micro-saas/</guid><description>&lt;ul>
 &lt;li>
 &lt;p>Fake Door consiste em construir uma landingpage fake. Na hora da compra o cliente é avisado de que o produto ainda não está disponível.&lt;/p>
 &lt;/li>
@@ -4094,6 +4772,8 @@ R$ 1060 a cada R$ 100.000 (R$ -190)&lt;/p></description></item><item><title>Micr
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-08---2024-09-14/" >Weeknotes/2024-09-08 - 2024-09-14&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/postgresql/" >PostgreSQL&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-01---2024-09-07/" >Weeknotes/2024-09-01 - 2024-09-07&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/english/" >English&lt;/a>&lt;/li>
@@ -4107,7 +4787,6 @@ R$ 1060 a cada R$ 100.000 (R$ -190)&lt;/p></description></item><item><title>Micr
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/logging/" >Logging&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/do-zero-aos-r-10k-mrr-em-3-meses/" >Do zero aos R$ 10k MRR em 3 meses&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-08-11---2024-08-17/" >Weeknotes/2024-08-11 - 2024-08-17&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/postgresql/" >PostgreSQL&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/magnanimidade-vs-humildade/" >Magnanimidade vs Humildade&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/o-que-eu-faria-diferente/" >O que eu faria diferente&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/catolicismo/" >Catolicismo&lt;/a>&lt;/li>
@@ -4851,7 +5530,11 @@ aliviarei. (Mateus 11, 28)&lt;/p>
 &lt;p>São João Bosco&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
-&lt;p>O cristianismo é a única religião que tem um Deus feito homem&lt;/p></description></item><item><title>ChatGPT - Decimal approximation in Python</title><link>https://cezimbra.me/anotacoes/chatgpt---decimal-approximation-in-python/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/chatgpt---decimal-approximation-in-python/</guid><description>&lt;h2 id="lucas">
+&lt;p>O cristianismo é a única religião que tem um Deus feito homem&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&amp;ldquo;Ó feliz culpa (do pecado original)!&amp;rdquo; - hino do sábado de aleluia - porque
+despertou a misericórdia de Deus&lt;/p></description></item><item><title>ChatGPT - Decimal approximation in Python</title><link>https://cezimbra.me/anotacoes/chatgpt---decimal-approximation-in-python/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/chatgpt---decimal-approximation-in-python/</guid><description>&lt;h2 id="lucas">
  Lucas
  &lt;a class="heading-link" href="#lucas">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -4865,11 +5548,20 @@ aliviarei. (Mateus 11, 28)&lt;/p>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>In [&lt;span style="color:#cd00cd">3&lt;/span>]: Decimal(&lt;span style="color:#cd0000">&amp;#39;0.1&amp;#39;&lt;/span>)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Out[&lt;span style="color:#cd00cd">3&lt;/span>]: Decimal(&lt;span style="color:#cd0000">&amp;#39;0.1&amp;#39;&lt;/span>)
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Why it happens?&lt;/p>
+&lt;h2 id="chatgpt">
+ ChatGPT
+ &lt;a class="heading-link" href="#chatgpt">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
+&lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode24s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode25s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode24s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode25s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -5153,7 +5845,19 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>git clone git@github.com:&amp;lt;username&amp;gt;/&amp;lt;repo&amp;gt;.git
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git fetch origin pull/&amp;lt;pr_id&amp;gt;/head:&amp;lt;new-branch&amp;gt;
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git checkout &amp;lt;new-branch&amp;gt;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item><item><title>GitHub</title><link>https://cezimbra.me/anotacoes/github/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/github/</guid><description>&lt;h2 id="actions">
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>
+&lt;p>Moving specific directories to a new repository&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>mkdir &amp;lt;new-repo&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd00cd">cd&lt;/span> &amp;lt;new-repo&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git init
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git remote add &amp;lt;old-repo&amp;gt; git@github.com:&amp;lt;username&amp;gt;/&amp;lt;old-repo&amp;gt;.git
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git fetch &amp;lt;old-repo&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git merge &amp;lt;old-repo&amp;gt;/&amp;lt;master&amp;gt; --allow-unrelated-histories
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># Go to next bullet &amp;#34;Isolate commits...&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>
+&lt;p>Isolate commits related to specific directories using &lt;a href="https://github.com/newren/git-filter-repo" class="external-link" target="_blank" rel="noopener">git-filter-repo&lt;/a> &lt;a href="https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html" class="external-link" target="_blank" rel="noopener">&amp;ndash;path&lt;/a>&lt;/p></description></item><item><title>GitHub</title><link>https://cezimbra.me/anotacoes/github/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/github/</guid><description>&lt;h2 id="actions">
  Actions
  &lt;a class="heading-link" href="#actions">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -5225,7 +5929,9 @@ rolled back. For example:
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> title &lt;span style="color:#cd00cd">text&lt;/span> &lt;span style="color:#cdcd00">NOT&lt;/span> &lt;span style="color:#cdcd00">NULL&lt;/span>,
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> author_id &lt;span style="color:#cd00cd">integer&lt;/span> &lt;span style="color:#cdcd00">NOT&lt;/span> &lt;span style="color:#cdcd00">NULL&lt;/span> &lt;span style="color:#cdcd00">REFERENCES&lt;/span> users(id)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>);
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item><item><title>IoT</title><link>https://cezimbra.me/anotacoes/iot/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/iot/</guid><description>&lt;blockquote>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>If you retry the migration, it will fail because the users table already
+exists.&lt;/li>
+&lt;/ul></description></item><item><title>IoT</title><link>https://cezimbra.me/anotacoes/iot/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/iot/</guid><description>&lt;blockquote>
 &lt;p>LoRa (from &amp;ldquo;long range&amp;rdquo;) is a physical proprietary radio communication technique. (&amp;hellip;). The continued development of the LoRaWAN protocol is managed by the open, non-profit LoRa Alliance (&amp;hellip;).&lt;/p>
 &lt;p>Together, LoRa and LoRaWAN define a Low Power, Wide Area (LPWA) networking protocol designed to wirelessly connect battery operated devices to the internet in regional, national or global networks, and targets key Internet of things (IoT) requirements such as bi-directional communication, end-to-end security, mobility and localization services. The low power, low bit rate, and IoT use distinguish this type of network from a wireless WAN that is designed to connect users or businesses, and carry more data, using more power. The LoRaWAN data rate ranges from 0.3 kbit/s to 50 kbit/s per channel.&lt;/p></description></item><item><title>Javascript</title><link>https://cezimbra.me/anotacoes/javascript/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/javascript/</guid><description/></item><item><title>Joplin</title><link>https://cezimbra.me/anotacoes/joplin/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/joplin/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://github.com/laurent22/joplin/" class="external-link" target="_blank" rel="noopener">https://github.com/laurent22/joplin/&lt;/a>&lt;/li>
@@ -5286,7 +5992,107 @@ rolled back. For example:
 &lt;/li>
 &lt;li>How to print and redirect the stdout
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>&amp;lt;command&amp;gt; | tee &amp;lt;filename&amp;gt;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item><item><title>Livros</title><link>https://cezimbra.me/anotacoes/livros/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/livros/</guid><description>&lt;p>&lt;strong>Legenda&lt;/strong>&lt;/p>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Converting images from webp (or jpg, png, etc.) to jpg (or webp, png, etc) (&lt;a href="https://twitter.com/lucasrcezimbra/status/1718995187878256796" class="external-link" target="_blank" rel="noopener">Tweet&lt;/a>)
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>sudo apt install imagemagick
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>convert &amp;lt;file&amp;gt;.webp &amp;lt;file&amp;gt;.jpg
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>How to resize images
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo apt install imagemagick
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># Reducing quality&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>convert &amp;lt;input&amp;gt; -quality &amp;lt;n&amp;gt;% &amp;lt;output&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># Keeping aspect ratio&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>convert &amp;lt;input&amp;gt; -resize &amp;lt;w&amp;gt;x&amp;lt;h&amp;gt; &amp;lt;output&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># Ignoring aspect ratio&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>convert &amp;lt;input&amp;gt; -resize &amp;lt;w&amp;gt;x&amp;lt;h&amp;gt;! &amp;lt;output&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Listar e ordenar diretórios por tamanho
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>du -sh * | sort -hr
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Logar como outro usuário no terminal
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>su &lt;span style="color:#00cdcd">$OTHER_USER&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Gerar Lorem Ipsum pelo terminal
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo apt update &lt;span style="color:#39c">&amp;amp;&amp;amp;&lt;/span> sudo apt install libtext-lorem-perl
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>lorem -w &lt;span style="color:#cd00cd">96&lt;/span> &lt;span style="color:#000080"># 96 words&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>lorem -s &lt;span style="color:#cd00cd">8&lt;/span> &lt;span style="color:#000080"># 8 sentences&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>lorem -p &lt;span style="color:#cd00cd">12&lt;/span> &lt;span style="color:#000080"># 12 paragraphs&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Captive Portals - Acessar WiFi que precisa de autenticação pelo browser
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>ip --oneline route get 1.1.1.1 | awk &lt;span style="color:#cd0000">&amp;#39;{print $3}&amp;#39;&lt;/span> | xargs google-chrome
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Formatar pendrive
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>df -h
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># encontre o pendrive a ser formatado&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo umount /dev/sdXX
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo mkfs.vfat /dev/sdXX
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Pendrive bootavel
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>df -h
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># encontre o pendrive&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo umount /dev/sdXX
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>cp image.iso /dev/sdXX
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sync
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Comando &lt;code>time&lt;/code> (POSIX)
+&lt;ul>
+&lt;li>&lt;code>real&lt;/code> é o tempo total do processo, do início ao fim;&lt;/li>
+&lt;li>&lt;code>user&lt;/code> é o tempo de CPU gasto em user-mode (fora do Kernel);&lt;/li>
+&lt;li>&lt;code>sys&lt;/code> é o tempo de CPU gasto no Kernel (ex.: syscalls, alocação de memória, I/O, etc.);&lt;/li>
+&lt;li>&lt;code>user + sys&lt;/code> é o tempo total de CPU do processo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Ler o output de um processo
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>less /proc/&lt;span style="color:#00cdcd">$PID&lt;/span>/fd/1 &lt;span style="color:#000080">#stdout&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>less /proc/&lt;span style="color:#00cdcd">$PID&lt;/span>/fd/2 &lt;span style="color:#000080">#stderr&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Inverter o teclado - Símbolos serem primários e os números secundários (créditos ao &lt;a href="https://elmord.org/" class="external-link" target="_blank" rel="noopener">Vítor&lt;/a>)
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>xmodmap -pke | sed -nre &lt;span style="color:#cd0000">&amp;#39;s/keycode (1[0-9]) = ([^ ]*) ([^ ]*)/keycode \1 = \3 \2/p&amp;#39;&lt;/span> | xmodmap -
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>How to use SSH as SOCKS5 proxy
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>ssh -vCND localhost:9999 -i &amp;lt;path_to_id_rsa&amp;gt; &amp;lt;username&amp;gt;@&amp;lt;remote_server&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>How to learn what type (DDR?) memory my computer uses?
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>sudo dmidecode -t &lt;span style="color:#cd00cd">17&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Profiling zsh startup
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># .zshrc&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>zmodload zsh/zprof
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>...
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>zprof
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Run command skipping alias
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">\&amp;lt;&lt;/span>command&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;img src="https://cezimbra.me/anotacoes/Assets/linux-shell-skip-alias.png">&lt;/li>
+&lt;/ul>
+&lt;h2 id="debian">
+ Debian
+ &lt;a class="heading-link" href="#debian">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>How to validate a .desktop file
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>desktop-file-validate ~/.local/share/applications/&amp;lt;file&amp;gt;.desktop
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>How to load .desktop files
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>update-desktop-database ~/.local/share/applications/
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>How to install Apache Benchmark &lt;a href="https://packages.debian.org/sid/apache2-utils" class="external-link" target="_blank" rel="noopener">Package&lt;/a>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo apt install apache2-utils
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;h2 id="gpu">
+ GPU
+ &lt;a class="heading-link" href="#gpu">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>
+&lt;p>How to discover GPU. Options:&lt;/p></description></item><item><title>Livros</title><link>https://cezimbra.me/anotacoes/livros/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/livros/</guid><description>&lt;p>&lt;strong>Legenda&lt;/strong>&lt;/p>
 &lt;p>Status: ✅=Lido; 👀=Lendo; ☑=Para ler; ❌=Abandonado;&lt;/p>
 &lt;p>Tipo: 🛒=Não tenho; 📗=Físico; 📱=Digital&lt;/p>
 &lt;p>Nota: ⭐=Não gostei; ⭐⭐=Gostei; ⭐⭐⭐=Gostei muito; ⭐⭐⭐⭐=Favoritos;&lt;/p>
@@ -6817,7 +7623,56 @@ rolled back. For example:
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Name=Logseq
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Type=Application
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>.local/share/applications
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item><item><title>Media Servers</title><link>https://cezimbra.me/anotacoes/media-servers/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/media-servers/</guid><description>&lt;h2 id="emby">
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>from &lt;a href="https://thinkstack.club/how-to-set-up-an-automated-daily-template-in-logseq/" class="external-link" target="_blank" rel="noopener">https://thinkstack.club/how-to-set-up-an-automated-daily-template-in-logseq/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Arweave support &lt;a href="https://cezimbra.me/anotacoes/web3/" >Web3&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/logseq/logseq/pull/3220" class="external-link" target="_blank" rel="noopener">https://github.com/logseq/logseq/pull/3220&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://twitter.com/djwhitt/status/1462790586977689600" class="external-link" target="_blank" rel="noopener">https://twitter.com/djwhitt/status/1462790586977689600&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://twitter.com/logseq/status/1462590014722764802" class="external-link" target="_blank" rel="noopener">https://twitter.com/logseq/status/1462590014722764802&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="cheat-sheet">
+ Cheat sheet
+ &lt;a class="heading-link" href="#cheat-sheet">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;code>Ctrl+Up Arrow&lt;/code> - Collapse&lt;/li>
+&lt;li>&lt;code>Ctrl+Down Arrow&lt;/code> - Expand&lt;/li>
+&lt;li>Editing mode
+&lt;ul>
+&lt;li>&lt;code>alt+Right Arrow&lt;/code> - Zoom in editing block&lt;/li>
+&lt;li>&lt;code>alt+Left Arrow&lt;/code> - Zoom out editing block&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Normal mode
+&lt;ul>
+&lt;li>&lt;code>g s&lt;/code> - Go to Keyboard shortcuts page&lt;/li>
+&lt;li>&lt;code>g j&lt;/code> - Go to journals&lt;/li>
+&lt;li>&lt;code>g t&lt;/code> - Go to journals&lt;/li>
+&lt;li>&lt;code>alt+Right Arrow&lt;/code> - Forwards otherwise&lt;/li>
+&lt;li>&lt;code>alt+Left Arror&lt;/code> - Backwards otherwise&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="publishing">
+ Publishing
+ &lt;a class="heading-link" href="#publishing">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://docs.logseq.com/#/page/publishing" class="external-link" target="_blank" rel="noopener">https://docs.logseq.com/#/page/publishing&lt;/a>&lt;/li>
+&lt;li>Publish on Github &lt;a href="https://github.com/pengx17/logseq-publish" class="external-link" target="_blank" rel="noopener">https://github.com/pengx17/logseq-publish&lt;/a>&lt;/li>
+&lt;li>Export to Hugo - &lt;a href="https://github.com/sawhney17/logseq-schrodinger" class="external-link" target="_blank" rel="noopener">https://github.com/sawhney17/logseq-schrodinger&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Media Servers</title><link>https://cezimbra.me/anotacoes/media-servers/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/media-servers/</guid><description>&lt;h2 id="emby">
  Emby
  &lt;a class="heading-link" href="#emby">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -7149,7 +8004,16 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">with&lt;/span> tracer&lt;span style="color:#39c">.&lt;/span>start_as_current_span(&lt;span style="color:#cd0000">&amp;#34;span_name&amp;#34;&lt;/span>, context&lt;span style="color:#39c">=&lt;/span>context):
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#39c">...&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="">```&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item><item><title>Obsidian</title><link>https://cezimbra.me/anotacoes/obsidian/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/obsidian/</guid><description>&lt;h2 id="clipping">
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>How to rename &lt;code>RequestsInstrumentor&lt;/code> events? passing a function for the &lt;code>name_callback&lt;/code> argument&lt;/li>
+&lt;li>How to manually add &lt;code>trace_id&lt;/code> to a transaction
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span> context &lt;span style="color:#39c">=&lt;/span> context&lt;span style="color:#39c">=&lt;/span>get_global_textmap()&lt;span style="color:#39c">.&lt;/span>extract(app&lt;span style="color:#39c">.&lt;/span>current_request&lt;span style="color:#39c">.&lt;/span>headers)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">with&lt;/span> tracer&lt;span style="color:#39c">.&lt;/span>start_as_current_span(&lt;span style="color:#cd0000">&amp;#34;span_name&amp;#34;&lt;/span>, content&lt;span style="color:#39c">=&lt;/span>content):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#39c">...&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="">```&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#39c">-&lt;/span> [Example](https:&lt;span style="color:#39c">//&lt;/span>github&lt;span style="color:#39c">.&lt;/span>com&lt;span style="color:#39c">/&lt;/span>getsentry&lt;span style="color:#39c">/&lt;/span>sentry&lt;span style="color:#39c">-&lt;/span>python&lt;span style="color:#39c">/&lt;/span>blob&lt;span style="color:#39c">/&lt;/span>&lt;span style="color:#cd00cd">1e3&lt;/span>e1097e104abb39799b59654bf4f8725448909&lt;span style="color:#39c">/&lt;/span>sentry_sdk&lt;span style="color:#39c">/&lt;/span>integrations&lt;span style="color:#39c">/&lt;/span>opentelemetry&lt;span style="color:#39c">/&lt;/span>propagator&lt;span style="color:#39c">.&lt;/span>py&lt;span style="color:#000080">#L45) of a propagator (textmap) extract&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul></description></item><item><title>Obsidian</title><link>https://cezimbra.me/anotacoes/obsidian/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/obsidian/</guid><description>&lt;h2 id="clipping">
  Clipping
  &lt;a class="heading-link" href="#clipping">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -7176,7 +8040,12 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;li>&lt;a href="https://help.obsidian.md/Obsidian&amp;#43;Publish/Customize&amp;#43;your&amp;#43;site" class="external-link" target="_blank" rel="noopener">https://help.obsidian.md/Obsidian+Publish/Customize+your+site&lt;/a>&lt;/li>
 &lt;li>How to publish images?
 &lt;blockquote>
-&lt;p>need to publish the folder with the image files in it&lt;/p></description></item><item><title>OpenTelemetry</title><link>https://cezimbra.me/anotacoes/opentelemetry/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/opentelemetry/</guid><description/></item><item><title>Padre Paulo Ricardo</title><link>https://cezimbra.me/anotacoes/padre-paulo-ricardo/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/padre-paulo-ricardo/</guid><description>&lt;ul>
+&lt;p>need to publish the folder with the image files in it&lt;/p>
+&lt;p>from &lt;a href="https://forum.obsidian.md/t/images-in-publish/14665/4" class="external-link" target="_blank" rel="noopener">https://forum.obsidian.md/t/images-in-publish/14665/4&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/devidw/obsidian-to-hugo" class="external-link" target="_blank" rel="noopener">https://github.com/devidw/obsidian-to-hugo&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>OpenTelemetry</title><link>https://cezimbra.me/anotacoes/opentelemetry/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/opentelemetry/</guid><description/></item><item><title>Padre Paulo Ricardo</title><link>https://cezimbra.me/anotacoes/padre-paulo-ricardo/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/padre-paulo-ricardo/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://padrepauloricardo.org/" class="external-link" target="_blank" rel="noopener">https://padrepauloricardo.org/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/catequese-para-adultos/" >Catequese para Adultos&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>PDF</title><link>https://cezimbra.me/anotacoes/pdf/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/pdf/</guid><description>&lt;h2 id="how-to-merge-images-into-pdf">
@@ -7203,7 +8072,7 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>merger&lt;span style="color:#39c">.&lt;/span>append(path &lt;span style="color:#39c">/&lt;/span> &lt;span style="color:#cd0000">&amp;#39;casa2.pdf&amp;#39;&lt;/span>)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>merger&lt;span style="color:#39c">.&lt;/span>write(path &lt;span style="color:#39c">/&lt;/span> &lt;span style="color:#cd0000">&amp;#39;casa.pdf&amp;#39;&lt;/span>)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>merger&lt;span style="color:#39c">.&lt;/span>close()
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item><item><title>Porto Alegre</title><link>https://cezimbra.me/anotacoes/porto-alegre/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/porto-alegre/</guid><description>&lt;h2 id="restaurantes">
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Porto Alegre</title><link>https://cezimbra.me/anotacoes/porto-alegre/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/porto-alegre/</guid><description>&lt;h2 id="restaurantes">
  Restaurantes
  &lt;a class="heading-link" href="#restaurantes">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -7312,7 +8181,30 @@ WhatsApp: (51) 3320-3000&lt;/li>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	 print_tree(child, indent, level&lt;span style="color:#39c">+&lt;/span>&lt;span style="color:#cd00cd">1&lt;/span>)
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;li>
-&lt;p>How to get the args names from a function?&lt;/p></description></item><item><title>Raspberry</title><link>https://cezimbra.me/anotacoes/raspberry/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/raspberry/</guid><description>&lt;h2 id="lite-os">
+&lt;p>How to get the args names from a function?&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd00cd">import&lt;/span> inspect
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>inspect&lt;span style="color:#39c">.&lt;/span>getfullargspec(&lt;span style="color:#39c">&amp;lt;&lt;/span>func&lt;span style="color:#39c">&amp;gt;&lt;/span>)&lt;span style="color:#39c">.&lt;/span>args
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>In [&lt;span style="color:#cd00cd">1&lt;/span>]: &lt;span style="color:#cd00cd">import&lt;/span> inspect
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>In [&lt;span style="color:#cd00cd">2&lt;/span>]: &lt;span style="color:#cdcd00">def&lt;/span> f(x,y):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#39c">...&lt;/span>: &lt;span style="color:#cdcd00">pass&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#39c">...&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>In [&lt;span style="color:#cd00cd">3&lt;/span>]: inspect&lt;span style="color:#39c">.&lt;/span>getfullargspec(f)&lt;span style="color:#39c">.&lt;/span>args
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Out[&lt;span style="color:#cd00cd">3&lt;/span>]: [&lt;span style="color:#cd0000">&amp;#39;x&amp;#39;&lt;/span>, &lt;span style="color:#cd0000">&amp;#39;y&amp;#39;&lt;/span>]
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>
+&lt;p>Why avoid initing Decimal from float (&lt;a href="https://twitter.com/lucasrcezimbra/status/1696892876116914633" class="external-link" target="_blank" rel="noopener">Tweet&lt;/a>)&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>In [&lt;span style="color:#cd00cd">1&lt;/span>]: &lt;span style="color:#cd00cd">from&lt;/span> decimal &lt;span style="color:#cd00cd">import&lt;/span> Decimal
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>In [&lt;span style="color:#cd00cd">2&lt;/span>]: Decimal(&lt;span style="color:#cd00cd">0.1&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Out[&lt;span style="color:#cd00cd">2&lt;/span>]: Decimal(&lt;span style="color:#cd0000">&amp;#39;0.1000000000000000055511151231257827021181583404541015625&amp;#39;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>In [&lt;span style="color:#cd00cd">3&lt;/span>]: Decimal(&lt;span style="color:#cd0000">&amp;#39;0.1&amp;#39;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Out[&lt;span style="color:#cd00cd">3&lt;/span>]: Decimal(&lt;span style="color:#cd0000">&amp;#39;0.1&amp;#39;&lt;/span>)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>
+&lt;p>Why avoid using mutable objects as default args (&lt;a href="https://twitter.com/lucasrcezimbra/status/1697723506727715020" class="external-link" target="_blank" rel="noopener">Tweet&lt;/a>)&lt;/p></description></item><item><title>Raspberry</title><link>https://cezimbra.me/anotacoes/raspberry/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/raspberry/</guid><description>&lt;h2 id="lite-os">
  Lite OS
  &lt;a class="heading-link" href="#lite-os">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -7341,7 +8233,25 @@ WhatsApp: (51) 3320-3000&lt;/li>
 &lt;/h3>
 &lt;ol>
 &lt;li>
-&lt;p>Download .deb packages&lt;/p></description></item><item><title>Scrapers</title><link>https://cezimbra.me/anotacoes/scrapers/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/scrapers/</guid><description>&lt;h2 id="instagram">
+&lt;p>Download .deb packages&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>wget https://download.docker.com/linux/raspbian/dists/bullseye/pool/stable/armhf/containerd.io_1.6.21-1_armhf.deb
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>wget https://download.docker.com/linux/raspbian/dists/bullseye/pool/stable/armhf/docker-ce_24.0.2-1~raspbian.11~bullseye_armhf.deb
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>wget https://download.docker.com/linux/raspbian/dists/bullseye/pool/stable/armhf/docker-ce-cli_24.0.2-1~raspbian.11~bullseye_armhf.deb
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>wget https://download.docker.com/linux/raspbian/dists/bullseye/pool/stable/armhf/docker-buildx-plugin_0.10.5-1~raspbian.11~bullseye_armhf.deb
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>wget https://download.docker.com/linux/raspbian/dists/bullseye/pool/stable/armhf/docker-compose-plugin_2.18.1-1~raspbian.11~bullseye_armhf.deb
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>
+&lt;p>Install&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo apt update
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt install iptables-persistent
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo dpkg -i containerd.io_1.6.21-1_armhf.deb &lt;span style="color:#cd0000">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span>	docker-ce_24.0.2-1~raspbian.11~bullseye_armhf.deb &lt;span style="color:#cd0000">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span>	docker-ce-cli_24.0.2-1~raspbian.11~bullseye_armhf.deb &lt;span style="color:#cd0000">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span>	docker-buildx-plugin_0.10.5-1~raspbian.11~bullseye_armhf.deb &lt;span style="color:#cd0000">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span>	docker-compose-plugin_2.18.1-1~raspbian.11~bullseye_armhf.deb
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>
+&lt;p>Add user to docker group to use without &lt;code>sudo&lt;/code>&lt;/p></description></item><item><title>Scrapers</title><link>https://cezimbra.me/anotacoes/scrapers/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/scrapers/</guid><description>&lt;h2 id="instagram">
  Instagram
  &lt;a class="heading-link" href="#instagram">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -7372,7 +8282,11 @@ WhatsApp: (51) 3320-3000&lt;/li>
 &lt;li>&lt;a href="https://github.com/ookamiiixd/baileys-api" class="external-link" target="_blank" rel="noopener">https://github.com/ookamiiixd/baileys-api&lt;/a> - &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
 &lt;blockquote>
 &lt;p>Não recomendo. Muito trabalhoso e [&amp;hellip;] vai ser descontinuado
-&lt;a href="https://moacirmoda.com/" class="external-link" target="_blank" rel="noopener">Moacir Moda&lt;/a>&lt;/p></description></item><item><title>Sentry</title><link>https://cezimbra.me/anotacoes/sentry/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/sentry/</guid><description>&lt;ul>
+&lt;a href="https://moacirmoda.com/" class="external-link" target="_blank" rel="noopener">Moacir Moda&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/wppconnect-team/wppconnect" class="external-link" target="_blank" rel="noopener">https://github.com/wppconnect-team/wppconnect&lt;/a> - &lt;a href="https://cezimbra.me/anotacoes/javascript/" >Javascript&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Sentry</title><link>https://cezimbra.me/anotacoes/sentry/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/sentry/</guid><description>&lt;ul>
 &lt;li>How to Discover what project and environment is sending too many events?
 &lt;ul>
 &lt;li>&lt;code>https://&amp;lt;tenant&amp;gt;.sentry.io/discover/homepage/?field=title&amp;amp;field=event.type&amp;amp;field=project&amp;amp;field=user.display&amp;amp;field=timestamp&amp;amp;field=replayId&amp;amp;name=All+Events&amp;amp;query=event.type%3Atransaction&amp;amp;sort=-timestamp&amp;amp;statsPeriod=30d&amp;amp;yAxis=count%28%29&lt;/code>&lt;/li>
@@ -7461,7 +8375,15 @@ WhatsApp: (51) 3320-3000&lt;/li>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h2>
-&lt;p>If you write a problem down clearly and specifically, you have solved half of it.&lt;/p></description></item><item><title>Vim</title><link>https://cezimbra.me/anotacoes/vim/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/vim/</guid><description>&lt;ul>
+&lt;p>If you write a problem down clearly and specifically, you have solved half of it.&lt;/p>
+&lt;h2 id="gilbert-law">
+ Gilbert Law
+ &lt;a class="heading-link" href="#gilbert-law">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>When you take on a task, finding the best ways to achieve the desired results is always your responsibility.&lt;/p></description></item><item><title>Vim</title><link>https://cezimbra.me/anotacoes/vim/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/vim/</guid><description>&lt;ul>
 &lt;li>Profilling startup time
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/dstein64/vim-startuptime" class="external-link" target="_blank" rel="noopener">https://github.com/dstein64/vim-startuptime&lt;/a>&lt;/li>
@@ -7482,7 +8404,94 @@ WhatsApp: (51) 3320-3000&lt;/li>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;li>Search and delete all lines
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-vim" data-lang="vim">&lt;span style="display:flex;">&lt;span>:g&lt;span style="color:#cd0000">/&amp;lt;pattern&amp;gt;/&lt;/span>d
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item><item><title>Web3</title><link>https://cezimbra.me/anotacoes/web3/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/web3/</guid><description>&lt;blockquote>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Search and delete all lines that do NOT match
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-vim" data-lang="vim">&lt;span style="display:flex;">&lt;span>:g!&lt;span style="color:#cd0000">/&amp;lt;pattern&amp;gt;/&lt;/span>d
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Search and replace
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-vim" data-lang="vim">&lt;span style="display:flex;">&lt;span>:s&lt;span style="color:#cd0000">/remove(.*)/&lt;/span>\&lt;span style="color:#cd00cd">1&lt;/span>/
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;h2 id="neovim">
+ Neovim
+ &lt;a class="heading-link" href="#neovim">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>config .vimrc &lt;code>~/.config/nvim/init.vim&lt;/code>&lt;/li>
+&lt;li>Error: &lt;code>No &amp;quot;python3&amp;quot; provider found.&lt;/code> #troubleshooting
+&lt;ul>
+&lt;li>&lt;code>let g:python3_host_prog = &amp;quot;~/.pyenv/shims/python&amp;quot;&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Error: &lt;code>Vim(lua):E5105: Error while calling lua chunk: ..are/nvim/plugged/telescope.nvim/lua/telescope/health.lua:1: module 'health' not found:&lt;/code> #troubleshooting
+&lt;ul>
+&lt;li>Update neovim from 0.4.4 to 0.8.2 by uninstalling apt version and installing snap version.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>vim-illuminate not highlighting #troubleshooting
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/RRethy/vim-illuminate/issues/154" class="external-link" target="_blank" rel="noopener">https://github.com/RRethy/vim-illuminate/issues/154&lt;/a>&lt;/li>
+&lt;li>&lt;code>set termguicolors&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="creating-a-new-plugin">
+ Creating a new plugin
+ &lt;a class="heading-link" href="#creating-a-new-plugin">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Tutorials
+&lt;ul>
+&lt;li>&lt;a href="https://lyz-code.github.io/blue-book/vim_plugin_development" class="external-link" target="_blank" rel="noopener">Neovim Plugin Development&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Templates
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/ellisonleao/nvim-plugin-template" class="external-link" target="_blank" rel="noopener">ellisonleao/nvim-plugin-template&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/nvimdev/nvim-plugin-template" class="external-link" target="_blank" rel="noopener">nvimdev/nvim-plugin-template&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/nvim-lua/nvim-lua-plugin-template" class="external-link" target="_blank" rel="noopener">nvim-lua/nvim-lua-plugin-template&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/jacobsimpson/nvim-example-python-plugin" class="external-link" target="_blank" rel="noopener">jacobsimpson/nvim-example-python-plugin&lt;/a> -
+template for plugins written in Python&lt;/li>
+&lt;li>&lt;a href="https://github.com/FGtatsuro/cookiecutter-neovim-plugin" class="external-link" target="_blank" rel="noopener">FGtatsuro/cookiecutter-neovim-plugin&lt;/a> -
+last commit 6 years ago&lt;/li>
+&lt;li>&lt;a href="https://github.com/gennaro-tedesco/boilit" class="external-link" target="_blank" rel="noopener">gennaro-tedesco/boilit&lt;/a> -
+didn&amp;rsquo;t like; it&amp;rsquo;s a CLI written in Go, not a template&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="lunarvim">
+ Lunarvim
+ &lt;a class="heading-link" href="#lunarvim">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Error while lunarvim installation &lt;code>unknown flag 'u'&lt;/code>
+&lt;ul>
+&lt;li>Uninstall nvim installed using snap&lt;/li>
+&lt;li>&lt;a href="https://github.com/LunarVim/LunarVim/issues/3612" class="external-link" target="_blank" rel="noopener">https://github.com/LunarVim/LunarVim/issues/3612&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h4 id="plugins">
+ Plugins
+ &lt;a class="heading-link" href="#plugins">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h4>
+&lt;p>✅ = using
+🧪 = testing
+❔ = to test
+❌ = discarded
+🧊 = unmaintained&lt;/p></description></item><item><title>Web3</title><link>https://cezimbra.me/anotacoes/web3/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/web3/</guid><description>&lt;blockquote>
 &lt;p>&lt;strong>Fundador do Twitter aumenta para 10 BTC recompensa para quem criar alternativa descentralizada ao GitHub:&lt;/strong> para Jack Dorsey, esse novo sistema para controle de versões seria idealmente baseado no Nostr, protocolo criado pelo desenvolvedor brasileiro “fiatjaf”. As informações são do perfil de Dorsey na rede Nostr.&lt;/p>
 &lt;/blockquote>
 &lt;p>from Filipe Deschamps Newsletter&lt;/p>
@@ -8485,7 +9494,16 @@ WhatsApp: (51) 3320-3000&lt;/li>
 &lt;/h2>
 &lt;ul>
 &lt;li>
-&lt;p>Formulários:&lt;/p></description></item><item><title>Entregabilidade de E-mails</title><link>https://cezimbra.me/anotacoes/entregabilidade-de-e-mails/</link><pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/entregabilidade-de-e-mails/</guid><description>&lt;h2 id="ferramentas-de-testes">
+&lt;p>Formulários:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080">#@title Exemplos de Campos {run: &amp;#34;auto&amp;#34;}&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>texto &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cd0000">&amp;#39;valor da string&amp;#39;&lt;/span> &lt;span style="color:#000080">#@param {type:&amp;#34;string&amp;#34;}&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>melhor_cidade &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cd0000">&amp;#39;Araraquara&amp;#39;&lt;/span> &lt;span style="color:#000080">#@param [&amp;#34;Araraquara&amp;#34;, &amp;#34;Londres&amp;#34;, &amp;#34;Dublin&amp;#34;]&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>data_curso &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cd0000">&amp;#39;2019-09-16&amp;#39;&lt;/span> &lt;span style="color:#000080">#@param {type:&amp;#34;date&amp;#34;}&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>number_slider &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cd00cd">6&lt;/span> &lt;span style="color:#000080">#@param {type:&amp;#34;slider&amp;#34;, min:0, max:10, step:0.1}&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>boolean_checkbox &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cdcd00">True&lt;/span> &lt;span style="color:#000080">#@param {type:&amp;#34;boolean&amp;#34;}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul></description></item><item><title>Entregabilidade de E-mails</title><link>https://cezimbra.me/anotacoes/entregabilidade-de-e-mails/</link><pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/entregabilidade-de-e-mails/</guid><description>&lt;h2 id="ferramentas-de-testes">
  Ferramentas de testes
  &lt;a class="heading-link" href="#ferramentas-de-testes">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -8828,7 +9846,18 @@ WhatsApp: (51) 3320-3000&lt;/li>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> pg_stat_activity
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">WHERE&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">state&lt;/span> &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cd0000">&amp;#39;active&amp;#39;&lt;/span> &lt;span style="color:#cdcd00">OR&lt;/span> &lt;span style="color:#cdcd00">state&lt;/span> &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cd0000">&amp;#39;idle in transaction&amp;#39;&lt;/span>;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item><item><title>Tornando-se um Estudante Sério</title><link>https://cezimbra.me/anotacoes/tornando-se-um-estudante-serio/</link><pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/tornando-se-um-estudante-serio/</guid><description>&lt;h2 id="ii---mapeamento-da-ignorancia-atenção-procrastrinação">
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;p>Como listar todas as tabelas do banco&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sql" data-lang="sql">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">SELECT&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#39c">*&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">FROM&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> pg_catalog.pg_tables
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">WHERE&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> schemaname &lt;span style="color:#39c">!=&lt;/span> &lt;span style="color:#cd0000">&amp;#39;pg_catalog&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">AND&lt;/span> schemaname &lt;span style="color:#39c">!=&lt;/span> &lt;span style="color:#cd0000">&amp;#39;information_schema&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Como apagar todas as tabelas do banco &amp;#x26a0;&amp;#xfe0f;&lt;/p></description></item><item><title>Tornando-se um Estudante Sério</title><link>https://cezimbra.me/anotacoes/tornando-se-um-estudante-serio/</link><pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/tornando-se-um-estudante-serio/</guid><description>&lt;h2 id="ii---mapeamento-da-ignorancia-atenção-procrastrinação">
  II - Mapeamento da Ignorancia, Atenção, Procrastrinação
  &lt;a class="heading-link" href="#ii---mapeamento-da-ignorancia-aten%c3%a7%c3%a3o-procrastrina%c3%a7%c3%a3o">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -8865,14 +9894,24 @@ cansado? Não tenho interesse? Me distraio muito facilmente? etc&amp;hellip;&lt;
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> my_table
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">TO&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> my_user;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pr</description></item><item><title>MongoDB</title><link>https://cezimbra.me/anotacoes/mongodb/</link><pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/mongodb/</guid><description>&lt;p>Como filtrar e atualizar elementos de um array&lt;/p>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>MongoDB</title><link>https://cezimbra.me/anotacoes/mongodb/</link><pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/mongodb/</guid><description>&lt;p>Como filtrar e atualizar elementos de um array&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080">// Atualiza para &amp;#39;Python&amp;#39; todas as tags que o atributo &amp;#39;nome&amp;#39; seja igual &amp;#39;Phyton&amp;#39;
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080">&lt;/span>db.collection.updateMany(
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {},
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {&lt;span style="color:#cd0000">&amp;#39;$set&amp;#39;&lt;/span>&lt;span style="color:#39c">:&lt;/span> {&lt;span style="color:#cd0000">&amp;#39;tags.$[tag].nome&amp;#39;&lt;/span>&lt;span style="color:#39c">:&lt;/span> &lt;span style="color:#cd0000">&amp;#39;Python&amp;#39;&lt;/span>}},
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {arrayFilters&lt;span style="color:#39c">:&lt;/span> [{&lt;span style="color:#cd0000">&amp;#39;tag.nome&amp;#39;&lt;/span>&lt;span style="color:#39c">:&lt;/span> &lt;span style="color:#cd0000">&amp;#39;Phyton&amp;#39;&lt;/span>}]}
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>)
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Como atualizar nomes de campos de todos documentos de uma collection&lt;/p></description></item><item><title>Como criar um senso de urgência</title><link>https://cezimbra.me/anotacoes/como-criar-um-senso-de-urgencia/</link><pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/como-criar-um-senso-de-urgencia/</guid><description>&lt;p>&lt;a href="http://mundoraiam.com/vagabundo/" class="external-link" target="_blank" rel="noopener">http://mundoraiam.com/vagabundo/&lt;/a>&lt;/p>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Como atualizar nomes de campos de todos documentos de uma collection&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>db.collection.updateMany(
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {},
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> {$rename&lt;span style="color:#39c">:&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cd0000">&amp;#39;campo_antigo&amp;#39;&lt;/span>&lt;span style="color:#39c">:&lt;/span> &lt;span style="color:#cd0000">&amp;#39;campo_novo&amp;#39;&lt;/span>,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cd0000">&amp;#39;segundo_campo_antigo&amp;#39;&lt;/span>&lt;span style="color:#39c">:&lt;/span> &lt;span style="color:#cd0000">&amp;#39;segundo_campo_novo&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> }}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Como filtrar pelo tamanho de uma string&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>db.collection.find({&lt;span style="color:#cd0000">&amp;#34;$expr&amp;#34;&lt;/span>&lt;span style="color:#39c">:&lt;/span> {&lt;span style="color:#cd0000">&amp;#34;$lte&amp;#34;&lt;/span>&lt;span style="color:#39c">:&lt;/span> [{&lt;span style="color:#cd0000">&amp;#34;$strLenCP&amp;#34;&lt;/span>&lt;span style="color:#39c">:&lt;/span> &lt;span style="color:#cd0000">&amp;#34;$FIELD&amp;#34;&lt;/span>}, &lt;span style="color:#cd00cd">4&lt;/span>]}})
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Como atualizar um campo de todos documentos com a data atual&lt;/p></description></item><item><title>Como criar um senso de urgência</title><link>https://cezimbra.me/anotacoes/como-criar-um-senso-de-urgencia/</link><pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/como-criar-um-senso-de-urgencia/</guid><description>&lt;p>&lt;a href="http://mundoraiam.com/vagabundo/" class="external-link" target="_blank" rel="noopener">http://mundoraiam.com/vagabundo/&lt;/a>&lt;/p>
 &lt;ul>
 &lt;li>Colocando um objetivo tangível com data de validade e escrevendo ele todos os dias no teu caderno&lt;/li>
 &lt;li>Escrevendo uma lista diária de “Coisas que eu não faço por falta de dinheiro”&lt;/li>
