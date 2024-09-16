@@ -1,7 +1,7 @@
 ---
 title: "Catolicismo"
 date: 2023-08-15
-lastmod: 2024-08-13
+lastmod: 2024-09-16
 ---
 > Sê firme, amável e justo.
 
@@ -284,6 +284,13 @@ lastmod: 2024-08-13
 
 > Inspirai, Senhor, as nossas ações e ajudai-nos a realizá-las, para que em Vós
 > comece e termine tudo aquilo que fizermos. Por Cristo, Senhor nosso. Amém.
+
+> Senhor Deus, Rei do céu e da terra, dignai-vos dirigir e santificar, mandar e
+> governar os nossos corações e os nossos corpos, os nossos pensamentos, as
+> nossas palavras e as nossas ações, segundo a vossa lei e no cumprimento dos
+> vossos mandamentos, afim de que aqui e eternamente com vosso auxílio mereçamos
+> alcançar a salvação e a liberdade, ó Salvador do mundo, que viveis e
+> reinais por todos os séculos dos séculos, Amém.
 
 > Senhor, Pai Santo, Deus eterno e todo-poderoso, nós vos damos graças e
 > bendizemos o vosso Santo Nome. Vós criastes o homem e a mulher para serem
