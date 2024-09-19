@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Tue, 17 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-09-15 - 2024-09-21</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-08---2024-09-14/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 19 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-09-15 - 2024-09-21</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-08---2024-09-14/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -45,6 +45,20 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
 &lt;li>&lt;a href="https://docs.scrapy.org/en/0.24/topics/djangoitem.html" class="external-link" target="_blank" rel="noopener">Scrapy + Django&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/aws-amplify/amplify-ui" class="external-link" target="_blank" rel="noopener">Amplify UI&lt;/a> - #OpenSource React
 components that can connect directly to AWS&lt;/li>
+&lt;li>&lt;a href="https://django-model-utils.readthedocs.io/en/latest/utilities.html#field-tracker" class="external-link" target="_blank" rel="noopener">django-model-utils - Field Tracker&lt;/a> -
+&lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a> diff between saved and non-saved objects
+&lt;ul>
+&lt;li>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#39c">&amp;gt;&amp;gt;&amp;gt;&lt;/span> o &lt;span style="color:#39c">=&lt;/span> MyModel&lt;span style="color:#39c">.&lt;/span>objects&lt;span style="color:#39c">.&lt;/span>create(f1&lt;span style="color:#39c">=&lt;/span>&lt;span style="color:#cd0000">&amp;#39;V 1&amp;#39;&lt;/span>, f2&lt;span style="color:#39c">=&lt;/span>&lt;span style="color:#cd0000">&amp;#39;V 2&amp;#39;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#39c">&amp;gt;&amp;gt;&amp;gt;&lt;/span> o&lt;span style="color:#39c">.&lt;/span>f1 &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cd0000">&amp;#39;V 1.1&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#39c">&amp;gt;&amp;gt;&amp;gt;&lt;/span> o&lt;span style="color:#39c">.&lt;/span>f2 &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cd0000">&amp;#39;V 2.1&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#39c">&amp;gt;&amp;gt;&amp;gt;&lt;/span> o&lt;span style="color:#39c">.&lt;/span>tracker&lt;span style="color:#39c">.&lt;/span>changed()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>{&lt;span style="color:#cd0000">&amp;#39;f1&amp;#39;&lt;/span>: &lt;span style="color:#cd0000">&amp;#39;V 1.1&amp;#39;&lt;/span>, &lt;span style="color:#cd0000">&amp;#39;f2&amp;#39;&lt;/span>: &lt;span style="color:#cd0000">&amp;#39;V 2.1&amp;#39;&lt;/span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://touchcast.com/cogcache" class="external-link" target="_blank" rel="noopener">Cogcache&lt;/a> - Cache for &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>s
+based on semantic search&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-articles">
  Read articles
@@ -4855,6 +4869,7 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/" >Weeknotes/2024-09-15 - 2024-09-21&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/web3/" >Web3&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/catolicismo/" >Catolicismo&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-08---2024-09-14/" >Weeknotes/2024-09-08 - 2024-09-14&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/postgresql/" >PostgreSQL&lt;/a>&lt;/li>
@@ -4911,7 +4926,6 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/using-android-as-linux-server/" >Using Android as Linux Server&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/auth/" >Auth&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/scrapers/" >Scrapers&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/web3/" >Web3&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/observability/" >Observability&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/nespresso/" >Nespresso&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/vida-de-s%C3%A3o-jo%C3%A3o-paulo-ii/" >Vida de São João Paulo II&lt;/a>&lt;/li>
@@ -5229,9 +5243,9 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode26s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode26s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -5642,9 +5656,9 @@ despertou a misericórdia de Deus&lt;/p></description></item><item><title>ChatGP
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode24s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode23s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode24s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode23s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -5836,9 +5850,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode38s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode36s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode38s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode36s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -8575,13 +8589,18 @@ didn&amp;rsquo;t like; it&amp;rsquo;s a CLI written in Go, not a template&lt;/li
 ❔ = to test
 ❌ = discarded
 🧊 = unmaintained&lt;/p></description></item><item><title>Web3</title><link>https://cezimbra.me/anotacoes/web3/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/web3/</guid><description>&lt;blockquote>
-&lt;p>&lt;strong>Fundador do Twitter aumenta para 10 BTC recompensa para quem criar alternativa descentralizada ao GitHub:&lt;/strong> para Jack Dorsey, esse novo sistema para controle de versões seria idealmente baseado no Nostr, protocolo criado pelo desenvolvedor brasileiro “fiatjaf”. As informações são do perfil de Dorsey na rede Nostr.&lt;/p>
-&lt;/blockquote>
+&lt;p>&lt;strong>Fundador do Twitter aumenta para 10 BTC recompensa para quem criar
+alternativa descentralizada ao GitHub:&lt;/strong> para Jack Dorsey, esse novo sistema
+para controle de versões seria idealmente baseado no Nostr, protocolo criado
+pelo desenvolvedor brasileiro “fiatjaf”. As informações são do perfil
+de Dorsey na rede Nostr.&lt;/p>
 &lt;p>from Filipe Deschamps Newsletter&lt;/p>
+&lt;/blockquote>
 &lt;ul>
 &lt;li>&lt;a href="https://www.arweave.org/" class="external-link" target="_blank" rel="noopener">https://www.arweave.org/&lt;/a> - Arweave: Permanent information storage
 &lt;ul>
-&lt;li>&lt;a href="https://ar.io/" class="external-link" target="_blank" rel="noopener">https://ar.io/&lt;/a> - a global network, protocol, and currency that enables the permaweb.&lt;/li>
+&lt;li>&lt;a href="https://ar.io/" class="external-link" target="_blank" rel="noopener">https://ar.io/&lt;/a> - a global network, protocol, and currency that enables the
+permaweb.&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;a href="https://thirdweb.com/" class="external-link" target="_blank" rel="noopener">https://thirdweb.com/&lt;/a> - thirdweb - The complete web3 development framework.
@@ -8600,8 +8619,10 @@ didn&amp;rsquo;t like; it&amp;rsquo;s a CLI written in Go, not a template&lt;/li
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://atproto.com/" class="external-link" target="_blank" rel="noopener">AT Protocol&lt;/a> - Social networking technology created by &lt;a href="https://bsky.app/" class="external-link" target="_blank" rel="noopener">Bluesky&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.farcaster.xyz/" class="external-link" target="_blank" rel="noopener">Farcaster&lt;/a> - a protocol for decentralized social apps&lt;/li>
+&lt;li>&lt;a href="https://atproto.com/" class="external-link" target="_blank" rel="noopener">AT Protocol&lt;/a> - Social networking technology created by
+&lt;a href="https://bsky.app/" class="external-link" target="_blank" rel="noopener">Bluesky&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.farcaster.xyz/" class="external-link" target="_blank" rel="noopener">Farcaster&lt;/a> - a protocol for decentralized social
+apps&lt;/li>
 &lt;/ul>
 &lt;h3 id="crossposters">
  Crossposters
@@ -8611,10 +8632,18 @@ didn&amp;rsquo;t like; it&amp;rsquo;s a CLI written in Go, not a template&lt;/li
  &lt;/a>
 &lt;/h3>
 &lt;ul>
-&lt;li>&lt;a href="https://agorasocial.app/" class="external-link" target="_blank" rel="noopener">Agora&lt;/a> - Follow your favorite topics in the Nostr-verse (and even posts from Mastodon, Reddit, Bluesky, and Twitter)&lt;/li>
-&lt;li>&lt;a href="https://github.com/renatolond/mastodon-twitter-poster" class="external-link" target="_blank" rel="noopener">mastodon-twitter-poster&lt;/a> - &lt;a href="https://write.as/renatolond/timeline-for-the-shutdown-of-the-mastodon-twitter-crossposter-instance-at" class="external-link" target="_blank" rel="noopener">archived&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://gitlab.com/soapbox-pub/mostr" class="external-link" target="_blank" rel="noopener">Mostr&lt;/a> - a bridge between Nostr and the Fediverse (Mastodon, ActivityPub, etc.)&lt;/li>
-&lt;li>&lt;a href="https://github.com/louisgrasset/touitomamout" class="external-link" target="_blank" rel="noopener">touitomamout&lt;/a> - sync tweets to Mastodon and Bluesky&lt;/li>
+&lt;li>&lt;a href="https://agorasocial.app/" class="external-link" target="_blank" rel="noopener">Agora&lt;/a> - Follow your favorite topics in the
+Nostr-verse (and even posts from Mastodon, Reddit, Bluesky, and Twitter)&lt;/li>
+&lt;li>&lt;a href="https://github.com/renatolond/mastodon-twitter-poster" class="external-link" target="_blank" rel="noopener">mastodon-twitter-poster&lt;/a> -
+&lt;a href="https://write.as/renatolond/timeline-for-the-shutdown-of-the-mastodon-twitter-crossposter-instance-at" class="external-link" target="_blank" rel="noopener">archived&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gitlab.com/soapbox-pub/mostr" class="external-link" target="_blank" rel="noopener">Mostr&lt;/a> - a bridge between Nostr and
+the Fediverse (Mastodon, ActivityPub, etc.)&lt;/li>
+&lt;li>&lt;a href="https://github.com/louisgrasset/touitomamout" class="external-link" target="_blank" rel="noopener">touitomamout&lt;/a> - sync tweets to
+Mastodon and Bluesky&lt;/li>
+&lt;li>&lt;a href="https://mostr.pub/" class="external-link" target="_blank" rel="noopener">Mostr&lt;/a> - Nostr &amp;lt;-&amp;gt; Fediverse (Mastodon, ActivityPub, etc.)&lt;/li>
+&lt;li>&lt;a href="https://git.sr.ht/~psic4t/atomstr" class="external-link" target="_blank" rel="noopener">atomstr&lt;/a> - RSS/Atom -&amp;gt; Nostr&lt;/li>
+&lt;li>&lt;a href="https://github.com/Asone/nostrss" class="external-link" target="_blank" rel="noopener">nostrs&lt;/a> - RSS -&amp;gt; Nostr&lt;/li>
+&lt;li>&lt;a href="https://github.com/piraces/rsslay" class="external-link" target="_blank" rel="noopener">rsslay&lt;/a> - RSS -&amp;gt; Nostr&lt;/li>
 &lt;/ul>
 &lt;h3 id="fediverse">
  Fediverse
@@ -8624,7 +8653,9 @@ didn&amp;rsquo;t like; it&amp;rsquo;s a CLI written in Go, not a template&lt;/li
  &lt;/a>
 &lt;/h3>
 &lt;ul>
-&lt;li>Powered by &lt;a href="https://activitypub.rocks/" class="external-link" target="_blank" rel="noopener">ActivityPub&lt;/a> - decentralized social networking protocol based upon the ActivityStreams 2.0 data format. - &lt;a href="https://www.w3.org/TR/activitypub/" class="external-link" target="_blank" rel="noopener">W3C&lt;/a>&lt;/li>
+&lt;li>Powered by &lt;a href="https://activitypub.rocks/" class="external-link" target="_blank" rel="noopener">ActivityPub&lt;/a> - decentralized social
+networking protocol based upon the ActivityStreams 2.0 data format. -
+&lt;a href="https://www.w3.org/TR/activitypub/" class="external-link" target="_blank" rel="noopener">W3C&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://fedidb.org/" class="external-link" target="_blank" rel="noopener">Statistics&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://gist.github.com/loreanvictor/bddd8824c744024d338e935bd7e96707" class="external-link" target="_blank" rel="noopener">Can We Get More Decentralised Than The Fediverse?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://fediverse.info/explore/projects" class="external-link" target="_blank" rel="noopener">Projects&lt;/a>
@@ -8645,12 +8676,63 @@ didn&amp;rsquo;t like; it&amp;rsquo;s a CLI written in Go, not a template&lt;/li
 &lt;/h3>
 &lt;ul>
 &lt;li>Notes and Other Stuff Transmitted by Relays&lt;/li>
-&lt;li>&lt;a href="https://github.com/nostr-protocol/nostr" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/li>
 &lt;li>by &lt;a href="https://fiatjaf.com/" class="external-link" target="_blank" rel="noopener">https://fiatjaf.com/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/nostr-protocol/nostr" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/nostr-protocol/nips" class="external-link" target="_blank" rel="noopener">NIPs&lt;/a> - Nostr Implementation Possibilities&lt;/li>
 &lt;li>&lt;a href="https://nostr.net/" class="external-link" target="_blank" rel="noopener">awesome-nostr&lt;/a> - &lt;a href="https://github.com/aljazceru/awesome-nostr" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/unclebob/more-speech" class="external-link" target="_blank" rel="noopener">more-speech&lt;/a> - Desktop client in &lt;a href="https://cezimbra.me/anotacoes/clojure/" >Clojure&lt;/a> by Uncle Bob&lt;/li>
-&lt;li>&lt;a href="https://nosta.me/" class="external-link" target="_blank" rel="noopener">Nosta&lt;/a> - set up with a profile - &lt;a href="https://github.com/GBKS/nosta-me" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nosta.me/" class="external-link" target="_blank" rel="noopener">Nosta&lt;/a> - set up with a profile -
+&lt;a href="https://github.com/GBKS/nosta-me" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/li>
 &lt;li>vs &lt;a href="https://nostr.com/comparisons/mastodon" class="external-link" target="_blank" rel="noopener">ActivityPub&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h4 id="tools">
+ Tools
+ &lt;a class="heading-link" href="#tools">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/mattn/algia" class="external-link" target="_blank" rel="noopener">algia&lt;/a> - CLI to interact with nostr&lt;/li>
+&lt;li>&lt;a href="https://github.com/fiatjaf/nak" class="external-link" target="_blank" rel="noopener">nak&lt;/a> - CLI to interact with nostr&lt;/li>
+&lt;li>&lt;a href="https://njump.me/about" class="external-link" target="_blank" rel="noopener">njump&lt;/a> - HTTP gateway to browse profiles, notes and
+relays; &lt;code>njump.me/&amp;lt;nip-19-entity&amp;gt;&lt;/code>; for example
+&lt;a href="https://njump.me/npub1e9fy3sv4304ku7ucjwn22mg00r7pzcs5uqshwva4z65jk9f09jmsyzysl0" class="external-link" target="_blank" rel="noopener">https://njump.me/npub1e9fy3sv4304ku7ucjwn22mg00r7pzcs5uqshwva4z65jk9f09jmsyzysl0&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://nostrrr.com" class="external-link" target="_blank" rel="noopener">Nostrrr&lt;/a> - relay explorer&lt;/li>
+&lt;li>&lt;a href="https://github.com/fiatjaf/khatru" class="external-link" target="_blank" rel="noopener">khatru&lt;/a> - framework for making relays;
+written in Go&lt;/li>
+&lt;/ul>
+&lt;h5 id="clients">
+ Clients
+ &lt;a class="heading-link" href="#clients">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h5>
+&lt;h6 id="desktop">
+ Desktop
+ &lt;a class="heading-link" href="#desktop">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h6>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/unclebob/more-speech" class="external-link" target="_blank" rel="noopener">more-speech&lt;/a> - Desktop client in
+&lt;a href="https://cezimbra.me/anotacoes/clojure/" >Clojure&lt;/a> by Uncle Bob&lt;/li>
+&lt;/ul>
+&lt;h5 id="relays">
+ Relays
+ &lt;a class="heading-link" href="#relays">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h5>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/Spl0itable/nosflare" class="external-link" target="_blank" rel="noopener">nosflare&lt;/a> - serverless relay for
+Cloudflare Workers and R2 bucket&lt;/li>
+&lt;li>&lt;a href="https://github.com/hoytech/strfry" class="external-link" target="_blank" rel="noopener">strfry&lt;/a> - relay written in C++&lt;/li>
+&lt;li>&lt;a href="https://github.com/bitvora/wot-relay" class="external-link" target="_blank" rel="noopener">WoT Relay&lt;/a> - WoT = Web of Trust; relay
+that saves all notes from people you follow, and people they follow; written
+in Go&lt;/li>
 &lt;/ul>
 &lt;h2 id="files">
  Files
@@ -8674,7 +8756,14 @@ didn&amp;rsquo;t like; it&amp;rsquo;s a CLI written in Go, not a template&lt;/li
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;a href="https://fiatjaf.com/d5031e5b.html" class="external-link" target="_blank" rel="noopener">How IPFS is broken&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://docs.ipfs.tech/concepts/dht/" class="external-link" target="_blank" rel="noopener">https://docs.ipfs.tech/concepts/dht/&lt;/a> - A distributed hash table (DHT) is a distributed system for mapping keys to values. In IPFS, the DHT is used as the fundamental component of the content routing system and acts like a cross between a catalog and a navigation system. It maps what the user is looking for to the peer that is storing the matching content.&lt;/li>
+&lt;li>&lt;a href="https://docs.ipfs.tech/concepts/dht" class="external-link" target="_blank" rel="noopener">Distributed Hash Tables (DHT)&lt;/a>
+&lt;ul>
+&lt;li>distributed system for mapping keys to values. In IPFS, the DHT is used
+as the fundamental component of the content routing system and acts like a
+cross between a catalog and a navigation system. It maps what the user is
+looking for to the peer that is storing the matching content.&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;h3 id="storj">
  Storj
@@ -8684,25 +8773,26 @@ didn&amp;rsquo;t like; it&amp;rsquo;s a CLI written in Go, not a template&lt;/li
  &lt;/a>
 &lt;/h3>
 &lt;ul>
-&lt;li>&lt;a href="https://www.storj.io/" class="external-link" target="_blank" rel="noopener">https://www.storj.io/&lt;/a> - Fast, secure cloud storage at a fraction of the cost.
+&lt;li>&lt;a href="https://www.storj.io/" class="external-link" target="_blank" rel="noopener">Storj&lt;/a> - Fast, secure cloud storage at a fraction of
+the cost.
 &lt;ul>
-&lt;li>&lt;a href="https://www.storj.io/node" class="external-link" target="_blank" rel="noopener">https://www.storj.io/node&lt;/a> - Host a node&lt;/li>
+&lt;li>&lt;a href="https://www.storj.io/node" class="external-link" target="_blank" rel="noopener">Host a Node on Storj&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Earnings Estimator
 &lt;ul>
-&lt;li>&lt;a href="https://docs.storj.io/node/resources/faq/estimate-payouts" class="external-link" target="_blank" rel="noopener">https://docs.storj.io/node/resources/faq/estimate-payouts&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://forum.storj.io/t/realistic-earnings-estimator/6693" class="external-link" target="_blank" rel="noopener">https://forum.storj.io/t/realistic-earnings-estimator/6693&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://docs.google.com/spreadsheets/d/16qwEJzmcIUb0z0JZwBc_38ZUex6-onoxGTsp2XxQlEA/edit#gid=689515535" class="external-link" target="_blank" rel="noopener">https://docs.google.com/spreadsheets/d/16qwEJzmcIUb0z0JZwBc_38ZUex6-onoxGTsp2XxQlEA/edit#gid=689515535&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.storj.io/node/resources/faq/estimate-payouts" class="external-link" target="_blank" rel="noopener">How do I estimate my payouts per Satellite?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://forum.storj.io/t/realistic-earnings-estimator/6693" class="external-link" target="_blank" rel="noopener">Realistic earnings estimator&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://docs.google.com/spreadsheets/d/16qwEJzmcIUb0z0JZwBc_38ZUex6-onoxGTsp2XxQlEA/edit#gid=689515535" class="external-link" target="_blank" rel="noopener">Storj earnings estimator - Planilhas Google&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Discussions about Storj economic model
 &lt;ul>
-&lt;li>&lt;a href="https://forum.storj.io/t/snos-please-dont-buy-anything/21592" class="external-link" target="_blank" rel="noopener">https://forum.storj.io/t/snos-please-dont-buy-anything/21592&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://forum.storj.io/t/lets-talk-about-the-elephant-in-the-room-the-storj-economic-model-node-operator-payout-model/20127" class="external-link" target="_blank" rel="noopener">https://forum.storj.io/t/lets-talk-about-the-elephant-in-the-room-the-storj-economic-model-node-operator-payout-model/20127&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://forum.storj.io/t/snos-please-dont-buy-anything/21592" class="external-link" target="_blank" rel="noopener">SNO&amp;rsquo;s please don&amp;rsquo;t buy anything&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://forum.storj.io/t/lets-talk-about-the-elephant-in-the-room-the-storj-economic-model-node-operator-payout-model/20127" class="external-link" target="_blank" rel="noopener">The Storj economic model (node operator payout model)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>&lt;a href="https://photosplus.app/" class="external-link" target="_blank" rel="noopener">https://photosplus.app/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://photosplus.app" class="external-link" target="_blank" rel="noopener">Photos+ Cloud Library&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>NFSe</title><link>https://cezimbra.me/anotacoes/nfse/</link><pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/nfse/</guid><description>&lt;ul>
 &lt;li>Spedy
 &lt;ul>
