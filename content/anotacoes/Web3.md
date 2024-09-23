@@ -1,7 +1,7 @@
 ---
 title: "Web3"
 date: 2023-08-15
-lastmod: 2024-09-19
+lastmod: 2024-09-23
 ---
 
 > **Fundador do Twitter aumenta para 10 BTC recompensa para quem criar
@@ -31,14 +31,16 @@ lastmod: 2024-09-19
   Nostr-verse (and even posts from Mastodon, Reddit, Bluesky, and Twitter)
 - [mastodon-twitter-poster](https://github.com/renatolond/mastodon-twitter-poster) -
   [archived](https://write.as/renatolond/timeline-for-the-shutdown-of-the-mastodon-twitter-crossposter-instance-at)
-- [Mostr](https://gitlab.com/soapbox-pub/mostr) - a bridge between Nostr and
-  the Fediverse (Mastodon, ActivityPub, etc.)
 - [touitomamout](https://github.com/louisgrasset/touitomamout) - sync tweets to
   Mastodon and Bluesky
 - [Mostr](https://mostr.pub/) - Nostr <-> Fediverse (Mastodon, ActivityPub, etc.)
 - [atomstr](https://git.sr.ht/~psic4t/atomstr) - RSS/Atom -> Nostr
 - [nostrs](https://github.com/Asone/nostrss) - RSS -> Nostr
 - [rsslay](https://github.com/piraces/rsslay) - RSS -> Nostr
+- [granary](https://github.com/snarfed/granary) - Fetches and converts data
+  between social networks
+- [Bridgy Fed](https://github.com/snarfed/bridgy-fed) - bridge between
+  decentralized social network protocols
 
 ### Fediverse
 - Powered by [ActivityPub](https://activitypub.rocks/) - decentralized social
@@ -78,8 +80,14 @@ lastmod: 2024-09-19
   [Clojure]({{< ref "Clojure" >}}) by Uncle Bob
 
 ##### Relays
+- [jingle](https://github.com/fiatjaf/jingle) - friendly customizable relay
 - [nosflare](https://github.com/Spl0itable/nosflare) - serverless relay for
   Cloudflare Workers and R2 bucket
+- [nostream](https://github.com/Cameri/nostream) - written in Typescript
+- [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) - relay written
+  in Rust and SQLite
+- [Relay Wizard](https://github.com/nodetec/relaywizard) - wizard to install
+  and manage relays
 - [strfry](https://github.com/hoytech/strfry) - relay written in C++
 - [WoT Relay](https://github.com/bitvora/wot-relay) - WoT = Web of Trust; relay
   that saves all notes from people you follow, and people they follow; written

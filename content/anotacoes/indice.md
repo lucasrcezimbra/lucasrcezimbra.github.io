@@ -1,15 +1,17 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-09-20
+lastmod: 2024-09-23
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
-- [Weeknotes/2024-09-15 - 2024-09-21]({{< ref "Weeknotes/2024-09-15 - 2024-09-21" >}})
+- [Weeknotes/2024-09-22 - 2024-09-28]({{< ref "Weeknotes/2024-09-22 - 2024-09-28" >}})
 - [Web3]({{< ref "Web3" >}})
+- [Linux]({{< ref "Linux" >}})
+- [Weeknotes/2024-09-15 - 2024-09-21]({{< ref "Weeknotes/2024-09-15 - 2024-09-21" >}})
 - [Catolicismo]({{< ref "Catolicismo" >}})
 - [Weeknotes/2024-09-08 - 2024-09-14]({{< ref "Weeknotes/2024-09-08 - 2024-09-14" >}})
 - [PostgreSQL]({{< ref "PostgreSQL" >}})
@@ -57,7 +59,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Marketing Digital]({{< ref "Marketing Digital" >}})
 - [Filmes]({{< ref "Filmes" >}})
 - [Git]({{< ref "Git" >}})
-- [Linux]({{< ref "Linux" >}})
 - [Aplicativos de Notas]({{< ref "Aplicativos de Notas" >}})
 - [Frontend]({{< ref "Frontend" >}})
 - [Terraform]({{< ref "Terraform" >}})

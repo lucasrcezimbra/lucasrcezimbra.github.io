@@ -1,7 +1,7 @@
 ---
 title: Linux
 date: 2023-08-15
-lastmod: 2024-07-04
+lastmod: 2024-09-23
 aliases:
   - /anotacoes/linux/
   - /dicas-rapidas-linux/
@@ -12,6 +12,8 @@ aliases:
 	- https://unixism.net/loti/what_is_io_uring.html
 	- https://kernel.dk/io_uring.pdf
 - [Alternatives to]({{< ref "Alternatives to" >}}) Apache Benchmark
+- listening for codes sent by the keyboard: `sudo showkey`
+- listening for codes sent by the mouse: `sudo apt install evtest && sudo evtest`
 - How to transform `curl` to `ab`
 	- `<curl>` = `<ab>`
 	- `-H` = `-H`: headers
