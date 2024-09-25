@@ -1,7 +1,7 @@
 ---
 title: "Web3"
 date: 2023-08-15
-lastmod: 2024-09-23
+lastmod: 2024-09-25
 ---
 
 > **Fundador do Twitter aumenta para 10 BTC recompensa para quem criar
@@ -66,6 +66,7 @@ lastmod: 2024-09-23
 
 #### Tools
 - [algia](https://github.com/mattn/algia) - CLI to interact with nostr
+- [how nostr works](https://how-nostr-works.pages.dev/)
 - [nak](https://github.com/fiatjaf/nak) - CLI to interact with nostr
 - [njump](https://njump.me/about) - HTTP gateway to browse profiles, notes and
   relays; `njump.me/<nip-19-entity>`; for example
