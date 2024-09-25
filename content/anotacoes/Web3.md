@@ -81,7 +81,10 @@ lastmod: 2024-09-25
   [Clojure]({{< ref "Clojure" >}}) by Uncle Bob
 
 ##### Relays
+- [Chronicle](https://github.com/dtonon/chronicle) - supports Outbox, and WoT
 - [jingle](https://github.com/fiatjaf/jingle) - friendly customizable relay
+- [HAVEN](https://github.com/bitvora/haven) - Private, Chat, Inbox, and Outbox
+  relay
 - [nosflare](https://github.com/Spl0itable/nosflare) - serverless relay for
   Cloudflare Workers and R2 bucket
 - [nostream](https://github.com/Cameri/nostream) - written in Typescript
