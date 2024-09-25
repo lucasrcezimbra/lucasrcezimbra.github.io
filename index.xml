@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Mon, 23 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-09-22 - 2024-09-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/</link><pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-09-22 - 2024-09-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/</link><pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -43,6 +43,9 @@ log in on behalf of other users without their credentials&lt;/li>
 &lt;li>&lt;a href="https://github.com/babarot/afx" class="external-link" target="_blank" rel="noopener">afx&lt;/a> - package manager for CLIs and shell
 plugins&lt;/li>
 &lt;li>&lt;a href="https://github.com/fiatjaf/jingle" class="external-link" target="_blank" rel="noopener">jingle&lt;/a> - Nostr relay&lt;/li>
+&lt;li>&lt;a href="https://how-nostr-works.pages.dev/" class="external-link" target="_blank" rel="noopener">how nostr works&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/dtonon/chronicle" class="external-link" target="_blank" rel="noopener">Chronicle&lt;/a> - Nostr relay&lt;/li>
+&lt;li>&lt;a href="https://github.com/bitvora/haven" class="external-link" target="_blank" rel="noopener">HAVEN&lt;/a> - Nostr relay&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-articles">
  Read articles
@@ -8207,9 +8210,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode85s1hbhb">
+&lt;h2 id="llmhahahugoshortcode84s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode85s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode84s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -8839,6 +8842,7 @@ networking protocol based upon the ActivityStreams 2.0 data format. -
 &lt;/h4>
 &lt;ul>
 &lt;li>&lt;a href="https://github.com/mattn/algia" class="external-link" target="_blank" rel="noopener">algia&lt;/a> - CLI to interact with nostr&lt;/li>
+&lt;li>&lt;a href="https://how-nostr-works.pages.dev/" class="external-link" target="_blank" rel="noopener">how nostr works&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/fiatjaf/nak" class="external-link" target="_blank" rel="noopener">nak&lt;/a> - CLI to interact with nostr&lt;/li>
 &lt;li>&lt;a href="https://njump.me/about" class="external-link" target="_blank" rel="noopener">njump&lt;/a> - HTTP gateway to browse profiles, notes and
 relays; &lt;code>njump.me/&amp;lt;nip-19-entity&amp;gt;&lt;/code>; for example
@@ -8873,7 +8877,10 @@ written in Go&lt;/li>
  &lt;/a>
 &lt;/h5>
 &lt;ul>
+&lt;li>&lt;a href="https://github.com/dtonon/chronicle" class="external-link" target="_blank" rel="noopener">Chronicle&lt;/a> - supports Outbox, and WoT&lt;/li>
 &lt;li>&lt;a href="https://github.com/fiatjaf/jingle" class="external-link" target="_blank" rel="noopener">jingle&lt;/a> - friendly customizable relay&lt;/li>
+&lt;li>&lt;a href="https://github.com/bitvora/haven" class="external-link" target="_blank" rel="noopener">HAVEN&lt;/a> - Private, Chat, Inbox, and Outbox
+relay&lt;/li>
 &lt;li>&lt;a href="https://github.com/Spl0itable/nosflare" class="external-link" target="_blank" rel="noopener">nosflare&lt;/a> - serverless relay for
 Cloudflare Workers and R2 bucket&lt;/li>
 &lt;li>&lt;a href="https://github.com/Cameri/nostream" class="external-link" target="_blank" rel="noopener">nostream&lt;/a> - written in Typescript&lt;/li>
