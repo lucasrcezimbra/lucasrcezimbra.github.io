@@ -1,7 +1,7 @@
 ---
 title: "Web3"
 date: 2023-08-15
-lastmod: 2024-09-25
+lastmod: 2024-09-27
 ---
 
 > **Fundador do Twitter aumenta para 10 BTC recompensa para quem criar
@@ -76,11 +76,13 @@ lastmod: 2024-09-25
   written in Go
 
 ##### Clients
-###### Desktop
+- [coop](https://github.com/lumehq/coop) - for direct messages
 - [more-speech](https://github.com/unclebob/more-speech) - Desktop client in
   [Clojure]({{< ref "Clojure" >}}) by Uncle Bob
 
 ##### Relays
+- [chorus](https://github.com/mikedilger/chorus) - from
+  [The Outbox Model and the gossip model and NIP-65](https://mikedilger.com/gossip-model/)
 - [Chronicle](https://github.com/dtonon/chronicle) - supports Outbox, and WoT
 - [jingle](https://github.com/fiatjaf/jingle) - friendly customizable relay
 - [HAVEN](https://github.com/bitvora/haven) - Private, Chat, Inbox, and Outbox

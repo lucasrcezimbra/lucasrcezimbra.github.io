@@ -1,7 +1,7 @@
 ---
 title: Python
 date: 2023-08-15
-lastmod: 2024-08-05
+lastmod: 2024-09-27
 aliases:
   - /anotacoes/manifest-python-data-classes/
 ---
@@ -323,6 +323,14 @@ Fonte: https://fstring.help/
 	f"{value:^10}"
 	# '   test   '
 	```
+- date
+  ```python
+  >>> from datetime import datetime
+  >>> d = datetime.now()
+  >>> f'{d:%Y-%m-%d}'
+  '2024-09-27'
+  ```
+
 ### Parsing
 - [parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
 	- - https://github.com/jenisys/parse_type - extends with the following features: build type converters; compose type converters; CardinalityField naming schema
