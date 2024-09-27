@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Wed, 25 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-09-22 - 2024-09-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/</link><pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-09-22 - 2024-09-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/</link><pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -18,7 +18,12 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a> format date using f-string
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#39c">&amp;gt;&amp;gt;&amp;gt;&lt;/span> &lt;span style="color:#cd00cd">from&lt;/span> datetime &lt;span style="color:#cd00cd">import&lt;/span> datetime
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#39c">&amp;gt;&amp;gt;&amp;gt;&lt;/span> d &lt;span style="color:#39c">=&lt;/span> datetime&lt;span style="color:#39c">.&lt;/span>now()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#39c">&amp;gt;&amp;gt;&amp;gt;&lt;/span> &lt;span style="color:#cd0000">f&lt;/span>&lt;span style="color:#cd0000">&amp;#39;&lt;/span>&lt;span style="color:#cd0000">{&lt;/span>d&lt;span style="color:#cd0000">:&lt;/span>&lt;span style="color:#cd0000">%Y-%m-%d&lt;/span>&lt;span style="color:#cd0000">}&lt;/span>&lt;span style="color:#cd0000">&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&amp;#39;2024-09-27&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;/ul>
 &lt;h2 id="discovered-tools">
  Discovered tools
@@ -46,6 +51,8 @@ plugins&lt;/li>
 &lt;li>&lt;a href="https://how-nostr-works.pages.dev/" class="external-link" target="_blank" rel="noopener">how nostr works&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/dtonon/chronicle" class="external-link" target="_blank" rel="noopener">Chronicle&lt;/a> - Nostr relay&lt;/li>
 &lt;li>&lt;a href="https://github.com/bitvora/haven" class="external-link" target="_blank" rel="noopener">HAVEN&lt;/a> - Nostr relay&lt;/li>
+&lt;li>&lt;a href="https://github.com/lumehq/coop" class="external-link" target="_blank" rel="noopener">coop&lt;/a> - a direct message nostr client&lt;/li>
+&lt;li>&lt;a href="https://github.com/mikedilger/chorus" class="external-link" target="_blank" rel="noopener">chorus&lt;/a> - Nostr relay&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-articles">
  Read articles
@@ -60,6 +67,9 @@ plugins&lt;/li>
 &lt;li>&amp;ldquo;design, brand, experience, storytelling, community, and cultural relevance&amp;rdquo;&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;li>&lt;a href="https://mikedilger.com/gossip-model/" class="external-link" target="_blank" rel="noopener">The Outbox Model and the gossip model and NIP-65&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/" class="external-link" target="_blank" rel="noopener">Things I’ve learned serving on the board of the Python Software Foundation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://kristoff.it/blog/python-training-wheels/" class="external-link" target="_blank" rel="noopener">The Python Package Index Should Get Rid Of Its Training Wheels&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-news">
  Read news
@@ -5014,6 +5024,7 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;ul>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >Weeknotes/2024-09-22 - 2024-09-28&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/web3/" >Web3&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/linux/" >Linux&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/" >Weeknotes/2024-09-15 - 2024-09-21&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/catolicismo/" >Catolicismo&lt;/a>&lt;/li>
@@ -5040,7 +5051,6 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-08-04---2024-08-10/" >Weeknotes/2024-08-04 - 2024-08-10&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/books/n%C3%A3o-eu-mas-deus/" >Books/Não eu, mas Deus&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/documentation/" >Documentation&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-07-28---2024-08-03/" >Weeknotes/2024-07-28 - 2024-08-03&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/toolbox/" >Toolbox&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-07-21---2024-07-27/" >Weeknotes/2024-07-21 - 2024-07-27&lt;/a>&lt;/li>
@@ -8210,9 +8220,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode84s1hbhb">
+&lt;h2 id="llmhahahugoshortcode83s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode84s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode83s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -8858,14 +8868,8 @@ written in Go&lt;/li>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h5>
-&lt;h6 id="desktop">
- Desktop
- &lt;a class="heading-link" href="#desktop">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h6>
 &lt;ul>
+&lt;li>&lt;a href="https://github.com/lumehq/coop" class="external-link" target="_blank" rel="noopener">coop&lt;/a> - for direct messages&lt;/li>
 &lt;li>&lt;a href="https://github.com/unclebob/more-speech" class="external-link" target="_blank" rel="noopener">more-speech&lt;/a> - Desktop client in
 &lt;a href="https://cezimbra.me/anotacoes/clojure/" >Clojure&lt;/a> by Uncle Bob&lt;/li>
 &lt;/ul>
@@ -8877,6 +8881,8 @@ written in Go&lt;/li>
  &lt;/a>
 &lt;/h5>
 &lt;ul>
+&lt;li>&lt;a href="https://github.com/mikedilger/chorus" class="external-link" target="_blank" rel="noopener">chorus&lt;/a> - from
+&lt;a href="https://mikedilger.com/gossip-model/" class="external-link" target="_blank" rel="noopener">The Outbox Model and the gossip model and NIP-65&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/dtonon/chronicle" class="external-link" target="_blank" rel="noopener">Chronicle&lt;/a> - supports Outbox, and WoT&lt;/li>
 &lt;li>&lt;a href="https://github.com/fiatjaf/jingle" class="external-link" target="_blank" rel="noopener">jingle&lt;/a> - friendly customizable relay&lt;/li>
 &lt;li>&lt;a href="https://github.com/bitvora/haven" class="external-link" target="_blank" rel="noopener">HAVEN&lt;/a> - Private, Chat, Inbox, and Outbox
