@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-09-22 - 2024-09-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/</link><pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-09-29 - 2024-10-05</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -9,6 +9,96 @@
 &lt;ul>
 &lt;li>(pt-BR) Conversas Cruciais - Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan &amp;amp;
 Al Switzler &amp;amp; Emily Gregory&lt;/li>
+&lt;li>(pt-BR) Tremendas Trivialidades - G.K. Chesterton&lt;/li>
+&lt;/ul>
+&lt;h2 id="learned">
+ Learned
+ &lt;a class="heading-link" href="#learned">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="discovered-tools">
+ Discovered tools
+ &lt;a class="heading-link" href="#discovered-tools">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/radiac/nanodjango" class="external-link" target="_blank" rel="noopener">nanodjango&lt;/a>
+&lt;ul>
+&lt;li>Full &lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a> in a single file&lt;/li>
+&lt;li>Automatically convert it to a full Django project when you&amp;rsquo;re ready for it
+to grow&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/simonw/shot-scraper/" class="external-link" target="_blank" rel="noopener">shot-scraper&lt;/a> - CLI for taking
+automated screenshots of websites&lt;/li>
+&lt;li>&lt;a href="https://github.com/adamghill/django-unicorn" class="external-link" target="_blank" rel="noopener">django-unicorn&lt;/a> - reactive
+component framework for &lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/adamghill/dj-angles" class="external-link" target="_blank" rel="noopener">dj-angles&lt;/a> - e.g. &lt;code>&amp;lt;dj-partial /&amp;gt;&lt;/code>
+instead of &lt;code>{% include 'partial.html' %}&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;h2 id="read-articles">
+ Read articles
+ &lt;a class="heading-link" href="#read-articles">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://davekiss.com/blog/how-i-won-2750-using-javascript-ai-and-a-can-of-wd-40" class="external-link" target="_blank" rel="noopener">How I won $2,750 using JavaScript, AI, and a can of WD-40&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://switowski.com/blog/i-like-makefiles" class="external-link" target="_blank" rel="noopener">I Like Makefiles&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://davekiss.com/blog/why-you-should-write" class="external-link" target="_blank" rel="noopener">Why you should write&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="read-news">
+ Read news
+ &lt;a class="heading-link" href="#read-news">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="watched">
+ Watched
+ &lt;a class="heading-link" href="#watched">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(pt-BR) (in progress) &lt;a href="https://www.youtube.com/watch?v=q6w4Ja-KlqI" class="external-link" target="_blank" rel="noopener">VAMOS CRIAR UM LANÇAMENTO 100% POR IA (NOSSA IA) | LIVE #29&lt;/a>&lt;/li>
+&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=xh-iMBOXl6M" class="external-link" target="_blank" rel="noopener">Radical Simplicity&lt;/a>&lt;/li>
+&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=wVyu7NB7W6Y" class="external-link" target="_blank" rel="noopener">https://www.youtube.com/watch?v=wVyu7NB7W6Y&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="listened">
+ Listened
+ &lt;a class="heading-link" href="#listened">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=tXDrni6w29s" class="external-link" target="_blank" rel="noopener">Homilia Diária | O pedido de Jesus a São Jerônimo (Memória de São Jerônimo, Doutor da Igreja)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2024-09-22 - 2024-09-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/</link><pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;h2 id="books-being-read">
+ Books being read
+ &lt;a class="heading-link" href="#books-being-read">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(pt-BR) Conversas Cruciais - Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan &amp;amp;
+Al Switzler &amp;amp; Emily Gregory&lt;/li>
+&lt;li>(pt-BR) Tremendas Trivialidades - G.K. Chesterton&lt;/li>
 &lt;/ul>
 &lt;h2 id="learned">
  Learned
@@ -53,6 +143,8 @@ plugins&lt;/li>
 &lt;li>&lt;a href="https://github.com/bitvora/haven" class="external-link" target="_blank" rel="noopener">HAVEN&lt;/a> - Nostr relay&lt;/li>
 &lt;li>&lt;a href="https://github.com/lumehq/coop" class="external-link" target="_blank" rel="noopener">coop&lt;/a> - a direct message nostr client&lt;/li>
 &lt;li>&lt;a href="https://github.com/mikedilger/chorus" class="external-link" target="_blank" rel="noopener">chorus&lt;/a> - Nostr relay&lt;/li>
+&lt;li>&lt;a href="https://www.shodan.io/" class="external-link" target="_blank" rel="noopener">Shodan&lt;/a> - search engine for Internet-connected
+devices&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-articles">
  Read articles
@@ -71,16 +163,6 @@ plugins&lt;/li>
 &lt;li>&lt;a href="https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/" class="external-link" target="_blank" rel="noopener">Things I’ve learned serving on the board of the Python Software Foundation&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://kristoff.it/blog/python-training-wheels/" class="external-link" target="_blank" rel="noopener">The Python Package Index Should Get Rid Of Its Training Wheels&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="read-news">
- Read news
- &lt;a class="heading-link" href="#read-news">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;/li>
-&lt;/ul>
 &lt;h2 id="watched">
  Watched
  &lt;a class="heading-link" href="#watched">
@@ -91,8 +173,6 @@ plugins&lt;/li>
 &lt;ul>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=gJmz31JywM0" class="external-link" target="_blank" rel="noopener">How To Make AWS Not Suck&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=5JGVtttuDQA" class="external-link" target="_blank" rel="noopener">Vim As Your Editor - Horizontal&lt;/a>&lt;/li>
-&lt;li>(pt-BR) (in progress) &lt;a href="https://www.youtube.com/watch?v=q6w4Ja-KlqI" class="external-link" target="_blank" rel="noopener">VAMOS CRIAR UM LANÇAMENTO 100% POR IA (NOSSA IA) | LIVE #29&lt;/a>&lt;/li>
-&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=xh-iMBOXl6M" class="external-link" target="_blank" rel="noopener">Radical Simplicity&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="listened">
  Listened
@@ -103,8 +183,12 @@ plugins&lt;/li>
 &lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=49et8xI_B24" class="external-link" target="_blank" rel="noopener">Homilia Diária | Um monumento para lembrar aos padres o que eles são (Mem. de S. Pio de Pietrelcina)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=ed_6qL-GKUk" class="external-link" target="_blank" rel="noopener">Homilia Diária | Aquela que acolheu a Palavra e produziu frutos (Terça-feira da 25ª S. do T. Comum)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=QIUVn2eLXfQ" class="external-link" target="_blank" rel="noopener">Homilia Diária | Sem a graça, não há verdadeira missão (Quarta-feira da 25.ª Semana do Tempo Comum)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=oD7eimD3fZw" class="external-link" target="_blank" rel="noopener">Homilia Diária | O mal da concupiscência dos olhos (Quinta-feira da 25.ª Semana do Tempo Comum)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=JkbDh8mFvrg" class="external-link" target="_blank" rel="noopener">Homilia Diária | O principal objetivo das obras de caridade (Memória de São Vicente de Paulo)&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2024-09-15 - 2024-09-21</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-08---2024-09-14/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>2024-09-15 - 2024-09-21</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-08---2024-09-14/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -1025,6 +1109,7 @@ detect backward incompatible migrations&lt;/li>
 &lt;li>&lt;a href="https://github.com/yetone/avante.nvim" class="external-link" target="_blank" rel="noopener">avante.nvim&lt;/a> - Neovim AI features
 like Cursor IDE&lt;/li>
 &lt;li>&lt;a href="https://github.com/artempyanykh/marksman" class="external-link" target="_blank" rel="noopener">artempyanykh/marksman&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/astral-sh/uv" class="external-link" target="_blank" rel="noopener">uv&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-articles">
  Read articles
@@ -5022,6 +5107,7 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >Weeknotes/2024-09-29 - 2024-10-05&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >Weeknotes/2024-09-22 - 2024-09-28&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/web3/" >Web3&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>&lt;/li>
@@ -6005,9 +6091,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode39s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode38s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode39s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode38s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -8220,9 +8306,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode83s1hbhb">
+&lt;h2 id="llmhahahugoshortcode82s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode83s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode82s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
