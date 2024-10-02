@@ -1,4 +1,299 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-09-29 - 2024-10-05</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>Comparing Python package managers</title><link>https://cezimbra.me/anotacoes/comparing-python-package-managers/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/comparing-python-package-managers/</guid><description>&lt;h2 id="pyprojecttoml-spec">
+ pyproject.toml spec
+ &lt;a class="heading-link" href="#pyprojecttoml-spec">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://peps.python.org/pep-0517" class="external-link" target="_blank" rel="noopener">PEP 517 – A build-system independent format for source trees&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://peps.python.org/pep-0518" class="external-link" target="_blank" rel="noopener">PEP 518 – Specifying Minimum Build System Requirements for Python Projects&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://peps.python.org/pep-0621" class="external-link" target="_blank" rel="noopener">PEP 621 – Storing project metadata in pyproject.toml&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://packaging.python.org/en/latest/specifications/pyproject-toml/#pyproject-toml-spec" class="external-link" target="_blank" rel="noopener">pyproject.toml specification&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="comparison">
+ Comparison
+ &lt;a class="heading-link" href="#comparison">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th style="text-align: left">Tool&lt;/th>
+ &lt;th style="text-align: left">Lock file&lt;/th>
+ &lt;th style="text-align: left">Manage Python versions&lt;/th>
+ &lt;th style="text-align: left">Global cache&lt;/th>
+ &lt;th style="text-align: left">PEP compliant&lt;/th>
+ &lt;th style="text-align: left">Upload to PyPI&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td style="text-align: left">Hatch&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">pip&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Pipenv&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">PDM&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">Poetry&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td style="text-align: left">uv&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;td style="text-align: left">&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;h2 id="uv">
+ uv
+ &lt;a class="heading-link" href="#uv">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>&lt;a href="https://github.com/astral-sh/uv" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> | &lt;a href="https://docs.astral.sh/uv/" class="external-link" target="_blank" rel="noopener">Docs&lt;/a>&lt;/p></description></item><item><title>Profilling Python tests</title><link>https://cezimbra.me/anotacoes/profilling-python-tests/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/profilling-python-tests/</guid><description>&lt;h2 id="using-pytest-profiling--snakeviz">
+ Using pytest-profiling + snakeviz
+ &lt;a class="heading-link" href="#using-pytest-profiling--snakeviz">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>&lt;a href="https://pypi.org/project/pytest-profiling" class="external-link" target="_blank" rel="noopener">pytest-profiling · PyPI&lt;/a>&lt;/p>
+&lt;ol>
+&lt;li>&lt;code>pip install pytest-profiling snakeviz&lt;/code>&lt;/li>
+&lt;li>&lt;code>pytest --profile&lt;/code>&lt;/li>
+&lt;li>&lt;code>snakeviz prof/combined.prof&lt;/code>&lt;/li>
+&lt;/ol></description></item><item><title>ast-grep by example</title><link>https://cezimbra.me/anotacoes/ast-grep-by-example/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/ast-grep-by-example/</guid><description>&lt;ul>
+&lt;li>&lt;a href="https://github.com/ast-grep/ast-grep" class="external-link" target="_blank" rel="noopener">ast-grep&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="add-a-new-argument-to-all-self-methods">
+ Add a new argument to all self methods
+ &lt;a class="heading-link" href="#add-a-new-argument-to-all-self-methods">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>id: new-args-to-all-methods
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>language: python
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>rule:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> kind: parameters
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> pattern: $$$ARGS
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>transform:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> INNER_ARGS:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> substring:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> source: $ARGS
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> startChar: &lt;span style="color:#cd00cd">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> endChar: -&lt;span style="color:#cd00cd">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> NEW_INNER_ARGS:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> replace:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> replace: &lt;span style="color:#cd0000">&amp;#39;self,?&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> by: &lt;span style="color:#cd0000">&amp;#39;self, &amp;lt;new_arg1&amp;gt;, &amp;lt;new_arg2&amp;gt;,&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> source: $INNER_ARGS
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>fix: &lt;span style="color:#cd0000">&amp;#39;($NEW_INNER_ARGS)&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-diff" data-lang="diff">&lt;span style="display:flex;">&lt;span> def func1():
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> ...
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> def func2(args):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> ...
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> class MyClass:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">- def method1(self):
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span>&lt;span style="color:#00cd00">+ def method1(self, &amp;lt;new_arg1&amp;gt;, &amp;lt;new_arg2&amp;gt;,):
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">&lt;/span> ...
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">- def method2(self, args):
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span>&lt;span style="color:#00cd00">+ def method2(self, &amp;lt;new_arg1&amp;gt;, &amp;lt;new_arg2&amp;gt;, args):
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">&lt;/span> ...
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> @classmethod
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> def cls_method(cls):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> ...
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> @staticmethod
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> def static_method(cls):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> ...
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="alias-import-and-replace-identifiers">
+ Alias import and replace identifiers
+ &lt;a class="heading-link" href="#alias-import-and-replace-identifiers">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>id: replace-non-import-identifiers
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>language: python
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>rule:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> kind: identifier
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> pattern: &lt;span style="color:#cd0000">&amp;#39;MyIdentifier&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> not:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> inside:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> kind: dotted_name
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> inside:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> kind: import_from_statement
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>fix: &lt;span style="color:#cd0000">&amp;#39;MyNewIdentifier&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>---
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>id: alias-import
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>language: python
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>rule:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> pattern: &lt;span style="color:#cd0000">&amp;#39;MyIdentifier&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> kind: identifier
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> inside:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> kind: dotted_name
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> inside:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> pattern: &lt;span style="color:#cd0000">&amp;#39;from x import $$$&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> kind: import_from_statement
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>fix: &lt;span style="color:#cd0000">&amp;#39;MyIdentifier as MyNewIdentifier&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-diff" data-lang="diff">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">-from x import MyIdentifier
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span>&lt;span style="color:#00cd00">+from x import MyIdentifier as MyNewIdentifier
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">-MyIdentifier.ABC
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span>&lt;span style="color:#00cd00">+MyNewIdentifier.ABC
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> s = &amp;#39;The MyIdentifier inside strings will not be changed.&amp;#39;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="append-to-the-body-of-a-function">
+ Append to the body of a function
+ &lt;a class="heading-link" href="#append-to-the-body-of-a-function">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>id: append-to-function-body
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>language: python
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>rule:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> pattern: &amp;#39;def user($$$ARGS): $$$BODY&amp;#39;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>fix: |&lt;span style="color:#cd0000">
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000"> def user($$$ARGS):
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000"> $$$BODY
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000"> yield
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000"> tear_down()&lt;/span> 
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-diff" data-lang="diff">&lt;span style="display:flex;">&lt;span> @pytest.fixture
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> def user():
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> create_user()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">+ yield
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">+ tear_down()
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="change-function-calls">
+ Change function calls
+ &lt;a class="heading-link" href="#change-function-calls">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>id: change-function-calls
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>language: python
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>rule:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> pattern: &lt;span style="color:#cd0000">&amp;#39;my_func&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> kind: identifier
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> inside:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> kind: call
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>fix: &lt;span style="color:#cd0000">&amp;#39;my_new_func&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-diff" data-lang="diff">&lt;span style="display:flex;">&lt;span> from x import my_func
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> my_func.X = &amp;#39;&amp;#39;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> s = &amp;#39;my_func inside string will not be changed&amp;#39;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">-my_func()
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span>&lt;span style="color:#00cd00">+my_new_func()
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Bash</title><link>https://cezimbra.me/anotacoes/bash/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/bash/</guid><description>&lt;ul>
+&lt;li>command or error
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&amp;lt;command&amp;gt; &lt;span style="color:#39c">||&lt;/span> &lt;span style="color:#39c">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cd00cd">echo&lt;/span> &lt;span style="color:#cd0000">&amp;#34;Please install &amp;lt;package&amp;gt;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cd00cd">exit&lt;/span> &lt;span style="color:#cd00cd">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#39c">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;h2 id="if">
+ if
+ &lt;a class="heading-link" href="#if">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">if&lt;/span> &lt;span style="color:#39c">[[&lt;/span> &amp;lt;condition&amp;gt; &lt;span style="color:#39c">]]&lt;/span>; &lt;span style="color:#cdcd00">then&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;command&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">elif&lt;/span> &lt;span style="color:#39c">[[&lt;/span> &amp;lt;condition&amp;gt; &lt;span style="color:#39c">]]&lt;/span>; &lt;span style="color:#cdcd00">then&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;command&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">else&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &amp;lt;command&amp;gt;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">fi&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="conditions">
+ Conditions
+ &lt;a class="heading-link" href="#conditions">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;h4 id="filesdirs">
+ Files/dirs
+ &lt;a class="heading-link" href="#filesdirs">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;code>[[ -e &amp;lt;file&amp;gt; ]]&lt;/code> file exists&lt;/li>
+&lt;li>&lt;code>[[ -d &amp;lt;dir&amp;gt; ]]&lt;/code> dir exists&lt;/li>
+&lt;/ul>
+&lt;h4 id="strings">
+ Strings
+ &lt;a class="heading-link" href="#strings">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h4>
+&lt;ul>
+&lt;li>&lt;code>[[ -z &amp;lt;string&amp;gt; ]]&lt;/code> string is empty&lt;/li>
+&lt;li>&lt;code>[[ -n &amp;lt;string&amp;gt; ]]&lt;/code> string is not empty&lt;/li>
+&lt;/ul>
+&lt;h2 id="sed">
+ sed
+ &lt;a class="heading-link" href="#sed">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>insert a line at the beginning of a file
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sed -i &lt;span style="color:#cd0000">&amp;#39;1i\&amp;lt;lines&amp;gt;&amp;#39;&lt;/span> &lt;span style="color:#cd0000">&amp;#34;&amp;lt;file&amp;gt;&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>find and sed multiple files
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>find &lt;span style="color:#cd0000">&amp;#34;&amp;lt;dir&amp;gt;&amp;#34;&lt;/span> -type f -exec sed -i &lt;span style="color:#cd0000">&amp;#34;s|&amp;lt;search&amp;gt;|&amp;lt;replace&amp;gt;|&amp;#34;&lt;/span> &lt;span style="color:#39c">{}&lt;/span> +
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul></description></item><item><title>2024-09-29 - 2024-10-05</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -42,6 +337,9 @@ automated screenshots of websites&lt;/li>
 component framework for &lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/adamghill/dj-angles" class="external-link" target="_blank" rel="noopener">dj-angles&lt;/a> - e.g. &lt;code>&amp;lt;dj-partial /&amp;gt;&lt;/code>
 instead of &lt;code>{% include 'partial.html' %}&lt;/code>&lt;/li>
+&lt;li>&lt;a href="https://github.com/adamchainz/django-browser-reload" class="external-link" target="_blank" rel="noopener">django-browser-reload&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/jazzband/django-taggit" class="external-link" target="_blank" rel="noopener">django-taggit&lt;/a> - simple tagging
+for &lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-articles">
  Read articles
@@ -73,8 +371,8 @@ instead of &lt;code>{% include 'partial.html' %}&lt;/code>&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=xh-iMBOXl6M" class="external-link" target="_blank" rel="noopener">Radical Simplicity&lt;/a>&lt;/li>
 &lt;li>(pt-BR) (in progress) &lt;a href="https://www.youtube.com/watch?v=q6w4Ja-KlqI" class="external-link" target="_blank" rel="noopener">VAMOS CRIAR UM LANÇAMENTO 100% POR IA (NOSSA IA) | LIVE #29&lt;/a>&lt;/li>
-&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=xh-iMBOXl6M" class="external-link" target="_blank" rel="noopener">Radical Simplicity&lt;/a>&lt;/li>
 &lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=wVyu7NB7W6Y" class="external-link" target="_blank" rel="noopener">https://www.youtube.com/watch?v=wVyu7NB7W6Y&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="listened">
@@ -162,6 +460,8 @@ devices&lt;/li>
 &lt;li>&lt;a href="https://mikedilger.com/gossip-model/" class="external-link" target="_blank" rel="noopener">The Outbox Model and the gossip model and NIP-65&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://simonwillison.net/2024/Sep/18/board-of-the-python-software-foundation/" class="external-link" target="_blank" rel="noopener">Things I’ve learned serving on the board of the Python Software Foundation&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://kristoff.it/blog/python-training-wheels/" class="external-link" target="_blank" rel="noopener">The Python Package Index Should Get Rid Of Its Training Wheels&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://moacirmoda.substack.com/p/fui-ao-saastr-o-maior-evento-de-saas" class="external-link" target="_blank" rel="noopener">Fui ao SaaStr, o maior evento de SaaS do mundo!&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://moacirmoda.substack.com/p/decidi-mudar-tudo" class="external-link" target="_blank" rel="noopener">Decidi mudar tudo&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="watched">
  Watched
@@ -5107,6 +5407,10 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/profilling-python-tests/" >Profilling Python tests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/comparing-python-package-managers/" >Comparing Python package managers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/ast-grep-by-example/" >ast-grep by example&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/bash/" >Bash&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >Weeknotes/2024-09-29 - 2024-10-05&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >Weeknotes/2024-09-22 - 2024-09-28&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/web3/" >Web3&lt;/a>&lt;/li>
@@ -5897,9 +6201,9 @@ despertou a misericórdia de Deus&lt;/p></description></item><item><title>ChatGP
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode25s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode28s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode25s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode28s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -6091,9 +6395,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode38s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode42s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode38s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode42s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -8306,9 +8610,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode84s1hbhb">
+&lt;h2 id="llmhahahugoshortcode87s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode84s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode87s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
