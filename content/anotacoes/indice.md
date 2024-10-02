@@ -1,13 +1,17 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-09-30
+lastmod: 2024-10-02
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Profilling Python tests]({{< ref "Profilling Python tests" >}})
+- [Comparing Python package managers]({{< ref "Comparing Python package managers" >}})
+- [ast-grep by example]({{< ref "ast-grep by example" >}})
+- [Bash]({{< ref "Bash" >}})
 - [Weeknotes/2024-09-29 - 2024-10-05]({{< ref "Weeknotes/2024-09-29 - 2024-10-05" >}})
 - [Weeknotes/2024-09-22 - 2024-09-28]({{< ref "Weeknotes/2024-09-22 - 2024-09-28" >}})
 - [Web3]({{< ref "Web3" >}})
