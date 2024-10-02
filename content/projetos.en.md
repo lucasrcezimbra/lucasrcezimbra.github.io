@@ -5,6 +5,13 @@ slug: "projects"
 ---
 
 {{< project
+    name="toolbox"
+    description="Toolbox is where I keep the libraries, frameworks, tools, languages, etc. that I know"
+    github="lucasrcezimbra/toolbox"
+    website="https://toolbox.cezimbra.me"
+>}}
+
+{{< project
     name="ninja-api-key"
     description="API Key authentication for Django Ninja"
     github="lucasrcezimbra/ninja-api-key"
