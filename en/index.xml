@@ -97,6 +97,26 @@ Translated business requirements into user stories, bridging the gap between tec
 Involved in the due diligence process, contributing to the successful acquisition of the company by Prometric.
 Responsible for conducting technical interviews.&lt;/p></description></item><item><title>Projects</title><link>https://cezimbra.me/en/projects/</link><pubDate>Fri, 08 Apr 2022 20:08:54 -0300</pubDate><guid>https://cezimbra.me/en/projects/</guid><description>&lt;div class="card ">
  &lt;div class="container">
+ &lt;h3>&lt;b>toolbox&lt;/b>&lt;/h3>
+ &lt;span>Toolbox is where I keep the libraries, frameworks, tools, languages, etc. that I know&lt;/span>
+ &lt;div>
+ 
+ &lt;a href="https://toolbox.cezimbra.me" target="_blank">&lt;i class="fa fa-link">&lt;/i>&lt;/a>
+ 
+
+ 
+ &lt;a href="https://github.com/lucasrcezimbra/toolbox/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ 
+
+ 
+
+ 
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;div class="card ">
+ &lt;div class="container">
  &lt;h3>&lt;b>ninja-api-key&lt;/b>&lt;/h3>
  &lt;span>API Key authentication for Django Ninja&lt;/span>
  &lt;div>
