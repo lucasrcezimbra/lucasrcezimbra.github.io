@@ -1,9 +1,8 @@
 ---
 title: Bash
 date: 2024-09-30
-lastmod: 2024-10-02
+lastmod: 2024-10-03
 ---
-
 
 - command or error
     ```bash
@@ -12,6 +11,39 @@ lastmod: 2024-10-02
         exit 1
     }
     ```
+
+## arrays
+- defining: `fruits=("apple" "banana" "cherry")`
+- accessing by index: `echo "${fruits[0]}"`
+- accessing all: `echo "${fruits[@]}"`
+- length: `echo "${#fruits[@]}"`
+- concatenating: `echo "${fruits[*]}"`
+- appending: `fruits+=("durian")`
+- appending multiple: `fruits+=("durian" "elderberry")`
+
+```bash
+fruits=("apple" "banana" "cherry")
+echo "${fruits[0]}"
+# apple
+
+for f in "${fruits[*]}"; do
+    echo "$f"
+done
+# apple banana cherry
+
+more_fruits=("durian" "elderberry")
+fruits+=("${more_fruits[@]}")
+
+for f in "${fruits[@]}"; do
+    echo "$f"
+done
+# apple
+# banana
+# cherry
+# durian
+# elderberry
+```
+
 
 ## if
 ```bash
@@ -34,6 +66,14 @@ fi
 - `[[ -n <string> ]]` string is not empty
 
 
+## Loops
+### for
+```bash
+fruits=("apple" "banana" "cherry")
+for f in "${fruits[@]}"; do
+    echo "$f"
+done
+```
 
 ## sed
 - insert a line at the beginning of a file
@@ -44,3 +84,17 @@ fi
     ```bash
     find "<dir>" -type f -exec sed -i "s|<search>|<replace>|" {} +
     ```
+
+
+## Substitution
+- `${<variable>}` = variable substitution
+    * same as `$variable`, but useful when doing string manipulation
+    * ```bash
+      text="hello"
+      echo "${text:1:3}"
+      # ell
+      ```
+- `$(<command>)` = command substitution
+    * ```bash
+      echo "Today is $(date +%Y-%m-%d)"
+      ``
