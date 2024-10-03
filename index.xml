@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Wed, 02 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>Comparing Python package managers</title><link>https://cezimbra.me/anotacoes/comparing-python-package-managers/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/comparing-python-package-managers/</guid><description>&lt;h2 id="pyprojecttoml-spec">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>Comparing Python package managers</title><link>https://cezimbra.me/anotacoes/comparing-python-package-managers/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/comparing-python-package-managers/</guid><description>&lt;h2 id="pyprojecttoml-spec">
  pyproject.toml spec
  &lt;a class="heading-link" href="#pyprojecttoml-spec">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -236,7 +236,43 @@
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#39c">}&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;/ul>
-&lt;h2 id="if">
+&lt;h2 id="arrays">
+ arrays
+ &lt;a class="heading-link" href="#arrays">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>defining: &lt;code>fruits=(&amp;quot;apple&amp;quot; &amp;quot;banana&amp;quot; &amp;quot;cherry&amp;quot;)&lt;/code>&lt;/li>
+&lt;li>accessing by index: &lt;code>echo &amp;quot;${fruits[0]}&amp;quot;&lt;/code>&lt;/li>
+&lt;li>accessing all: &lt;code>echo &amp;quot;${fruits[@]}&amp;quot;&lt;/code>&lt;/li>
+&lt;li>length: &lt;code>echo &amp;quot;${#fruits[@]}&amp;quot;&lt;/code>&lt;/li>
+&lt;li>concatenating: &lt;code>echo &amp;quot;${fruits[*]}&amp;quot;&lt;/code>&lt;/li>
+&lt;li>appending: &lt;code>fruits+=(&amp;quot;durian&amp;quot;)&lt;/code>&lt;/li>
+&lt;li>appending multiple: &lt;code>fruits+=(&amp;quot;durian&amp;quot; &amp;quot;elderberry&amp;quot;)&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cdcd">fruits&lt;/span>&lt;span style="color:#39c">=(&lt;/span>&lt;span style="color:#cd0000">&amp;#34;apple&amp;#34;&lt;/span> &lt;span style="color:#cd0000">&amp;#34;banana&amp;#34;&lt;/span> &lt;span style="color:#cd0000">&amp;#34;cherry&amp;#34;&lt;/span>&lt;span style="color:#39c">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd00cd">echo&lt;/span> &lt;span style="color:#cd0000">&amp;#34;&lt;/span>&lt;span style="color:#cd0000">${&lt;/span>&lt;span style="color:#00cdcd">fruits&lt;/span>[0]&lt;span style="color:#cd0000">}&lt;/span>&lt;span style="color:#cd0000">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># apple&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">for&lt;/span> f in &lt;span style="color:#cd0000">&amp;#34;&lt;/span>&lt;span style="color:#cd0000">${&lt;/span>&lt;span style="color:#00cdcd">fruits&lt;/span>[*]&lt;span style="color:#cd0000">}&lt;/span>&lt;span style="color:#cd0000">&amp;#34;&lt;/span>; &lt;span style="color:#cdcd00">do&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cd00cd">echo&lt;/span> &lt;span style="color:#cd0000">&amp;#34;&lt;/span>&lt;span style="color:#00cdcd">$f&lt;/span>&lt;span style="color:#cd0000">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">done&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># apple banana cherry&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cdcd">more_fruits&lt;/span>&lt;span style="color:#39c">=(&lt;/span>&lt;span style="color:#cd0000">&amp;#34;durian&amp;#34;&lt;/span> &lt;span style="color:#cd0000">&amp;#34;elderberry&amp;#34;&lt;/span>&lt;span style="color:#39c">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cdcd">fruits&lt;/span>&lt;span style="color:#39c">+=(&lt;/span>&lt;span style="color:#cd0000">&amp;#34;&lt;/span>&lt;span style="color:#cd0000">${&lt;/span>&lt;span style="color:#00cdcd">more_fruits&lt;/span>[@]&lt;span style="color:#cd0000">}&lt;/span>&lt;span style="color:#cd0000">&amp;#34;&lt;/span>&lt;span style="color:#39c">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">for&lt;/span> f in &lt;span style="color:#cd0000">&amp;#34;&lt;/span>&lt;span style="color:#cd0000">${&lt;/span>&lt;span style="color:#00cdcd">fruits&lt;/span>[@]&lt;span style="color:#cd0000">}&lt;/span>&lt;span style="color:#cd0000">&amp;#34;&lt;/span>; &lt;span style="color:#cdcd00">do&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cd00cd">echo&lt;/span> &lt;span style="color:#cd0000">&amp;#34;&lt;/span>&lt;span style="color:#00cdcd">$f&lt;/span>&lt;span style="color:#cd0000">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">done&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># apple&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># banana&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># cherry&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># durian&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># elderberry&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="if">
  if
  &lt;a class="heading-link" href="#if">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -279,7 +315,25 @@
 &lt;li>&lt;code>[[ -z &amp;lt;string&amp;gt; ]]&lt;/code> string is empty&lt;/li>
 &lt;li>&lt;code>[[ -n &amp;lt;string&amp;gt; ]]&lt;/code> string is not empty&lt;/li>
 &lt;/ul>
-&lt;h2 id="sed">
+&lt;h2 id="loops">
+ Loops
+ &lt;a class="heading-link" href="#loops">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="for">
+ for
+ &lt;a class="heading-link" href="#for">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cdcd">fruits&lt;/span>&lt;span style="color:#39c">=(&lt;/span>&lt;span style="color:#cd0000">&amp;#34;apple&amp;#34;&lt;/span> &lt;span style="color:#cd0000">&amp;#34;banana&amp;#34;&lt;/span> &lt;span style="color:#cd0000">&amp;#34;cherry&amp;#34;&lt;/span>&lt;span style="color:#39c">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">for&lt;/span> f in &lt;span style="color:#cd0000">&amp;#34;&lt;/span>&lt;span style="color:#cd0000">${&lt;/span>&lt;span style="color:#00cdcd">fruits&lt;/span>[@]&lt;span style="color:#cd0000">}&lt;/span>&lt;span style="color:#cd0000">&amp;#34;&lt;/span>; &lt;span style="color:#cdcd00">do&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cd00cd">echo&lt;/span> &lt;span style="color:#cd0000">&amp;#34;&lt;/span>&lt;span style="color:#00cdcd">$f&lt;/span>&lt;span style="color:#cd0000">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">done&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="sed">
  sed
  &lt;a class="heading-link" href="#sed">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -293,6 +347,33 @@
 &lt;li>find and sed multiple files
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>find &lt;span style="color:#cd0000">&amp;#34;&amp;lt;dir&amp;gt;&amp;#34;&lt;/span> -type f -exec sed -i &lt;span style="color:#cd0000">&amp;#34;s|&amp;lt;search&amp;gt;|&amp;lt;replace&amp;gt;|&amp;#34;&lt;/span> &lt;span style="color:#39c">{}&lt;/span> +
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;h2 id="substitution">
+ Substitution
+ &lt;a class="heading-link" href="#substitution">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;code>${&amp;lt;variable&amp;gt;}&lt;/code> = variable substitution
+&lt;ul>
+&lt;li>same as &lt;code>$variable&lt;/code>, but useful when doing string manipulation&lt;/li>
+&lt;li>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cdcd">text&lt;/span>&lt;span style="color:#39c">=&lt;/span>&lt;span style="color:#cd0000">&amp;#34;hello&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd00cd">echo&lt;/span> &lt;span style="color:#cd0000">&amp;#34;&lt;/span>&lt;span style="color:#cd0000">${&lt;/span>&lt;span style="color:#00cdcd">text&lt;/span>:&lt;span style="color:#00cdcd">1&lt;/span>:&lt;span style="color:#00cdcd">3&lt;/span>&lt;span style="color:#cd0000">}&lt;/span>&lt;span style="color:#cd0000">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># ell&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;code>$(&amp;lt;command&amp;gt;)&lt;/code> = command substitution
+&lt;ul>
+&lt;li>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd00cd">echo&lt;/span> &lt;span style="color:#cd0000">&amp;#34;Today is &lt;/span>&lt;span style="color:#cdcd00">$(&lt;/span>date +%Y-%m-%d&lt;span style="color:#cdcd00">)&lt;/span>&lt;span style="color:#cd0000">&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">``&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul></description></item><item><title>2024-09-29 - 2024-10-05</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
@@ -5407,10 +5488,10 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/bash/" >Bash&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/profilling-python-tests/" >Profilling Python tests&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/comparing-python-package-managers/" >Comparing Python package managers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/ast-grep-by-example/" >ast-grep by example&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/bash/" >Bash&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >Weeknotes/2024-09-29 - 2024-10-05&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >Weeknotes/2024-09-22 - 2024-09-28&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/web3/" >Web3&lt;/a>&lt;/li>
@@ -5788,9 +5869,9 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -6395,9 +6476,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode42s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode55s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode42s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode55s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -8610,9 +8691,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode87s1hbhb">
+&lt;h2 id="llmhahahugoshortcode90s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode87s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode90s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
