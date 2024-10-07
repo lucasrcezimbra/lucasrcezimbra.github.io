@@ -1,4 +1,146 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 03 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>Comparing Python package managers</title><link>https://cezimbra.me/anotacoes/comparing-python-package-managers/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/comparing-python-package-managers/</guid><description>&lt;h2 id="pyprojecttoml-spec">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-10-06 - 2024-10-12</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+&lt;h2 id="books-being-read">
+ Books being read
+ &lt;a class="heading-link" href="#books-being-read">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(pt-BR) Conversas Cruciais - Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan &amp;amp;
+Al Switzler &amp;amp; Emily Gregory&lt;/li>
+&lt;li>(pt-BR) Tremendas Trivialidades - G.K. Chesterton&lt;/li>
+&lt;/ul>
+&lt;h2 id="learned">
+ Learned
+ &lt;a class="heading-link" href="#learned">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="discovered-tools">
+ Discovered tools
+ &lt;a class="heading-link" href="#discovered-tools">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="trees-in-django">
+ Trees in Django
+ &lt;a class="heading-link" href="#trees-in-django">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/feincms/django-tree-queries" class="external-link" target="_blank" rel="noopener">django-tree-queries&lt;/a>
+&lt;ul>
+&lt;li>supports PostgreSQL, sqlite3, MariaDB, and MySQL&lt;/li>
+&lt;li>uses Common Table Expressions (CTEs)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/TimurKady/django-fast-treenode" class="external-link" target="_blank" rel="noopener">django-fast-treenode&lt;/a>
+&lt;ul>
+&lt;li>fork of django-treenode&lt;/li>
+&lt;li>uses Adjacency List + Closure Table&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/baseplate-admin/django-ltree-2" class="external-link" target="_blank" rel="noopener">django-ltree-2&lt;/a>
+&lt;ul>
+&lt;li>PostgreSQL only&lt;/li>
+&lt;li>uses PostgreSQL ltree&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/fabiocaccamo/django-treenode" class="external-link" target="_blank" rel="noopener">django-treenode&lt;/a>
+&lt;ul>
+&lt;li>uses Adjacency List&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/matthiask/django-cte-forest" class="external-link" target="_blank" rel="noopener">django-cte-forest&lt;/a>
+&lt;ul>
+&lt;li>PostgreSQL only&lt;/li>
+&lt;li>uses Common Table Expressions (CTEs)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/django-treebeard/django-treebeard" class="external-link" target="_blank" rel="noopener">django-treebeard&lt;/a>
+&lt;ul>
+&lt;li>uses Adjacency List, Materialized Path, or Nested Sets&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/django-mptt/django-mptt" class="external-link" target="_blank" rel="noopener">django-mptt&lt;/a>
+&lt;ul>
+&lt;li>unmaintained&lt;/li>
+&lt;li>uses &lt;a href="https://en.wikipedia.org/wiki/Nested_set_model" class="external-link" target="_blank" rel="noopener">Nested set model&lt;/a>&lt;/li>
+&lt;li>Saving nodes with outdated values (when it was updated by another
+process, for example) will cause corrupted trees&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/OmenApps/django-postgresql-dag" class="external-link" target="_blank" rel="noopener">django-postgresql-dag&lt;/a>
+&lt;ul>
+&lt;li>last commit in 2022&lt;/li>
+&lt;li>supports PostgreSQL only&lt;/li>
+&lt;li>uses Common Table Expressions (CTEs)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="python-dicts">
+ Python dicts
+ &lt;a class="heading-link" href="#python-dicts">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/henriquebastos/deepdict" class="external-link" target="_blank" rel="noopener">deepdict&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/mahmoud/glom" class="external-link" target="_blank" rel="noopener">glom&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/fabiocaccamo/python-benedict" class="external-link" target="_blank" rel="noopener">python-benedict&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="read-articles">
+ Read articles
+ &lt;a class="heading-link" href="#read-articles">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services" class="external-link" target="_blank" rel="noopener">AWS to Azure services comparison - Azure Architecture Center | Microsoft Learn&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://406.ch/writing/django-tree-queries" class="external-link" target="_blank" rel="noopener">django-tree-queries - Matthias Kestenholz&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="read-news">
+ Read news
+ &lt;a class="heading-link" href="#read-news">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://openai.com/index/introducing-canvas/" class="external-link" target="_blank" rel="noopener">Canvas is a new way to write and code with ChatGPT | OpenAI&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="watched">
+ Watched
+ &lt;a class="heading-link" href="#watched">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=mTa2d3OLXhg" class="external-link" target="_blank" rel="noopener">DHH Is Right About Everything&lt;/a>&lt;/li>
+&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=3rCljrDfZ3Y" class="external-link" target="_blank" rel="noopener">Zsh config walkthrough of a CLI master&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="listened">
+ Listened
+ &lt;a class="heading-link" href="#listened">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>Comparing Python package managers</title><link>https://cezimbra.me/anotacoes/comparing-python-package-managers/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/comparing-python-package-managers/</guid><description>&lt;h2 id="pyprojecttoml-spec">
  pyproject.toml spec
  &lt;a class="heading-link" href="#pyprojecttoml-spec">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -374,7 +516,7 @@
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>2024-09-29 - 2024-10-05</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+&lt;/ul></description></item><item><title>2024-09-29 - 2024-10-05</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/</link><pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -386,16 +528,6 @@
 &lt;li>(pt-BR) Conversas Cruciais - Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan &amp;amp;
 Al Switzler &amp;amp; Emily Gregory&lt;/li>
 &lt;li>(pt-BR) Tremendas Trivialidades - G.K. Chesterton&lt;/li>
-&lt;/ul>
-&lt;h2 id="learned">
- Learned
- &lt;a class="heading-link" href="#learned">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;/li>
 &lt;/ul>
 &lt;h2 id="discovered-tools">
  Discovered tools
@@ -433,6 +565,7 @@ for &lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://davekiss.com/blog/how-i-won-2750-using-javascript-ai-and-a-can-of-wd-40" class="external-link" target="_blank" rel="noopener">How I won $2,750 using JavaScript, AI, and a can of WD-40&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://switowski.com/blog/i-like-makefiles" class="external-link" target="_blank" rel="noopener">I Like Makefiles&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://davekiss.com/blog/why-you-should-write" class="external-link" target="_blank" rel="noopener">Why you should write&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://til.simonwillison.net/django/live-blog" class="external-link" target="_blank" rel="noopener">Building an automatically updating live blog in Django | Simon Willison’s TILs&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-news">
  Read news
@@ -442,7 +575,7 @@ for &lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a>&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>&lt;a href="https://peps.python.org/pep-0758" class="external-link" target="_blank" rel="noopener">PEP 758 – Allow except and except* expressions without parentheses | peps.python.org&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="watched">
  Watched
@@ -453,8 +586,7 @@ for &lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a>&lt;/li>
 &lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=xh-iMBOXl6M" class="external-link" target="_blank" rel="noopener">Radical Simplicity&lt;/a>&lt;/li>
-&lt;li>(pt-BR) (in progress) &lt;a href="https://www.youtube.com/watch?v=q6w4Ja-KlqI" class="external-link" target="_blank" rel="noopener">VAMOS CRIAR UM LANÇAMENTO 100% POR IA (NOSSA IA) | LIVE #29&lt;/a>&lt;/li>
-&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=wVyu7NB7W6Y" class="external-link" target="_blank" rel="noopener">https://www.youtube.com/watch?v=wVyu7NB7W6Y&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=wVyu7NB7W6Y" class="external-link" target="_blank" rel="noopener">Exposing The Flaw In Our Phone System&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="listened">
  Listened
@@ -464,9 +596,13 @@ for &lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a>&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=tXDrni6w29s" class="external-link" target="_blank" rel="noopener">Homilia Diária | O pedido de Jesus a São Jerônimo (Memória de São Jerônimo, Doutor da Igreja)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=tXDrni6w29s" class="external-link" target="_blank" rel="noopener">Homilia Diária | O pedido de Jesus a São Jerônimo (Memória de São Jerônimo, Doutor da Igreja)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=833ZGMfHCtA" class="external-link" target="_blank" rel="noopener">Homilia Diária | Santa Teresinha, uma alma missionária (Memória de Santa Teresinha do Menino Jesus)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=VUkJqZZJYNQ" class="external-link" target="_blank" rel="noopener">Homilia Diária | Anjo da Guarda é “coisa de criança”? (Memória dos Santos Anjos da Guarda)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=mAMZhXhsD1c" class="external-link" target="_blank" rel="noopener">Homilia Diária | Deram a vida pela Eucaristia (Memória de Santo André de Soveral e companheiros)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=ZLHFlZkP0-0" class="external-link" target="_blank" rel="noopener">Homilia Diária | A verdadeira razão da pobreza de São Francisco (Memória de São Francisco de Assis)&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2024-09-22 - 2024-09-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/</link><pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>2024-09-22 - 2024-09-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/</link><pubDate>Sun, 22 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -5488,11 +5624,12 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/" >Weeknotes/2024-10-06 - 2024-10-12&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >Weeknotes/2024-09-29 - 2024-10-05&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/bash/" >Bash&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/profilling-python-tests/" >Profilling Python tests&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/comparing-python-package-managers/" >Comparing Python package managers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/ast-grep-by-example/" >ast-grep by example&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >Weeknotes/2024-09-29 - 2024-10-05&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >Weeknotes/2024-09-22 - 2024-09-28&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/web3/" >Web3&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>&lt;/li>
@@ -5869,9 +6006,9 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -6282,9 +6419,9 @@ despertou a misericórdia de Deus&lt;/p></description></item><item><title>ChatGP
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode28s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode32s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode28s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode32s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -6476,9 +6613,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode55s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode42s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode55s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode42s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -8691,9 +8828,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode90s1hbhb">
+&lt;h2 id="llmhahahugoshortcode87s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode90s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode87s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
