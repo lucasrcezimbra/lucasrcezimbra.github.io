@@ -11,7 +11,7 @@ repos:
         entry: python contrib/generate_indice.py
         language: python
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.6.0
+    rev: v5.0.0
     hooks:
       - id: check-added-large-files
       - id: check-ast
@@ -29,7 +29,7 @@ repos:
           - --autofix
       - id: trailing-whitespace
   - repo: https://github.com/psf/black
-    rev: 24.4.2
+    rev: 24.10.0
     hooks:
       - id: black
         types: [python]
@@ -38,6 +38,6 @@ repos:
     hooks:
       - id: yamlfmt
   - repo: https://github.com/rhysd/actionlint
-    rev: v1.7.1
+    rev: v1.7.3
     hooks:
       - id: actionlint
