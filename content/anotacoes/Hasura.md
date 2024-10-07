@@ -1,7 +1,7 @@
 ---
 title: "Hasura"
 date: 2023-08-15
-lastmod: 2024-08-12
+lastmod: 2024-10-07
 ---
 
 - [Hasura CE Changelog](https://hasura.io/changelog/community-edition)

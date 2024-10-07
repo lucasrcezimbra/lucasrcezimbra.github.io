@@ -1,7 +1,7 @@
 ---
 title: "Upwork"
 date: 2023-11-25
-lastmod: 2023-11-25
+lastmod: 2024-10-07
 ---
 - Talent Cloud - huge advantage; Network of top freelancers; exclusive access to jobs posted
 - Top Rated Freelancer and Top Rated Plus Freelancer

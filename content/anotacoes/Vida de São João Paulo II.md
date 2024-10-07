@@ -1,7 +1,7 @@
 ---
 title: "Vida de São João Paulo II"
 date: 2024-03-06
-lastmod: 2024-03-06
+lastmod: 2024-10-07
 ---
 Autor: Jason Evert
 ## II - Os seus cinco amores

@@ -1,7 +1,7 @@
 ---
 title: "Alternatives to"
 date: 2023-08-15
-lastmod: 2024-01-24
+lastmod: 2024-10-07
 ---
 https://www.opensourcealternative.to/
 

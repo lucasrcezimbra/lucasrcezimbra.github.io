@@ -1,7 +1,7 @@
 ---
 title: Bash
 date: 2024-09-30
-lastmod: 2024-10-03
+lastmod: 2024-10-07
 ---
 
 - command or error

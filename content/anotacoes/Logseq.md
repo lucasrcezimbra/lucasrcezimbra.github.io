@@ -1,7 +1,7 @@
 ---
 title: "Logseq"
 date: 2023-08-15
-lastmod: 2023-08-15
+lastmod: 2024-10-07
 ---
 - Namespaces
 	- Create: use `/` on the page name. Example: `Root Page/Child Page`

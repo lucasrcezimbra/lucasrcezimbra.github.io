@@ -1,7 +1,7 @@
 ---
 title: "Hugo"
 date: 2023-09-11
-lastmod: 2023-10-27
+lastmod: 2024-10-07
 ---
 - How to add icon for external links ([Source](https://www.jayeless.net/2021/08/hugo-mark-external-links.html))
 	```html

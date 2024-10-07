@@ -1,7 +1,7 @@
 ---
 title: Git
 date: 2023-08-15
-lastmod: 2024-07-04
+lastmod: 2024-10-07
 aliases:
   - /git
 ---

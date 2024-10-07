@@ -1,7 +1,7 @@
 ---
 title: Os segredos dos casais inteligentes
 date: 2024-07-04
-lastmod: 2024-07-05
+lastmod: 2024-10-07
 aliases:
 ---
 ## Minhas Notas

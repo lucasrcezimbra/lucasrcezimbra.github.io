@@ -1,7 +1,7 @@
 ---
 title: "Ecommerce"
 date: 2023-09-15
-lastmod: 2023-09-15
+lastmod: 2024-10-07
 ---
 ## Plataformas
 - [Nuvemshop](https://www.nuvemshop.com.br/)

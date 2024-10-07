@@ -1,7 +1,7 @@
 ---
 title: "Pesca"
 date: 2024-02-27
-lastmod: 2024-02-27
+lastmod: 2024-10-07
 ---
 - https://youtu.be/F3kSCsall4U
     - Caniço: 4 até 4,50m

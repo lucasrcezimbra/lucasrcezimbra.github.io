@@ -1,7 +1,7 @@
 ---
 title: "CSS"
 date: 2023-10-13
-lastmod: 2023-11-17
+lastmod: 2024-10-07
 ---
 ## Features
 - Nesting - [Working Draft](https://drafts.csswg.org/css-nesting/) - [Browsers support](https://caniuse.com/css-nesting)

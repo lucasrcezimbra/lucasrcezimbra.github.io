@@ -1,7 +1,7 @@
 ---
 title: "(Manifest) REST"
 date: 2023-11-25
-lastmod: 2024-03-06
+lastmod: 2024-10-07
 ---
 - Topics
 	- Hypermedia

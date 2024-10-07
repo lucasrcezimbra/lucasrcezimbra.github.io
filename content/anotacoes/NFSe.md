@@ -1,7 +1,7 @@
 ---
 title: NFSe
 date: 2023-05-02
-lastmod: 2023-05-02
+lastmod: 2024-10-07
 aliases:
 ---
 

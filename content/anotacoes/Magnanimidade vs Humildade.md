@@ -1,7 +1,7 @@
 ---
 title: Magnanimidade vs Humildade
 date: 2024-08-13
-lastmod: 2024-08-14
+lastmod: 2024-10-07
 ---
 
 Esses dias eu estava lendo o livro

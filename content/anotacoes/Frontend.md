@@ -1,7 +1,7 @@
 ---
 title: Frontend
 date: 2023-08-29
-lastmod: 2024-06-05
+lastmod: 2024-10-07
 aliases:
   - /anotacoes/html-over-the-wire/
 ---

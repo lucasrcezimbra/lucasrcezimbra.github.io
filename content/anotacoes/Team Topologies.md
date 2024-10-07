@@ -1,7 +1,7 @@
 ---
 title: "Team Topologies"
 date: 2024-02-27
-lastmod: 2024-02-27
+lastmod: 2024-10-07
 ---
 https://www.youtube.com/watch?v=haejb5rzKsM
 ## Team size

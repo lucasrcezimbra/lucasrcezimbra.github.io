@@ -1,7 +1,7 @@
 ---
 title: "EdTech"
 date: 2023-08-15
-lastmod: 2024-07-10
+lastmod: 2024-10-07
 ---
 ## QTI
 - [API v3.0](https://www.imsglobal.org/spec/qti/v3p0/impl)

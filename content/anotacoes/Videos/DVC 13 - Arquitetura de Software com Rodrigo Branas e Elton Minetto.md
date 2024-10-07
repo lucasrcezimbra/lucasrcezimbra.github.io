@@ -1,7 +1,7 @@
 ---
 title: "DVC 13 - Arquitetura de Software com Rodrigo Branas e Elton Minetto"
 date: 2024-07-14
-lastmod: 2024-07-17
+lastmod: 2024-10-07
 ---
 
 https://www.youtube.com/watch?v=t4o1tOV3q78

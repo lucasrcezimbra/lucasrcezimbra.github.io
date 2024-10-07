@@ -1,7 +1,7 @@
 ---
 title: Linux
 date: 2023-08-15
-lastmod: 2024-09-23
+lastmod: 2024-10-07
 aliases:
   - /anotacoes/linux/
   - /dicas-rapidas-linux/

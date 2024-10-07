@@ -1,7 +1,7 @@
 ---
 title: ast-grep by example
 date: 2024-09-30
-lastmod: 2024-10-02
+lastmod: 2024-10-07
 ---
 
 - [ast-grep](https://github.com/ast-grep/ast-grep)

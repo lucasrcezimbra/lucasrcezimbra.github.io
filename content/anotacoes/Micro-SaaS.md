@@ -1,7 +1,7 @@
 ---
 title: "Micro-SaaS"
 date: 2023-11-25
-lastmod: 2024-02-27
+lastmod: 2024-10-07
 ---
 - Fake Door consiste em construir uma landingpage fake. Na hora da compra o cliente é avisado de que o produto ainda não está disponível.
 

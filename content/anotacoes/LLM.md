@@ -1,7 +1,7 @@
 ---
 title: "LLM"
 date: 2023-08-15
-lastmod: 2024-09-06
+lastmod: 2024-10-07
 ---
 - [Observability]({{< ref "Observability" >}})
 - Vector [Databases]({{< ref "Databases" >}})

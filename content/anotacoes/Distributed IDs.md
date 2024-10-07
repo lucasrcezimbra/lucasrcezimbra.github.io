@@ -1,7 +1,7 @@
 ---
 title: "Distributed IDs"
 date: 2023-08-15
-lastmod: 2023-08-29
+lastmod: 2024-10-07
 ---
 ## NanoID
 - [for JS](https://github.com/ai/nanoid)

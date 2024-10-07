@@ -1,7 +1,7 @@
 ---
 title: "Sentry"
 date: 2023-08-15
-lastmod: 2023-08-15
+lastmod: 2024-10-07
 ---
 - How to Discover what project and environment is sending too many events?
 	- `https://<tenant>.sentry.io/discover/homepage/?field=title&field=event.type&field=project&field=user.display&field=timestamp&field=replayId&name=All+Events&query=event.type%3Atransaction&sort=-timestamp&statsPeriod=30d&yAxis=count%28%29`

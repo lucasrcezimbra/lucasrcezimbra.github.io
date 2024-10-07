@@ -1,7 +1,7 @@
 ---
 title: Comparing Python package managers
 date: 2024-10-02
-lastmod: 2024-10-02
+lastmod: 2024-10-07
 ---
 
 ## pyproject.toml spec

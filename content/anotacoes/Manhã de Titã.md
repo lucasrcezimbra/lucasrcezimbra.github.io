@@ -1,7 +1,7 @@
 ---
 title: "Manhã de Titã"
 date: 2022-10-03
-lastmod: 2023-08-15
+lastmod: 2024-10-07
 ---
 
 por [Lucas Maia Maciel](https://instagram.com/lucasmaiamaciel)

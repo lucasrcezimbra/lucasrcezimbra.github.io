@@ -1,7 +1,7 @@
 ---
 title: "Raspberry"
 date: 2023-08-15
-lastmod: 2023-08-15
+lastmod: 2024-10-07
 ---
 ## Lite OS
 - How to connect to a new WiFi network

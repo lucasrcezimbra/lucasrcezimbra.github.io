@@ -1,7 +1,7 @@
 ---
 title: "Natal"
 date: 2023-08-15
-lastmod: 2024-08-27
+lastmod: 2024-10-07
 ---
 
 ## Cludes de Tiro

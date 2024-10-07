@@ -1,7 +1,7 @@
 ---
 title: Databases
 date: 2023-08-15
-lastmod: 2024-02-27
+lastmod: 2024-10-07
 aliases:
   - /anotacoes/vector-database/
 ---

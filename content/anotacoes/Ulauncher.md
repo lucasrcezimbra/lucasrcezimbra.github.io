@@ -1,7 +1,7 @@
 ---
 title: Ulauncher
 date: 2024-06-21
-lastmod: 2024-07-04
+lastmod: 2024-10-07
 aliases:
 ---
 ## Extensions

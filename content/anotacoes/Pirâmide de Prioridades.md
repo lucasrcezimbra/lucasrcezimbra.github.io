@@ -1,7 +1,7 @@
 ---
 title: "Pirâmide de Prioridades"
 date: 2023-08-31
-lastmod: 2023-08-31
+lastmod: 2024-10-07
 ---
 - retirado do curso O Valor do Dinheiro
 

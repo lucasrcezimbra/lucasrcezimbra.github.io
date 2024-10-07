@@ -1,7 +1,7 @@
 ---
 title: "Não eu, mas Deus"
 date: 2024-06-30
-lastmod: 2024-08-09
+lastmod: 2024-10-07
 aliases:
 ---
 
