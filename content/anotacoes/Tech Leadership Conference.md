@@ -1,7 +1,7 @@
 ---
 title: "Tech Leadership Conference"
 date: 2024-01-24
-lastmod: 2024-02-27
+lastmod: 2024-10-07
 ---
 ## Como Líderes Podem Usar IA Como Copiloto
 by [Phil Calçado](https://philcalcado.com/)

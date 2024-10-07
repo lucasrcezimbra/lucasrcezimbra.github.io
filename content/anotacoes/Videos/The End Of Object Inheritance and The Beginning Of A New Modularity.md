@@ -1,7 +1,7 @@
 ---
 title: "The End Of Object Inheritance & The Beginning Of A New Modularity"
 date: 2024-08-11
-lastmod: 2024-08-12
+lastmod: 2024-10-07
 ---
 
 [The End Of Object Inheritance & The Beginning Of A New Modularity](https://www.youtube.com/watch?v=3MNVP9-hglc)

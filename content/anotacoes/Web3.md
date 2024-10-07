@@ -1,7 +1,7 @@
 ---
 title: "Web3"
 date: 2023-08-15
-lastmod: 2024-09-27
+lastmod: 2024-10-07
 ---
 
 > **Fundador do Twitter aumenta para 10 BTC recompensa para quem criar

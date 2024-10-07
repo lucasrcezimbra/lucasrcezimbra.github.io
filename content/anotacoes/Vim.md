@@ -1,7 +1,7 @@
 ---
 title: "Vim"
 date: 2023-08-15
-lastmod: 2024-09-02
+lastmod: 2024-10-07
 ---
 - Profilling startup time
 	- https://github.com/dstein64/vim-startuptime

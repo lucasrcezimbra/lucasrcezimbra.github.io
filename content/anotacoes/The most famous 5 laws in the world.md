@@ -1,7 +1,7 @@
 ---
 title: "The most famous 5 laws in the world"
 date: 2023-08-15
-lastmod: 2023-08-15
+lastmod: 2024-10-07
 ---
 from: https://www.instagram.com/reel/Ct_izQfpZYY/
 

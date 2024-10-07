@@ -1,7 +1,7 @@
 ---
 title: Toolbox
 date: 2023-10-09
-lastmod: 2024-07-31
+lastmod: 2024-10-07
 aliases:
   - /anotacoes/integrations-platforms/
   - /anotacoes/vpn/

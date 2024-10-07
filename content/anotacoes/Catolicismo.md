@@ -1,7 +1,7 @@
 ---
 title: "Catolicismo"
 date: 2023-08-15
-lastmod: 2024-09-16
+lastmod: 2024-10-07
 ---
 > Sê firme, amável e justo.
 

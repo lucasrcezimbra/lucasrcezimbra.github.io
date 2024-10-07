@@ -1,7 +1,7 @@
 ---
 title: "Agile"
 date: 2023-08-15
-lastmod: 2023-11-25
+lastmod: 2024-10-07
 ---
 - https://agiledictionary.com/ - Agile Dictionary
 - https://agiledictionary.com/209/spike/ - Spike

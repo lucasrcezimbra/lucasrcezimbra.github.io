@@ -1,7 +1,7 @@
 ---
 title: "Inbox"
 date: 2023-10-27
-lastmod: 2024-07-22
+lastmod: 2024-10-07
 ---
 - https://www.apt-browse.org/
 - https://twitter.com/thiagoghisi/status/1708626218688430350?s=46
@@ -22,7 +22,7 @@ lastmod: 2024-07-22
     - MX - Não tem suporte ao Brasil
 
 
-- `sed -i 's/lastmod: .*/lastmod: '"$(date +'%Y-%m-%d')"'/g'`
+- `sed -i 's/lastmod: 2024-10-07
 
 - https://flixminer.com/ -  Estude com as legendas dos filmes que você assiste
 - https://eda-visuals.boyney.io/ or https://serverlessland.com/event-driven-architecture/visuals - Small bite sized visuals about event-driven architectures

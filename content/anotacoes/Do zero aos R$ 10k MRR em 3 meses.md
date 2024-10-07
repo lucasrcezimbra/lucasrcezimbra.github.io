@@ -1,7 +1,7 @@
 ---
 title: "Aula Do zero aos R$ 10k MRR em 3 meses"
 date: 2024-08-07
-lastmod: 2024-08-20
+lastmod: 2024-10-07
 aliases:
 ---
 

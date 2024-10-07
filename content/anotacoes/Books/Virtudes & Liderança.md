@@ -1,7 +1,7 @@
 ---
 title: "Virtudes & Liderança"
 date: 2024-04-16
-lastmod: 2024-07-26
+lastmod: 2024-10-07
 ---
 
 ## Minhas notas

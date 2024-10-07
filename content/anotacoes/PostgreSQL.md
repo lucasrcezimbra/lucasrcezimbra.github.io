@@ -1,7 +1,7 @@
 ---
 title: 'PostgreSQL'
 date: 2020-11-02
-lastmod: 2024-09-13
+lastmod: 2024-10-07
 aliases: [
     "/anotacoes/banco-de-dados/postgresql/",
     "/anotacoes/psql/",

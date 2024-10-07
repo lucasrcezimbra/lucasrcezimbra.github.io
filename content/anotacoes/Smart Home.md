@@ -1,7 +1,7 @@
 ---
 title: "Smart Home"
 date: 2022-12-27
-lastmod: 2024-06-05
+lastmod: 2024-10-07
 ---
 ## Communication
 - [Matrix](https://matrix.org/) - An open network for secure, decentralized communication

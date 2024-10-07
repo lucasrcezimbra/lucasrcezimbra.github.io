@@ -1,7 +1,7 @@
 ---
 title: "Cartão de Crédito"
 date: 2023-11-25
-lastmod: 2023-11-25
+lastmod: 2024-10-07
 ---
 ## Programa de Pontos
 ### Nubank

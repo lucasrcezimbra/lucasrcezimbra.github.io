@@ -1,7 +1,7 @@
 ---
 title: "Entregabilidade de E-mails"
 date: 2022-06-04
-lastmod: 2023-08-15
+lastmod: 2024-10-07
 ---
 
 

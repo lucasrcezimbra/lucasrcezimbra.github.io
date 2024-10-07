@@ -1,7 +1,7 @@
 ---
 title: "(Manifest) Platforms"
 date: 2023-11-25
-lastmod: 2024-01-24
+lastmod: 2024-10-07
 ---
 - Start with PaaS
 - When to build a platform internally?

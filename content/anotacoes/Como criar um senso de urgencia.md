@@ -1,7 +1,7 @@
 ---
 title:  Como criar um senso de urgência
 date: 2016-04-21
-lastmod: 2016-04-21
+lastmod: 2024-10-07
 aliases:
 ---
 

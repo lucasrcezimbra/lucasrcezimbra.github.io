@@ -1,7 +1,7 @@
 ---
 title: Lua
 date: 2024-08-30
-lastmod: 2024-09-02
+lastmod: 2024-10-07
 aliases:
 ---
 

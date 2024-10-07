@@ -1,7 +1,7 @@
 ---
 title: "Marketing Digital"
 date: 2024-02-27
-lastmod: 2024-07-04
+lastmod: 2024-10-07
 ---
 - Gatilhos Mentais: Autoridade; Reciprocidade; Comunidades; Antecipação; Conversa; Escassez ("Se os atendentes estiverem ocupados ligue de novo")
 - Prestador de serviço

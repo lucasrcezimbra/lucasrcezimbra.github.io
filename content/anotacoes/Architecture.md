@@ -1,7 +1,7 @@
 ---
 title: Architecture
 date: 2023-08-15
-lastmod: 2024-07-12
+lastmod: 2024-10-07
 aliases:
   - /anotacoes/microservices
   - /anotacoes/manifest-architecture

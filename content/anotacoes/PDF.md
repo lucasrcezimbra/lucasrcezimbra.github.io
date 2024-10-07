@@ -1,7 +1,7 @@
 ---
 title: "PDF"
 date: 2023-08-15
-lastmod: 2023-10-13
+lastmod: 2024-10-07
 ---
 ## How to merge images into PDF
 Using [Python]({{< ref "Python" >}})

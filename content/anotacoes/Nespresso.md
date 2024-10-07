@@ -1,7 +1,7 @@
 ---
 title: Nespresso
 date: 2022-04-07
-lastmod: 2024-04-16
+lastmod: 2024-10-07
 tags:
   - listas
 ---

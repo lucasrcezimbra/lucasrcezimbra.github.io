@@ -1,7 +1,7 @@
 ---
 title: Auth
 date: 2023-08-15
-lastmod: 2024-05-09
+lastmod: 2024-10-07
 aliases:
   - /anotacoes/auth0
 ---

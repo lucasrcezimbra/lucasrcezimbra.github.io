@@ -1,7 +1,7 @@
 ---
 title: Casais inteligentes enriquecem juntos
 date: 2024-07-02
-lastmod: 2024-07-04
+lastmod: 2024-10-07
 aliases:
 ---
 ## Notas

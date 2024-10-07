@@ -1,7 +1,7 @@
 ---
 title: Tornando-se um Estudante Sério
 date: 2020-07-09
-lastmod: 2020-07-09
+lastmod: 2024-10-07
 aliases:
 ---
 

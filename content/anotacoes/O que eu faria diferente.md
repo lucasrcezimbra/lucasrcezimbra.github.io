@@ -1,7 +1,7 @@
 ---
 title: "O que eu faria diferente"
 date: 2024-08-12
-lastmod: 2024-08-14
+lastmod: 2024-10-07
 aliases:
 ---
 

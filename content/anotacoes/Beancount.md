@@ -1,7 +1,7 @@
 ---
 title: "Beancount"
 date: 2023-08-15
-lastmod: 2023-08-15
+lastmod: 2024-10-07
 ---
 - [Awesome Beancount](https://awesome-beancount.com/)
 - [Documentation](https://beancount.github.io/docs/)
