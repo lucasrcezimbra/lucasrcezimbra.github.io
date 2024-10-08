@@ -1,7 +1,7 @@
 ---
 title: 'PostgreSQL'
 date: 2020-11-02
-lastmod: 2024-09-13
+lastmod: 2024-10-08
 aliases: [
     "/anotacoes/banco-de-dados/postgresql/",
     "/anotacoes/psql/",
@@ -18,7 +18,11 @@ aliases: [
 \dn - list schemas
 ```
 
-- Listing active transactions:
+## Common Table Expressions (CTEs)
+- [Docs](https://www.postgresql.org/docs/14/queries-with.html)
+- `WITH` clause
+
+## List active transactions
    ```sql
    SELECT
        datname AS database,
@@ -35,7 +39,7 @@ aliases: [
        state = 'active' OR state = 'idle in transaction';
    ```
 
-Como listar todas as tabelas do banco
+## List all tables in the database
 ```sql
 SELECT
     *
@@ -47,25 +51,24 @@ WHERE
 ;
 ```
 
-Como apagar todas as tabelas do banco :warning:
+## Drop all tables in the database
+:warning:
 ```sql
 DROP SCHEMA public CASCADE;
 CREATE SCHEMA public;
 ```
 
-Remover todos caracteres que não são letras
+## Remove all non-letter chars
 ```sql
 regexp_replace(value, '[^A-z ]+', '', 'g')
 ```
 
-
-Split string in multiple rows
+## Split string in multiple rows
 ```sql
 SELECT regexp_split_to_table('row1,row2,row3', ',')
 ```
 
-
-Criar uma função PL/pgSQL
+## Create a PL/pgSQL function
 ```sql
 CREATE OR REPLACE FUNCTION even_odds(max int)
  RETURNS int[][]

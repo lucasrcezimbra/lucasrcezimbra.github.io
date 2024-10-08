@@ -1,17 +1,19 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-10-07
+lastmod: 2024-10-08
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Storing trees in a database]({{< ref "Storing trees in a database" >}})
 - [Weeknotes/2024-10-06 - 2024-10-12]({{< ref "Weeknotes/2024-10-06 - 2024-10-12" >}})
+- [Profilling Python tests]({{< ref "Profilling Python tests" >}})
+- [PostgreSQL]({{< ref "PostgreSQL" >}})
 - [Weeknotes/2024-09-29 - 2024-10-05]({{< ref "Weeknotes/2024-09-29 - 2024-10-05" >}})
 - [Bash]({{< ref "Bash" >}})
-- [Profilling Python tests]({{< ref "Profilling Python tests" >}})
 - [Comparing Python package managers]({{< ref "Comparing Python package managers" >}})
 - [ast-grep by example]({{< ref "ast-grep by example" >}})
 - [Weeknotes/2024-09-22 - 2024-09-28]({{< ref "Weeknotes/2024-09-22 - 2024-09-28" >}})
@@ -21,7 +23,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2024-09-15 - 2024-09-21]({{< ref "Weeknotes/2024-09-15 - 2024-09-21" >}})
 - [Catolicismo]({{< ref "Catolicismo" >}})
 - [Weeknotes/2024-09-08 - 2024-09-14]({{< ref "Weeknotes/2024-09-08 - 2024-09-14" >}})
-- [PostgreSQL]({{< ref "PostgreSQL" >}})
 - [Weeknotes/2024-09-01 - 2024-09-07]({{< ref "Weeknotes/2024-09-01 - 2024-09-07" >}})
 - [LLM]({{< ref "LLM" >}})
 - [English]({{< ref "English" >}})
