@@ -1,4 +1,120 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-10-06 - 2024-10-12</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>Storing trees in a database</title><link>https://cezimbra.me/anotacoes/storing-trees-in-a-database/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/storing-trees-in-a-database/</guid><description>&lt;h2 id="qa">
+ Q&amp;amp;A
+ &lt;a class="heading-link" href="#qa">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="ltree---what-happens-if-i-query-foo-but-there-are-2-foos-in-two-diferent-trees-in-my-databases">
+ ltree - What happens if I query &lt;code>.*foo.*&lt;/code> but there are 2 &amp;ldquo;foo&amp;quot;s in two diferent trees in my databases?
+ &lt;a class="heading-link" href="#ltree---what-happens-if-i-query-foo-but-there-are-2-foos-in-two-diferent-trees-in-my-databases">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;h2 id="references">
+ References
+ &lt;a class="heading-link" href="#references">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="modeling-hierarchical-tree-data-in-postgresql">
+ Modeling Hierarchical Tree Data in PostgreSQL
+ &lt;a class="heading-link" href="#modeling-hierarchical-tree-data-in-postgresql">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://leonardqmarcq.com/posts/modeling-hierarchical-tree-data" class="external-link" target="_blank" rel="noopener">Modeling Hierarchical Tree Data in PostgreSQL&lt;/a>&lt;/li>
+&lt;li>example: hierarchy of countries, states and cities&lt;/li>
+&lt;li>Approach #1: Static tree schema
+&lt;ul>
+&lt;li>example: 3 tables: country, state, city&lt;/li>
+&lt;li>constraints: fixed tree-depth; ancestors/descendants queries become
+more complex proportionally to the depth of the trees;&lt;/li>
+&lt;li>pros: simple; easy to enforce integrity constraints;&lt;/li>
+&lt;li>cons: lack of flexibility;&lt;/li>
+&lt;li>better to model as a actual tree if you want to use tree operations
+and traversal queries&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Approach #2: Dynamic tree with Recursive Common Table Expression (CTE)
+&lt;ul>
+&lt;li>example: 1 table with a parent column&lt;/li>
+&lt;li>pros: flexibility; arbitrary tree-depth; easy to do traversal queries&lt;/li>
+&lt;li>cons: medium complexity queries; may not work in another RDBMS&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Approach #3: Label tree (ltree) materialized path
+&lt;ul>
+&lt;li>example: 1 table with a path column type
+&lt;a href="https://www.postgresql.org/docs/9.1/ltree.html" class="external-link" target="_blank" rel="noopener">&lt;code>ltree&lt;/code>&lt;/a>&lt;/li>
+&lt;li>constraints: assumes that there is only one path from the root to any
+given node; the application must build the path.&lt;/li>
+&lt;li>pros: flexible; arbitrary tree-depth; the simplest queries (may not
+make diference when using ORMs)&lt;/li>
+&lt;li>cons: may not work in another RDBMS; needs to every node in the
+subtree whenever one ancestor changes&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="dos-and-donts-of-storing-large-trees-in-postgresql">
+ Do&amp;rsquo;s and Don&amp;rsquo;ts of Storing Large Trees in PostgreSQL
+ &lt;a class="heading-link" href="#dos-and-donts-of-storing-large-trees-in-postgresql">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://leonardqmarcq.com/posts/dos-and-donts-of-modeling-hierarchical-trees-in-postgres" class="external-link" target="_blank" rel="noopener">Do&amp;rsquo;s and Don&amp;rsquo;ts of Storing Large Trees in PostgreSQL&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;ol>
+&lt;li>The parent_id column
+&lt;ul>
+&lt;li>(Almost) always use; even when using ltree&lt;/li>
+&lt;li>pros: enforce the tree structure; can be used to rebuild the materialized
+path if becomes inconsistent; simple to move subtrees; easy concurrent
+updates&lt;/li>
+&lt;li>cons: the tree needs to be written in a specific order respecting
+the relationships; inserting by path is harder&lt;/li>
+&lt;li>You must have a unique constraint on the column representing the path name
+&lt;ul>
+&lt;li>example: if you have two nodes with a name set to be &lt;code>&amp;quot;backup&amp;quot;&lt;/code>, then you
+cannot have a path based on the name, like &lt;code>/system/backup&lt;/code> because it
+would map to two different nodes.&lt;/li>
+&lt;li>Option 1: store the full path
+&lt;ul>
+&lt;li>example: &lt;code>path&lt;/code> column with a unique constraint containing the full
+path from the root to the node&lt;/li>
+&lt;li>cons: need to update the &lt;code>path&lt;/code> column on every move operation;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Option 2: store the path component
+&lt;ul>
+&lt;li>example: &lt;code>name&lt;/code> column with a unique constraint together with the
+parent_id&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Materialized paths
+&lt;ul>
+&lt;li>best use cases: tree rarely changes and you need to do traversal queries;
+the source of truth for the tree is external, and you are only reading
+and replicating.&lt;/li>
+&lt;li>avoid: when you have a lot of writes/levels/nodes in the tree; when the
+nodes chage position frequently.&lt;/li>
+&lt;li>pros: simple query;&lt;/li>
+&lt;li>cons: hard to maintain consistency, you need to update the ltree in the
+whole tree everytime you move/rename a node in a transaction; write
+performance&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ol></description></item><item><title>2024-10-06 - 2024-10-12</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -19,7 +135,7 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>What is &lt;strong>Common Table Expressions (CTEs)&lt;/strong>? &lt;code>WITH&lt;/code> clause&lt;/li>
 &lt;/ul>
 &lt;h2 id="discovered-tools">
  Discovered tools
@@ -108,6 +224,16 @@ process, for example) will cause corrupted trees&lt;/li>
 &lt;ul>
 &lt;li>&lt;a href="https://learn.microsoft.com/en-us/azure/architecture/aws-professional/services" class="external-link" target="_blank" rel="noopener">AWS to Azure services comparison - Azure Architecture Center | Microsoft Learn&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://406.ch/writing/django-tree-queries" class="external-link" target="_blank" rel="noopener">django-tree-queries - Matthias Kestenholz&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://leonardqmarcq.com/posts/modeling-hierarchical-tree-data" class="external-link" target="_blank" rel="noopener">Modeling Hierarchical Tree Data in PostgreSQL&lt;/a>
+&lt;ul>
+&lt;li>Notes at &lt;a href="https://cezimbra.me/anotacoes/storing-trees-in-a-database/" >Storing trees in a database&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://leonardqmarcq.com/posts/dos-and-donts-of-modeling-hierarchical-trees-in-postgres" class="external-link" target="_blank" rel="noopener">Do&amp;rsquo;s and Don&amp;rsquo;ts of Storing Large Trees in PostgreSQL&lt;/a>
+&lt;ul>
+&lt;li>Notes at &lt;a href="https://cezimbra.me/anotacoes/storing-trees-in-a-database/" >Storing trees in a database&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-news">
  Read news
@@ -229,7 +355,20 @@ process, for example) will cause corrupted trees&lt;/li>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h2>
-&lt;p>&lt;a href="https://github.com/astral-sh/uv" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> | &lt;a href="https://docs.astral.sh/uv/" class="external-link" target="_blank" rel="noopener">Docs&lt;/a>&lt;/p></description></item><item><title>Profilling Python tests</title><link>https://cezimbra.me/anotacoes/profilling-python-tests/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/profilling-python-tests/</guid><description>&lt;h2 id="using-pytest-profiling--snakeviz">
+&lt;p>&lt;a href="https://github.com/astral-sh/uv" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> | &lt;a href="https://docs.astral.sh/uv/" class="external-link" target="_blank" rel="noopener">Docs&lt;/a>&lt;/p></description></item><item><title>Profilling Python tests</title><link>https://cezimbra.me/anotacoes/profilling-python-tests/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/profilling-python-tests/</guid><description>&lt;h2 id="using-pytest-profiling-only">
+ Using pytest-profiling only
+ &lt;a class="heading-link" href="#using-pytest-profiling-only">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>&lt;a href="https://pypi.org/project/pytest-profiling" class="external-link" target="_blank" rel="noopener">pytest-profiling · PyPI&lt;/a>&lt;/p>
+&lt;ol>
+&lt;li>&lt;code>pip install pytest-profiling&lt;/code>&lt;/li>
+&lt;li>&lt;code>pytest --profile-svg&lt;/code>&lt;/li>
+&lt;li>Open &lt;code>prof/combined.svg&lt;/code>&lt;/li>
+&lt;/ol>
+&lt;h2 id="using-pytest-profiling--snakeviz">
  Using pytest-profiling + snakeviz
  &lt;a class="heading-link" href="#using-pytest-profiling--snakeviz">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -237,6 +376,7 @@ process, for example) will cause corrupted trees&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;p>&lt;a href="https://pypi.org/project/pytest-profiling" class="external-link" target="_blank" rel="noopener">pytest-profiling · PyPI&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://pypi.org/project/snakeviz" class="external-link" target="_blank" rel="noopener">snakeviz · PyPI&lt;/a>&lt;/p>
 &lt;ol>
 &lt;li>&lt;code>pip install pytest-profiling snakeviz&lt;/code>&lt;/li>
 &lt;li>&lt;code>pytest --profile&lt;/code>&lt;/li>
@@ -5624,10 +5764,12 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/storing-trees-in-a-database/" >Storing trees in a database&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/" >Weeknotes/2024-10-06 - 2024-10-12&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/profilling-python-tests/" >Profilling Python tests&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/postgresql/" >PostgreSQL&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >Weeknotes/2024-09-29 - 2024-10-05&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/bash/" >Bash&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/profilling-python-tests/" >Profilling Python tests&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/comparing-python-package-managers/" >Comparing Python package managers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/ast-grep-by-example/" >ast-grep by example&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >Weeknotes/2024-09-22 - 2024-09-28&lt;/a>&lt;/li>
@@ -5637,7 +5779,6 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/" >Weeknotes/2024-09-15 - 2024-09-21&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/catolicismo/" >Catolicismo&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-08---2024-09-14/" >Weeknotes/2024-09-08 - 2024-09-14&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/postgresql/" >PostgreSQL&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-01---2024-09-07/" >Weeknotes/2024-09-01 - 2024-09-07&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/english/" >English&lt;/a>&lt;/li>
@@ -6006,9 +6147,9 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -6419,9 +6560,9 @@ despertou a misericórdia de Deus&lt;/p></description></item><item><title>ChatGP
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode32s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode27s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode32s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode27s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -6613,9 +6754,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode42s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode40s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode42s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode40s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -11589,8 +11730,24 @@ the cost.
 &lt;p>&lt;code>\&lt;/code> commands&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-fallback" data-lang="fallback">&lt;span style="display:flex;">&lt;span>\d - list tables, views, and sequences
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>\dn - list schemas
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
-&lt;li>Listing active transactions:
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="common-table-expressions-ctes">
+ Common Table Expressions (CTEs)
+ &lt;a class="heading-link" href="#common-table-expressions-ctes">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.postgresql.org/docs/14/queries-with.html" class="external-link" target="_blank" rel="noopener">Docs&lt;/a>&lt;/li>
+&lt;li>&lt;code>WITH&lt;/code> clause&lt;/li>
+&lt;/ul>
+&lt;h2 id="list-active-transactions">
+ List active transactions
+ &lt;a class="heading-link" href="#list-active-transactions">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sql" data-lang="sql">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">SELECT&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> datname &lt;span style="color:#cdcd00">AS&lt;/span> &lt;span style="color:#cdcd00">database&lt;/span>,
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> usename &lt;span style="color:#cdcd00">AS&lt;/span> &lt;span style="color:#cdcd00">user&lt;/span>,
@@ -11604,9 +11761,13 @@ the cost.
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> pg_stat_activity
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">WHERE&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">state&lt;/span> &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cd0000">&amp;#39;active&amp;#39;&lt;/span> &lt;span style="color:#cdcd00">OR&lt;/span> &lt;span style="color:#cdcd00">state&lt;/span> &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cd0000">&amp;#39;idle in transaction&amp;#39;&lt;/span>;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
-&lt;/ul>
-&lt;p>Como listar todas as tabelas do banco&lt;/p>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="list-all-tables-in-the-database">
+ List all tables in the database
+ &lt;a class="heading-link" href="#list-all-tables-in-the-database">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-sql" data-lang="sql">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">SELECT&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#39c">*&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">FROM&lt;/span>
@@ -11615,7 +11776,14 @@ the cost.
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> schemaname &lt;span style="color:#39c">!=&lt;/span> &lt;span style="color:#cd0000">&amp;#39;pg_catalog&amp;#39;&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">AND&lt;/span> schemaname &lt;span style="color:#39c">!=&lt;/span> &lt;span style="color:#cd0000">&amp;#39;information_schema&amp;#39;&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Como apagar todas as tabelas do banco &amp;#x26a0;&amp;#xfe0f;&lt;/p></description></item><item><title>Tornando-se um Estudante Sério</title><link>https://cezimbra.me/anotacoes/tornando-se-um-estudante-serio/</link><pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/tornando-se-um-estudante-serio/</guid><description>&lt;h2 id="ii---mapeamento-da-ignorancia-atenção-procrastrinação">
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="drop-all-tables-in-the-database">
+ Drop all tables in the database
+ &lt;a class="heading-link" href="#drop-all-tables-in-the-database">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>&amp;#x26a0;&amp;#xfe0f;&lt;/p></description></item><item><title>Tornando-se um Estudante Sério</title><link>https://cezimbra.me/anotacoes/tornando-se-um-estudante-serio/</link><pubDate>Thu, 09 Jul 2020 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/tornando-se-um-estudante-serio/</guid><description>&lt;h2 id="ii---mapeamento-da-ignorancia-atenção-procrastrinação">
  II - Mapeamento da Ignorancia, Atenção, Procrastrinação
  &lt;a class="heading-link" href="#ii---mapeamento-da-ignorancia-aten%c3%a7%c3%a3o-procrastrina%c3%a7%c3%a3o">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
