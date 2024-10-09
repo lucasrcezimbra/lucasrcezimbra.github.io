@@ -1,7 +1,7 @@
 ---
 title: "Django"
 date: 2024-04-16
-lastmod: 2024-07-04
+lastmod: 2024-10-09
 ---
 - [Snippet - Django password hashers time comparison](https://gist.github.com/lucasrcezimbra/69286c9f1cbdb355e242990d2bc85e02)
 - [OWASP - Django Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Django_Security_Cheat_Sheet.html)
@@ -15,6 +15,26 @@ lastmod: 2024-07-04
 			raise DeleteError("Use Model.soft_delete()")
 		super().delete(*args, **kwargs)ht
 	```
+
+## Natural Key example
+```diff
++class MyModelManager(models.Manager):
++    def get_by_natural_key(self, field1, field2):
++        return self.get(field1=field1, field2=field2)
++
++
+ class MyModel(models.Model):
+     created_at = models.DateTimeField(auto_now_add=True)
+     updated_at = models.DateTimeField(auto_now=True)
+     field1 = models.CharField(max_length=254)
+     field2 = models.CharField(max_length=254)
++
++    objects = MyModelManager()
++
++    def natural_key(self):
++        return (self.field1, self.field2)
+```
+
 - How to test unmanaged models? [Source](https://stackoverflow.com/a/72593718)
 	```python
 	# conftest.py
