@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>Storing trees in a database</title><link>https://cezimbra.me/anotacoes/storing-trees-in-a-database/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/storing-trees-in-a-database/</guid><description>&lt;h2 id="qa">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>Storing trees in a database</title><link>https://cezimbra.me/anotacoes/storing-trees-in-a-database/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/storing-trees-in-a-database/</guid><description>&lt;h2 id="qa">
  Q&amp;amp;A
  &lt;a class="heading-link" href="#qa">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -668,6 +668,23 @@ process, for example) will cause corrupted trees&lt;/li>
 &lt;li>(pt-BR) Conversas Cruciais - Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan &amp;amp;
 Al Switzler &amp;amp; Emily Gregory&lt;/li>
 &lt;li>(pt-BR) Tremendas Trivialidades - G.K. Chesterton&lt;/li>
+&lt;/ul>
+&lt;h2 id="learned">
+ Learned
+ &lt;a class="heading-link" href="#learned">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Push a commit from a GitHub Action
+&lt;ol>
+&lt;li>Open &lt;a href="https://github.com/" class="external-link" target="_blank" rel="noopener">https://github.com/&lt;/a>&lt;user>/&lt;repo>/settings/actions&lt;/li>
+&lt;li>Go to &lt;code>Workflow permissions&lt;/code>&lt;/li>
+&lt;li>Enable &lt;code>Read and write permissions&lt;/code>&lt;/li>
+&lt;li>Save&lt;/li>
+&lt;/ol>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="discovered-tools">
  Discovered tools
@@ -4024,6 +4041,30 @@ quiser, nós viveremos e faremos isto ou aquilo&amp;rsquo;&amp;rdquo; (Tg 4, 13-
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>		&lt;span style="color:#cdcd00">raise&lt;/span> DeleteError(&lt;span style="color:#cd0000">&amp;#34;Use Model.soft_delete()&amp;#34;&lt;/span>)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	&lt;span style="color:#cd00cd">super&lt;/span>()&lt;span style="color:#39c">.&lt;/span>delete(&lt;span style="color:#39c">*&lt;/span>args, &lt;span style="color:#39c">**&lt;/span>kwargs)ht
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ul>
+&lt;h2 id="natural-key-example">
+ Natural Key example
+ &lt;a class="heading-link" href="#natural-key-example">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-diff" data-lang="diff">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">+class MyModelManager(models.Manager):
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">+ def get_by_natural_key(self, field1, field2):
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">+ return self.get(field1=field1, field2=field2)
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">+
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">+
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">&lt;/span> class MyModel(models.Model):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> created_at = models.DateTimeField(auto_now_add=True)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> updated_at = models.DateTimeField(auto_now=True)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> field1 = models.CharField(max_length=254)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> field2 = models.CharField(max_length=254)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">+
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">+ objects = MyModelManager()
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">+
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">+ def natural_key(self):
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">+ return (self.field1, self.field2)
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
 &lt;li>How to test unmanaged models? &lt;a href="https://stackoverflow.com/a/72593718" class="external-link" target="_blank" rel="noopener">Source&lt;/a>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># conftest.py&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">def&lt;/span> pytest_sessionstart():
@@ -4085,152 +4126,7 @@ quiser, nós viveremos e faremos isto ou aquilo&amp;rsquo;&amp;rdquo; (Tg 4, 13-
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/mirumee/ariadne-django" class="external-link" target="_blank" rel="noopener">Ariadne&lt;/a>
-&lt;ul>
-&lt;li>Missing maintainer&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;a href="https://github.com/graphql-python/graphene-django/" class="external-link" target="_blank" rel="noopener">Graphene&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="https://docs.graphene-python.org/projects/django/en/latest/" class="external-link" target="_blank" rel="noopener">docs&lt;/a>&lt;/li>
-&lt;li>Poor integration between Models and Queries&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;a href="https://github.com/strawberry-graphql/strawberry-graphql-django" class="external-link" target="_blank" rel="noopener">Strawberry&lt;/a>
-&lt;ul>
-&lt;li>Needs to define a schema class. Example:&lt;/li>
-&lt;/ul>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>@strawberry.django.type(models&lt;span style="color:#39c">.&lt;/span>Fruit)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">class&lt;/span> &lt;span style="color:#00cdcd">Fruit&lt;/span>:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cd00cd">id&lt;/span>: auto
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> name: auto
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> color: &lt;span style="color:#cd0000">&amp;#39;Color&amp;#39;&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="">```&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
-&lt;li>&lt;a href="https://github.com/tartiflette/tartiflette-aiohttp" class="external-link" target="_blank" rel="noopener">Tartiflette&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="health-check">
- Health Check
- &lt;a class="heading-link" href="#health-check">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/revsys/django-health-check" class="external-link" target="_blank" rel="noopener">django-health-check&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/mwarkentin/django-watchman" class="external-link" target="_blank" rel="noopener">django-watchman&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="multi-tenancy">
- Multi-tenancy
- &lt;a class="heading-link" href="#multi-tenancy">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>django-tenants - &lt;a href="https://github.com/django-tenants/django-tenants/" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>
-&lt;ul>
-&lt;li>Examples of projects using it: &lt;a href="https://github.com/bruecksen/bakeup" class="external-link" target="_blank" rel="noopener">bakeup&lt;/a>, &lt;a href="https://github.com/Healthlane-Technologies/Zango" class="external-link" target="_blank" rel="noopener">Zango&lt;/a>, &lt;a href="https://github.com/goauthentik/authentik/" class="external-link" target="_blank" rel="noopener">authentik&lt;/a>, &lt;a href="https://github.com/project-koku/koku" class="external-link" target="_blank" rel="noopener">koku&lt;/a>&lt;/li>
-&lt;li>django-tenant-users - [GitHub]
-&lt;ul>
-&lt;li>Examples: &lt;a href="https://github.com/Findus23/RPGnotes" class="external-link" target="_blank" rel="noopener">RPGnotes&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="requestresponse-cycle">
- Request/Response Cycle
- &lt;a class="heading-link" href="#requestresponse-cycle">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-fallback" data-lang="fallback">&lt;span style="display:flex;">&lt;span>flowchart TD
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>asgi[&amp;#34;(A|W)SGI&amp;#34;]
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>db[Database]
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>client[Client]
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>subgraph Django
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	middlewares[Middlewares]
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	urls[URLs]
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	view[View]
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	orm[ORM]
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	templates[Templates]
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	middlewares-- Request --&amp;gt;urls-- Request --&amp;gt;view
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	view-- Response --&amp;gt;middlewares
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	middlewares -. Query objects ...- orm
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	view-. Query objects ...- orm
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	view-. Render ...- templates
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>end
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>client&amp;lt;-- HTTP req/res --&amp;gt;asgi
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>asgi&amp;lt;-- Request/Response --&amp;gt;middlewares
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>orm&amp;lt;-. Query/Data .-&amp;gt;db
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="servers">
- Servers
- &lt;a class="heading-link" href="#servers">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;h3 id="asgi">
- ASGI
- &lt;a class="heading-link" href="#asgi">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/django/daphne" class="external-link" target="_blank" rel="noopener">Daphne&lt;/a> - Django Channels HTTP/WebSocket server&lt;/li>
-&lt;li>&lt;a href="https://github.com/pgjones/hypercorn" class="external-link" target="_blank" rel="noopener">Hypercorn&lt;/a> -  ASGI and WSGI. Supports HTTP/1, HTTP/2, WebSockets (over HTTP/1 and HTTP/2). Can utilise asyncio, uvloop, or trio.&lt;/li>
-&lt;li>&lt;a href="https://github.com/jordaneremieff/mangum" class="external-link" target="_blank" rel="noopener">Mangum&lt;/a> - running ASGI applications in &lt;a href="https://cezimbra.me/anotacoes/aws/#lambda" >AWS#Lambda&lt;/a>.&lt;/li>
-&lt;li>&lt;a href="https://github.com/encode/uvicorn" class="external-link" target="_blank" rel="noopener">uvicorn&lt;/a> - supports HTTP/1.1 and WebSockets.&lt;/li>
-&lt;/ul>
-&lt;h3 id="wsgi">
- WSGI
- &lt;a class="heading-link" href="#wsgi">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/benoitc/gunicorn" class="external-link" target="_blank" rel="noopener">gunicorn&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/pgjones/hypercorn" class="external-link" target="_blank" rel="noopener">Hypercorn&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="testing">
- Testing
- &lt;a class="heading-link" href="#testing">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>(pytest) How to define a project conftest (shared between all apps)?
-&lt;ul>
-&lt;li>The &lt;code>conftest.py&lt;/code> must be in the same directory of &lt;code>manage.py&lt;/code>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="tree-structures">
- Tree structures
- &lt;a class="heading-link" href="#tree-structures">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/django-mptt/django-mptt" class="external-link" target="_blank" rel="noopener">django-mptt&lt;/a> - Utilities for implementing Modified Preorder Tree Traversal (This project is currently unmaintained)&lt;/li>
-&lt;li>&lt;a href="https://github.com/BertrandBordage/django-tree" class="external-link" target="_blank" rel="noopener">django-tree&lt;/a> - Fast and easy tree structures (In beta, it can’t be used yet in production.)&lt;/li>
-&lt;li>&lt;a href="https://github.com/django-treebeard/django-treebeard" class="external-link" target="_blank" rel="noopener">django-treebeard&lt;/a> - Efficient tree implementations&lt;/li>
-&lt;li>&lt;a href="https://github.com/matthiask/django-tree-queries" class="external-link" target="_blank" rel="noopener">django-tree-queries&lt;/a> - Adjacency-list trees using recursive common table expressions&lt;/li>
-&lt;/ul></description></item><item><title>Virtudes &amp; Liderança</title><link>https://cezimbra.me/anotacoes/books/virtudes--lideran%C3%A7a/</link><pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/books/virtudes--lideran%C3%A7a/</guid><description>&lt;h2 id="minhas-notas">
+&lt;p>Moved to My Toolbox - &lt;a href="https://toolbox.cezimbra.me/lists/django-graphql/" class="external-link" target="_blank" rel="noopener">Django - GraphQL&lt;/a>&lt;/p></description></item><item><title>Virtudes &amp; Liderança</title><link>https://cezimbra.me/anotacoes/books/virtudes--lideran%C3%A7a/</link><pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/books/virtudes--lideran%C3%A7a/</guid><description>&lt;h2 id="minhas-notas">
  Minhas notas
  &lt;a class="heading-link" href="#minhas-notas">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -5764,6 +5660,8 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/web3/" >Web3&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/storing-trees-in-a-database/" >Storing trees in a database&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/" >Weeknotes/2024-10-06 - 2024-10-12&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/profilling-python-tests/" >Profilling Python tests&lt;/a>&lt;/li>
@@ -5773,7 +5671,6 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/comparing-python-package-managers/" >Comparing Python package managers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/ast-grep-by-example/" >ast-grep by example&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >Weeknotes/2024-09-22 - 2024-09-28&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/web3/" >Web3&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/linux/" >Linux&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/" >Weeknotes/2024-09-15 - 2024-09-21&lt;/a>&lt;/li>
@@ -5818,7 +5715,6 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/books/casais-inteligentes-enriquecem-juntos/" >Books/Casais inteligentes enriquecem juntos&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/books/staff-engineer---leadership-beyond-the-management-track/" >Books/Staff Engineer - Leadership beyond the management track&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/ulauncher/" >Ulauncher&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/marketing-digital/" >Marketing Digital&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/filmes/" >Filmes&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/git/" >Git&lt;/a>&lt;/li>
@@ -6147,9 +6043,9 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -6560,9 +6456,9 @@ despertou a misericórdia de Deus&lt;/p></description></item><item><title>ChatGP
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode27s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode28s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode27s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode28s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -6754,9 +6650,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode40s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode42s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode40s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode42s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -9609,6 +9505,8 @@ relays; &lt;code>njump.me/&amp;lt;nip-19-entity&amp;gt;&lt;/code>; for example
 &lt;li>&lt;a href="https://nostrrr.com" class="external-link" target="_blank" rel="noopener">Nostrrr&lt;/a> - relay explorer&lt;/li>
 &lt;li>&lt;a href="https://github.com/fiatjaf/khatru" class="external-link" target="_blank" rel="noopener">khatru&lt;/a> - framework for making relays;
 written in Go&lt;/li>
+&lt;li>&lt;a href="https://github.com/nodetec/relaywizard" class="external-link" target="_blank" rel="noopener">Relay Wizard&lt;/a> - wizard to install and
+manage relays&lt;/li>
 &lt;/ul>
 &lt;h5 id="clients">
  Clients
@@ -9617,97 +9515,7 @@ written in Go&lt;/li>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h5>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/lumehq/coop" class="external-link" target="_blank" rel="noopener">coop&lt;/a> - for direct messages&lt;/li>
-&lt;li>&lt;a href="https://github.com/unclebob/more-speech" class="external-link" target="_blank" rel="noopener">more-speech&lt;/a> - Desktop client in
-&lt;a href="https://cezimbra.me/anotacoes/clojure/" >Clojure&lt;/a> by Uncle Bob&lt;/li>
-&lt;/ul>
-&lt;h5 id="relays">
- Relays
- &lt;a class="heading-link" href="#relays">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h5>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/mikedilger/chorus" class="external-link" target="_blank" rel="noopener">chorus&lt;/a> - from
-&lt;a href="https://mikedilger.com/gossip-model/" class="external-link" target="_blank" rel="noopener">The Outbox Model and the gossip model and NIP-65&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/dtonon/chronicle" class="external-link" target="_blank" rel="noopener">Chronicle&lt;/a> - supports Outbox, and WoT&lt;/li>
-&lt;li>&lt;a href="https://github.com/fiatjaf/jingle" class="external-link" target="_blank" rel="noopener">jingle&lt;/a> - friendly customizable relay&lt;/li>
-&lt;li>&lt;a href="https://github.com/bitvora/haven" class="external-link" target="_blank" rel="noopener">HAVEN&lt;/a> - Private, Chat, Inbox, and Outbox
-relay&lt;/li>
-&lt;li>&lt;a href="https://github.com/Spl0itable/nosflare" class="external-link" target="_blank" rel="noopener">nosflare&lt;/a> - serverless relay for
-Cloudflare Workers and R2 bucket&lt;/li>
-&lt;li>&lt;a href="https://github.com/Cameri/nostream" class="external-link" target="_blank" rel="noopener">nostream&lt;/a> - written in Typescript&lt;/li>
-&lt;li>&lt;a href="https://github.com/scsibug/nostr-rs-relay" class="external-link" target="_blank" rel="noopener">nostr-rs-relay&lt;/a> - relay written
-in Rust and SQLite&lt;/li>
-&lt;li>&lt;a href="https://github.com/nodetec/relaywizard" class="external-link" target="_blank" rel="noopener">Relay Wizard&lt;/a> - wizard to install
-and manage relays&lt;/li>
-&lt;li>&lt;a href="https://github.com/hoytech/strfry" class="external-link" target="_blank" rel="noopener">strfry&lt;/a> - relay written in C++&lt;/li>
-&lt;li>&lt;a href="https://github.com/bitvora/wot-relay" class="external-link" target="_blank" rel="noopener">WoT Relay&lt;/a> - WoT = Web of Trust; relay
-that saves all notes from people you follow, and people they follow; written
-in Go&lt;/li>
-&lt;/ul>
-&lt;h2 id="files">
- Files
- &lt;a class="heading-link" href="#files">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;h3 id="ipfs">
- IPFS
- &lt;a class="heading-link" href="#ipfs">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://ipfs.tech/" class="external-link" target="_blank" rel="noopener">https://ipfs.tech/&lt;/a> - IPFS powers the Distributed Web
-&lt;ul>
-&lt;li>&lt;a href="https://docs.ipfs.tech/concepts/comparisons/#how-is-ipfs-different-from-other-solutions" class="external-link" target="_blank" rel="noopener">https://docs.ipfs.tech/concepts/comparisons/#how-is-ipfs-different-from-other-solutions&lt;/a> - How is IPFS different from other solutions?&lt;/li>
-&lt;li>&lt;a href="https://docs.ipfs.tech/concepts/how-ipfs-works/#how-ipfs-works" class="external-link" target="_blank" rel="noopener">https://docs.ipfs.tech/concepts/how-ipfs-works/#how-ipfs-works&lt;/a> - How IPFS works&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;a href="https://fiatjaf.com/d5031e5b.html" class="external-link" target="_blank" rel="noopener">How IPFS is broken&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://docs.ipfs.tech/concepts/dht" class="external-link" target="_blank" rel="noopener">Distributed Hash Tables (DHT)&lt;/a>
-&lt;ul>
-&lt;li>distributed system for mapping keys to values. In IPFS, the DHT is used
-as the fundamental component of the content routing system and acts like a
-cross between a catalog and a navigation system. It maps what the user is
-looking for to the peer that is storing the matching content.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h3 id="storj">
- Storj
- &lt;a class="heading-link" href="#storj">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://www.storj.io/" class="external-link" target="_blank" rel="noopener">Storj&lt;/a> - Fast, secure cloud storage at a fraction of
-the cost.
-&lt;ul>
-&lt;li>&lt;a href="https://www.storj.io/node" class="external-link" target="_blank" rel="noopener">Host a Node on Storj&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Earnings Estimator
-&lt;ul>
-&lt;li>&lt;a href="https://docs.storj.io/node/resources/faq/estimate-payouts" class="external-link" target="_blank" rel="noopener">How do I estimate my payouts per Satellite?&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://forum.storj.io/t/realistic-earnings-estimator/6693" class="external-link" target="_blank" rel="noopener">Realistic earnings estimator&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://docs.google.com/spreadsheets/d/16qwEJzmcIUb0z0JZwBc_38ZUex6-onoxGTsp2XxQlEA/edit#gid=689515535" class="external-link" target="_blank" rel="noopener">Storj earnings estimator - Planilhas Google&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Discussions about Storj economic model
-&lt;ul>
-&lt;li>&lt;a href="https://forum.storj.io/t/snos-please-dont-buy-anything/21592" class="external-link" target="_blank" rel="noopener">SNO&amp;rsquo;s please don&amp;rsquo;t buy anything&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://forum.storj.io/t/lets-talk-about-the-elephant-in-the-room-the-storj-economic-model-node-operator-payout-model/20127" class="external-link" target="_blank" rel="noopener">The Storj economic model (node operator payout model)&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;a href="https://photosplus.app" class="external-link" target="_blank" rel="noopener">Photos+ Cloud Library&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>NFSe</title><link>https://cezimbra.me/anotacoes/nfse/</link><pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/nfse/</guid><description>&lt;ul>
+&lt;p>Moved to &lt;a href="https://toolbox.cezimbra.me/" class="external-link" target="_blank" rel="noopener">My Toolbox&lt;/a> - list &lt;a href="https://toolbox.cezimbra.me/lists/nostr-clients/" class="external-link" target="_blank" rel="noopener">nostr - clients&lt;/a>&lt;/p></description></item><item><title>NFSe</title><link>https://cezimbra.me/anotacoes/nfse/</link><pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/nfse/</guid><description>&lt;ul>
 &lt;li>Spedy
 &lt;ul>
 &lt;li>&lt;a href="https://spedy.com.br/" class="external-link" target="_blank" rel="noopener">https://spedy.com.br/&lt;/a>&lt;/li>

@@ -14,6 +14,30 @@ def delete(self, *args, hard=False, **kwargs):
 		raise DeleteError(&#34;Use Model.soft_delete()&#34;)
 	super().delete(*args, **kwargs)ht
 
+
+
+  Natural Key example
+  
+    
+    Link to heading
+  
+
++class MyModelManager(models.Manager):
++    def get_by_natural_key(self, field1, field2):
++        return self.get(field1=field1, field2=field2)
++
++
+ class MyModel(models.Model):
+     created_at = models.DateTimeField(auto_now_add=True)
+     updated_at = models.DateTimeField(auto_now=True)
+     field1 = models.CharField(max_length=254)
+     field2 = models.CharField(max_length=254)
++
++    objects = MyModelManager()
++
++    def natural_key(self):
++        return (self.field1, self.field2)
+
 How to test unmanaged models? Source
 # conftest.py
 def pytest_sessionstart():
@@ -75,152 +99,7 @@ social-app-django
     Link to heading
   
 
-
-Ariadne
-
-Missing maintainer
-
-
-Graphene
-
-docs
-Poor integration between Models and Queries
-
-
-Strawberry
-
-Needs to define a schema class. Example:
-
-@strawberry.django.type(models.Fruit)
-class Fruit:
-    id: auto
-    name: auto
-    color: 'Color'
-  ```
-
-Tartiflette
-
-
-  Health Check
-  
-    
-    Link to heading
-  
-
-
-django-health-check
-django-watchman
-
-
-  Multi-tenancy
-  
-    
-    Link to heading
-  
-
-
-django-tenants - GitHub
-
-Examples of projects using it: bakeup, Zango, authentik, koku
-django-tenant-users - [GitHub]
-
-Examples: RPGnotes
-
-
-
-
-
-
-  Request/Response Cycle
-  
-    
-    Link to heading
-  
-
-flowchart TD
-
-asgi[&#34;(A|W)SGI&#34;]
-db[Database]
-client[Client]
-
-
-subgraph Django
-	middlewares[Middlewares]
-	urls[URLs]
-	view[View]
-	orm[ORM]
-	templates[Templates]
-
-	middlewares-- Request -->urls-- Request -->view
-	view-- Response -->middlewares
-
-	middlewares -. Query objects ...- orm
-	view-. Query objects ...- orm
-	view-. Render ...- templates
-end
-
-client<-- HTTP req/res -->asgi
-asgi<-- Request/Response -->middlewares
-
-orm<-. Query/Data .->db
-
-  Servers
-  
-    
-    Link to heading
-  
-
-
-  ASGI
-  
-    
-    Link to heading
-  
-
-
-Daphne - Django Channels HTTP/WebSocket server
-Hypercorn -  ASGI and WSGI. Supports HTTP/1, HTTP/2, WebSockets (over HTTP/1 and HTTP/2). Can utilise asyncio, uvloop, or trio.
-Mangum - running ASGI applications in AWS#Lambda.
-uvicorn - supports HTTP/1.1 and WebSockets.
-
-
-  WSGI
-  
-    
-    Link to heading
-  
-
-
-gunicorn
-Hypercorn
-
-
-  Testing
-  
-    
-    Link to heading
-  
-
-
-(pytest) How to define a project conftest (shared between all apps)?
-
-The conftest.py must be in the same directory of manage.py
-
-
-
-
-  Tree structures
-  
-    
-    Link to heading
-  
-
-
-django-mptt - Utilities for implementing Modified Preorder Tree Traversal (This project is currently unmaintained)
-django-tree - Fast and easy tree structures (In beta, it can’t be used yet in production.)
-django-treebeard - Efficient tree implementations
-django-tree-queries - Adjacency-list trees using recursive common table expressions
-"><meta name=keywords content><meta name=fediverse:creator content><meta name=twitter:card content="summary"><meta name=twitter:image content="https://cezimbra.me/images/lucas-180x180.jpg"><meta name=twitter:title content="Django"><meta name=twitter:description content="
+Moved to My Toolbox - Django - GraphQL"><meta name=keywords content><meta name=fediverse:creator content><meta name=twitter:card content="summary"><meta name=twitter:image content="https://cezimbra.me/images/lucas-180x180.jpg"><meta name=twitter:title content="Django"><meta name=twitter:description content="
 Snippet - Django password hashers time comparison
 OWASP - Django Security Cheat Sheet
 Ninja
@@ -235,6 +114,30 @@ def delete(self, *args, hard=False, **kwargs):
 		raise DeleteError(&#34;Use Model.soft_delete()&#34;)
 	super().delete(*args, **kwargs)ht
 
+
+
+  Natural Key example
+  
+    
+    Link to heading
+  
+
++class MyModelManager(models.Manager):
++    def get_by_natural_key(self, field1, field2):
++        return self.get(field1=field1, field2=field2)
++
++
+ class MyModel(models.Model):
+     created_at = models.DateTimeField(auto_now_add=True)
+     updated_at = models.DateTimeField(auto_now=True)
+     field1 = models.CharField(max_length=254)
+     field2 = models.CharField(max_length=254)
++
++    objects = MyModelManager()
++
++    def natural_key(self):
++        return (self.field1, self.field2)
+
 How to test unmanaged models? Source
 # conftest.py
 def pytest_sessionstart():
@@ -296,158 +199,30 @@ social-app-django
     Link to heading
   
 
-
-Ariadne
-
-Missing maintainer
-
-
-Graphene
-
-docs
-Poor integration between Models and Queries
-
-
-Strawberry
-
-Needs to define a schema class. Example:
-
-@strawberry.django.type(models.Fruit)
-class Fruit:
-    id: auto
-    name: auto
-    color: 'Color'
-  ```
-
-Tartiflette
-
-
-  Health Check
-  
-    
-    Link to heading
-  
-
-
-django-health-check
-django-watchman
-
-
-  Multi-tenancy
-  
-    
-    Link to heading
-  
-
-
-django-tenants - GitHub
-
-Examples of projects using it: bakeup, Zango, authentik, koku
-django-tenant-users - [GitHub]
-
-Examples: RPGnotes
-
-
-
-
-
-
-  Request/Response Cycle
-  
-    
-    Link to heading
-  
-
-flowchart TD
-
-asgi[&#34;(A|W)SGI&#34;]
-db[Database]
-client[Client]
-
-
-subgraph Django
-	middlewares[Middlewares]
-	urls[URLs]
-	view[View]
-	orm[ORM]
-	templates[Templates]
-
-	middlewares-- Request -->urls-- Request -->view
-	view-- Response -->middlewares
-
-	middlewares -. Query objects ...- orm
-	view-. Query objects ...- orm
-	view-. Render ...- templates
-end
-
-client<-- HTTP req/res -->asgi
-asgi<-- Request/Response -->middlewares
-
-orm<-. Query/Data .->db
-
-  Servers
-  
-    
-    Link to heading
-  
-
-
-  ASGI
-  
-    
-    Link to heading
-  
-
-
-Daphne - Django Channels HTTP/WebSocket server
-Hypercorn -  ASGI and WSGI. Supports HTTP/1, HTTP/2, WebSockets (over HTTP/1 and HTTP/2). Can utilise asyncio, uvloop, or trio.
-Mangum - running ASGI applications in AWS#Lambda.
-uvicorn - supports HTTP/1.1 and WebSockets.
-
-
-  WSGI
-  
-    
-    Link to heading
-  
-
-
-gunicorn
-Hypercorn
-
-
-  Testing
-  
-    
-    Link to heading
-  
-
-
-(pytest) How to define a project conftest (shared between all apps)?
-
-The conftest.py must be in the same directory of manage.py
-
-
-
-
-  Tree structures
-  
-    
-    Link to heading
-  
-
-
-django-mptt - Utilities for implementing Modified Preorder Tree Traversal (This project is currently unmaintained)
-django-tree - Fast and easy tree structures (In beta, it can’t be used yet in production.)
-django-treebeard - Efficient tree implementations
-django-tree-queries - Adjacency-list trees using recursive common table expressions
-"><meta name=twitter:site content="@lucasrcezimbra"><meta property="og:url" content="https://cezimbra.me/anotacoes/django/"><meta property="og:site_name" content="Lucas Cezimbra"><meta property="og:title" content="Django"><meta property="og:description" content=" Snippet - Django password hashers time comparison OWASP - Django Security Cheat Sheet Ninja Fields selections Issue Scaffold Avoid overwriting Model.delete. For example, overwriting to ensure soft delete (idea from django-tenant-users): def delete(self, *args, hard=False, **kwargs): if not hard: raise DeleteError(&#34;Use Model.soft_delete()&#34;) super().delete(*args, **kwargs)ht How to test unmanaged models? Source # conftest.py def pytest_sessionstart(): from django.apps import apps unmanaged_models = [m for m in apps.get_models() if not m._meta.managed] for m in unmanaged_models: m._meta.managed = True # pyproject.toml [tool.pytest.ini_options] addopts = &#34;--no-migrations&#34; virtual_only fields Advantages: 1. Improved performance; 2. Consistent interface; 3. Compatibility with Django’s ORM; 4. Integration with serialization. from https://henriquebastos.net/how-chatgpt-quickly-helped-me-understand-djangos-source-code django.core.exceptions.ImproperlyConfigured: Cannot import '<app>'. Check that '<project>.<app>.apps.<App>Config.name' is correct. #troubleshooting Rename <App>Config.name from <app> to <project>.<app> How to Switch to a Custom Django User Model Mid-Project and Document how to migrate from a built-in User model to a custom User model Admin Link to heading AdminLTE - Admin dashboard template based on Bootstrap Awesome 1 and 2 jazzmin - AdminLTE 3 & Bootstrap 4 JET Reboot - Semantic UI - Docs Unfold Admin - GitHub - HTMX, Alpine.js and TailwindCSS Volt - Based on Bootstrap 5 Auth Link to heading django-allauth social-app-django GraphQL Server Link to heading Ariadne Missing maintainer Graphene docs Poor integration between Models and Queries Strawberry Needs to define a schema class. Example: @strawberry.django.type(models.Fruit) class Fruit: id: auto name: auto color: 'Color' ``` Tartiflette Health Check Link to heading django-health-check django-watchman Multi-tenancy Link to heading django-tenants - GitHub Examples of projects using it: bakeup, Zango, authentik, koku django-tenant-users - [GitHub] Examples: RPGnotes Request/Response Cycle Link to heading flowchart TD asgi[&#34;(A|W)SGI&#34;] db[Database] client[Client] subgraph Django middlewares[Middlewares] urls[URLs] view[View] orm[ORM] templates[Templates] middlewares-- Request -->urls-- Request -->view view-- Response -->middlewares middlewares -. Query objects ...- orm view-. Query objects ...- orm view-. Render ...- templates end client<-- HTTP req/res -->asgi asgi<-- Request/Response -->middlewares orm<-. Query/Data .->db Servers Link to heading ASGI Link to heading Daphne - Django Channels HTTP/WebSocket server Hypercorn - ASGI and WSGI. Supports HTTP/1, HTTP/2, WebSockets (over HTTP/1 and HTTP/2). Can utilise asyncio, uvloop, or trio. Mangum - running ASGI applications in AWS#Lambda. uvicorn - supports HTTP/1.1 and WebSockets. WSGI Link to heading gunicorn Hypercorn Testing Link to heading (pytest) How to define a project conftest (shared between all apps)? The conftest.py must be in the same directory of manage.py Tree structures Link to heading django-mptt - Utilities for implementing Modified Preorder Tree Traversal (This project is currently unmaintained) django-tree - Fast and easy tree structures (In beta, it can’t be used yet in production.) django-treebeard - Efficient tree implementations django-tree-queries - Adjacency-list trees using recursive common table expressions "><meta property="og:locale" content="pt"><meta property="og:type" content="article"><meta property="article:section" content="anotacoes"><meta property="article:published_time" content="2024-04-16T00:00:00+00:00"><meta property="article:modified_time" content="2024-07-04T00:00:00+00:00"><meta property="og:image" content="https://cezimbra.me/images/lucas-180x180.jpg"><link rel=canonical href=https://cezimbra.me/anotacoes/django/><link rel=preload href=/fonts/fa-brands-400.woff2 as=font type=font/woff2 crossorigin><link rel=preload href=/fonts/fa-regular-400.woff2 as=font type=font/woff2 crossorigin><link rel=preload href=/fonts/fa-solid-900.woff2 as=font type=font/woff2 crossorigin><link rel=stylesheet href=/css/coder.min.e927f7340e309d76dcb8fda85f1531ae7341aa9cd0b7f3ab77885dae77b1a0a2.css integrity="sha256-6Sf3NA4wnXbcuP2oXxUxrnNBqpzQt/Ord4hdrnexoKI=" crossorigin=anonymous media=screen><link rel=stylesheet href=/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin=anonymous media=screen><link rel=stylesheet href=/contribution.min.cc4187dd6677d15a0c4438b74294dbe3f54269e14a831b267fb6f02a24f90d5d.css integrity="sha256-zEGH3WZ30VoMRDi3QpTb4/VCaeFKgxsmf7bwKiT5DV0=" crossorigin=anonymous media=screen><link rel=stylesheet href=/custom.min.2ef373c2c125094d9302d8a924eba231d053340611b63bcf581460745cef626f.css integrity="sha256-LvNzwsElCU2TAtipJOuiMdBTNAYRtjvPWBRgdFzvYm8=" crossorigin=anonymous media=screen><link rel=stylesheet href=/jquery.dataTables.min.min.8f6eae843117db9532d2c9b910f3b28834d22d85107ce9aba8b5abbeab67400a.css integrity="sha256-j26uhDEX25Uy0sm5EPOyiDTSLYUQfOmrqLWrvqtnQAo=" crossorigin=anonymous media=screen><link rel=stylesheet href=/project.min.cc15fca9f603b853c828be903488d99afe86c71e40721cc4927e27f7453a4a36.css integrity="sha256-zBX8qfYDuFPIKL6QNIjZmv6Gxx5AchzEkn4n90U6SjY=" crossorigin=anonymous media=screen><link rel=stylesheet href=/timeline.min.801628785543d9e7f6deb109e9561a48da7823522c0986a7dd47be117447e62f.css integrity="sha256-gBYoeFVD2ef23rEJ6VYaSNp4I1IsCYan3Ue+EXRH5i8=" crossorigin=anonymous media=screen><link rel=stylesheet href=/vis-timeline-graph2d.min.min.15aad78c7961c518a27d54923d04eea2b750b66ebea8f490d9fe599da0ae8928.css integrity="sha256-FarXjHlhxRiifVSSPQTuordQtm6+qPSQ2f5ZnaCuiSg=" crossorigin=anonymous media=screen><link rel=icon type=image/svg+xml href=/images/favicon.svg sizes=any><link rel=icon type=image/png href=/images/lucas-32x32.jpg sizes=32x32><link rel=icon type=image/png href=/images/lucas-16x16.jpg sizes=16x16><link rel=apple-touch-icon href=/images/lucas-180x180.jpg><link rel=apple-touch-icon sizes=180x180 href=/images/lucas-180x180.jpg><link rel=manifest href=/site.webmanifest><link rel=mask-icon href=/images/safari-pinned-tab.svg color=#5bbad5></head><body hx-boost=true class="preload-transitions colorscheme-dark"><div class=float-container><a id=dark-mode-toggle class=colorscheme-toggle><i class="fa-solid fa-adjust fa-fw" aria-hidden=true></i></a></div><main class=wrapper><nav class=navigation><section class=container><a class=navigation-title href=https://cezimbra.me/>Lucas Cezimbra
+Moved to My Toolbox - Django - GraphQL"><meta name=twitter:site content="@lucasrcezimbra"><meta property="og:url" content="https://cezimbra.me/anotacoes/django/"><meta property="og:site_name" content="Lucas Cezimbra"><meta property="og:title" content="Django"><meta property="og:description" content=" Snippet - Django password hashers time comparison OWASP - Django Security Cheat Sheet Ninja Fields selections Issue Scaffold Avoid overwriting Model.delete. For example, overwriting to ensure soft delete (idea from django-tenant-users): def delete(self, *args, hard=False, **kwargs): if not hard: raise DeleteError(&#34;Use Model.soft_delete()&#34;) super().delete(*args, **kwargs)ht Natural Key example Link to heading +class MyModelManager(models.Manager): + def get_by_natural_key(self, field1, field2): + return self.get(field1=field1, field2=field2) + + class MyModel(models.Model): created_at = models.DateTimeField(auto_now_add=True) updated_at = models.DateTimeField(auto_now=True) field1 = models.CharField(max_length=254) field2 = models.CharField(max_length=254) + + objects = MyModelManager() + + def natural_key(self): + return (self.field1, self.field2) How to test unmanaged models? Source # conftest.py def pytest_sessionstart(): from django.apps import apps unmanaged_models = [m for m in apps.get_models() if not m._meta.managed] for m in unmanaged_models: m._meta.managed = True # pyproject.toml [tool.pytest.ini_options] addopts = &#34;--no-migrations&#34; virtual_only fields Advantages: 1. Improved performance; 2. Consistent interface; 3. Compatibility with Django’s ORM; 4. Integration with serialization. from https://henriquebastos.net/how-chatgpt-quickly-helped-me-understand-djangos-source-code django.core.exceptions.ImproperlyConfigured: Cannot import '<app>'. Check that '<project>.<app>.apps.<App>Config.name' is correct. #troubleshooting Rename <App>Config.name from <app> to <project>.<app> How to Switch to a Custom Django User Model Mid-Project and Document how to migrate from a built-in User model to a custom User model Admin Link to heading AdminLTE - Admin dashboard template based on Bootstrap Awesome 1 and 2 jazzmin - AdminLTE 3 & Bootstrap 4 JET Reboot - Semantic UI - Docs Unfold Admin - GitHub - HTMX, Alpine.js and TailwindCSS Volt - Based on Bootstrap 5 Auth Link to heading django-allauth social-app-django GraphQL Server Link to heading Moved to My Toolbox - Django - GraphQL"><meta property="og:locale" content="pt"><meta property="og:type" content="article"><meta property="article:section" content="anotacoes"><meta property="article:published_time" content="2024-04-16T00:00:00+00:00"><meta property="article:modified_time" content="2024-10-10T00:00:00+00:00"><meta property="og:image" content="https://cezimbra.me/images/lucas-180x180.jpg"><link rel=canonical href=https://cezimbra.me/anotacoes/django/><link rel=preload href=/fonts/fa-brands-400.woff2 as=font type=font/woff2 crossorigin><link rel=preload href=/fonts/fa-regular-400.woff2 as=font type=font/woff2 crossorigin><link rel=preload href=/fonts/fa-solid-900.woff2 as=font type=font/woff2 crossorigin><link rel=stylesheet href=/css/coder.min.e927f7340e309d76dcb8fda85f1531ae7341aa9cd0b7f3ab77885dae77b1a0a2.css integrity="sha256-6Sf3NA4wnXbcuP2oXxUxrnNBqpzQt/Ord4hdrnexoKI=" crossorigin=anonymous media=screen><link rel=stylesheet href=/css/coder-dark.min.a00e6364bacbc8266ad1cc81230774a1397198f8cfb7bcba29b7d6fcb54ce57f.css integrity="sha256-oA5jZLrLyCZq0cyBIwd0oTlxmPjPt7y6KbfW/LVM5X8=" crossorigin=anonymous media=screen><link rel=stylesheet href=/contribution.min.cc4187dd6677d15a0c4438b74294dbe3f54269e14a831b267fb6f02a24f90d5d.css integrity="sha256-zEGH3WZ30VoMRDi3QpTb4/VCaeFKgxsmf7bwKiT5DV0=" crossorigin=anonymous media=screen><link rel=stylesheet href=/custom.min.2ef373c2c125094d9302d8a924eba231d053340611b63bcf581460745cef626f.css integrity="sha256-LvNzwsElCU2TAtipJOuiMdBTNAYRtjvPWBRgdFzvYm8=" crossorigin=anonymous media=screen><link rel=stylesheet href=/jquery.dataTables.min.min.8f6eae843117db9532d2c9b910f3b28834d22d85107ce9aba8b5abbeab67400a.css integrity="sha256-j26uhDEX25Uy0sm5EPOyiDTSLYUQfOmrqLWrvqtnQAo=" crossorigin=anonymous media=screen><link rel=stylesheet href=/project.min.cc15fca9f603b853c828be903488d99afe86c71e40721cc4927e27f7453a4a36.css integrity="sha256-zBX8qfYDuFPIKL6QNIjZmv6Gxx5AchzEkn4n90U6SjY=" crossorigin=anonymous media=screen><link rel=stylesheet href=/timeline.min.801628785543d9e7f6deb109e9561a48da7823522c0986a7dd47be117447e62f.css integrity="sha256-gBYoeFVD2ef23rEJ6VYaSNp4I1IsCYan3Ue+EXRH5i8=" crossorigin=anonymous media=screen><link rel=stylesheet href=/vis-timeline-graph2d.min.min.15aad78c7961c518a27d54923d04eea2b750b66ebea8f490d9fe599da0ae8928.css integrity="sha256-FarXjHlhxRiifVSSPQTuordQtm6+qPSQ2f5ZnaCuiSg=" crossorigin=anonymous media=screen><link rel=icon type=image/svg+xml href=/images/favicon.svg sizes=any><link rel=icon type=image/png href=/images/lucas-32x32.jpg sizes=32x32><link rel=icon type=image/png href=/images/lucas-16x16.jpg sizes=16x16><link rel=apple-touch-icon href=/images/lucas-180x180.jpg><link rel=apple-touch-icon sizes=180x180 href=/images/lucas-180x180.jpg><link rel=manifest href=/site.webmanifest><link rel=mask-icon href=/images/safari-pinned-tab.svg color=#5bbad5></head><body hx-boost=true class="preload-transitions colorscheme-dark"><div class=float-container><a id=dark-mode-toggle class=colorscheme-toggle><i class="fa-solid fa-adjust fa-fw" aria-hidden=true></i></a></div><main class=wrapper><nav class=navigation><section class=container><a class=navigation-title href=https://cezimbra.me/>Lucas Cezimbra
 </a><input type=checkbox id=menu-toggle>
 <label class="menu-button float-right" for=menu-toggle><i class="fa-solid fa-bars fa-fw" aria-hidden=true></i></label><ul class=navigation-list><li class=navigation-item><a class=navigation-link href=/sobre/>Sobre</a></li><li class=navigation-item><a class=navigation-link href=/projetos/>Projetos</a></li><li class=navigation-item><a class=navigation-link href=/anotacoes/indice/>Anotações</a></li><li class=navigation-item><a class=navigation-link href=/palestras/>Palestras</a></li><li class=navigation-item><a class=navigation-link href=/posts/>Blog</a></li><li class="navigation-item menu-separator"><span>|</span></li><li class=navigation-item><a href=/en/>🇺🇸</a></li></ul></section></nav><div class=content><section class="container page"><article><header><h1 class=title><a class=title-link href=https://cezimbra.me/anotacoes/django/>Django</a></h1></header><ul><li><a href=https://gist.github.com/lucasrcezimbra/69286c9f1cbdb355e242990d2bc85e02 class=external-link target=_blank rel=noopener>Snippet - Django password hashers time comparison</a></li><li><a href=https://cheatsheetseries.owasp.org/cheatsheets/Django_Security_Cheat_Sheet.html class=external-link target=_blank rel=noopener>OWASP - Django Security Cheat Sheet</a></li><li><a href=https://github.com/vitalik/django-ninja class=external-link target=_blank rel=noopener>Ninja</a><ul><li>Fields selections <a href=https://github.com/vitalik/django-ninja/issues/333 class=external-link target=_blank rel=noopener>Issue</a></li></ul></li><li><a href=https://github.com/Abdenasser/dr_scaffold class=external-link target=_blank rel=noopener>Scaffold</a></li><li>Avoid overwriting Model.delete. For example, overwriting to ensure soft delete (idea from <a href=https://github.com/Corvia/django-tenant-users/blob/933c87dbad920d2c75666429ef37a552b15e9ac6/tenant_users/tenants/models.py#L404C1-L411C1 class=external-link target=_blank rel=noopener>django-tenant-users</a>):<div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:#cdcd00>def</span> delete(self, <span style=color:#39c>*</span>args, hard<span style=color:#39c>=</span><span style=color:#cdcd00>False</span>, <span style=color:#39c>**</span>kwargs):
 </span></span><span style=display:flex><span>	<span style=color:#cdcd00>if</span> <span style=color:#cdcd00>not</span> hard:
 </span></span><span style=display:flex><span>		<span style=color:#cdcd00>raise</span> DeleteError(<span style=color:#cd0000>&#34;Use Model.soft_delete()&#34;</span>)
 </span></span><span style=display:flex><span>	<span style=color:#cd00cd>super</span>()<span style=color:#39c>.</span>delete(<span style=color:#39c>*</span>args, <span style=color:#39c>**</span>kwargs)ht
-</span></span></code></pre></div></li><li>How to test unmanaged models? <a href=https://stackoverflow.com/a/72593718 class=external-link target=_blank rel=noopener>Source</a><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:navy># conftest.py</span>
+</span></span></code></pre></div></li></ul><h2 id=natural-key-example>Natural Key example
+<a class=heading-link href=#natural-key-example><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
+<span class=sr-only>Link to heading</span></a></h2><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-diff data-lang=diff><span style=display:flex><span><span style=color:#00cd00>+class MyModelManager(models.Manager):
+</span></span></span><span style=display:flex><span><span style=color:#00cd00>+    def get_by_natural_key(self, field1, field2):
+</span></span></span><span style=display:flex><span><span style=color:#00cd00>+        return self.get(field1=field1, field2=field2)
+</span></span></span><span style=display:flex><span><span style=color:#00cd00>+
+</span></span></span><span style=display:flex><span><span style=color:#00cd00>+
+</span></span></span><span style=display:flex><span><span style=color:#00cd00></span> class MyModel(models.Model):
+</span></span><span style=display:flex><span>     created_at = models.DateTimeField(auto_now_add=True)
+</span></span><span style=display:flex><span>     updated_at = models.DateTimeField(auto_now=True)
+</span></span><span style=display:flex><span>     field1 = models.CharField(max_length=254)
+</span></span><span style=display:flex><span>     field2 = models.CharField(max_length=254)
+</span></span><span style=display:flex><span><span style=color:#00cd00>+
+</span></span></span><span style=display:flex><span><span style=color:#00cd00>+    objects = MyModelManager()
+</span></span></span><span style=display:flex><span><span style=color:#00cd00>+
+</span></span></span><span style=display:flex><span><span style=color:#00cd00>+    def natural_key(self):
+</span></span></span><span style=display:flex><span><span style=color:#00cd00>+        return (self.field1, self.field2)
+</span></span></span></code></pre></div><ul><li>How to test unmanaged models? <a href=https://stackoverflow.com/a/72593718 class=external-link target=_blank rel=noopener>Source</a><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:navy># conftest.py</span>
 </span></span><span style=display:flex><span><span style=color:#cdcd00>def</span> pytest_sessionstart():
 </span></span><span style=display:flex><span>	<span style=color:#cd00cd>from</span> django.apps <span style=color:#cd00cd>import</span> apps
 </span></span><span style=display:flex><span>
@@ -465,15 +240,9 @@ django-tree-queries - Adjacency-list trees using recursive common table expressi
 <a class=heading-link href=#auth><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
 <span class=sr-only>Link to heading</span></a></h2><ul><li><a href=https://docs.allauth.org/en/latest/ class=external-link target=_blank rel=noopener>django-allauth</a></li><li><a href=https://github.com/python-social-auth/social-app-django class=external-link target=_blank rel=noopener>social-app-django</a></li></ul><h2 id=graphql-server>GraphQL Server
 <a class=heading-link href=#graphql-server><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
-<span class=sr-only>Link to heading</span></a></h2><ul><li><a href=https://github.com/mirumee/ariadne-django class=external-link target=_blank rel=noopener>Ariadne</a><ul><li>Missing maintainer</li></ul></li><li><a href=https://github.com/graphql-python/graphene-django/ class=external-link target=_blank rel=noopener>Graphene</a><ul><li><a href=https://docs.graphene-python.org/projects/django/en/latest/ class=external-link target=_blank rel=noopener>docs</a></li><li>Poor integration between Models and Queries</li></ul></li><li><a href=https://github.com/strawberry-graphql/strawberry-graphql-django class=external-link target=_blank rel=noopener>Strawberry</a><ul><li>Needs to define a schema class. Example:</li></ul><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span>@strawberry.django.type(models<span style=color:#39c>.</span>Fruit)
-</span></span><span style=display:flex><span><span style=color:#cdcd00>class</span> <span style=color:#00cdcd>Fruit</span>:
-</span></span><span style=display:flex><span>    <span style=color:#cd00cd>id</span>: auto
-</span></span><span style=display:flex><span>    name: auto
-</span></span><span style=display:flex><span>    color: <span style=color:#cd0000>&#39;Color&#39;</span>
-</span></span><span style=display:flex><span>  <span>```</span>
-</span></span></code></pre></div></li><li><a href=https://github.com/tartiflette/tartiflette-aiohttp class=external-link target=_blank rel=noopener>Tartiflette</a></li></ul><h2 id=health-check>Health Check
+<span class=sr-only>Link to heading</span></a></h2><p>Moved to My Toolbox - <a href=https://toolbox.cezimbra.me/lists/django-graphql/ class=external-link target=_blank rel=noopener>Django - GraphQL</a></p><h2 id=health-check>Health Check
 <a class=heading-link href=#health-check><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
-<span class=sr-only>Link to heading</span></a></h2><ul><li><a href=https://github.com/revsys/django-health-check class=external-link target=_blank rel=noopener>django-health-check</a></li><li><a href=https://github.com/mwarkentin/django-watchman class=external-link target=_blank rel=noopener>django-watchman</a></li></ul><h2 id=multi-tenancy>Multi-tenancy
+<span class=sr-only>Link to heading</span></a></h2><p>Moved to My Toolbox - <a href=https://toolbox.cezimbra.me/lists/django-healthcheck/ class=external-link target=_blank rel=noopener>Django - Healthcheck</a></p><h2 id=multi-tenancy>Multi-tenancy
 <a class=heading-link href=#multi-tenancy><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
 <span class=sr-only>Link to heading</span></a></h2><ul><li>django-tenants - <a href=https://github.com/django-tenants/django-tenants/ class=external-link target=_blank rel=noopener>GitHub</a><ul><li>Examples of projects using it: <a href=https://github.com/bruecksen/bakeup class=external-link target=_blank rel=noopener>bakeup</a>, <a href=https://github.com/Healthlane-Technologies/Zango class=external-link target=_blank rel=noopener>Zango</a>, <a href=https://github.com/goauthentik/authentik/ class=external-link target=_blank rel=noopener>authentik</a>, <a href=https://github.com/project-koku/koku class=external-link target=_blank rel=noopener>koku</a></li><li>django-tenant-users - [GitHub]<ul><li>Examples: <a href=https://github.com/Findus23/RPGnotes class=external-link target=_blank rel=noopener>RPGnotes</a></li></ul></li></ul></li></ul><h2 id=requestresponse-cycle>Request/Response Cycle
 <a class=heading-link href=#requestresponse-cycle><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
