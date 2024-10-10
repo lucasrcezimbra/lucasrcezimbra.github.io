@@ -1,7 +1,7 @@
 ---
 title: "Web3"
 date: 2023-08-15
-lastmod: 2024-09-27
+lastmod: 2024-10-10
 ---
 
 > **Fundador do Twitter aumenta para 10 BTC recompensa para quem criar
@@ -74,31 +74,14 @@ lastmod: 2024-09-27
 - [Nostrrr](https://nostrrr.com) - relay explorer
 - [khatru](https://github.com/fiatjaf/khatru) - framework for making relays;
   written in Go
+- [Relay Wizard](https://github.com/nodetec/relaywizard) - wizard to install and
+  manage relays
 
 ##### Clients
-- [coop](https://github.com/lumehq/coop) - for direct messages
-- [more-speech](https://github.com/unclebob/more-speech) - Desktop client in
-  [Clojure]({{< ref "Clojure" >}}) by Uncle Bob
+Moved to [My Toolbox](https://toolbox.cezimbra.me/) - list [nostr - clients](https://toolbox.cezimbra.me/lists/nostr-clients/)
 
 ##### Relays
-- [chorus](https://github.com/mikedilger/chorus) - from
-  [The Outbox Model and the gossip model and NIP-65](https://mikedilger.com/gossip-model/)
-- [Chronicle](https://github.com/dtonon/chronicle) - supports Outbox, and WoT
-- [jingle](https://github.com/fiatjaf/jingle) - friendly customizable relay
-- [HAVEN](https://github.com/bitvora/haven) - Private, Chat, Inbox, and Outbox
-  relay
-- [nosflare](https://github.com/Spl0itable/nosflare) - serverless relay for
-  Cloudflare Workers and R2 bucket
-- [nostream](https://github.com/Cameri/nostream) - written in Typescript
-- [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay) - relay written
-  in Rust and SQLite
-- [Relay Wizard](https://github.com/nodetec/relaywizard) - wizard to install
-  and manage relays
-- [strfry](https://github.com/hoytech/strfry) - relay written in C++
-- [WoT Relay](https://github.com/bitvora/wot-relay) - WoT = Web of Trust; relay
-  that saves all notes from people you follow, and people they follow; written
-  in Go
-
+Moved to [My Toolbox](https://toolbox.cezimbra.me/) - list [nostr - relays](https://toolbox.cezimbra.me/lists/nostr-relays/)
 
 
 ## Files

@@ -1,7 +1,7 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-10-09
+lastmod: 2024-10-10
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
@@ -9,6 +9,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Django]({{< ref "Django" >}})
+- [Web3]({{< ref "Web3" >}})
 - [Storing trees in a database]({{< ref "Storing trees in a database" >}})
 - [Weeknotes/2024-10-06 - 2024-10-12]({{< ref "Weeknotes/2024-10-06 - 2024-10-12" >}})
 - [Profilling Python tests]({{< ref "Profilling Python tests" >}})
@@ -18,7 +19,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Comparing Python package managers]({{< ref "Comparing Python package managers" >}})
 - [ast-grep by example]({{< ref "ast-grep by example" >}})
 - [Weeknotes/2024-09-22 - 2024-09-28]({{< ref "Weeknotes/2024-09-22 - 2024-09-28" >}})
-- [Web3]({{< ref "Web3" >}})
 - [Python]({{< ref "Python" >}})
 - [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2024-09-15 - 2024-09-21]({{< ref "Weeknotes/2024-09-15 - 2024-09-21" >}})

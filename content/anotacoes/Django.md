@@ -1,7 +1,7 @@
 ---
 title: "Django"
 date: 2024-04-16
-lastmod: 2024-10-09
+lastmod: 2024-10-10
 ---
 - [Snippet - Django password hashers time comparison](https://gist.github.com/lucasrcezimbra/69286c9f1cbdb355e242990d2bc85e02)
 - [OWASP - Django Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Django_Security_Cheat_Sheet.html)
@@ -70,25 +70,10 @@ lastmod: 2024-10-09
 - [social-app-django](https://github.com/python-social-auth/social-app-django)
 
 ## GraphQL Server
-- [Ariadne](https://github.com/mirumee/ariadne-django)
-	- Missing maintainer
-- [Graphene](https://github.com/graphql-python/graphene-django/)
-	- [docs](https://docs.graphene-python.org/projects/django/en/latest/)
-	- Poor integration between Models and Queries
-- [Strawberry](https://github.com/strawberry-graphql/strawberry-graphql-django)
-	- Needs to define a schema class. Example:
-    ```python
-    @strawberry.django.type(models.Fruit)
-    class Fruit:
-        id: auto
-        name: auto
-        color: 'Color'
-	  ```
-- [Tartiflette](https://github.com/tartiflette/tartiflette-aiohttp)
+Moved to My Toolbox - [Django - GraphQL](https://toolbox.cezimbra.me/lists/django-graphql/)
 
 ## Health Check
-- [django-health-check](https://github.com/revsys/django-health-check)
-- [django-watchman](https://github.com/mwarkentin/django-watchman)
+Moved to My Toolbox - [Django - Healthcheck](https://toolbox.cezimbra.me/lists/django-healthcheck/)
 
 ## Multi-tenancy
 - django-tenants - [GitHub](https://github.com/django-tenants/django-tenants/)
