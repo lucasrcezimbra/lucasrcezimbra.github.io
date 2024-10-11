@@ -4062,6 +4062,12 @@ quiser, nós viveremos e faremos isto ou aquilo&amp;rsquo;&amp;rdquo; (Tg 4, 13-
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>		&lt;span style="color:#cdcd00">raise&lt;/span> DeleteError(&lt;span style="color:#cd0000">&amp;#34;Use Model.soft_delete()&amp;#34;&lt;/span>)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	&lt;span style="color:#cd00cd">super&lt;/span>()&lt;span style="color:#39c">.&lt;/span>delete(&lt;span style="color:#39c">*&lt;/span>args, &lt;span style="color:#39c">**&lt;/span>kwargs)ht
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>&lt;code>django.core.exceptions.ImproperlyConfigured: Cannot import '&amp;lt;app&amp;gt;'. Check that '&amp;lt;project&amp;gt;.&amp;lt;app&amp;gt;.apps.&amp;lt;App&amp;gt;Config.name' is correct.&lt;/code> #troubleshooting
+&lt;ul>
+&lt;li>Rename &lt;code>&amp;lt;App&amp;gt;Config.name&lt;/code> from &lt;code>&amp;lt;app&amp;gt;&lt;/code> to &lt;code>&amp;lt;project&amp;gt;.&amp;lt;app&amp;gt;&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.caktusgroup.com/blog/2019/04/26/how-switch-custom-django-user-model-mid-project/" class="external-link" target="_blank" rel="noopener">How to Switch to a Custom Django User Model Mid-Project&lt;/a> and &lt;a href="https://code.djangoproject.com/ticket/25313#comment:24" class="external-link" target="_blank" rel="noopener">Document how to migrate from a built-in User model to a custom User model&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="natural-key-example">
  Natural Key example
@@ -4085,69 +4091,43 @@ quiser, nós viveremos e faremos isto ou aquilo&amp;rsquo;&amp;rdquo; (Tg 4, 13-
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">+
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">+ def natural_key(self):
 &lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#00cd00">+ return (self.field1, self.field2)
-&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
-&lt;li>How to test unmanaged models? &lt;a href="https://stackoverflow.com/a/72593718" class="external-link" target="_blank" rel="noopener">Source&lt;/a>
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="testing">
+ Testing
+ &lt;a class="heading-link" href="#testing">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="unmanaged-models">
+ Unmanaged models
+ &lt;a class="heading-link" href="#unmanaged-models">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://stackoverflow.com/a/72593718" class="external-link" target="_blank" rel="noopener">Source&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># conftest.py&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">def&lt;/span> pytest_sessionstart():
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	&lt;span style="color:#cd00cd">from&lt;/span> django.apps &lt;span style="color:#cd00cd">import&lt;/span> apps
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cd00cd">from&lt;/span> django.apps &lt;span style="color:#cd00cd">import&lt;/span> apps
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	unmanaged_models &lt;span style="color:#39c">=&lt;/span> [m &lt;span style="color:#cdcd00">for&lt;/span> m &lt;span style="color:#cdcd00">in&lt;/span> apps&lt;span style="color:#39c">.&lt;/span>get_models() &lt;span style="color:#cdcd00">if&lt;/span> &lt;span style="color:#cdcd00">not&lt;/span> m&lt;span style="color:#39c">.&lt;/span>_meta&lt;span style="color:#39c">.&lt;/span>managed]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> unmanaged_models &lt;span style="color:#39c">=&lt;/span> [m &lt;span style="color:#cdcd00">for&lt;/span> m &lt;span style="color:#cdcd00">in&lt;/span> apps&lt;span style="color:#39c">.&lt;/span>get_models() &lt;span style="color:#cdcd00">if&lt;/span> &lt;span style="color:#cdcd00">not&lt;/span> m&lt;span style="color:#39c">.&lt;/span>_meta&lt;span style="color:#39c">.&lt;/span>managed]
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>	&lt;span style="color:#cdcd00">for&lt;/span> m &lt;span style="color:#cdcd00">in&lt;/span> unmanaged_models:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>		m&lt;span style="color:#39c">.&lt;/span>_meta&lt;span style="color:#39c">.&lt;/span>managed &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cdcd00">True&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">for&lt;/span> m &lt;span style="color:#cdcd00">in&lt;/span> unmanaged_models:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> m&lt;span style="color:#39c">.&lt;/span>_meta&lt;span style="color:#39c">.&lt;/span>managed &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cdcd00">True&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># pyproject.toml&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>[tool&lt;span style="color:#39c">.&lt;/span>pytest&lt;span style="color:#39c">.&lt;/span>ini_options]
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>addopts &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cd0000">&amp;#34;--no-migrations&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
-&lt;li>&lt;code>virtual_only&lt;/code> fields
-&lt;ul>
-&lt;li>Advantages: 1. Improved performance; 2. Consistent interface; 3. Compatibility with Django’s ORM; 4. Integration with serialization.&lt;/li>
-&lt;li>from &lt;a href="https://henriquebastos.net/how-chatgpt-quickly-helped-me-understand-djangos-source-code" class="external-link" target="_blank" rel="noopener">https://henriquebastos.net/how-chatgpt-quickly-helped-me-understand-djangos-source-code&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;code>django.core.exceptions.ImproperlyConfigured: Cannot import '&amp;lt;app&amp;gt;'. Check that '&amp;lt;project&amp;gt;.&amp;lt;app&amp;gt;.apps.&amp;lt;App&amp;gt;Config.name' is correct.&lt;/code> #troubleshooting
-&lt;ul>
-&lt;li>Rename &lt;code>&amp;lt;App&amp;gt;Config.name&lt;/code> from &lt;code>&amp;lt;app&amp;gt;&lt;/code> to &lt;code>&amp;lt;project&amp;gt;.&amp;lt;app&amp;gt;&lt;/code>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;a href="https://www.caktusgroup.com/blog/2019/04/26/how-switch-custom-django-user-model-mid-project/" class="external-link" target="_blank" rel="noopener">How to Switch to a Custom Django User Model Mid-Project&lt;/a> and &lt;a href="https://code.djangoproject.com/ticket/25313#comment:24" class="external-link" target="_blank" rel="noopener">Document how to migrate from a built-in User model to a custom User model&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="admin">
- Admin
- &lt;a class="heading-link" href="#admin">
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="defining-a-conftest-shared-between-all-apps">
+ Defining a conftest shared between all apps
+ &lt;a class="heading-link" href="#defining-a-conftest-shared-between-all-apps">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/wuyue92tree/django-adminlte-ui" class="external-link" target="_blank" rel="noopener">AdminLTE&lt;/a> - Admin dashboard template based on Bootstrap&lt;/li>
-&lt;li>Awesome &lt;a href="https://github.com/iamfoysal/Best-Django-Admin-interface" class="external-link" target="_blank" rel="noopener">1&lt;/a> and &lt;a href="https://github.com/originalankur/awesome-django-admin" class="external-link" target="_blank" rel="noopener">2&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/farridav/django-jazzmin" class="external-link" target="_blank" rel="noopener">jazzmin&lt;/a> - AdminLTE 3 &amp;amp; Bootstrap 4&lt;/li>
-&lt;li>&lt;a href="https://github.com/assem-ch/django-jet-reboot" class="external-link" target="_blank" rel="noopener">JET Reboot&lt;/a> -&lt;/li>
-&lt;li>&lt;a href="https://github.com/globophobe/django-semantic-admin" class="external-link" target="_blank" rel="noopener">Semantic UI&lt;/a> - &lt;a href="https://globophobe.github.io/django-semantic-admin/" class="external-link" target="_blank" rel="noopener">Docs&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://unfoldadmin.com/" class="external-link" target="_blank" rel="noopener">Unfold Admin&lt;/a> - &lt;a href="https://github.com/unfoldadmin/django-unfold" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> - HTMX, Alpine.js and TailwindCSS&lt;/li>
-&lt;li>&lt;a href="https://github.com/app-generator/django-admin-volt" class="external-link" target="_blank" rel="noopener">Volt&lt;/a> - Based on Bootstrap 5&lt;/li>
-&lt;/ul>
-&lt;h2 id="auth">
- Auth
- &lt;a class="heading-link" href="#auth">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://docs.allauth.org/en/latest/" class="external-link" target="_blank" rel="noopener">django-allauth&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/python-social-auth/social-app-django" class="external-link" target="_blank" rel="noopener">social-app-django&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="graphql-server">
- GraphQL Server
- &lt;a class="heading-link" href="#graphql-server">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;p>Moved to My Toolbox - &lt;a href="https://toolbox.cezimbra.me/lists/django-graphql/" class="external-link" target="_blank" rel="noopener">Django - GraphQL&lt;/a>&lt;/p></description></item><item><title>Virtudes &amp; Liderança</title><link>https://cezimbra.me/anotacoes/books/virtudes--lideran%C3%A7a/</link><pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/books/virtudes--lideran%C3%A7a/</guid><description>&lt;h2 id="minhas-notas">
+&lt;/h3>
+&lt;p>The &lt;code>conftest.py&lt;/code> must be in the same directory of &lt;code>manage.py&lt;/code>.&lt;/p></description></item><item><title>Virtudes &amp; Liderança</title><link>https://cezimbra.me/anotacoes/books/virtudes--lideran%C3%A7a/</link><pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/books/virtudes--lideran%C3%A7a/</guid><description>&lt;h2 id="minhas-notas">
  Minhas notas
  &lt;a class="heading-link" href="#minhas-notas">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -5682,8 +5662,9 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/" >Weeknotes/2024-10-06 - 2024-10-12&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/profilling-python-tests/" >Profilling Python tests&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/profilling-python-tests/" >Profilling Python tests&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/web3/" >Web3&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/storing-trees-in-a-database/" >Storing trees in a database&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/postgresql/" >PostgreSQL&lt;/a>&lt;/li>
@@ -5692,7 +5673,6 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/comparing-python-package-managers/" >Comparing Python package managers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/ast-grep-by-example/" >ast-grep by example&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >Weeknotes/2024-09-22 - 2024-09-28&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/linux/" >Linux&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/" >Weeknotes/2024-09-15 - 2024-09-21&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/catolicismo/" >Catolicismo&lt;/a>&lt;/li>
@@ -6064,9 +6044,9 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode12s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode12s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -6477,9 +6457,9 @@ despertou a misericórdia de Deus&lt;/p></description></item><item><title>ChatGP
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode27s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode26s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode27s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode26s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -8886,9 +8866,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode86s1hbhb">
+&lt;h2 id="llmhahahugoshortcode87s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode86s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode87s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
