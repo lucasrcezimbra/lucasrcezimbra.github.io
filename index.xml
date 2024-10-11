@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>Storing trees in a database</title><link>https://cezimbra.me/anotacoes/storing-trees-in-a-database/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/storing-trees-in-a-database/</guid><description>&lt;h2 id="qa">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>Storing trees in a database</title><link>https://cezimbra.me/anotacoes/storing-trees-in-a-database/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/storing-trees-in-a-database/</guid><description>&lt;h2 id="qa">
  Q&amp;amp;A
  &lt;a class="heading-link" href="#qa">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -249,6 +249,7 @@ process, for example) will cause corrupted trees&lt;/li>
 &lt;ul>
 &lt;li>&lt;a href="https://openai.com/index/introducing-canvas/" class="external-link" target="_blank" rel="noopener">Canvas is a new way to write and code with ChatGPT | OpenAI&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://every.to/p/the-disappearance-of-an-internet-domain" class="external-link" target="_blank" rel="noopener">The Disappearance of an Internet Domain&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.mozilla.org/en-US/security/advisories/mfsa2024-51" class="external-link" target="_blank" rel="noopener">Security Vulnerability fixed in Firefox 131.0.2, Firefox ESR 128.3.1, Firefox ESR 115.16.1 — Mozilla&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="watched">
  Watched
@@ -6063,9 +6064,9 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
