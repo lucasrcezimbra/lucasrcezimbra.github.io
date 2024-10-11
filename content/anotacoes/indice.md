@@ -10,6 +10,7 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 
 - [Weeknotes/2024-10-06 - 2024-10-12]({{< ref "Weeknotes/2024-10-06 - 2024-10-12" >}})
 - [Django]({{< ref "Django" >}})
+- [Python]({{< ref "Python" >}})
 - [Profilling Python tests]({{< ref "Profilling Python tests" >}})
 - [Web3]({{< ref "Web3" >}})
 - [Storing trees in a database]({{< ref "Storing trees in a database" >}})
@@ -19,7 +20,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Comparing Python package managers]({{< ref "Comparing Python package managers" >}})
 - [ast-grep by example]({{< ref "ast-grep by example" >}})
 - [Weeknotes/2024-09-22 - 2024-09-28]({{< ref "Weeknotes/2024-09-22 - 2024-09-28" >}})
-- [Python]({{< ref "Python" >}})
 - [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2024-09-15 - 2024-09-21]({{< ref "Weeknotes/2024-09-15 - 2024-09-21" >}})
 - [Catolicismo]({{< ref "Catolicismo" >}})

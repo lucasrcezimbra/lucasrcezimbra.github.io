@@ -1,7 +1,7 @@
 ---
 title: Python
 date: 2023-08-15
-lastmod: 2024-09-27
+lastmod: 2024-10-11
 aliases:
   - /anotacoes/manifest-python-data-classes/
 ---
@@ -129,15 +129,8 @@ aliases:
 
 
 ## Background tasks
-Relates to [Message Queues]({{< ref "Message Queues" >}})
-- [Celery](https://github.com/celery/celery)
-- [Dramatiq](https://dramatiq.io/)
-	- [django_dramatiq](https://github.com/Bogdanp/django_dramatiq) - Django integration
-	- [dramatiq-pg](https://gitlab.com/dalibo/dramatiq-pg) - PostgreSQL as Broker
-	- [django-dramatiq-pg](https://github.com/uptick/django-dramatiq-pg/) - Django integration with PostgreSQL as broker
-- [huey](https://github.com/coleifer/huey) - a little task queue for python
-- [Procrastinate](https://github.com/procrastinate-org/procrastinate) - PostgreSQL-based Task Queue for Python
-- [rq](https://python-rq.org/) (Redis Queue) - library for queueing jobs and processing them in the background with workers.
+- Relates to [Message Queues]({{< ref "Message Queues" >}})
+- Moved to My Toolbox - [Python - Background Tasks](https://toolbox.cezimbra.me/lists/python-background-tasks/)
 
 
 ## Cache
@@ -146,9 +139,7 @@ Relates to [Message Queues]({{< ref "Message Queues" >}})
 
 
 ## CLI
-- [Click](https://palletsprojects.com/p/click/) - [Docs](https://click.palletsprojects.com/en/8.1.x/) - [Source code](https://github.com/pallets/click)
-- [Fire](https://github.com/google/python-fire)
-- [typer](https://github.com/tiangolo/typer) - [Docs](https://typer.tiangolo.com/)
+Moved to My Toolbox - [Python - CLI](https://toolbox.cezimbra.me/lists/python-cli/)
 
 ## Data
 ### pandas
@@ -187,11 +178,7 @@ Relates to [Message Queues]({{< ref "Message Queues" >}})
 
 
 ## JSON
-- [cysimdjson](https://github.com/TeskaLabs/cysimdjson) - SIMDJSON is C++ JSON parser, reportedly the fastest JSON parser on the planet.
-- [ijson](https://github.com/ICRAR/ijson) - iterative JSON
-- [orjson](https://github.com/ijl/orjson) - fast, supports NumPy
-- [rapidjson](https://github.com/python-rapidjson/python-rapidjson) - RapidJSON is an extremely fast C++ JSON parser and serialization library
-- [ujson](https://github.com/ultrajson/ultrajson) - written in C with Python bindings
+Moved to My Toolbox - [Python - JSON](https://toolbox.cezimbra.me/lists/python-json/)
 
 
 ## ORM
