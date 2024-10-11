@@ -182,11 +182,10 @@ Moved to My Toolbox - [Python - JSON](https://toolbox.cezimbra.me/lists/python-j
 
 
 ## ORM
-- [PugSQL](https://pugsql.org/) - simple interface for using parameterized SQL
+Moved to My Toolbox - [Python - ORMs](https://toolbox.cezimbra.me/lists/python-orms/)
 
 
 ## Pipelines
-
 - https://github.com/pditommaso/awesome-pipeline
 - https://temporal.io/
 ### AI/Data
@@ -430,8 +429,7 @@ Fonte: https://fstring.help/
 
 
 ## RPC
-- [gRPC](https://grpc.io/docs/languages/python/quickstart/)
-- [RPyC](https://github.com/tomerfiliba-org/rpyc) - [Docs](https://rpyc.readthedocs.io/en/latest/) - library for symmetrical remote procedure calls, clustering, and distributed-computing #OpenSource
+Moved to My Toolbox - [Python - RPC](https://toolbox.cezimbra.me/lists/python-rpc/)
 
 
 ## SSH
@@ -440,7 +438,6 @@ Fonte: https://fstring.help/
 	- Port forward [example](https://github.com/paramiko/paramiko/blob/main/demos/forward.py)
 	- [sshtunnel](https://github.com/pahaz/sshtunnel) - SSH tunnels to remote server
 -
-
 
 ## WebAssembly
 - [Extism](https://extism.org/) - The cross-language framework - [SDK](https://github.com/extism/python-sdk)
