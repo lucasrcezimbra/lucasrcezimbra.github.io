@@ -9,8 +9,8 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2024-10-06 - 2024-10-12]({{< ref "Weeknotes/2024-10-06 - 2024-10-12" >}})
-- [Profilling Python tests]({{< ref "Profilling Python tests" >}})
 - [Django]({{< ref "Django" >}})
+- [Profilling Python tests]({{< ref "Profilling Python tests" >}})
 - [Web3]({{< ref "Web3" >}})
 - [Storing trees in a database]({{< ref "Storing trees in a database" >}})
 - [PostgreSQL]({{< ref "PostgreSQL" >}})
