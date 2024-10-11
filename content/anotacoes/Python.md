@@ -318,10 +318,7 @@ Fonte: https://fstring.help/
   ```
 
 ### Parsing
-- [parse](https://github.com/r1chardj0n3s/parse) - Parse strings using a specification based on the Python format() syntax.
-	- - https://github.com/jenisys/parse_type - extends with the following features: build type converters; compose type converters; CardinalityField naming schema
-- [ttp](https://github.com/dmulyalin/ttp) - Template Text Parser
-
+Moved to My Toolbox - [Python - Text Parsing](https://toolbox.cezimbra.me/lists/python-text-parsing)
 
 ## Tests
 - How to print logs when running pytest? ([Tweet](https://twitter.com/lucasrcezimbra/status/1705183510837747905))
