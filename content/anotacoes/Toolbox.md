@@ -1,7 +1,7 @@
 ---
 title: Toolbox
 date: 2023-10-09
-lastmod: 2024-07-31
+lastmod: 2024-10-15
 aliases:
   - /anotacoes/integrations-platforms/
   - /anotacoes/vpn/
@@ -182,17 +182,12 @@ Others:
 
 ## Search
 ### Client-side
-- [Fuse.js](https://github.com/krisk/fuse) - lightweight fuzzy-search, in JavaScript, with zero dependencies #OpenSource
-- [Lunr.js](https://github.com/olivernn/lunr.js) - small, full-text search library for use in the browser #OpenSource
-- [orama](https://github.com/oramasearch/orama) - full-text and vector search #OpenSource
-- [Pagefind](https://github.com/cloudcannon/pagefind) - fully static search library that aims to perform well on large sites, while using as little of your users’ bandwidth as possible, and without hosting any infrastructure #OpenSource
+Moved to My Toolbox - [Full-text search in the browser](https://toolbox.cezimbra.me/lists/full-text-search-in-the-browser/)
 
 ## Shell
-- [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output.
-- [dust](https://github.com/bootandy/dust) - A more intuitive version of du
-- [grex](https://github.com/pemistahl/grex) - CLI for generating regular expressions from
-- [nushell](https://github.com/nushell/nushell) - A new type of shell.user-provided test cases.
-- [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative).
+Moved to My Toolbox -
+[Command-line](https://toolbox.cezimbra.me/lists/command-line/) and
+[Shell](https://toolbox.cezimbra.me/lists/shells/)
 
 ## Spreadsheet
 - [Airtable](https://www.airtable.com/)

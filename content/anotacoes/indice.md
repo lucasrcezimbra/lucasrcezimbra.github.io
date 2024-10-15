@@ -9,6 +9,8 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2024-10-13 - 2024-10-19]({{< ref "Weeknotes/2024-10-13 - 2024-10-19" >}})
+- [Toolbox]({{< ref "Toolbox" >}})
+- [Beancount]({{< ref "Beancount" >}})
 - [Weeknotes/2024-10-06 - 2024-10-12]({{< ref "Weeknotes/2024-10-06 - 2024-10-12" >}})
 - [Django]({{< ref "Django" >}})
 - [Python]({{< ref "Python" >}})
@@ -47,7 +49,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Books/Não eu, mas Deus]({{< ref "Books/Não eu, mas Deus" >}})
 - [Documentation]({{< ref "Documentation" >}})
 - [Weeknotes/2024-07-28 - 2024-08-03]({{< ref "Weeknotes/2024-07-28 - 2024-08-03" >}})
-- [Toolbox]({{< ref "Toolbox" >}})
 - [Weeknotes/2024-07-21 - 2024-07-27]({{< ref "Weeknotes/2024-07-21 - 2024-07-27" >}})
 - [Books/Virtudes & Liderança]({{< ref "Books/Virtudes & Liderança" >}})
 - [Home Assistant]({{< ref "Home Assistant" >}})
@@ -132,7 +133,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Filesystems]({{< ref "Filesystems" >}})
 - [Joplin]({{< ref "Joplin" >}})
 - [Sentry]({{< ref "Sentry" >}})
-- [Beancount]({{< ref "Beancount" >}})
 - [Steganography]({{< ref "Steganography" >}})
 - [GitHub]({{< ref "GitHub" >}})
 - [Leadership]({{< ref "Leadership" >}})
