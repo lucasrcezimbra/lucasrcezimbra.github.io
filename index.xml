@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>Storing trees in a database</title><link>https://cezimbra.me/anotacoes/storing-trees-in-a-database/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/storing-trees-in-a-database/</guid><description>&lt;h2 id="qa">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-10-13 - 2024-10-19</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-10-13---2024-10-19/</link><pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-10-13---2024-10-19/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+&lt;h2 id="books-being-read">
+ Books being read
+ &lt;a class="heading-link" href="#books-being-read">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(pt-BR) Conversas Cruciais - Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan &amp;amp;
+Al Switzler &amp;amp; Emily Gregory&lt;/li>
+&lt;li>(pt-BR) Tremendas Trivialidades - G.K. Chesterton&lt;/li>
+&lt;/ul>
+&lt;h2 id="learned">
+ Learned
+ &lt;a class="heading-link" href="#learned">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="discovered-tools">
+ Discovered tools
+ &lt;a class="heading-link" href="#discovered-tools">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="read-articles">
+ Read articles
+ &lt;a class="heading-link" href="#read-articles">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h2 id="read-news">
+ Read news
+ &lt;a class="heading-link" href="#read-news">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://arstechnica.com/ai/2024/10/man-learns-hes-being-dumped-via-dystopian-ai-summary-of-texts" class="external-link" target="_blank" rel="noopener">Man learns he’s being dumped via “dystopian” AI summary of texts - Ars Technica&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rubyonrails.org/2024/9/27/rails-8-beta1-no-paas-required" class="external-link" target="_blank" rel="noopener">Ruby on Rails — Rails 8.0 Beta 1: No PaaS Required&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="watched">
+ Watched
+ &lt;a class="heading-link" href="#watched">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=mTa2d3OLXhg" class="external-link" target="_blank" rel="noopener">DHH Is Right About Everything&lt;/a>&lt;/li>
+&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=3rCljrDfZ3Y" class="external-link" target="_blank" rel="noopener">Zsh config walkthrough of a CLI master&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="listened">
+ Listened
+ &lt;a class="heading-link" href="#listened">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>Storing trees in a database</title><link>https://cezimbra.me/anotacoes/storing-trees-in-a-database/</link><pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/storing-trees-in-a-database/</guid><description>&lt;h2 id="qa">
  Q&amp;amp;A
  &lt;a class="heading-link" href="#qa">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -114,7 +186,7 @@ whole tree everytime you move/rename a node in a transaction; write
 performance&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ol></description></item><item><title>2024-10-06 - 2024-10-12</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+&lt;/ol></description></item><item><title>2024-10-06 - 2024-10-12</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/</link><pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-13---2024-10-19/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -238,6 +310,7 @@ process, for example) will cause corrupted trees&lt;/li>
 &lt;li>Notes at &lt;a href="https://cezimbra.me/anotacoes/storing-trees-in-a-database/" >Storing trees in a database&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;li>&lt;a href="https://world.hey.com/dhh/open-source-royalty-and-mad-kings-a8f79d16" class="external-link" target="_blank" rel="noopener">Open source royalty and mad kings&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-news">
  Read news
@@ -260,8 +333,6 @@ process, for example) will cause corrupted trees&lt;/li>
 &lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=QAglUbhcbeI" class="external-link" target="_blank" rel="noopener">the scariest thing i&amp;rsquo;ve ever seen&lt;/a>&lt;/li>
-&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=mTa2d3OLXhg" class="external-link" target="_blank" rel="noopener">DHH Is Right About Everything&lt;/a>&lt;/li>
-&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=3rCljrDfZ3Y" class="external-link" target="_blank" rel="noopener">Zsh config walkthrough of a CLI master&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="listened">
  Listened
@@ -275,7 +346,7 @@ process, for example) will cause corrupted trees&lt;/li>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=TRJe1gBAFB0" class="external-link" target="_blank" rel="noopener">Homilia Diária | O transplante de coração necessário para rezar (Quarta-feira da 27ª S. do T. Comum)&lt;/a>&lt;/li>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=afv0aZnDz28" class="external-link" target="_blank" rel="noopener">Homilia Diária | Por que a oração deve ser perseverante? (Quinta-feira da 27ª Semana do Tempo Comum)&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>Comparing Python package managers</title><link>https://cezimbra.me/anotacoes/comparing-python-package-managers/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/comparing-python-package-managers/</guid><description>&lt;h2 id="pyprojecttoml-spec">
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-13---2024-10-19/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>Comparing Python package managers</title><link>https://cezimbra.me/anotacoes/comparing-python-package-managers/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/comparing-python-package-managers/</guid><description>&lt;h2 id="pyprojecttoml-spec">
  pyproject.toml spec
  &lt;a class="heading-link" href="#pyprojecttoml-spec">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -298,62 +369,62 @@ process, for example) will cause corrupted trees&lt;/li>
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">Tool&lt;/th>
- &lt;th style="text-align: left">Lock file&lt;/th>
- &lt;th style="text-align: left">Manage Python versions&lt;/th>
- &lt;th style="text-align: left">Global cache&lt;/th>
- &lt;th style="text-align: left">PEP compliant&lt;/th>
- &lt;th style="text-align: left">Upload to PyPI&lt;/th>
+ &lt;th>Tool&lt;/th>
+ &lt;th>Lock file&lt;/th>
+ &lt;th>Manage Python versions&lt;/th>
+ &lt;th>Global cache&lt;/th>
+ &lt;th>PEP compliant&lt;/th>
+ &lt;th>Upload to PyPI&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Hatch&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Hatch&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">pip&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>pip&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Pipenv&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Pipenv&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">PDM&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>PDM&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Poetry&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Poetry&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">uv&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>uv&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -4548,14 +4619,14 @@ Explicação GPT-4o:&lt;/p></description></item><item><title>Pesca</title><link>
 &lt;/ul></description></item><item><title>Filmes</title><link>https://cezimbra.me/anotacoes/filmes/</link><pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/filmes/</guid><description>&lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">Filme&lt;/th>
- &lt;th style="text-align: left">Recomendação&lt;/th>
+ &lt;th>Filme&lt;/th>
+ &lt;th>Recomendação&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">1883&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://x.com/henriquebastos/status/1730989873673240594" class="external-link" target="_blank" rel="noopener">https://x.com/henriquebastos/status/1730989873673240594&lt;/a>&lt;/td>
+ &lt;td>1883&lt;/td>
+ &lt;td>&lt;a href="https://x.com/henriquebastos/status/1730989873673240594" class="external-link" target="_blank" rel="noopener">https://x.com/henriquebastos/status/1730989873673240594&lt;/a>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table></description></item><item><title>HTTP</title><link>https://cezimbra.me/anotacoes/http/</link><pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/http/</guid><description>&lt;h2 id="methods">
@@ -5125,123 +5196,123 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">&lt;/th>
- &lt;th style="text-align: left">Datasette&lt;/th>
- &lt;th style="text-align: left">&lt;a href="https://raindrop.io/" class="external-link" target="_blank" rel="noopener">Raindrop.io&lt;/a>&lt;/th>
- &lt;th style="text-align: left">&lt;a href="https://www.linkace.org" class="external-link" target="_blank" rel="noopener">LinkAce&lt;/a>&lt;/th>
- &lt;th style="text-align: left">&lt;a href="https://www.instapaper.com/" class="external-link" target="_blank" rel="noopener">Instapaper&lt;/a>&lt;/th>
- &lt;th style="text-align: left">&lt;a href="https://readwise.io/read" class="external-link" target="_blank" rel="noopener">Readwise&lt;/a>&lt;/th>
- &lt;th style="text-align: left">&lt;a href="https://getpocket.com/" class="external-link" target="_blank" rel="noopener">Pocket&lt;/a>&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>Datasette&lt;/th>
+ &lt;th>&lt;a href="https://raindrop.io/" class="external-link" target="_blank" rel="noopener">Raindrop.io&lt;/a>&lt;/th>
+ &lt;th>&lt;a href="https://www.linkace.org" class="external-link" target="_blank" rel="noopener">LinkAce&lt;/a>&lt;/th>
+ &lt;th>&lt;a href="https://www.instapaper.com/" class="external-link" target="_blank" rel="noopener">Instapaper&lt;/a>&lt;/th>
+ &lt;th>&lt;a href="https://readwise.io/read" class="external-link" target="_blank" rel="noopener">Readwise&lt;/a>&lt;/th>
+ &lt;th>&lt;a href="https://getpocket.com/" class="external-link" target="_blank" rel="noopener">Pocket&lt;/a>&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">&lt;strong>Notes&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">Not a bookmark manager, but can be used for it.&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>&lt;strong>Notes&lt;/strong>&lt;/td>
+ &lt;td>Not a bookmark manager, but can be used for it.&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;strong>Hosting&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">Self-hosted&lt;/td>
- &lt;td style="text-align: left">Cloud&lt;/td>
- &lt;td style="text-align: left">Self-hosted&lt;/td>
- &lt;td style="text-align: left">Cloud&lt;/td>
- &lt;td style="text-align: left">Cloud&lt;/td>
- &lt;td style="text-align: left">Cloud&lt;/td>
+ &lt;td>&lt;strong>Hosting&lt;/strong>&lt;/td>
+ &lt;td>Self-hosted&lt;/td>
+ &lt;td>Cloud&lt;/td>
+ &lt;td>Self-hosted&lt;/td>
+ &lt;td>Cloud&lt;/td>
+ &lt;td>Cloud&lt;/td>
+ &lt;td>Cloud&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;strong>Open source&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">❌&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">❌&lt;/td>
- &lt;td style="text-align: left">❌&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>&lt;strong>Open source&lt;/strong>&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;strong>Saves pages content&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://github.com/AndyTheFactory/newspaper4k" class="external-link" target="_blank" rel="noopener">Can be implemented&lt;/a>&lt;/td>
- &lt;td style="text-align: left">Paid version only&lt;/td>
- &lt;td style="text-align: left">Internet Archive&lt;/td>
- &lt;td style="text-align: left">Paid version only&lt;/td>
- &lt;td style="text-align: left">Paid version only&lt;/td>
- &lt;td style="text-align: left">Paid version only&lt;/td>
+ &lt;td>&lt;strong>Saves pages content&lt;/strong>&lt;/td>
+ &lt;td>&lt;a href="https://github.com/AndyTheFactory/newspaper4k" class="external-link" target="_blank" rel="noopener">Can be implemented&lt;/a>&lt;/td>
+ &lt;td>Paid version only&lt;/td>
+ &lt;td>Internet Archive&lt;/td>
+ &lt;td>Paid version only&lt;/td>
+ &lt;td>Paid version only&lt;/td>
+ &lt;td>Paid version only&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;strong>Exportable&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">CSV and HTML&lt;/td>
- &lt;td style="text-align: left">CSV and HTML&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">CSV&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>&lt;strong>Exportable&lt;/strong>&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>CSV and HTML&lt;/td>
+ &lt;td>CSV and HTML&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>CSV&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;strong>Publishable&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">Paid version only&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>&lt;strong>Publishable&lt;/strong>&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>Paid version only&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;strong>Pricing&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">Free&lt;/td>
- &lt;td style="text-align: left">Free, R$16,36/month or R$152,65/year&lt;/td>
- &lt;td style="text-align: left">Free&lt;/td>
- &lt;td style="text-align: left">Free, $5.99/month or $59.99/year&lt;/td>
- &lt;td style="text-align: left">$12.99/month or $119.88/year&lt;/td>
- &lt;td style="text-align: left">Free, $4.99/month or $44.99/year&lt;/td>
+ &lt;td>&lt;strong>Pricing&lt;/strong>&lt;/td>
+ &lt;td>Free&lt;/td>
+ &lt;td>Free, R$16,36/month or R$152,65/year&lt;/td>
+ &lt;td>Free&lt;/td>
+ &lt;td>Free, $5.99/month or $59.99/year&lt;/td>
+ &lt;td>$12.99/month or $119.88/year&lt;/td>
+ &lt;td>Free, $4.99/month or $44.99/year&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;strong>Search page content&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">Can be implemented&lt;/td>
- &lt;td style="text-align: left">Paid version only&lt;/td>
- &lt;td style="text-align: left">❌&lt;/td>
- &lt;td style="text-align: left">Paid version only&lt;/td>
- &lt;td style="text-align: left">Paid version only&lt;/td>
- &lt;td style="text-align: left">Paid version only&lt;/td>
+ &lt;td>&lt;strong>Search page content&lt;/strong>&lt;/td>
+ &lt;td>Can be implemented&lt;/td>
+ &lt;td>Paid version only&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>Paid version only&lt;/td>
+ &lt;td>Paid version only&lt;/td>
+ &lt;td>Paid version only&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;strong>Semantic search&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://llm.datasette.io/en/stable/embeddings/index.html" class="external-link" target="_blank" rel="noopener">Can be implemented&lt;/a>&lt;/td>
- &lt;td style="text-align: left">Paid version only&lt;/td>
- &lt;td style="text-align: left">❌&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">❌&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>&lt;strong>Semantic search&lt;/strong>&lt;/td>
+ &lt;td>&lt;a href="https://llm.datasette.io/en/stable/embeddings/index.html" class="external-link" target="_blank" rel="noopener">Can be implemented&lt;/a>&lt;/td>
+ &lt;td>Paid version only&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;strong>Clustering content&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://github.com/simonw/llm-cluster" class="external-link" target="_blank" rel="noopener">Can be implemented&lt;/a>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">❌&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>&lt;strong>Clustering content&lt;/strong>&lt;/td>
+ &lt;td>&lt;a href="https://github.com/simonw/llm-cluster" class="external-link" target="_blank" rel="noopener">Can be implemented&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;strong>Unroll X Threads&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://github.com/dogsheep/twitter-to-sqlite" class="external-link" target="_blank" rel="noopener">Can be implemented&lt;/a>&lt;/td>
- &lt;td style="text-align: left">❌&lt;/td>
- &lt;td style="text-align: left">❌&lt;/td>
- &lt;td style="text-align: left">❌&lt;/td>
- &lt;td style="text-align: left">Paid version only&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>&lt;strong>Unroll X Threads&lt;/strong>&lt;/td>
+ &lt;td>&lt;a href="https://github.com/dogsheep/twitter-to-sqlite" class="external-link" target="_blank" rel="noopener">Can be implemented&lt;/a>&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>Paid version only&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;strong>E-mail to subscribe to newsletters&lt;/strong>&lt;/td>
- &lt;td style="text-align: left">Can be implemented&lt;/td>
- &lt;td style="text-align: left">Can be implemented&lt;/td>
- &lt;td style="text-align: left">Can be implemented&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">Paid version only&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>&lt;strong>E-mail to subscribe to newsletters&lt;/strong>&lt;/td>
+ &lt;td>Can be implemented&lt;/td>
+ &lt;td>Can be implemented&lt;/td>
+ &lt;td>Can be implemented&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>Paid version only&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -5542,46 +5613,46 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">Type&lt;/th>
- &lt;th style="text-align: left">Capacity&lt;/th>
- &lt;th style="text-align: left">Supported Types&lt;/th>
- &lt;th style="text-align: left">Lifetime&lt;/th>
- &lt;th style="text-align: left">Access&lt;/th>
- &lt;th style="text-align: left">&lt;/th>
+ &lt;th>Type&lt;/th>
+ &lt;th>Capacity&lt;/th>
+ &lt;th>Supported Types&lt;/th>
+ &lt;th>Lifetime&lt;/th>
+ &lt;th>Access&lt;/th>
+ &lt;th>&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Cookies&lt;/td>
- &lt;td style="text-align: left">4KB&lt;/td>
- &lt;td style="text-align: left">Strings&lt;/td>
- &lt;td style="text-align: left">until expiration date or manually deleted by user or webapp&lt;/td>
- &lt;td style="text-align: left">Shared between tabs and windows and with the server&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Cookies&lt;/td>
+ &lt;td>4KB&lt;/td>
+ &lt;td>Strings&lt;/td>
+ &lt;td>until expiration date or manually deleted by user or webapp&lt;/td>
+ &lt;td>Shared between tabs and windows and with the server&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Session Storage&lt;/td>
- &lt;td style="text-align: left">5MB&lt;/td>
- &lt;td style="text-align: left">Strings&lt;/td>
- &lt;td style="text-align: left">until tab is closed&lt;/td>
- &lt;td style="text-align: left">Not shared between tabs or windows&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Session Storage&lt;/td>
+ &lt;td>5MB&lt;/td>
+ &lt;td>Strings&lt;/td>
+ &lt;td>until tab is closed&lt;/td>
+ &lt;td>Not shared between tabs or windows&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Local Storage&lt;/td>
- &lt;td style="text-align: left">5MB&lt;/td>
- &lt;td style="text-align: left">Strings&lt;/td>
- &lt;td style="text-align: left">until manually deleted by the user or webapp&lt;/td>
- &lt;td style="text-align: left">Shared between tabs and windows&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Local Storage&lt;/td>
+ &lt;td>5MB&lt;/td>
+ &lt;td>Strings&lt;/td>
+ &lt;td>until manually deleted by the user or webapp&lt;/td>
+ &lt;td>Shared between tabs and windows&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">IndexedDB&lt;/td>
- &lt;td style="text-align: left">&amp;gt;50MB&lt;/td>
- &lt;td style="text-align: left">Keys (Strings) and Values (objects, arrays, binary, etc.)&lt;/td>
- &lt;td style="text-align: left">until manually deleted by the user or webapp&lt;/td>
- &lt;td style="text-align: left">Shared between tabs and windows&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>IndexedDB&lt;/td>
+ &lt;td>&amp;gt;50MB&lt;/td>
+ &lt;td>Keys (Strings) and Values (objects, arrays, binary, etc.)&lt;/td>
+ &lt;td>until manually deleted by the user or webapp&lt;/td>
+ &lt;td>Shared between tabs and windows&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -5661,6 +5732,9 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-13---2024-10-19/" >Weeknotes/2024-10-13 - 2024-10-19&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/toolbox/" >Toolbox&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/beancount/" >Beancount&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/" >Weeknotes/2024-10-06 - 2024-10-12&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>&lt;/li>
@@ -5699,7 +5773,6 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/books/n%C3%A3o-eu-mas-deus/" >Books/Não eu, mas Deus&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/documentation/" >Documentation&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-07-28---2024-08-03/" >Weeknotes/2024-07-28 - 2024-08-03&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/toolbox/" >Toolbox&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-07-21---2024-07-27/" >Weeknotes/2024-07-21 - 2024-07-27&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/books/virtudes--lideran%C3%A7a/" >Books/Virtudes &amp;amp; Liderança&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/home-assistant/" >Home Assistant&lt;/a>&lt;/li>
@@ -5784,7 +5857,6 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/filesystems/" >Filesystems&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/joplin/" >Joplin&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/sentry/" >Sentry&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/beancount/" >Beancount&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/steganography/" >Steganography&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/github/" >GitHub&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/leadership/" >Leadership&lt;/a>&lt;/li>
@@ -5809,90 +5881,90 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">&lt;/th>
- &lt;th style="text-align: left">Logseq&lt;/th>
- &lt;th style="text-align: left">Joplin&lt;/th>
- &lt;th style="text-align: left">Obsidian&lt;/th>
- &lt;th style="text-align: left">Roam&lt;/th>
+ &lt;th>&lt;/th>
+ &lt;th>Logseq&lt;/th>
+ &lt;th>Joplin&lt;/th>
+ &lt;th>Obsidian&lt;/th>
+ &lt;th>Roam&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Grafo&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">❌&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Grafo&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Open Source&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">❌&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Open Source&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Criptografado&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Criptografado&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Organização em blocos&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">❌&lt;/td>
- &lt;td style="text-align: left">❌&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Organização em blocos&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Web Clipper&lt;/td>
- &lt;td style="text-align: left">⚠️&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">⚠️&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Web Clipper&lt;/td>
+ &lt;td>⚠️&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>⚠️&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">App Linux&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>App Linux&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">App Android&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>App Android&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Sincronização&lt;/td>
- &lt;td style="text-align: left">⚠️&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Sincronização&lt;/td>
+ &lt;td>⚠️&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Usabilidade&lt;/td>
- &lt;td style="text-align: left">⚠️&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Usabilidade&lt;/td>
+ &lt;td>⚠️&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Publicar&lt;/td>
- &lt;td style="text-align: left">⚠️&lt;/td>
- &lt;td style="text-align: left">⚠️&lt;/td>
- &lt;td style="text-align: left">✅&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Publicar&lt;/td>
+ &lt;td>⚠️&lt;/td>
+ &lt;td>⚠️&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Salva como&lt;/td>
- &lt;td style="text-align: left">.md&lt;/td>
- &lt;td style="text-align: left">SQLite&lt;/td>
- &lt;td style="text-align: left">.md&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Salva como&lt;/td>
+ &lt;td>.md&lt;/td>
+ &lt;td>SQLite&lt;/td>
+ &lt;td>.md&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -6044,9 +6116,9 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode12s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode12s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -6136,54 +6208,54 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">Claim&lt;/th>
- &lt;th style="text-align: left">Stands to&lt;/th>
- &lt;th style="text-align: left">Type&lt;/th>
- &lt;th style="text-align: left">Description&lt;/th>
+ &lt;th>Claim&lt;/th>
+ &lt;th>Stands to&lt;/th>
+ &lt;th>Type&lt;/th>
+ &lt;th>Description&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">&lt;code>iss&lt;/code>&lt;/td>
- &lt;td style="text-align: left">Issuer&lt;/td>
- &lt;td style="text-align: left">case-sensitive string&lt;/td>
- &lt;td style="text-align: left">who created and signed this token&lt;/td>
+ &lt;td>&lt;code>iss&lt;/code>&lt;/td>
+ &lt;td>Issuer&lt;/td>
+ &lt;td>case-sensitive string&lt;/td>
+ &lt;td>who created and signed this token&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;code>sub&lt;/code>&lt;/td>
- &lt;td style="text-align: left">Subject&lt;/td>
- &lt;td style="text-align: left">case-sensitive string&lt;/td>
- &lt;td style="text-align: left">whom the token refers to&lt;/td>
+ &lt;td>&lt;code>sub&lt;/code>&lt;/td>
+ &lt;td>Subject&lt;/td>
+ &lt;td>case-sensitive string&lt;/td>
+ &lt;td>whom the token refers to&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;code>aud&lt;/code>&lt;/td>
- &lt;td style="text-align: left">Audience&lt;/td>
- &lt;td style="text-align: left">array of case-sensitive strings&lt;/td>
- &lt;td style="text-align: left">who or what the token is intended for&lt;/td>
+ &lt;td>&lt;code>aud&lt;/code>&lt;/td>
+ &lt;td>Audience&lt;/td>
+ &lt;td>array of case-sensitive strings&lt;/td>
+ &lt;td>who or what the token is intended for&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;code>exp&lt;/code>&lt;/td>
- &lt;td style="text-align: left">Expiration Time&lt;/td>
- &lt;td style="text-align: left">number containing a NumericDate&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>&lt;code>exp&lt;/code>&lt;/td>
+ &lt;td>Expiration Time&lt;/td>
+ &lt;td>number containing a NumericDate&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;code>nbf&lt;/code>&lt;/td>
- &lt;td style="text-align: left">Not Before&lt;/td>
- &lt;td style="text-align: left">number containing a NumericDate&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>&lt;code>nbf&lt;/code>&lt;/td>
+ &lt;td>Not Before&lt;/td>
+ &lt;td>number containing a NumericDate&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;code>iat&lt;/code>&lt;/td>
- &lt;td style="text-align: left">Issued At&lt;/td>
- &lt;td style="text-align: left">number containing a NumericDate&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>&lt;code>iat&lt;/code>&lt;/td>
+ &lt;td>Issued At&lt;/td>
+ &lt;td>number containing a NumericDate&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">&lt;code>jti&lt;/code>&lt;/td>
- &lt;td style="text-align: left">JWT ID&lt;/td>
- &lt;td style="text-align: left">case-sensitive string&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>&lt;code>jti&lt;/code>&lt;/td>
+ &lt;td>JWT ID&lt;/td>
+ &lt;td>case-sensitive string&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
@@ -6268,25 +6340,7 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://awesome-beancount.com/" class="external-link" target="_blank" rel="noopener">Awesome Beancount&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://beancount.github.io/docs/" class="external-link" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://aumayr.github.io/beancount-sql-queries/" class="external-link" target="_blank" rel="noopener">SQL queries examples&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/vim/" >vim&lt;/a> &lt;a href="https://github.com/nathangrigg/vim-beancount" class="external-link" target="_blank" rel="noopener">plugin&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/beancount/beancount" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="import">
- Import
- &lt;a class="heading-link" href="#import">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://github.com/jbms/beancount-import" class="external-link" target="_blank" rel="noopener">beancount-import&lt;/a> - Web UI for semi-automatically importing&lt;/li>
-&lt;li>&lt;a href="https://github.com/redstreet/beancount_reds_importers" class="external-link" target="_blank" rel="noopener">beancount_reds_importers&lt;/a> - &lt;code>bean-download&lt;/code>&lt;/li>
-&lt;li>&lt;a href="https://github.com/beancount/smart_importer" class="external-link" target="_blank" rel="noopener">smart_importer&lt;/a> - importers with machine learning - status: beta&lt;/li>
-&lt;li>&lt;a href="https://github.com/tarioch/beancounttools" class="external-link" target="_blank" rel="noopener">tariochbctools&lt;/a> - Some importers, plugins and price fetchers
-&lt;ul>
-&lt;li>examples consuming API: &lt;a href="https://github.com/tarioch/beancounttools/blob/master/src/tariochbctools/importers/quickfile/importer.py" class="external-link" target="_blank" rel="noopener">quickfile&lt;/a> and &lt;a href="https://github.com/tarioch/beancounttools/blob/master/src/tariochbctools/importers/transferwise/importer.py" class="external-link" target="_blank" rel="noopener">transferwise&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
+&lt;li>Tools moved to My Toolbox - &lt;a href="https://toolbox.cezimbra.me/lists/beancount/" class="external-link" target="_blank" rel="noopener">Beancount&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Brag document</title><link>https://cezimbra.me/anotacoes/brag-document/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/brag-document/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://eltonminetto.dev/post/2022-04-14-brag-document/" class="external-link" target="_blank" rel="noopener">Dica de carreira_ crie um brag document&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://jvns.ca/blog/brag-documents/" class="external-link" target="_blank" rel="noopener">Get your work recognized_ write a brag document&lt;/a>&lt;/li>
@@ -6651,9 +6705,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode41s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode48s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode41s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode48s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -11274,265 +11328,265 @@ manage relays&lt;/li>
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">Marca&lt;/th>
- &lt;th style="text-align: left">Café&lt;/th>
- &lt;th style="text-align: left">Intensidade&lt;/th>
- &lt;th style="text-align: left">Expresso&lt;/th>
- &lt;th style="text-align: left">Lungo&lt;/th>
+ &lt;th>Marca&lt;/th>
+ &lt;th>Café&lt;/th>
+ &lt;th>Intensidade&lt;/th>
+ &lt;th>Expresso&lt;/th>
+ &lt;th>Lungo&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-napoli" class="external-link" target="_blank" rel="noopener">Ispirazione Napoli&lt;/a>&lt;/td>
- &lt;td style="text-align: left">13&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-napoli" class="external-link" target="_blank" rel="noopener">Ispirazione Napoli&lt;/a>&lt;/td>
+ &lt;td>13&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-palermo-kazaar" class="external-link" target="_blank" rel="noopener">Ispirazione Palermo Kazaar&lt;/a>&lt;/td>
- &lt;td style="text-align: left">12&lt;/td>
- &lt;td style="text-align: left">⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-palermo-kazaar" class="external-link" target="_blank" rel="noopener">Ispirazione Palermo Kazaar&lt;/a>&lt;/td>
+ &lt;td>12&lt;/td>
+ &lt;td>⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-ristretto-italiano" class="external-link" target="_blank" rel="noopener">Ispirazione Ristretto Italiano&lt;/a>&lt;/td>
- &lt;td style="text-align: left">10&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-ristretto-italiano" class="external-link" target="_blank" rel="noopener">Ispirazione Ristretto Italiano&lt;/a>&lt;/td>
+ &lt;td>10&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/rio-de-janeiro-espresso-coffee" class="external-link" target="_blank" rel="noopener">Rio de Janeiro Espresso&lt;/a>&lt;/td>
- &lt;td style="text-align: left">9&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/rio-de-janeiro-espresso-coffee" class="external-link" target="_blank" rel="noopener">Rio de Janeiro Espresso&lt;/a>&lt;/td>
+ &lt;td>9&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-firenze-arpeggio" class="external-link" target="_blank" rel="noopener">Ispirazione Firenze Arpeggio&lt;/a>&lt;/td>
- &lt;td style="text-align: left">9&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-firenze-arpeggio" class="external-link" target="_blank" rel="noopener">Ispirazione Firenze Arpeggio&lt;/a>&lt;/td>
+ &lt;td>9&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/ispirazione-venezia-coffee-capsule" class="external-link" target="_blank" rel="noopener">Ispirazione Venezia&lt;/a>&lt;/td>
- &lt;td style="text-align: left">8&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/ispirazione-venezia-coffee-capsule" class="external-link" target="_blank" rel="noopener">Ispirazione Venezia&lt;/a>&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-roma" class="external-link" target="_blank" rel="noopener">Ispirazione Roma&lt;/a>&lt;/td>
- &lt;td style="text-align: left">8&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-roma" class="external-link" target="_blank" rel="noopener">Ispirazione Roma&lt;/a>&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/ispirazione-milano-intenso-coffee-capsule" class="external-link" target="_blank" rel="noopener">Milano Intenso&lt;/a>&lt;/td>
- &lt;td style="text-align: left">8&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/ispirazione-milano-intenso-coffee-capsule" class="external-link" target="_blank" rel="noopener">Milano Intenso&lt;/a>&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/cafe-espresso-istanbul" class="external-link" target="_blank" rel="noopener">Istanbul Espresso&lt;/a>&lt;/td>
- &lt;td style="text-align: left">8&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/cafe-espresso-istanbul" class="external-link" target="_blank" rel="noopener">Istanbul Espresso&lt;/a>&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-stockholm-fortissio-lungo" class="external-link" target="_blank" rel="noopener">Stockholm Fortissio Lungo&lt;/a>&lt;/td>
- &lt;td style="text-align: left">8&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-stockholm-fortissio-lungo" class="external-link" target="_blank" rel="noopener">Stockholm Fortissio Lungo&lt;/a>&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-nespresso-brazil-organic" class="external-link" target="_blank" rel="noopener">Brazil Organic&lt;/a>&lt;/td>
- &lt;td style="text-align: left">7&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-nespresso-brazil-organic" class="external-link" target="_blank" rel="noopener">Brazil Organic&lt;/a>&lt;/td>
+ &lt;td>7&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/infiniment-espresso-limited-edition-coffee-pods" class="external-link" target="_blank" rel="noopener">Infiniment Espresso&lt;/a>&lt;/td>
- &lt;td style="text-align: left">6&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/infiniment-espresso-limited-edition-coffee-pods" class="external-link" target="_blank" rel="noopener">Infiniment Espresso&lt;/a>&lt;/td>
+ &lt;td>6&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-genova-livanto" class="external-link" target="_blank" rel="noopener">Ispirazione Genova Livanto&lt;/a>&lt;/td>
- &lt;td style="text-align: left">6&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-genova-livanto" class="external-link" target="_blank" rel="noopener">Ispirazione Genova Livanto&lt;/a>&lt;/td>
+ &lt;td>6&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/cafe-espresso-paris" class="external-link" target="_blank" rel="noopener">Paris Espresso&lt;/a>&lt;/td>
- &lt;td style="text-align: left">6&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/cafe-espresso-paris" class="external-link" target="_blank" rel="noopener">Paris Espresso&lt;/a>&lt;/td>
+ &lt;td>6&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-tokyo-vivalto-lungo" class="external-link" target="_blank" rel="noopener">Tokyo Vivalto Lungo&lt;/a>&lt;/td>
- &lt;td style="text-align: left">6&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-tokyo-vivalto-lungo" class="external-link" target="_blank" rel="noopener">Tokyo Vivalto Lungo&lt;/a>&lt;/td>
+ &lt;td>6&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-vienna-linizio-lungo" class="external-link" target="_blank" rel="noopener">Vienna Linizio Lungo&lt;/a>&lt;/td>
- &lt;td style="text-align: left">6&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-vienna-linizio-lungo" class="external-link" target="_blank" rel="noopener">Vienna Linizio Lungo&lt;/a>&lt;/td>
+ &lt;td>6&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-espresso-comprar-capriccio-intensidade-5" class="external-link" target="_blank" rel="noopener">Capriccio&lt;/a>&lt;/td>
- &lt;td style="text-align: left">5&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-espresso-comprar-capriccio-intensidade-5" class="external-link" target="_blank" rel="noopener">Capriccio&lt;/a>&lt;/td>
+ &lt;td>5&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/buy-coffee-capsules-master-origin-nicaragua-intensity-5" class="external-link" target="_blank" rel="noopener">Nicaragua&lt;/a>&lt;/td>
- &lt;td style="text-align: left">5&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/buy-coffee-capsules-master-origin-nicaragua-intensity-5" class="external-link" target="_blank" rel="noopener">Nicaragua&lt;/a>&lt;/td>
+ &lt;td>5&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-espresso-comprar-volluto-intensidade-4" class="external-link" target="_blank" rel="noopener">Volluto&lt;/a>&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-espresso-comprar-volluto-intensidade-4" class="external-link" target="_blank" rel="noopener">Volluto&lt;/a>&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-descafeinado-comprar-volluto-decaffeinato-intensidade-4" class="external-link" target="_blank" rel="noopener">Volluto Decaffeinato&lt;/a>&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-descafeinado-comprar-volluto-decaffeinato-intensidade-4" class="external-link" target="_blank" rel="noopener">Volluto Decaffeinato&lt;/a>&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-secagem-natural-ethiopia" class="external-link" target="_blank" rel="noopener">Ethiopia&lt;/a>&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-secagem-natural-ethiopia" class="external-link" target="_blank" rel="noopener">Ethiopia&lt;/a>&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-espresso-comprar-cosi-intensidade-4" class="external-link" target="_blank" rel="noopener">Cosi&lt;/a>&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-espresso-comprar-cosi-intensidade-4" class="external-link" target="_blank" rel="noopener">Cosi&lt;/a>&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/comprar-nespresso-barista-creations-capsula-cafe-chiaro" class="external-link" target="_blank" rel="noopener">Barista Creations Chiaro&lt;/a>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/comprar-nespresso-barista-creations-capsula-cafe-chiaro" class="external-link" target="_blank" rel="noopener">Barista Creations Chiaro&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/comprar-nespresso-barista-creations-capsula-cafe-scuro" class="external-link" target="_blank" rel="noopener">Barista Creations Scuro&lt;/a>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/comprar-nespresso-barista-creations-capsula-cafe-scuro" class="external-link" target="_blank" rel="noopener">Barista Creations Scuro&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">L&amp;rsquo;OR&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.cafelor.com.br/capsula-de-cafe-l-or-ultimo-10-un/p" class="external-link" target="_blank" rel="noopener">Ultimo&lt;/a>&lt;/td>
- &lt;td style="text-align: left">13&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
+ &lt;td>L&amp;rsquo;OR&lt;/td>
+ &lt;td>&lt;a href="https://www.cafelor.com.br/capsula-de-cafe-l-or-ultimo-10-un/p" class="external-link" target="_blank" rel="noopener">Ultimo&lt;/a>&lt;/td>
+ &lt;td>13&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">L&amp;rsquo;OR&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.cafelor.com.br/capsulas-cafe-l-or-sontuoso-10-un/p" class="external-link" target="_blank" rel="noopener">Sontuoso&lt;/a>&lt;/td>
- &lt;td style="text-align: left">8&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>L&amp;rsquo;OR&lt;/td>
+ &lt;td>&lt;a href="https://www.cafelor.com.br/capsulas-cafe-l-or-sontuoso-10-un/p" class="external-link" target="_blank" rel="noopener">Sontuoso&lt;/a>&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Starbucks&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.starbucksathome.com/br/espresso-roast-nespresso/p" class="external-link" target="_blank" rel="noopener">Espresso Roast&lt;/a>&lt;/td>
- &lt;td style="text-align: left">11&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Starbucks&lt;/td>
+ &lt;td>&lt;a href="https://www.starbucksathome.com/br/espresso-roast-nespresso/p" class="external-link" target="_blank" rel="noopener">Espresso Roast&lt;/a>&lt;/td>
+ &lt;td>11&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Starbucks&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.starbucksathome.com/br/caffe-verona-nespresso/p" class="external-link" target="_blank" rel="noopener">Caffè Verona&lt;/a>&lt;/td>
- &lt;td style="text-align: left">10&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Starbucks&lt;/td>
+ &lt;td>&lt;a href="https://www.starbucksathome.com/br/caffe-verona-nespresso/p" class="external-link" target="_blank" rel="noopener">Caffè Verona&lt;/a>&lt;/td>
+ &lt;td>10&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Starbucks&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.starbucksathome.com/br/house-blend-nespresso/p" class="external-link" target="_blank" rel="noopener">House Blend&lt;/a>&lt;/td>
- &lt;td style="text-align: left">8&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Starbucks&lt;/td>
+ &lt;td>&lt;a href="https://www.starbucksathome.com/br/house-blend-nespresso/p" class="external-link" target="_blank" rel="noopener">House Blend&lt;/a>&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Starbucks&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.starbucksathome.com/br/cafes/starbucks-breakfast-blend-nespresso/p" class="external-link" target="_blank" rel="noopener">Breakfast Blend&lt;/a>&lt;/td>
- &lt;td style="text-align: left">7&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Starbucks&lt;/td>
+ &lt;td>&lt;a href="https://www.starbucksathome.com/br/cafes/starbucks-breakfast-blend-nespresso/p" class="external-link" target="_blank" rel="noopener">Breakfast Blend&lt;/a>&lt;/td>
+ &lt;td>7&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Starbucks&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.starbucksathome.com/br/starbucks-single-origen-colombia-nespresso/p" class="external-link" target="_blank" rel="noopener">Single-Origin Colombia&lt;/a>&lt;/td>
- &lt;td style="text-align: left">7&lt;/td>
- &lt;td style="text-align: left">⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Starbucks&lt;/td>
+ &lt;td>&lt;a href="https://www.starbucksathome.com/br/starbucks-single-origen-colombia-nespresso/p" class="external-link" target="_blank" rel="noopener">Single-Origin Colombia&lt;/a>&lt;/td>
+ &lt;td>7&lt;/td>
+ &lt;td>⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Starbucks&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.starbucksathome.com/br/pike-place-roast-nespresso/p" class="external-link" target="_blank" rel="noopener">Pike Place Roast&lt;/a>&lt;/td>
- &lt;td style="text-align: left">7&lt;/td>
- &lt;td style="text-align: left">⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Starbucks&lt;/td>
+ &lt;td>&lt;a href="https://www.starbucksathome.com/br/pike-place-roast-nespresso/p" class="external-link" target="_blank" rel="noopener">Pike Place Roast&lt;/a>&lt;/td>
+ &lt;td>7&lt;/td>
+ &lt;td>⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Starbucks&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.starbucksathome.com/br/starbucks-blonde-roast/p" class="external-link" target="_blank" rel="noopener">Blonde Espresso Roast&lt;/a>&lt;/td>
- &lt;td style="text-align: left">6&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Starbucks&lt;/td>
+ &lt;td>&lt;a href="https://www.starbucksathome.com/br/starbucks-blonde-roast/p" class="external-link" target="_blank" rel="noopener">Blonde Espresso Roast&lt;/a>&lt;/td>
+ &lt;td>6&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Caffè Corsini&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.caffecorsini.com/it/prodotto/2398/MBYXEKGE/capsule-compatibili-nespresso-gran-riserva-intenso-10-pezzi" class="external-link" target="_blank" rel="noopener">Gran Riserva Intenso&lt;/a>&lt;/td>
- &lt;td style="text-align: left">11&lt;/td>
- &lt;td style="text-align: left">⭐&lt;/td>
- &lt;td style="text-align: left">⭐&lt;/td>
+ &lt;td>Caffè Corsini&lt;/td>
+ &lt;td>&lt;a href="https://www.caffecorsini.com/it/prodotto/2398/MBYXEKGE/capsule-compatibili-nespresso-gran-riserva-intenso-10-pezzi" class="external-link" target="_blank" rel="noopener">Gran Riserva Intenso&lt;/a>&lt;/td>
+ &lt;td>11&lt;/td>
+ &lt;td>⭐&lt;/td>
+ &lt;td>⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">3 Corações&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.cafe3coracoes.com.br/nossos-produtos/capsulas/compativeis/espresso-cerrado-mineiro/" class="external-link" target="_blank" rel="noopener">Cerrado Mineiro&lt;/a>&lt;/td>
- &lt;td style="text-align: left">7&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>3 Corações&lt;/td>
+ &lt;td>&lt;a href="https://www.cafe3coracoes.com.br/nossos-produtos/capsulas/compativeis/espresso-cerrado-mineiro/" class="external-link" target="_blank" rel="noopener">Cerrado Mineiro&lt;/a>&lt;/td>
+ &lt;td>7&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">3 Corações&lt;/td>
- &lt;td style="text-align: left">Mogiana Paulista&lt;/td>
- &lt;td style="text-align: left">7&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>3 Corações&lt;/td>
+ &lt;td>Mogiana Paulista&lt;/td>
+ &lt;td>7&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>

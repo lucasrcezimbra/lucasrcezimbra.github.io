@@ -1490,265 +1490,265 @@
 &lt;table>
  &lt;thead>
  &lt;tr>
- &lt;th style="text-align: left">Marca&lt;/th>
- &lt;th style="text-align: left">Café&lt;/th>
- &lt;th style="text-align: left">Intensidade&lt;/th>
- &lt;th style="text-align: left">Expresso&lt;/th>
- &lt;th style="text-align: left">Lungo&lt;/th>
+ &lt;th>Marca&lt;/th>
+ &lt;th>Café&lt;/th>
+ &lt;th>Intensidade&lt;/th>
+ &lt;th>Expresso&lt;/th>
+ &lt;th>Lungo&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-napoli" class="external-link" target="_blank" rel="noopener">Ispirazione Napoli&lt;/a>&lt;/td>
- &lt;td style="text-align: left">13&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-napoli" class="external-link" target="_blank" rel="noopener">Ispirazione Napoli&lt;/a>&lt;/td>
+ &lt;td>13&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-palermo-kazaar" class="external-link" target="_blank" rel="noopener">Ispirazione Palermo Kazaar&lt;/a>&lt;/td>
- &lt;td style="text-align: left">12&lt;/td>
- &lt;td style="text-align: left">⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-palermo-kazaar" class="external-link" target="_blank" rel="noopener">Ispirazione Palermo Kazaar&lt;/a>&lt;/td>
+ &lt;td>12&lt;/td>
+ &lt;td>⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-ristretto-italiano" class="external-link" target="_blank" rel="noopener">Ispirazione Ristretto Italiano&lt;/a>&lt;/td>
- &lt;td style="text-align: left">10&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-ristretto-italiano" class="external-link" target="_blank" rel="noopener">Ispirazione Ristretto Italiano&lt;/a>&lt;/td>
+ &lt;td>10&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/rio-de-janeiro-espresso-coffee" class="external-link" target="_blank" rel="noopener">Rio de Janeiro Espresso&lt;/a>&lt;/td>
- &lt;td style="text-align: left">9&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/rio-de-janeiro-espresso-coffee" class="external-link" target="_blank" rel="noopener">Rio de Janeiro Espresso&lt;/a>&lt;/td>
+ &lt;td>9&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-firenze-arpeggio" class="external-link" target="_blank" rel="noopener">Ispirazione Firenze Arpeggio&lt;/a>&lt;/td>
- &lt;td style="text-align: left">9&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-firenze-arpeggio" class="external-link" target="_blank" rel="noopener">Ispirazione Firenze Arpeggio&lt;/a>&lt;/td>
+ &lt;td>9&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/ispirazione-venezia-coffee-capsule" class="external-link" target="_blank" rel="noopener">Ispirazione Venezia&lt;/a>&lt;/td>
- &lt;td style="text-align: left">8&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/ispirazione-venezia-coffee-capsule" class="external-link" target="_blank" rel="noopener">Ispirazione Venezia&lt;/a>&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-roma" class="external-link" target="_blank" rel="noopener">Ispirazione Roma&lt;/a>&lt;/td>
- &lt;td style="text-align: left">8&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-roma" class="external-link" target="_blank" rel="noopener">Ispirazione Roma&lt;/a>&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/ispirazione-milano-intenso-coffee-capsule" class="external-link" target="_blank" rel="noopener">Milano Intenso&lt;/a>&lt;/td>
- &lt;td style="text-align: left">8&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/ispirazione-milano-intenso-coffee-capsule" class="external-link" target="_blank" rel="noopener">Milano Intenso&lt;/a>&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/cafe-espresso-istanbul" class="external-link" target="_blank" rel="noopener">Istanbul Espresso&lt;/a>&lt;/td>
- &lt;td style="text-align: left">8&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/cafe-espresso-istanbul" class="external-link" target="_blank" rel="noopener">Istanbul Espresso&lt;/a>&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-stockholm-fortissio-lungo" class="external-link" target="_blank" rel="noopener">Stockholm Fortissio Lungo&lt;/a>&lt;/td>
- &lt;td style="text-align: left">8&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-stockholm-fortissio-lungo" class="external-link" target="_blank" rel="noopener">Stockholm Fortissio Lungo&lt;/a>&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-nespresso-brazil-organic" class="external-link" target="_blank" rel="noopener">Brazil Organic&lt;/a>&lt;/td>
- &lt;td style="text-align: left">7&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-nespresso-brazil-organic" class="external-link" target="_blank" rel="noopener">Brazil Organic&lt;/a>&lt;/td>
+ &lt;td>7&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/infiniment-espresso-limited-edition-coffee-pods" class="external-link" target="_blank" rel="noopener">Infiniment Espresso&lt;/a>&lt;/td>
- &lt;td style="text-align: left">6&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/infiniment-espresso-limited-edition-coffee-pods" class="external-link" target="_blank" rel="noopener">Infiniment Espresso&lt;/a>&lt;/td>
+ &lt;td>6&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-genova-livanto" class="external-link" target="_blank" rel="noopener">Ispirazione Genova Livanto&lt;/a>&lt;/td>
- &lt;td style="text-align: left">6&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-ispirazione-genova-livanto" class="external-link" target="_blank" rel="noopener">Ispirazione Genova Livanto&lt;/a>&lt;/td>
+ &lt;td>6&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/cafe-espresso-paris" class="external-link" target="_blank" rel="noopener">Paris Espresso&lt;/a>&lt;/td>
- &lt;td style="text-align: left">6&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/cafe-espresso-paris" class="external-link" target="_blank" rel="noopener">Paris Espresso&lt;/a>&lt;/td>
+ &lt;td>6&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-tokyo-vivalto-lungo" class="external-link" target="_blank" rel="noopener">Tokyo Vivalto Lungo&lt;/a>&lt;/td>
- &lt;td style="text-align: left">6&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-tokyo-vivalto-lungo" class="external-link" target="_blank" rel="noopener">Tokyo Vivalto Lungo&lt;/a>&lt;/td>
+ &lt;td>6&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-vienna-linizio-lungo" class="external-link" target="_blank" rel="noopener">Vienna Linizio Lungo&lt;/a>&lt;/td>
- &lt;td style="text-align: left">6&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-vienna-linizio-lungo" class="external-link" target="_blank" rel="noopener">Vienna Linizio Lungo&lt;/a>&lt;/td>
+ &lt;td>6&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-espresso-comprar-capriccio-intensidade-5" class="external-link" target="_blank" rel="noopener">Capriccio&lt;/a>&lt;/td>
- &lt;td style="text-align: left">5&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-espresso-comprar-capriccio-intensidade-5" class="external-link" target="_blank" rel="noopener">Capriccio&lt;/a>&lt;/td>
+ &lt;td>5&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/buy-coffee-capsules-master-origin-nicaragua-intensity-5" class="external-link" target="_blank" rel="noopener">Nicaragua&lt;/a>&lt;/td>
- &lt;td style="text-align: left">5&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/en/order/capsules/original/buy-coffee-capsules-master-origin-nicaragua-intensity-5" class="external-link" target="_blank" rel="noopener">Nicaragua&lt;/a>&lt;/td>
+ &lt;td>5&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-espresso-comprar-volluto-intensidade-4" class="external-link" target="_blank" rel="noopener">Volluto&lt;/a>&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-espresso-comprar-volluto-intensidade-4" class="external-link" target="_blank" rel="noopener">Volluto&lt;/a>&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-descafeinado-comprar-volluto-decaffeinato-intensidade-4" class="external-link" target="_blank" rel="noopener">Volluto Decaffeinato&lt;/a>&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-descafeinado-comprar-volluto-decaffeinato-intensidade-4" class="external-link" target="_blank" rel="noopener">Volluto Decaffeinato&lt;/a>&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-secagem-natural-ethiopia" class="external-link" target="_blank" rel="noopener">Ethiopia&lt;/a>&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-secagem-natural-ethiopia" class="external-link" target="_blank" rel="noopener">Ethiopia&lt;/a>&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-espresso-comprar-cosi-intensidade-4" class="external-link" target="_blank" rel="noopener">Cosi&lt;/a>&lt;/td>
- &lt;td style="text-align: left">4&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/capsulas-cafe-espresso-comprar-cosi-intensidade-4" class="external-link" target="_blank" rel="noopener">Cosi&lt;/a>&lt;/td>
+ &lt;td>4&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/comprar-nespresso-barista-creations-capsula-cafe-chiaro" class="external-link" target="_blank" rel="noopener">Barista Creations Chiaro&lt;/a>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/comprar-nespresso-barista-creations-capsula-cafe-chiaro" class="external-link" target="_blank" rel="noopener">Barista Creations Chiaro&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Nespresso&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/comprar-nespresso-barista-creations-capsula-cafe-scuro" class="external-link" target="_blank" rel="noopener">Barista Creations Scuro&lt;/a>&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
+ &lt;td>Nespresso&lt;/td>
+ &lt;td>&lt;a href="https://www.nespresso.com/br/pt/order/capsules/original/comprar-nespresso-barista-creations-capsula-cafe-scuro" class="external-link" target="_blank" rel="noopener">Barista Creations Scuro&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">L&amp;rsquo;OR&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.cafelor.com.br/capsula-de-cafe-l-or-ultimo-10-un/p" class="external-link" target="_blank" rel="noopener">Ultimo&lt;/a>&lt;/td>
- &lt;td style="text-align: left">13&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
+ &lt;td>L&amp;rsquo;OR&lt;/td>
+ &lt;td>&lt;a href="https://www.cafelor.com.br/capsula-de-cafe-l-or-ultimo-10-un/p" class="external-link" target="_blank" rel="noopener">Ultimo&lt;/a>&lt;/td>
+ &lt;td>13&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">L&amp;rsquo;OR&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.cafelor.com.br/capsulas-cafe-l-or-sontuoso-10-un/p" class="external-link" target="_blank" rel="noopener">Sontuoso&lt;/a>&lt;/td>
- &lt;td style="text-align: left">8&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>L&amp;rsquo;OR&lt;/td>
+ &lt;td>&lt;a href="https://www.cafelor.com.br/capsulas-cafe-l-or-sontuoso-10-un/p" class="external-link" target="_blank" rel="noopener">Sontuoso&lt;/a>&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Starbucks&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.starbucksathome.com/br/espresso-roast-nespresso/p" class="external-link" target="_blank" rel="noopener">Espresso Roast&lt;/a>&lt;/td>
- &lt;td style="text-align: left">11&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Starbucks&lt;/td>
+ &lt;td>&lt;a href="https://www.starbucksathome.com/br/espresso-roast-nespresso/p" class="external-link" target="_blank" rel="noopener">Espresso Roast&lt;/a>&lt;/td>
+ &lt;td>11&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Starbucks&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.starbucksathome.com/br/caffe-verona-nespresso/p" class="external-link" target="_blank" rel="noopener">Caffè Verona&lt;/a>&lt;/td>
- &lt;td style="text-align: left">10&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Starbucks&lt;/td>
+ &lt;td>&lt;a href="https://www.starbucksathome.com/br/caffe-verona-nespresso/p" class="external-link" target="_blank" rel="noopener">Caffè Verona&lt;/a>&lt;/td>
+ &lt;td>10&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Starbucks&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.starbucksathome.com/br/house-blend-nespresso/p" class="external-link" target="_blank" rel="noopener">House Blend&lt;/a>&lt;/td>
- &lt;td style="text-align: left">8&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Starbucks&lt;/td>
+ &lt;td>&lt;a href="https://www.starbucksathome.com/br/house-blend-nespresso/p" class="external-link" target="_blank" rel="noopener">House Blend&lt;/a>&lt;/td>
+ &lt;td>8&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Starbucks&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.starbucksathome.com/br/cafes/starbucks-breakfast-blend-nespresso/p" class="external-link" target="_blank" rel="noopener">Breakfast Blend&lt;/a>&lt;/td>
- &lt;td style="text-align: left">7&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Starbucks&lt;/td>
+ &lt;td>&lt;a href="https://www.starbucksathome.com/br/cafes/starbucks-breakfast-blend-nespresso/p" class="external-link" target="_blank" rel="noopener">Breakfast Blend&lt;/a>&lt;/td>
+ &lt;td>7&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Starbucks&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.starbucksathome.com/br/starbucks-single-origen-colombia-nespresso/p" class="external-link" target="_blank" rel="noopener">Single-Origin Colombia&lt;/a>&lt;/td>
- &lt;td style="text-align: left">7&lt;/td>
- &lt;td style="text-align: left">⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Starbucks&lt;/td>
+ &lt;td>&lt;a href="https://www.starbucksathome.com/br/starbucks-single-origen-colombia-nespresso/p" class="external-link" target="_blank" rel="noopener">Single-Origin Colombia&lt;/a>&lt;/td>
+ &lt;td>7&lt;/td>
+ &lt;td>⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Starbucks&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.starbucksathome.com/br/pike-place-roast-nespresso/p" class="external-link" target="_blank" rel="noopener">Pike Place Roast&lt;/a>&lt;/td>
- &lt;td style="text-align: left">7&lt;/td>
- &lt;td style="text-align: left">⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Starbucks&lt;/td>
+ &lt;td>&lt;a href="https://www.starbucksathome.com/br/pike-place-roast-nespresso/p" class="external-link" target="_blank" rel="noopener">Pike Place Roast&lt;/a>&lt;/td>
+ &lt;td>7&lt;/td>
+ &lt;td>⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Starbucks&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.starbucksathome.com/br/starbucks-blonde-roast/p" class="external-link" target="_blank" rel="noopener">Blonde Espresso Roast&lt;/a>&lt;/td>
- &lt;td style="text-align: left">6&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>Starbucks&lt;/td>
+ &lt;td>&lt;a href="https://www.starbucksathome.com/br/starbucks-blonde-roast/p" class="external-link" target="_blank" rel="noopener">Blonde Espresso Roast&lt;/a>&lt;/td>
+ &lt;td>6&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">Caffè Corsini&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.caffecorsini.com/it/prodotto/2398/MBYXEKGE/capsule-compatibili-nespresso-gran-riserva-intenso-10-pezzi" class="external-link" target="_blank" rel="noopener">Gran Riserva Intenso&lt;/a>&lt;/td>
- &lt;td style="text-align: left">11&lt;/td>
- &lt;td style="text-align: left">⭐&lt;/td>
- &lt;td style="text-align: left">⭐&lt;/td>
+ &lt;td>Caffè Corsini&lt;/td>
+ &lt;td>&lt;a href="https://www.caffecorsini.com/it/prodotto/2398/MBYXEKGE/capsule-compatibili-nespresso-gran-riserva-intenso-10-pezzi" class="external-link" target="_blank" rel="noopener">Gran Riserva Intenso&lt;/a>&lt;/td>
+ &lt;td>11&lt;/td>
+ &lt;td>⭐&lt;/td>
+ &lt;td>⭐&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">3 Corações&lt;/td>
- &lt;td style="text-align: left">&lt;a href="https://www.cafe3coracoes.com.br/nossos-produtos/capsulas/compativeis/espresso-cerrado-mineiro/" class="external-link" target="_blank" rel="noopener">Cerrado Mineiro&lt;/a>&lt;/td>
- &lt;td style="text-align: left">7&lt;/td>
- &lt;td style="text-align: left">⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>3 Corações&lt;/td>
+ &lt;td>&lt;a href="https://www.cafe3coracoes.com.br/nossos-produtos/capsulas/compativeis/espresso-cerrado-mineiro/" class="external-link" target="_blank" rel="noopener">Cerrado Mineiro&lt;/a>&lt;/td>
+ &lt;td>7&lt;/td>
+ &lt;td>⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td style="text-align: left">3 Corações&lt;/td>
- &lt;td style="text-align: left">Mogiana Paulista&lt;/td>
- &lt;td style="text-align: left">7&lt;/td>
- &lt;td style="text-align: left">⭐⭐⭐&lt;/td>
- &lt;td style="text-align: left">&lt;/td>
+ &lt;td>3 Corações&lt;/td>
+ &lt;td>Mogiana Paulista&lt;/td>
+ &lt;td>7&lt;/td>
+ &lt;td>⭐⭐⭐&lt;/td>
+ &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
