@@ -128,5 +128,5 @@ url = "https://twitter.com/lucasrcezimbra/"
 
 
 
-[social]
-twitter = "lucasrcezimbra"
+[params.twitter]
+username = "lucasrcezimbra"
