@@ -1,13 +1,13 @@
 ---
 title: Profilling Python tests
 date: 2024-10-02
-lastmod: 2024-10-10
+lastmod: 2024-10-30
 ---
 
 ## Using pyinstrument
 [pyinstrument · PyPI](https://pypi.org/project/pyinstrument)
 
-1. `pip add pyinstrument`
+1. `pip install pyinstrument`
 2. `pyinstrument -m pytest`
 
 
