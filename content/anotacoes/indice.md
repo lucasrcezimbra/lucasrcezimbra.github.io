@@ -1,13 +1,14 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-10-20
+lastmod: 2024-10-30
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2024-10-27 - 2024-11-02]({{< ref "Weeknotes/2024-10-27 - 2024-11-02" >}})
 - [Weeknotes/2024-10-20 - 2024-10-26]({{< ref "Weeknotes/2024-10-20 - 2024-10-26" >}})
 - [Weeknotes/2024-10-13 - 2024-10-19]({{< ref "Weeknotes/2024-10-13 - 2024-10-19" >}})
 - [Toolbox]({{< ref "Toolbox" >}})
