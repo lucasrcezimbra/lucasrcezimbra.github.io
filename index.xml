@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Sun, 20 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-10-20 - 2024-10-26</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-10-20---2024-10-26/</link><pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-10-20---2024-10-26/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-13---2024-10-19/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Wed, 30 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-10-27 - 2024-11-02</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/</link><pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-20---2024-10-26/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -11,19 +11,19 @@
 Al Switzler &amp;amp; Emily Gregory&lt;/li>
 &lt;li>(pt-BR) Tremendas Trivialidades - G.K. Chesterton&lt;/li>
 &lt;/ul>
-&lt;h2 id="learned">
- Learned
- &lt;a class="heading-link" href="#learned">
+&lt;h2 id="discovered-tools">
+ Discovered tools
+ &lt;a class="heading-link" href="#discovered-tools">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>&lt;a href="https://www.purestorage.com" class="external-link" target="_blank" rel="noopener">The Unified Enterprise Data Platform | Pure Storage&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="discovered-tools">
- Discovered tools
- &lt;a class="heading-link" href="#discovered-tools">
+&lt;h2 id="learned">
+ Learned
+ &lt;a class="heading-link" href="#learned">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -38,6 +38,12 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent" class="external-link" target="_blank" rel="noopener">How we shrunk our Javascript monorepo git size by 94%&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://world.hey.com/dhh/to-the-crazy-ones-e43822c7" class="external-link" target="_blank" rel="noopener">To the crazy ones&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://world.hey.com/dhh/capture-less-than-you-create-c30e462e" class="external-link" target="_blank" rel="noopener">Capture less than you create&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://world.hey.com/dhh/our-cloud-exit-savings-will-now-top-ten-million-over-five-years-c7d9b5bd" class="external-link" target="_blank" rel="noopener">Our cloud-exit savings will now top ten million over five years&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h2 id="read-news">
  Read news
  &lt;a class="heading-link" href="#read-news">
@@ -46,7 +52,7 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>&lt;a href="https://techcrunch.com/2024/10/28/a-mysterious-new-image-generation-model-has-appeared" class="external-link" target="_blank" rel="noopener">A mysterious new image generation model has appeared | TechCrunch&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="watched">
  Watched
@@ -69,7 +75,63 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
 &lt;ul>
 &lt;li>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-13---2024-10-19/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2024-10-13 - 2024-10-19</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-10-13---2024-10-19/</link><pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-10-13---2024-10-19/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-20---2024-10-26/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-20---2024-10-26/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2024-10-20 - 2024-10-26</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-10-20---2024-10-26/</link><pubDate>Sun, 20 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-10-20---2024-10-26/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-13---2024-10-19/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;h2 id="books-being-read">
+ Books being read
+ &lt;a class="heading-link" href="#books-being-read">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(pt-BR) Conversas Cruciais - Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan &amp;amp;
+Al Switzler &amp;amp; Emily Gregory&lt;/li>
+&lt;li>(pt-BR) Tremendas Trivialidades - G.K. Chesterton&lt;/li>
+&lt;/ul>
+&lt;h2 id="learned">
+ Learned
+ &lt;a class="heading-link" href="#learned">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Screenshot of the entire page in Chrome
+&lt;ol>
+&lt;li>Open the page&lt;/li>
+&lt;li>Open DevTools&lt;/li>
+&lt;li>Toogle Device Toolbar (Ctrl + Shift + M)&lt;/li>
+&lt;li>Resize to fit the entire page&lt;/li>
+&lt;li>Open DevTools again&lt;/li>
+&lt;li>Run Command (Ctrl + Shift + P)&lt;/li>
+&lt;li>Type &amp;ldquo;full&amp;rdquo; and run &amp;ldquo;Capture full size screenshot&amp;rdquo;&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="read-news">
+ Read news
+ &lt;a class="heading-link" href="#read-news">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.anthropic.com/news/3-5-models-and-computer-use" class="external-link" target="_blank" rel="noopener">Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku \ Anthropic&lt;/a>&lt;/li>
+&lt;li>[OpenAI plans Orion AI model release for December - The Verge](&lt;a href="https://www.theverge.com/2024/10/24/24278999/openai-plans-orion-ai-model-release-december" class="external-link" target="_blank" rel="noopener">https://www.theverge.com/2024/10/24/24278999/openai-plans-orion-ai-model-release-december&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="watched">
+ Watched
+ &lt;a class="heading-link" href="#watched">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=ODaHJzOyVCQ" class="external-link" target="_blank" rel="noopener">Claude | Computer use for automating operations&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=jqx18KgIzAE" class="external-link" target="_blank" rel="noopener">Claude | Computer use for orchestrating tasks&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=vH2f7cjXjKI" class="external-link" target="_blank" rel="noopener">Claude | Computer use for coding&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-13---2024-10-19/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>2024-10-13 - 2024-10-19</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-10-13---2024-10-19/</link><pubDate>Sun, 13 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-10-13---2024-10-19/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-06---2024-10-12/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-20---2024-10-26/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -5766,6 +5828,7 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/" >Weeknotes/2024-10-27 - 2024-11-02&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-20---2024-10-26/" >Weeknotes/2024-10-20 - 2024-10-26&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-13---2024-10-19/" >Weeknotes/2024-10-13 - 2024-10-19&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/toolbox/" >Toolbox&lt;/a>&lt;/li>
@@ -6151,9 +6214,9 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode12s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode12s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -6546,9 +6609,9 @@ despertou a misericórdia de Deus&lt;/p></description></item><item><title>ChatGP
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode27s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode28s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode27s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode28s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -6740,9 +6803,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode42s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode40s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode42s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode40s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -8955,9 +9018,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode86s1hbhb">
+&lt;h2 id="llmhahahugoshortcode87s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode86s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode87s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
