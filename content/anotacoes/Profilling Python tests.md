@@ -1,29 +1,40 @@
 ---
 title: Profilling Python tests
 date: 2024-10-02
-lastmod: 2024-10-30
+lastmod: 2024-10-31
 ---
 
-## Using pyinstrument
+## pytest --durations
+`--durations=<n>` outputs the top <n> slowest tests/fixtures
+
+```shell
+pytest --durations=<n>
+```
+
+
+## pyinstrument
 [pyinstrument · PyPI](https://pypi.org/project/pyinstrument)
 
-1. `pip install pyinstrument`
-2. `pyinstrument -m pytest`
+```shell
+pip install pyinstrument
+pyinstrument -m pytest
+```
 
 
-## Using pytest-profiling + snakeviz
+## pytest-profiling
 [pytest-profiling · PyPI](https://pypi.org/project/pytest-profiling)
 
+```shell
+pip install pytest-profiling
+pytest --profile
+# open prof/* SVG files with or prof with SnakeViz
+```
+### SnakeViz
 [snakeviz · PyPI](https://pypi.org/project/snakeviz)
+```shell
+pip install snakeviz
+snakeviz prof/combined.prof
+```
 
-1. `pip install pytest-profiling snakeviz`
-1. `pytest --profile`
-1. `snakeviz prof/combined.prof`
-
-
-## Using pytest-profiling only
-[pytest-profiling · PyPI](https://pypi.org/project/pytest-profiling)
-
-1. `pip install pytest-profiling`
-1. `pytest --profile-svg`
+### SVG
 1. Open `prof/combined.svg`

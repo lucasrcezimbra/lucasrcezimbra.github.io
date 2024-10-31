@@ -8,11 +8,11 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2024-10-27 - 2024-11-02]({{< ref "Weeknotes/2024-10-27 - 2024-11-02" >}})
+- [Profilling Python tests]({{< ref "Profilling Python tests" >}})
 - [Logging]({{< ref "Logging" >}})
 - [Terraform]({{< ref "Terraform" >}})
 - [Scrapers]({{< ref "Scrapers" >}})
-- [Weeknotes/2024-10-27 - 2024-11-02]({{< ref "Weeknotes/2024-10-27 - 2024-11-02" >}})
-- [Profilling Python tests]({{< ref "Profilling Python tests" >}})
 - [Weeknotes/2024-10-20 - 2024-10-26]({{< ref "Weeknotes/2024-10-20 - 2024-10-26" >}})
 - [Weeknotes/2024-10-13 - 2024-10-19]({{< ref "Weeknotes/2024-10-13 - 2024-10-19" >}})
 - [Toolbox]({{< ref "Toolbox" >}})
