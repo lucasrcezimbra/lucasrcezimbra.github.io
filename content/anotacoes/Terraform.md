@@ -1,7 +1,7 @@
 ---
 title: "Terraform"
 date: 2023-08-15
-lastmod: 2024-06-05
+lastmod: 2024-10-31
 ---
 ## CI/CD
 - [Atlantis](https://www.runatlantis.io/)
@@ -17,5 +17,4 @@ lastmod: 2024-06-05
 - [Terratest](https://terratest.gruntwork.io/) - Go library that provides patterns and helper functions for testing infrastructure, with 1st-class support for Terraform, Packer, [Docker]({{< ref "Docker" >}}), Kubernetes, AWS, GCP, and more.
 
 ## Tools
-- [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) - (reverse Terraform) generates tf/json and tfstate files based on existing infrastructure.
-- [Infracost](https://github.com/infracost/infracost) - Cloud cost estimates in pull requests
+Moved to My Toolbox - [Terraform](https://toolbox.cezimbra.me/lists/terraform/),

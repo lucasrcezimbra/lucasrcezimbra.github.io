@@ -1,13 +1,16 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-10-30
+lastmod: 2024-10-31
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Logging]({{< ref "Logging" >}})
+- [Terraform]({{< ref "Terraform" >}})
+- [Scrapers]({{< ref "Scrapers" >}})
 - [Weeknotes/2024-10-27 - 2024-11-02]({{< ref "Weeknotes/2024-10-27 - 2024-11-02" >}})
 - [Profilling Python tests]({{< ref "Profilling Python tests" >}})
 - [Weeknotes/2024-10-20 - 2024-10-26]({{< ref "Weeknotes/2024-10-20 - 2024-10-26" >}})
@@ -39,7 +42,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Santos Catolicos]({{< ref "Santos Catolicos" >}})
 - [Natal]({{< ref "Natal" >}})
 - [Weeknotes/2024-08-18 - 2024-08-24]({{< ref "Weeknotes/2024-08-18 - 2024-08-24" >}})
-- [Logging]({{< ref "Logging" >}})
 - [Do zero aos R$ 10k MRR em 3 meses]({{< ref "Do zero aos R$ 10k MRR em 3 meses" >}})
 - [Weeknotes/2024-08-11 - 2024-08-17]({{< ref "Weeknotes/2024-08-11 - 2024-08-17" >}})
 - [Magnanimidade vs Humildade]({{< ref "Magnanimidade vs Humildade" >}})
@@ -72,12 +74,10 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Git]({{< ref "Git" >}})
 - [Aplicativos de Notas]({{< ref "Aplicativos de Notas" >}})
 - [Frontend]({{< ref "Frontend" >}})
-- [Terraform]({{< ref "Terraform" >}})
 - [Obsidian]({{< ref "Obsidian" >}})
 - [Smart Home]({{< ref "Smart Home" >}})
 - [Using Android as Linux Server]({{< ref "Using Android as Linux Server" >}})
 - [Auth]({{< ref "Auth" >}})
-- [Scrapers]({{< ref "Scrapers" >}})
 - [Observability]({{< ref "Observability" >}})
 - [Nespresso]({{< ref "Nespresso" >}})
 - [Vida de São João Paulo II]({{< ref "Vida de São João Paulo II" >}})

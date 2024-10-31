@@ -1,7 +1,7 @@
 ---
 title: Logging
 date: 2024-08-21
-lastmod: 2024-08-22
+lastmod: 2024-10-31
 aliases:
 ---
 
@@ -33,23 +33,9 @@ aliases:
 
 
 ## Tools
-- [Fluentd](https://github.com/fluent/fluentd) - Unified Logging Layer -
-  collects events from various data sources and writes them to different
-  destinations
-- [loguru](https://github.com/delgan/loguru) - Logging for
-  [Python]({{< ref "Python" >}})
-    * [Entirely compatible with standard logging](https://loguru.readthedocs.io/en/stable/overview.html#entirely-compatible-with-standard-logging)
-    * [Django integration using InterceptHandler](https://github.com/Delgan/loguru/issues/977#issuecomment-1771575984)
-    * [Logger.bind](https://loguru.readthedocs.io/en/stable/api/logger.html#loguru._logger.Logger.bind)
-- [python-json-logger](https://github.com/madzak/python-json-logger) - JSON
-  formatter for [Python]({{< ref "Python" >}})
-- [python-logfmter](https://github.com/jteppinette/python-logfmter) - logfmt
-  formatter for [Python]({{< ref "Python" >}})
-- [structlog](https://github.com/hynek/structlog) - Structured Logging for
-  [Python]({{< ref "Python" >}}); supports output as JSON, logfmt, plaintext
-    * [django-structlog](https://github.com/jrobichaud/django-structlog)
-    * [Standard Library support](https://www.structlog.org/en/stable/standard-library.html)
-    * [Building a Context](https://www.structlog.org/en/stable/getting-started.html#building-a-context)
+Moved to My Toolbox - [Logging](https://toolbox.cezimbra.me/lists/logging/),
+[Python - Logging](https://toolbox.cezimbra.me/lists/python-logging/), and
+[Django - Logging](https://toolbox.cezimbra.me/lists/django-logging/)
 
 
 
