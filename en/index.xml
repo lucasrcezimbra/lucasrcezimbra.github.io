@@ -426,6 +426,16 @@ Responsible for conducting technical interviews.&lt;/p></description></item><ite
  &lt;/a>
 &lt;/h3>
 &lt;p>&lt;div class="contribution">
+ &lt;span>2024-10-31 -&lt;/span>
+ 
+ 
+ &lt;img src="https://cezimbra.me/images/code-pr-open.svg">
+ 
+ 
+ &lt;a class="external-link" href="https://github.com/jazzband/django-model-utils/pull/635" target="_blank">django-model-utils: Add FieldTracker.diff&lt;/a>
+&lt;/div>
+
+&lt;div class="contribution">
  &lt;span>2024-06-20 -&lt;/span>
  
  &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
