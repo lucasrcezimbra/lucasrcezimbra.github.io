@@ -123,6 +123,13 @@ date: 2022-04-08T20:08:54-03:00
 ### Código
 
 {{< contribution
+    status="open"
+    url="https://github.com/jazzband/django-model-utils/pull/635"
+    project="django-model-utils"
+    title=" Add FieldTracker.diff"
+    date="2024-10-31"
+>}}
+{{< contribution
     status="merged"
     url="https://github.com/model-bakers/model_bakery/pull/480"
     project="model_bakery"
