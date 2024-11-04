@@ -1,7 +1,7 @@
 ---
 title: "Django"
 date: 2024-04-16
-lastmod: 2024-10-11
+lastmod: 2024-11-04
 ---
 
 - [Snippet - Django password hashers time comparison](https://gist.github.com/lucasrcezimbra/69286c9f1cbdb355e242990d2bc85e02)
@@ -9,7 +9,9 @@ lastmod: 2024-10-11
 - [Ninja](https://github.com/vitalik/django-ninja)
 	- Fields selections [Issue](https://github.com/vitalik/django-ninja/issues/333)
 - [Scaffold](https://github.com/Abdenasser/dr_scaffold)
-- Avoid overwriting Model.delete. For example, overwriting to ensure soft delete (idea from [django-tenant-users](https://github.com/Corvia/django-tenant-users/blob/933c87dbad920d2c75666429ef37a552b15e9ac6/tenant_users/tenants/models.py#L404C1-L411C1)):
+- Avoid overwriting Model.delete. For example, overwriting to ensure soft
+  delete (idea from
+  [django-tenant-users](https://github.com/Corvia/django-tenant-users/blob/933c87dbad920d2c75666429ef37a552b15e9ac6/tenant_users/tenants/models.py#L404C1-L411C1)):
 	```python
 	def delete(self, *args, hard=False, **kwargs):
 		if not hard:
@@ -18,7 +20,10 @@ lastmod: 2024-10-11
 	```
 - `django.core.exceptions.ImproperlyConfigured: Cannot import '<app>'. Check that '<project>.<app>.apps.<App>Config.name' is correct.` #troubleshooting
 	- Rename `<App>Config.name` from `<app>` to `<project>.<app>`
-- [How to Switch to a Custom Django User Model Mid-Project](https://www.caktusgroup.com/blog/2019/04/26/how-switch-custom-django-user-model-mid-project/) and [Document how to migrate from a built-in User model to a custom User model](https://code.djangoproject.com/ticket/25313#comment:24)
+- [How to Switch to a Custom Django User Model Mid-Project](https://www.caktusgroup.com/blog/2019/04/26/how-switch-custom-django-user-model-mid-project/)
+  and [Document how to migrate from a built-in User model to a custom User model](https://code.djangoproject.com/ticket/25313#comment:24)
+
+
 
 ## Natural Key example
 ```diff
@@ -39,6 +44,8 @@ lastmod: 2024-10-11
 +        return (self.field1, self.field2)
 ```
 
+
+
 ## Testing
 ### Unmanaged models
 - [Source](https://stackoverflow.com/a/72593718)
@@ -58,36 +65,60 @@ def pytest_sessionstart():
 addopts = "--no-migrations"
 ```
 
+
 ### Defining a conftest shared between all apps
 The `conftest.py` must be in the same directory of `manage.py`.
 
 
+### TestCase vs TransactionTestCase
+#### TestCase
+- is faster than TransactionTestCase
+- doesn't commit the changes
+- runs each test inside a transaction to provide isolation
+- wraps the tests within two nested `atomic()`: 1. whole class; 2. each test.
+- doesn't truncate tables after a test. Instead, it encloses the test code in
+  a database transaction that is rolled back at the end of the test
+
+References:
+[Writing and running tests | Django documentation](https://docs.djangoproject.com/en/5.1/topics/testing/overview/#module-django.test),
+[TestCase | Django documentation](https://docs.djangoproject.com/en/5.1/topics/testing/tools/#testcase),
+[TestCase | django/django/test/testcases.py](https://github.com/django/django/blob/a060a22ee2dde7aa29a5a29120087c4864887325/django/test/testcases.py#L1362),
+[pytest.mark.django_db | pytest-django/pytest_django/fixtures.py](https://github.com/pytest-dev/pytest-django/blob/263ca6d5affdb2af0693042e75a9af81b4497dac/pytest_django/fixtures.py#L173-L214)
+
+#### TransactionTestCase
+- resets the database after the test runs by truncating all tables
+- may call commit and rollback
+
+References:
+[TransactionTestCase | Django documentation](https://docs.djangoproject.com/en/5.1/topics/testing/tools/#django.test.TransactionTestCase),
+[TransactionTestCase | django/django/test/testcases.py](https://github.com/django/django/blob/a060a22ee2dde7aa29a5a29120087c4864887325/django/test/testcases.py#L1090),
+[pytest.mark.django_db | pytest-django/pytest_django/fixtures.py](https://github.com/pytest-dev/pytest-django/blob/263ca6d5affdb2af0693042e75a9af81b4497dac/pytest_django/fixtures.py#L173-L214)
+
+
+
 ## `virtual_only` fields
-- Advantages: 1. Improved performance; 2. Consistent interface; 3. Compatibility with Django’s ORM; 4. Integration with serialization.
+- Advantages: 1. Improved performance; 2. Consistent interface; 3.
+  Compatibility with Django’s ORM; 4. Integration with serialization.
 - from https://henriquebastos.net/how-chatgpt-quickly-helped-me-understand-djangos-source-code
 
 
-## Multi-tenancy
-- django-tenants - [GitHub](https://github.com/django-tenants/django-tenants/)
-	- Examples of projects using it: [bakeup](https://github.com/bruecksen/bakeup), [Zango](https://github.com/Healthlane-Technologies/Zango), [authentik](https://github.com/goauthentik/authentik/), [koku](https://github.com/project-koku/koku)
-	- django-tenant-users - [GitHub]
-		- Examples: [RPGnotes](https://github.com/Findus23/RPGnotes)
 
 ## Toolbox
-### Admin
-Moved to My Toolbox - [Django - Admin](https://toolbox.cezimbra.me/lists/django-admin/)
+Moved to My Toolbox:
+- [Django - Admin](https://toolbox.cezimbra.me/lists/django-admin/)
+- [Django - Auth](https://toolbox.cezimbra.me/lists/django-auth/)
+- [Django - GraphQL](https://toolbox.cezimbra.me/lists/django-graphql/)
+- [Django - Healthcheck](https://toolbox.cezimbra.me/lists/django-healthcheck/)
+- [Django - Servers](https://toolbox.cezimbra.me/lists/django-servers/)
+- [Django - Saving Trees](https://toolbox.cezimbra.me/lists/django-saving-trees/)
 
-### Auth
-Moved to My Toolbox - [Django - Auth](https://toolbox.cezimbra.me/lists/django-auth/)
 
-### GraphQL Server
-Moved to My Toolbox - [Django - GraphQL](https://toolbox.cezimbra.me/lists/django-graphql/)
-
-### Health Check
-Moved to My Toolbox - [Django - Healthcheck](https://toolbox.cezimbra.me/lists/django-healthcheck/)
-
-### Servers
-Moved to My Toolbox - [Django - Servers](https://toolbox.cezimbra.me/lists/django-servers/)
-
-### Tree structures
-Moved to My Toolbox - [Django - Saving Trees](http://localhost:8000/lists/django-saving-trees/)
+### Multi-tenancy
+- django-tenants - [GitHub](https://github.com/django-tenants/django-tenants/)
+	- Examples of projects using it:
+      [bakeup](https://github.com/bruecksen/bakeup),
+      [Zango](https://github.com/Healthlane-Technologies/Zango),
+      [authentik](https://github.com/goauthentik/authentik/),
+      [koku](https://github.com/project-koku/koku)
+	- django-tenant-users - [GitHub](https://github.com/Corvia/django-tenant-users)
+		- Examples: [RPGnotes](https://github.com/Findus23/RPGnotes)

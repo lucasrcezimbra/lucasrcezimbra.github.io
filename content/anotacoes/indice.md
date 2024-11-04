@@ -1,15 +1,18 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-10-31
+lastmod: 2024-11-04
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
-- [Weeknotes/2024-10-27 - 2024-11-02]({{< ref "Weeknotes/2024-10-27 - 2024-11-02" >}})
+- [Weeknotes/2024-11-03 - 2024-11-09]({{< ref "Weeknotes/2024-11-03 - 2024-11-09" >}})
 - [Profilling Python tests]({{< ref "Profilling Python tests" >}})
+- [Django]({{< ref "Django" >}})
+- [PostgreSQL]({{< ref "PostgreSQL" >}})
+- [Weeknotes/2024-10-27 - 2024-11-02]({{< ref "Weeknotes/2024-10-27 - 2024-11-02" >}})
 - [Logging]({{< ref "Logging" >}})
 - [Terraform]({{< ref "Terraform" >}})
 - [Scrapers]({{< ref "Scrapers" >}})
@@ -18,11 +21,9 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Toolbox]({{< ref "Toolbox" >}})
 - [Beancount]({{< ref "Beancount" >}})
 - [Weeknotes/2024-10-06 - 2024-10-12]({{< ref "Weeknotes/2024-10-06 - 2024-10-12" >}})
-- [Django]({{< ref "Django" >}})
 - [Python]({{< ref "Python" >}})
 - [Web3]({{< ref "Web3" >}})
 - [Storing trees in a database]({{< ref "Storing trees in a database" >}})
-- [PostgreSQL]({{< ref "PostgreSQL" >}})
 - [Weeknotes/2024-09-29 - 2024-10-05]({{< ref "Weeknotes/2024-09-29 - 2024-10-05" >}})
 - [Bash]({{< ref "Bash" >}})
 - [Comparing Python package managers]({{< ref "Comparing Python package managers" >}})

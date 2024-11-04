@@ -1,7 +1,7 @@
 ---
 title: 'PostgreSQL'
 date: 2020-11-02
-lastmod: 2024-10-08
+lastmod: 2024-11-04
 aliases: [
     "/anotacoes/banco-de-dados/postgresql/",
     "/anotacoes/psql/",
@@ -16,6 +16,8 @@ aliases: [
 ```
 \d - list tables, views, and sequences
 \dn - list schemas
+\l - list databases
+\c <database> - connect to database
 ```
 
 ## Common Table Expressions (CTEs)

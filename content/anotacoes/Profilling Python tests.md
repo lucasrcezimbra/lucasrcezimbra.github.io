@@ -1,7 +1,7 @@
 ---
-title: Profilling Python tests
+title: Profilling pytest tests and fixtures
 date: 2024-10-02
-lastmod: 2024-10-31
+lastmod: 2024-11-04
 ---
 
 ## pytest --durations
@@ -26,15 +26,29 @@ pyinstrument -m pytest
 
 ```shell
 pip install pytest-profiling
-pytest --profile
-# open prof/* SVG files with or prof with SnakeViz
 ```
-### SnakeViz
+### + SnakeViz
 [snakeviz · PyPI](https://pypi.org/project/snakeviz)
 ```shell
+pytest --profile
 pip install snakeviz
 snakeviz prof/combined.prof
 ```
 
-### SVG
-1. Open `prof/combined.svg`
+### + SVG
+```shell
+pytest --profile-svg
+# open prof/combined.svg
+```
+
+
+## Workaround to time fixtures teardown
+1. Edit file `<venv>/lib/python<version>/site-packages/_pytest/fixtures.py`
+2. Search for `def _teardown_yield_fixture`
+3. Replace `next(it)` with
+    ```python
+    from time import time
+    t = time()
+    next(it)
+    print(f"#################################### fixture {fixturefunc} teardown took {d} seconds")
+    ```
