@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-11-03 - 2024-11-09</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/</link><pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-11-03 - 2024-11-09</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/</link><pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -49,7 +49,7 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>&lt;a href="https://simonwillison.net/2024/Nov/4/predicted-outputs" class="external-link" target="_blank" rel="noopener">New OpenAI feature: Predicted Outputs&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="watched">
  Watched
@@ -59,7 +59,7 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=mTa2d3OLXhg" class="external-link" target="_blank" rel="noopener">DHH Is Right About Everything&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=mTa2d3OLXhg" class="external-link" target="_blank" rel="noopener">DHH Is Right About Everything&lt;/a>&lt;/li>
 &lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=3rCljrDfZ3Y" class="external-link" target="_blank" rel="noopener">Zsh config walkthrough of a CLI master&lt;/a>&lt;/li>
 &lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=MwlW2aamDFc" class="external-link" target="_blank" rel="noopener">Nassim Taleb - The Secret Rule That RUNS The WORLD [w/ Naval Ravikant]&lt;/a>&lt;/li>
 &lt;/ul>
@@ -72,6 +72,7 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
 &lt;/h2>
 &lt;ul>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=TJHRCFNtekY" class="external-link" target="_blank" rel="noopener">Homilia Diária | Um intercessor pela conversão dos sacerdotes (Memória de São Carlos Borromeu)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=DfmpMR6cmb4" class="external-link" target="_blank" rel="noopener">Homilia Diária | O amor para os humildes, a dor para os soberbos (Terça-feira da 31ª S. do T. Comum)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2024-10-27 - 2024-11-02</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/</link><pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-20---2024-10-26/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
@@ -5898,6 +5899,7 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/" >Weeknotes/2024-11-03 - 2024-11-09&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/livros/" >Livros&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/profilling-python-tests/" >Profilling Python tests&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/postgresql/" >PostgreSQL&lt;/a>&lt;/li>
@@ -5925,7 +5927,6 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-01---2024-09-07/" >Weeknotes/2024-09-01 - 2024-09-07&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/english/" >English&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/livros/" >Livros&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/lua/" >Lua&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/vim/" >Vim&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-08-25---2024-08-31/" >Weeknotes/2024-08-25 - 2024-08-31&lt;/a>&lt;/li>
@@ -6284,9 +6285,9 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode12s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode12s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -6873,9 +6874,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode40s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode41s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode40s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode41s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7691,6 +7692,22 @@ exists.&lt;/li>
  
  &lt;tr>
  
+ &lt;td>G.K. Chesterton&lt;/td>
+ 
+ &lt;td>Tremendas Trivialidades&lt;/td>
+ 
+ &lt;td>✅&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>⭐️⭐️&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
  &lt;td>T. Harv Eker&lt;/td>
  
  &lt;td>Os Segredos da Mente Milionária&lt;/td>
@@ -7742,6 +7759,38 @@ exists.&lt;/li>
  &lt;td>Hugo de Azevedo&lt;/td>
  
  &lt;td>Lições do burro&lt;/td>
+ 
+ &lt;td>👀&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan &amp;amp; Al Switzler &amp;amp; Emily Gregory&lt;/td>
+ 
+ &lt;td>Conversas Cruciais&lt;/td>
+ 
+ &lt;td>👀&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Lance&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>G.K. Chesterton&lt;/td>
+ 
+ &lt;td>O Clube dos Negócios Estranhos&lt;/td>
  
  &lt;td>👀&lt;/td>
  
@@ -8006,22 +8055,6 @@ exists.&lt;/li>
  &lt;td>&lt;/td>
  
  &lt;td>&lt;a href="https://open.spotify.com/episode/5a9joga74kQKntRkdUQIgX" class="external-link" target="_blank" rel="noopener">Podcast De/Para&lt;/a>&lt;/td>
- 
- &lt;/tr>
- 
- &lt;tr>
- 
- &lt;td>Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan &amp;amp; Al Switzler &amp;amp; Emily Gregory&lt;/td>
- 
- &lt;td>Conversas Cruciais&lt;/td>
- 
- &lt;td>👀&lt;/td>
- 
- &lt;td>📗&lt;/td>
- 
- &lt;td>&lt;/td>
- 
- &lt;td>Lance&lt;/td>
  
  &lt;/tr>
  
@@ -8677,7 +8710,7 @@ exists.&lt;/li>
  
  &lt;td>&lt;/td>
  
- &lt;td>&lt;a href="https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc" class="external-link" target="_blank" rel="noopener">DHH&lt;/a>&lt;/td>
+ &lt;td>&lt;a href="https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc" class="external-link" target="_blank" rel="noopener">D&lt;/a>&lt;a href="https://world.hey.com/dhh/for-what-it-ll-make-of-you-9469db5c" class="external-link" target="_blank" rel="noopener">H&lt;/a>H&lt;/td>
  
  &lt;/tr>
  
@@ -9088,9 +9121,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode87s1hbhb">
+&lt;h2 id="llmhahahugoshortcode93s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode87s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode93s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
