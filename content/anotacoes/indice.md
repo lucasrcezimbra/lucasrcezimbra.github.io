@@ -8,8 +8,8 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
-- [Livros]({{< ref "Livros" >}})
 - [Weeknotes/2024-11-03 - 2024-11-09]({{< ref "Weeknotes/2024-11-03 - 2024-11-09" >}})
+- [Livros]({{< ref "Livros" >}})
 - [Profilling Python tests]({{< ref "Profilling Python tests" >}})
 - [Django]({{< ref "Django" >}})
 - [PostgreSQL]({{< ref "PostgreSQL" >}})
