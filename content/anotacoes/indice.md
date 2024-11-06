@@ -1,13 +1,14 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-11-04
+lastmod: 2024-11-06
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Livros]({{< ref "Livros" >}})
 - [Weeknotes/2024-11-03 - 2024-11-09]({{< ref "Weeknotes/2024-11-03 - 2024-11-09" >}})
 - [Profilling Python tests]({{< ref "Profilling Python tests" >}})
 - [Django]({{< ref "Django" >}})
@@ -36,7 +37,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2024-09-01 - 2024-09-07]({{< ref "Weeknotes/2024-09-01 - 2024-09-07" >}})
 - [LLM]({{< ref "LLM" >}})
 - [English]({{< ref "English" >}})
-- [Livros]({{< ref "Livros" >}})
 - [Lua]({{< ref "Lua" >}})
 - [Vim]({{< ref "Vim" >}})
 - [Weeknotes/2024-08-25 - 2024-08-31]({{< ref "Weeknotes/2024-08-25 - 2024-08-31" >}})
