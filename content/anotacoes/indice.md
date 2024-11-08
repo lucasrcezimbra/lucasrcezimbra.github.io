@@ -1,17 +1,18 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-11-06
+lastmod: 2024-11-08
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Django multi-tenant app strategies]({{< ref "Django multi-tenant app strategies" >}})
 - [Weeknotes/2024-11-03 - 2024-11-09]({{< ref "Weeknotes/2024-11-03 - 2024-11-09" >}})
+- [Django]({{< ref "Django" >}})
 - [Livros]({{< ref "Livros" >}})
 - [Profilling Python tests]({{< ref "Profilling Python tests" >}})
-- [Django]({{< ref "Django" >}})
 - [PostgreSQL]({{< ref "PostgreSQL" >}})
 - [Weeknotes/2024-10-27 - 2024-11-02]({{< ref "Weeknotes/2024-10-27 - 2024-11-02" >}})
 - [Logging]({{< ref "Logging" >}})

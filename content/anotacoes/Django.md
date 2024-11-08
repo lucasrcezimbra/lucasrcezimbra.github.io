@@ -1,7 +1,7 @@
 ---
 title: "Django"
 date: 2024-04-16
-lastmod: 2024-11-04
+lastmod: 2024-11-08
 ---
 
 - [Snippet - Django password hashers time comparison](https://gist.github.com/lucasrcezimbra/69286c9f1cbdb355e242990d2bc85e02)
@@ -115,10 +115,16 @@ Moved to My Toolbox:
 
 ### Multi-tenancy
 - django-tenants - [GitHub](https://github.com/django-tenants/django-tenants/)
-	- Examples of projects using it:
+    * separation: multi-schema
+    * identifier: subdomain and path-based
+	* Examples of projects using it:
       [bakeup](https://github.com/bruecksen/bakeup),
       [Zango](https://github.com/Healthlane-Technologies/Zango),
       [authentik](https://github.com/goauthentik/authentik/),
       [koku](https://github.com/project-koku/koku)
-	- django-tenant-users - [GitHub](https://github.com/Corvia/django-tenant-users)
-		- Examples: [RPGnotes](https://github.com/Findus23/RPGnotes)
+	* django-tenant-users - [GitHub](https://github.com/Corvia/django-tenant-users)
+		* Examples: [RPGnotes](https://github.com/Findus23/RPGnotes)
+- [django-multitenant](https://github.com/citusdata/django-multitenant)
+    * separation: row-based
+    * identifier: out of scope
+    * depends on PostgreSQL + Citus
