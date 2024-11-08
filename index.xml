@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-11-03 - 2024-11-09</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/</link><pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>Django multi-tenant app strategies</title><link>https://cezimbra.me/anotacoes/django-multi-tenant-app-strategies/</link><pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/django-multi-tenant-app-strategies/</guid><description>&lt;h2 id="setting-and-getting-the-tenant">
+ Setting and getting the tenant
+ &lt;a class="heading-link" href="#setting-and-getting-the-tenant">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="thread-local">
+ Thread-Local
+ &lt;a class="heading-link" href="#thread-local">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>&lt;a href="https://docs.python.org/3/library/threading.html#thread-local-data" class="external-link" target="_blank" rel="noopener">Thread-Local&lt;/a>
+using &lt;a href="https://github.com/django/asgiref/" class="external-link" target="_blank" rel="noopener">asgiref&lt;/a> that is a drop-in replacement for
+&lt;code>threading.local&lt;/code> with support to threads and asyncio.&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd00cd">from&lt;/span> asgiref.local &lt;span style="color:#cd00cd">import&lt;/span> Local
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>local &lt;span style="color:#39c">=&lt;/span> Local()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">def&lt;/span> set_tenant(&lt;span style="color:#cd00cd">id&lt;/span>):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> local&lt;span style="color:#39c">.&lt;/span>id &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cd00cd">id&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">def&lt;/span> get_tenant():
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">return&lt;/span> &lt;span style="color:#cd00cd">getattr&lt;/span>(local, &lt;span style="color:#cd0000">&amp;#34;id&amp;#34;&lt;/span>, &lt;span style="color:#cdcd00">None&lt;/span>)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>Pros
+&lt;ul>
+&lt;li>Globally available&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Cons&lt;/li>
+&lt;/ul>
+&lt;h2 id="marking-models-as-tenant-aware">
+ Marking models as tenant-aware
+ &lt;a class="heading-link" href="#marking-models-as-tenant-aware">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="inheritance">
+ Inheritance
+ &lt;a class="heading-link" href="#inheritance">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>&lt;a href="https://github.com/citusdata/django-multitenant" class="external-link" target="_blank" rel="noopener">django-multitenant&lt;/a> approach.&lt;/p></description></item><item><title>2024-11-03 - 2024-11-09</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/</link><pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -40,6 +90,9 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
 &lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://johnnymetz.com/posts/multistep-database-changes" class="external-link" target="_blank" rel="noopener">Zero Downtime Django Deployments with Multistep Database Changes | Johnny Metz&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://world.hey.com/dhh/what-you-know-that-just-ain-t-so-ab6f4bb1" class="external-link" target="_blank" rel="noopener">What you know that just ain&amp;rsquo;t so&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://medium.com/@thorwhalen1/partial-partial-partial-f90396901362" class="external-link" target="_blank" rel="noopener">partial(partial, partial)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://delroth.net/posts/spoofed-mass-scan-abuse/" class="external-link" target="_blank" rel="noopener">One weird trick to get the whole planet to send abuse complaints to your best friend(s)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-news">
  Read news
@@ -60,7 +113,7 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
 &lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=mTa2d3OLXhg" class="external-link" target="_blank" rel="noopener">DHH Is Right About Everything&lt;/a>&lt;/li>
-&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=3rCljrDfZ3Y" class="external-link" target="_blank" rel="noopener">Zsh config walkthrough of a CLI master&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=3rCljrDfZ3Y" class="external-link" target="_blank" rel="noopener">Zsh config walkthrough of a CLI master&lt;/a>&lt;/li>
 &lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=MwlW2aamDFc" class="external-link" target="_blank" rel="noopener">Nassim Taleb - The Secret Rule That RUNS The WORLD [w/ Naval Ravikant]&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="listened">
@@ -5898,10 +5951,11 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/django-multi-tenant-app-strategies/" >Django multi-tenant app strategies&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/" >Weeknotes/2024-11-03 - 2024-11-09&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/livros/" >Livros&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/profilling-python-tests/" >Profilling Python tests&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/postgresql/" >PostgreSQL&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/" >Weeknotes/2024-10-27 - 2024-11-02&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/logging/" >Logging&lt;/a>&lt;/li>
@@ -6874,9 +6928,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode41s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode42s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode41s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode42s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -9121,9 +9175,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode93s1hbhb">
+&lt;h2 id="llmhahahugoshortcode88s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode93s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode88s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
