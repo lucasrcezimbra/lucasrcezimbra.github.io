@@ -1,7 +1,7 @@
 ---
-title: Django multi-tenant app strategies
+title: Designing a multi-tenant Django app
 date: 2024-11-07
-lastmod: 2024-11-08
+lastmod: 2024-11-12
 ---
 
 ## Setting and getting the tenant
