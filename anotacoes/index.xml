@@ -1,4 +1,81 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>Django multi-tenant app strategies</title><link>https://cezimbra.me/anotacoes/django-multi-tenant-app-strategies/</link><pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/django-multi-tenant-app-strategies/</guid><description>&lt;h2 id="setting-and-getting-the-tenant">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-11-10 - 2024-11-16</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-11-10---2024-11-16/</link><pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-11-10---2024-11-16/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+&lt;h2 id="books-being-read">
+ Books being read
+ &lt;a class="heading-link" href="#books-being-read">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(pt-BR) Conversas Cruciais - Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan &amp;amp;
+Al Switzler &amp;amp; Emily Gregory&lt;/li>
+&lt;li>(pt-BR) O Clube dos Negócios Estranhos - G.K. Chesterton&lt;/li>
+&lt;/ul>
+&lt;h2 id="discovered-tools">
+ Discovered tools
+ &lt;a class="heading-link" href="#discovered-tools">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://publicwww.com" class="external-link" target="_blank" rel="noopener">Search Engine for Source Code - PublicWWW.com&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="learned">
+ Learned
+ &lt;a class="heading-link" href="#learned">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="read-articles">
+ Read articles
+ &lt;a class="heading-link" href="#read-articles">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://world.hey.com/dhh/system-tests-have-failed-d90af718" class="external-link" target="_blank" rel="noopener">System tests have failed&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://talkpython.fm/blog/posts/we-have-moved-to-hetzner" class="external-link" target="_blank" rel="noopener">We&amp;rsquo;ve moved to Hetzner | Talk Python Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://world.hey.com/dhh/the-big-cloud-exit-faq-20274010" class="external-link" target="_blank" rel="noopener">The Big Cloud Exit FAQ&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="read-news">
+ Read news
+ &lt;a class="heading-link" href="#read-news">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://rubyonrails.org/2024/11/7/rails-8-no-paas-required" class="external-link" target="_blank" rel="noopener">Ruby on Rails — Rails 8.0: No PaaS Required&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="watched">
+ Watched
+ &lt;a class="heading-link" href="#watched">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=8W8LoFTjo3w" class="external-link" target="_blank" rel="noopener">Homilia Diária | Escravos por amor (Memória de São Josafá, Bispo e Mártir)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=MwlW2aamDFc" class="external-link" target="_blank" rel="noopener">Nassim Taleb - The Secret Rule That RUNS The WORLD [w/ Naval Ravikant]&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="listened">
+ Listened
+ &lt;a class="heading-link" href="#listened">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=07UBYCTMyBU" class="external-link" target="_blank" rel="noopener">Homilia Diária | São Martinho, um bispo enraizado em Cristo (Mem. de São Martinho de Tours)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=8W8LoFTjo3w" class="external-link" target="_blank" rel="noopener">Homilia Diária | Escravos por amor (Memória de São Josafá, Bispo e Mártir)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>Designing a multi-tenant Django app</title><link>https://cezimbra.me/anotacoes/designing-a-multi-tenant-django-app/</link><pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/designing-a-multi-tenant-django-app/</guid><description>&lt;h2 id="setting-and-getting-the-tenant">
  Setting and getting the tenant
  &lt;a class="heading-link" href="#setting-and-getting-the-tenant">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -48,7 +125,7 @@ using &lt;a href="https://github.com/django/asgiref/" class="external-link" targ
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h3>
-&lt;p>&lt;a href="https://github.com/citusdata/django-multitenant" class="external-link" target="_blank" rel="noopener">django-multitenant&lt;/a> approach.&lt;/p></description></item><item><title>2024-11-03 - 2024-11-09</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/</link><pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+&lt;p>&lt;a href="https://github.com/citusdata/django-multitenant" class="external-link" target="_blank" rel="noopener">django-multitenant&lt;/a> approach.&lt;/p></description></item><item><title>2024-11-03 - 2024-11-09</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/</link><pubDate>Sun, 03 Nov 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -60,26 +137,6 @@ using &lt;a href="https://github.com/django/asgiref/" class="external-link" targ
 &lt;li>(pt-BR) Conversas Cruciais - Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan &amp;amp;
 Al Switzler &amp;amp; Emily Gregory&lt;/li>
 &lt;li>(pt-BR) O Clube dos Negócios Estranhos - G.K. Chesterton&lt;/li>
-&lt;/ul>
-&lt;h2 id="discovered-tools">
- Discovered tools
- &lt;a class="heading-link" href="#discovered-tools">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;/li>
-&lt;/ul>
-&lt;h2 id="learned">
- Learned
- &lt;a class="heading-link" href="#learned">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-articles">
  Read articles
@@ -114,7 +171,6 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
 &lt;ul>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=mTa2d3OLXhg" class="external-link" target="_blank" rel="noopener">DHH Is Right About Everything&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=3rCljrDfZ3Y" class="external-link" target="_blank" rel="noopener">Zsh config walkthrough of a CLI master&lt;/a>&lt;/li>
-&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=MwlW2aamDFc" class="external-link" target="_blank" rel="noopener">Nassim Taleb - The Secret Rule That RUNS The WORLD [w/ Naval Ravikant]&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="listened">
  Listened
@@ -126,8 +182,11 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
 &lt;ul>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=TJHRCFNtekY" class="external-link" target="_blank" rel="noopener">Homilia Diária | Um intercessor pela conversão dos sacerdotes (Memória de São Carlos Borromeu)&lt;/a>&lt;/li>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=DfmpMR6cmb4" class="external-link" target="_blank" rel="noopener">Homilia Diária | O amor para os humildes, a dor para os soberbos (Terça-feira da 31ª S. do T. Comum)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=BXta2R_y2SM" class="external-link" target="_blank" rel="noopener">Homilia Diária | O que nos falta para crer no amor de Deus? (Quarta-feira da 31ª S. do Tempo Comum)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=Vkv8ffzmECg" class="external-link" target="_blank" rel="noopener">Homilia Diária | A glória dos que venceram suas misérias (Quinta-feira da 31ª S. do Tempo Comum)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=KokYJb0MRXU" class="external-link" target="_blank" rel="noopener">Homilia Diária | Sejamos “estrategistas” de Deus (Sexta-feira da 31ª S. do Tempo Comum)&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2024-10-27 - 2024-11-02</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/</link><pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-20---2024-10-26/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>2024-10-27 - 2024-11-02</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/</link><pubDate>Sun, 27 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-20---2024-10-26/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -5951,7 +6010,8 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/django-multi-tenant-app-strategies/" >Django multi-tenant app strategies&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-10---2024-11-16/" >Weeknotes/2024-11-10 - 2024-11-16&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/designing-a-multi-tenant-django-app/" >Designing a multi-tenant Django app&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/" >Weeknotes/2024-11-03 - 2024-11-09&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/livros/" >Livros&lt;/a>&lt;/li>
@@ -6339,9 +6399,9 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -6734,9 +6794,9 @@ despertou a misericórdia de Deus&lt;/p></description></item><item><title>ChatGP
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode27s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode25s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode27s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode25s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -9175,9 +9235,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode88s1hbhb">
+&lt;h2 id="llmhahahugoshortcode87s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode88s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode87s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
