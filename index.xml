@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Tue, 12 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-11-10 - 2024-11-16</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-11-10---2024-11-16/</link><pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-11-10---2024-11-16/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-11-10 - 2024-11-16</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-11-10---2024-11-16/</link><pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-11-10---2024-11-16/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -42,6 +42,13 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
 &lt;li>&lt;a href="https://world.hey.com/dhh/system-tests-have-failed-d90af718" class="external-link" target="_blank" rel="noopener">System tests have failed&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://talkpython.fm/blog/posts/we-have-moved-to-hetzner" class="external-link" target="_blank" rel="noopener">We&amp;rsquo;ve moved to Hetzner | Talk Python Blog&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://world.hey.com/dhh/the-big-cloud-exit-faq-20274010" class="external-link" target="_blank" rel="noopener">The Big Cloud Exit FAQ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html" class="external-link" target="_blank" rel="noopener">Shae Erisson&amp;rsquo;s blog - The github plugin my coworkers asked me not to write.&lt;/a>
+&lt;ul>
+&lt;li>tool to estimate Bus Factor of GitHub projects&lt;/li>
+&lt;li>&lt;a href="https://github.com/aserg-ufmg/Truck-Factor" class="external-link" target="_blank" rel="noopener">aserg-ufmg/Truck-Factor&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/spite-driven-development/Truck-Factor" class="external-link" target="_blank" rel="noopener">spite-driven-development/Truck-Factor&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-news">
  Read news
@@ -61,7 +68,6 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=8W8LoFTjo3w" class="external-link" target="_blank" rel="noopener">Homilia Diária | Escravos por amor (Memória de São Josafá, Bispo e Mártir)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=MwlW2aamDFc" class="external-link" target="_blank" rel="noopener">Nassim Taleb - The Secret Rule That RUNS The WORLD [w/ Naval Ravikant]&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="listened">
@@ -72,8 +78,14 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=07UBYCTMyBU" class="external-link" target="_blank" rel="noopener">Homilia Diária | São Martinho, um bispo enraizado em Cristo (Mem. de São Martinho de Tours)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=8W8LoFTjo3w" class="external-link" target="_blank" rel="noopener">Homilia Diária | Escravos por amor (Memória de São Josafá, Bispo e Mártir)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=07UBYCTMyBU" class="external-link" target="_blank" rel="noopener">Homilia Diária | São Martinho, um bispo enraizado em Cristo (Mem. de São Martinho de Tours)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=8W8LoFTjo3w" class="external-link" target="_blank" rel="noopener">Homilia Diária | Escravos por amor (Memória de São Josafá, Bispo e Mártir)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=FndScPQXdVk" class="external-link" target="_blank" rel="noopener">Homilia Diária | O que não pode faltar em nossa oração (Quarta-feira da 32.ª Semana do Tempo Comum)&lt;/a>
+&lt;ul>
+&lt;li>Precisam estar presentes no nosso culto a Deus: ato de adoração, de
+ação de graças, de intercessão e de reparação.&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>Designing a multi-tenant Django app</title><link>https://cezimbra.me/anotacoes/designing-a-multi-tenant-django-app/</link><pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/designing-a-multi-tenant-django-app/</guid><description>&lt;h2 id="setting-and-getting-the-tenant">
  Setting and getting the tenant
@@ -6011,6 +6023,7 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-10---2024-11-16/" >Weeknotes/2024-11-10 - 2024-11-16&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/git/" >Git&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/designing-a-multi-tenant-django-app/" >Designing a multi-tenant Django app&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/" >Weeknotes/2024-11-03 - 2024-11-09&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a>&lt;/li>
@@ -6076,7 +6089,6 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/ulauncher/" >Ulauncher&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/marketing-digital/" >Marketing Digital&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/filmes/" >Filmes&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/git/" >Git&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/aplicativos-de-notas/" >Aplicativos de Notas&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/frontend/" >Frontend&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/obsidian/" >Obsidian&lt;/a>&lt;/li>
@@ -6399,9 +6411,9 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -6794,9 +6806,9 @@ despertou a misericórdia de Deus&lt;/p></description></item><item><title>ChatGP
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode25s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode27s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode25s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode27s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -6988,9 +7000,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode42s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode43s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode42s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode43s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7071,9 +7083,10 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>
 &lt;p>Using bisect to find bugs&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>git bisect start
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git bisect good &amp;lt;sha1&amp;gt; &lt;span style="color:#000080"># mark commit as good&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git bisect bad &amp;lt;sha1&amp;gt; &lt;span style="color:#000080"># mark commit as bad&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git bisect &lt;span style="color:#39c">(&lt;/span>good|bad&lt;span style="color:#39c">)&lt;/span> &amp;lt;sha1&amp;gt; &lt;span style="color:#000080"># mark commit as good or bad&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git checkout &amp;lt;sha1&amp;gt; &lt;span style="color:#000080"># switch to the commit&lt;/span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git bisect run &amp;lt;cmd&amp;gt; &lt;span style="color:#000080"># run cmd automatically to find bad commit&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git bisect reset &lt;span style="color:#000080"># clean up state and return to the original HEAD&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;li>
 &lt;p>(GitHub) How to recover the deleted branch of a PR?&lt;/p>
@@ -7082,17 +7095,7 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git checkout &amp;lt;new-branch&amp;gt;
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;li>
-&lt;p>Moving specific directories to a new repository&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>mkdir &amp;lt;new-repo&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd00cd">cd&lt;/span> &amp;lt;new-repo&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git init
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git remote add &amp;lt;old-repo&amp;gt; git@github.com:&amp;lt;username&amp;gt;/&amp;lt;old-repo&amp;gt;.git
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git fetch &amp;lt;old-repo&amp;gt;
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>git merge &amp;lt;old-repo&amp;gt;/&amp;lt;master&amp;gt; --allow-unrelated-histories
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># Go to next bullet &amp;#34;Isolate commits...&amp;#34;&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
-&lt;li>
-&lt;p>Isolate commits related to specific directories using &lt;a href="https://github.com/newren/git-filter-repo" class="external-link" target="_blank" rel="noopener">git-filter-repo&lt;/a> &lt;a href="https://htmlpreview.github.io/?https://github.com/newren/git-filter-repo/blob/docs/html/git-filter-repo.html" class="external-link" target="_blank" rel="noopener">&amp;ndash;path&lt;/a>&lt;/p></description></item><item><title>GitHub</title><link>https://cezimbra.me/anotacoes/github/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/github/</guid><description>&lt;h2 id="actions">
+&lt;p>Moving specific directories to a new repository&lt;/p></description></item><item><title>GitHub</title><link>https://cezimbra.me/anotacoes/github/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/github/</guid><description>&lt;h2 id="actions">
  Actions
  &lt;a class="heading-link" href="#actions">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -9235,9 +9238,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode87s1hbhb">
+&lt;h2 id="llmhahahugoshortcode86s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode87s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode86s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
