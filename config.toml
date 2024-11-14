@@ -28,6 +28,11 @@ name = "Talks"
 weight = 40
 url = "talks/"
 
+[[languages.en.menu.main]]
+name = "Toolbox ↗"
+weight = 50
+url  = "https://toolbox.cezimbra.me/"
+
 
 [languages.pt]
 languageName = ":brazil:"
@@ -56,6 +61,11 @@ url = "palestras/"
 name = "Blog"
 weight = 50
 url  = "posts/"
+
+[[languages.pt.menu.main]]
+name = "Toolbox ↗"
+weight = 60
+url  = "https://toolbox.cezimbra.me/"
 
 
 
