@@ -1,7 +1,7 @@
 ---
 title: "Django"
 date: 2024-04-16
-lastmod: 2024-11-08
+lastmod: 2024-11-15
 ---
 
 - [Snippet - Django password hashers time comparison](https://gist.github.com/lucasrcezimbra/69286c9f1cbdb355e242990d2bc85e02)
@@ -42,6 +42,15 @@ lastmod: 2024-11-08
 +
 +    def natural_key(self):
 +        return (self.field1, self.field2)
+```
+
+
+## Template
+### Adding a char when the for loop has next element
+```
+{% for x in tool.lists.all %}
+    {{ x }}{% if not forloop.last %},{% endif %}
+{% endfor %}
 ```
 
 
