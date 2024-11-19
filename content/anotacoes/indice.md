@@ -1,13 +1,14 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-11-15
+lastmod: 2024-11-19
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2024-11-17 - 2024-11-23]({{< ref "Weeknotes/2024-11-17 - 2024-11-23" >}})
 - [Weeknotes/2024-11-10 - 2024-11-16]({{< ref "Weeknotes/2024-11-10 - 2024-11-16" >}})
 - [Django]({{< ref "Django" >}})
 - [Git]({{< ref "Git" >}})
