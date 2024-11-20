@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-11-17 - 2024-11-23</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-11-17---2024-11-23/</link><pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-11-17---2024-11-23/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-10---2024-11-16/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-11-17 - 2024-11-23</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-11-17---2024-11-23/</link><pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-11-17---2024-11-23/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-10---2024-11-16/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -29,7 +29,14 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>JavaScript &lt;code>fetch&lt;/code> restricts the headers that can be accessed.
+&lt;ul>
+&lt;li>Default exposed headers: &lt;code>Cache-Control&lt;/code>, &lt;code>Content-Language&lt;/code>,
+&lt;code>Content-Type&lt;/code>, &lt;code>Expires&lt;/code>, &lt;code>Last-Modified&lt;/code>, &lt;code>Pragma&lt;/code>&lt;/li>
+&lt;li>If you want to access other headers, the server needs to return an
+additional header: &lt;code>Access-Control-Expose-Headers: &amp;lt;accessible-header&amp;gt;&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-articles">
  Read articles
@@ -77,7 +84,8 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
 &lt;/h2>
 &lt;ul>
 &lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=0rlATWBNvMw" class="external-link" target="_blank" rel="noopener">DHH discusses SQLite (and Stoicism)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=nq2OcdSuss4" class="external-link" target="_blank" rel="noopener">Homilia Diária | Morreram para converter os indígenas (Mem. de São Roque González e comp. mártires)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=qZO9A5F6BZs" class="external-link" target="_blank" rel="noopener">Vim As You Editor - Advanced Motions P1&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=uL9oOZStezw" class="external-link" target="_blank" rel="noopener">Vim as your editor - Advanced Motions P2&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="listened">
  Listened
@@ -5866,7 +5874,9 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;/ul>
 &lt;/li>
 &lt;/ul></description></item><item><title>Frontend</title><link>https://cezimbra.me/anotacoes/frontend/</link><pubDate>Tue, 29 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/frontend/</guid><description>&lt;ul>
-&lt;li>&lt;a href="https://www.patterns.dev/posts/islands-architecture" class="external-link" target="_blank" rel="noopener">Islands Architecture&lt;/a> - encourages small, focused chunks of interactivity within server-rendered web pages&lt;/li>
+&lt;li>&lt;a href="https://www.patterns.dev/posts/islands-architecture" class="external-link" target="_blank" rel="noopener">Islands Architecture&lt;/a> -
+encourages small, focused chunks of interactivity within server-rendered web
+pages&lt;/li>
 &lt;/ul>
 &lt;h2 id="async-vs-defer">
  async vs defer
@@ -5892,10 +5902,25 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>defer
 &lt;ul>
 &lt;li>Waits for HTML parsing to finish.&lt;/li>
-&lt;li>Maintains script order in the document (beneficial for scripts that rely on each other)&lt;/li>
-&lt;li>Beneficial for scripts that are not necessary until the page content has been loaded.&lt;/li>
+&lt;li>Maintains script order in the document (beneficial for scripts that rely on
+each other)&lt;/li>
+&lt;li>Beneficial for scripts that are not necessary until the page content has
+been loaded.&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;/ul>
+&lt;h2 id="fetch-restricts-the-headers-that-can-be-accessed">
+ &lt;code>fetch&lt;/code> restricts the headers that can be accessed
+ &lt;a class="heading-link" href="#fetch-restricts-the-headers-that-can-be-accessed">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Default exposed headers: &lt;code>Cache-Control&lt;/code>, &lt;code>Content-Language&lt;/code>, &lt;code>Content-Type&lt;/code>,
+&lt;code>Expires&lt;/code>, &lt;code>Last-Modified&lt;/code>, &lt;code>Pragma&lt;/code>&lt;/li>
+&lt;li>If you want to access other headers, the server needs to return an additional
+header: &lt;code>Access-Control-Expose-Headers: &amp;lt;accessible-header&amp;gt;&lt;/code>&lt;/li>
 &lt;/ul>
 &lt;h2 id="frameworks">
  Frameworks
@@ -5908,7 +5933,8 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://alpinejs.dev/" class="external-link" target="_blank" rel="noopener">Alpine.js&lt;/a> - Your new, lightweight, JavaScript framework.&lt;/li>
 &lt;li>&lt;a href="https://htmx.org/" class="external-link" target="_blank" rel="noopener">htmx&lt;/a> - high power tools for HTML&lt;/li>
 &lt;li>&lt;a href="http://leanrada.com/htmz/" class="external-link" target="_blank" rel="noopener">htmz&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://hyperscript.org/" class="external-link" target="_blank" rel="noopener">hyperscript&lt;/a> - An easy &amp;amp; approachable language for modern web front-ends&lt;/li>
+&lt;li>&lt;a href="https://hyperscript.org/" class="external-link" target="_blank" rel="noopener">hyperscript&lt;/a> - An easy &amp;amp; approachable language for
+modern web front-ends&lt;/li>
 &lt;/ul>
 &lt;h2 id="html-over-the-wire">
  HTML over the wire
@@ -5920,23 +5946,32 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;ul>
 &lt;li>&lt;a href="https://hotwired.dev/" class="external-link" target="_blank" rel="noopener">Hotwire&lt;/a>
 &lt;ul>
-&lt;li>&lt;a href="https://github.com/hotwire-django" class="external-link" target="_blank" rel="noopener">for&lt;/a> &lt;a href="https://cezimbra.me/anotacoes/python/#django" >Python#Django&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://stimulus.hotwired.dev/" class="external-link" target="_blank" rel="noopener">Stimulus&lt;/a> - modest &lt;a href="https://cezimbra.me/anotacoes/javascript/" >JavaScript&lt;/a> framework&lt;/li>
-&lt;li>&lt;a href="https://strada.hotwired.dev/" class="external-link" target="_blank" rel="noopener">Strada&lt;/a> - fully native controls, driven by your web app.
+&lt;li>&lt;a href="https://github.com/hotwire-django" class="external-link" target="_blank" rel="noopener">for&lt;/a>
+&lt;a href="https://cezimbra.me/anotacoes/python/#django" >Python#Django&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stimulus.hotwired.dev/" class="external-link" target="_blank" rel="noopener">Stimulus&lt;/a> - modest
+&lt;a href="https://cezimbra.me/anotacoes/javascript/" >JavaScript&lt;/a> framework&lt;/li>
+&lt;li>&lt;a href="https://strada.hotwired.dev/" class="external-link" target="_blank" rel="noopener">Strada&lt;/a> - fully native controls, driven by
+your web app.
 &lt;ul>
-&lt;li>&lt;a href="https://strada.hotwired.dev/handbook/android" class="external-link" target="_blank" rel="noopener">Android&lt;/a> - &lt;a href="https://github.com/hotwired/strada-android" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://strada.hotwired.dev/handbook/ios" class="external-link" target="_blank" rel="noopener">iOS&lt;/a> - &lt;a href="https://github.com/hotwired/strada-ios" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://strada.hotwired.dev/handbook/web" class="external-link" target="_blank" rel="noopener">Web&lt;/a> - &lt;a href="https://github.com/hotwired/strada-web" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://strada.hotwired.dev/handbook/android" class="external-link" target="_blank" rel="noopener">Android&lt;/a> -
+&lt;a href="https://github.com/hotwired/strada-android" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://strada.hotwired.dev/handbook/ios" class="external-link" target="_blank" rel="noopener">iOS&lt;/a> -
+&lt;a href="https://github.com/hotwired/strada-ios" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://strada.hotwired.dev/handbook/web" class="external-link" target="_blank" rel="noopener">Web&lt;/a> -
+&lt;a href="https://github.com/hotwired/strada-web" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;a href="https://htmx.org/" class="external-link" target="_blank" rel="noopener">htmx&lt;/a>
 &lt;ul>
-&lt;li>&lt;a href="https://github.com/adamchainz/django-htmx" class="external-link" target="_blank" rel="noopener">for&lt;/a> &lt;a href="https://cezimbra.me/anotacoes/python/#django" >Python#Django&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/adamchainz/django-htmx" class="external-link" target="_blank" rel="noopener">for&lt;/a>
+&lt;a href="https://cezimbra.me/anotacoes/python/#django" >Python#Django&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>&lt;a href="https://hyperview.org/" class="external-link" target="_blank" rel="noopener">Hyperview&lt;/a> - &lt;a href="https://github.com/instawork/hyperview" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> - Native mobile apps, as easy as creating a website.&lt;/li>
+&lt;li>&lt;a href="https://hyperview.org/" class="external-link" target="_blank" rel="noopener">Hyperview&lt;/a> -
+&lt;a href="https://github.com/instawork/hyperview" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> - Native mobile apps, as
+easy as creating a website.&lt;/li>
 &lt;li>&lt;a href="https://nativescript.org/" class="external-link" target="_blank" rel="noopener">NativeScript&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="math-notation">
@@ -5966,9 +6001,11 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
  &lt;/a>
 &lt;/h3>
 &lt;ul>
-&lt;li>[Builtin MathML] - &lt;a href="https://caniuse.com/?search=mathml" class="external-link" target="_blank" rel="noopener">Can I use?&lt;/a> - &lt;a href="https://www.w3.org/TR/MathML/" class="external-link" target="_blank" rel="noopener">W3C&lt;/a>&lt;/li>
+&lt;li>[Builtin MathML] - &lt;a href="https://caniuse.com/?search=mathml" class="external-link" target="_blank" rel="noopener">Can I use?&lt;/a> -
+&lt;a href="https://www.w3.org/TR/MathML/" class="external-link" target="_blank" rel="noopener">W3C&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://ckeditor.com/mathtype/" class="external-link" target="_blank" rel="noopener">CKEditor + MathType&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://github.com/KaTeX/KaTeX" class="external-link" target="_blank" rel="noopener">KaTeX&lt;/a> - &lt;a href="https://cortexjs.io/mathlive/guides/react/" class="external-link" target="_blank" rel="noopener">for React&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/KaTeX/KaTeX" class="external-link" target="_blank" rel="noopener">KaTeX&lt;/a> -
+&lt;a href="https://cortexjs.io/mathlive/guides/react/" class="external-link" target="_blank" rel="noopener">for React&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.mathjax.org/" class="external-link" target="_blank" rel="noopener">MathJax&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://github.com/arnog/mathlive/" class="external-link" target="_blank" rel="noopener">MathLive&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.quicklatex.com/" class="external-link" target="_blank" rel="noopener">QuickLaTeX&lt;/a>&lt;/li>
@@ -6027,10 +6064,16 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
  &lt;/tbody>
 &lt;/table>
 &lt;ul>
-&lt;li>&lt;a href="https://www.rdegges.com/2018/please-stop-using-local-storage/" class="external-link" target="_blank" rel="noopener">Please Stop Using Local Storage&lt;/a> - string only; synchronous; can’t be used by web workers; Any JavaScript code on your page can access;&lt;/li>
+&lt;li>&lt;a href="https://www.rdegges.com/2018/please-stop-using-local-storage/" class="external-link" target="_blank" rel="noopener">Please Stop Using Local Storage&lt;/a> -
+string only; synchronous; can’t be used by web workers; Any JavaScript code
+on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://cheatsheetseries.owasp.org/cheatsheets/HTML5_Security_Cheat_Sheet.html#local-storage" class="external-link" target="_blank" rel="noopener">OWASP - HTML5 Security Cheat Sheet # Local Storage&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://html.spec.whatwg.org/multipage/webstorage.html" class="external-link" target="_blank" rel="noopener">HTML Standard - Web Storage&lt;/a>&lt;/li>
-&lt;li>References: GPT-4; &lt;a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API" class="external-link" target="_blank" rel="noopener">MDN - IndexedDB API&lt;/a>; &lt;a href="https://developer.mozilla.org/en-US/docs/Web/API/Shared_Storage_API" class="external-link" target="_blank" rel="noopener">MDN - Shared Storage API&lt;/a>; &lt;a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API" class="external-link" target="_blank" rel="noopener">MDN - Web Storage API&lt;/a>; &lt;a href="https://stackoverflow.com/questions/19867599/what-is-the-difference-between-localstorage-sessionstorage-session-and-cookies" class="external-link" target="_blank" rel="noopener">Stack Overflow - What is the difference between localStorage, sessionStorage, session and cookies?&lt;/a>&lt;/li>
+&lt;li>References: GPT-4;
+&lt;a href="https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API" class="external-link" target="_blank" rel="noopener">MDN - IndexedDB API&lt;/a>;
+&lt;a href="https://developer.mozilla.org/en-US/docs/Web/API/Shared_Storage_API" class="external-link" target="_blank" rel="noopener">MDN - Shared Storage API&lt;/a>;
+&lt;a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API" class="external-link" target="_blank" rel="noopener">MDN - Web Storage API&lt;/a>;
+&lt;a href="https://stackoverflow.com/questions/19867599/what-is-the-difference-between-localstorage-sessionstorage-session-and-cookies" class="external-link" target="_blank" rel="noopener">Stack Overflow - What is the difference between localStorage, sessionStorage, session and cookies?&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="toolbox">
  Toolbox
@@ -6048,7 +6091,8 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="https://shopify.github.io/draggable/" class="external-link" target="_blank" rel="noopener">Draggable JS&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://atlassian.design/components/pragmatic-drag-and-drop/about" class="external-link" target="_blank" rel="noopener">Pragmatic drag and drop&lt;/a> - &lt;a href="https://github.com/atlassian/pragmatic-drag-and-drop" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://atlassian.design/components/pragmatic-drag-and-drop/about" class="external-link" target="_blank" rel="noopener">Pragmatic drag and drop&lt;/a> -
+&lt;a href="https://github.com/atlassian/pragmatic-drag-and-drop" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/li>
 &lt;/ul></description></item><item><title>Agile</title><link>https://cezimbra.me/anotacoes/agile/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/agile/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://agiledictionary.com/" class="external-link" target="_blank" rel="noopener">https://agiledictionary.com/&lt;/a> - Agile Dictionary&lt;/li>
 &lt;li>&lt;a href="https://agiledictionary.com/209/spike/" class="external-link" target="_blank" rel="noopener">https://agiledictionary.com/209/spike/&lt;/a> - Spike&lt;/li>
@@ -6103,6 +6147,7 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-17---2024-11-23/" >Weeknotes/2024-11-17 - 2024-11-23&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/frontend/" >Frontend&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-10---2024-11-16/" >Weeknotes/2024-11-10 - 2024-11-16&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/git/" >Git&lt;/a>&lt;/li>
@@ -6171,7 +6216,6 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/marketing-digital/" >Marketing Digital&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/filmes/" >Filmes&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/aplicativos-de-notas/" >Aplicativos de Notas&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/frontend/" >Frontend&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/obsidian/" >Obsidian&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/smart-home/" >Smart Home&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/using-android-as-linux-server/" >Using Android as Linux Server&lt;/a>&lt;/li>
@@ -6887,9 +6931,9 @@ despertou a misericórdia de Deus&lt;/p></description></item><item><title>ChatGP
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode32s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode27s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode32s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode27s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -9319,9 +9363,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode87s1hbhb">
+&lt;h2 id="llmhahahugoshortcode101s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode87s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode101s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
