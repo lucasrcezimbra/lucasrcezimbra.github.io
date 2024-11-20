@@ -1,7 +1,7 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-11-19
+lastmod: 2024-11-20
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
@@ -9,6 +9,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2024-11-17 - 2024-11-23]({{< ref "Weeknotes/2024-11-17 - 2024-11-23" >}})
+- [Frontend]({{< ref "Frontend" >}})
 - [Weeknotes/2024-11-10 - 2024-11-16]({{< ref "Weeknotes/2024-11-10 - 2024-11-16" >}})
 - [Django]({{< ref "Django" >}})
 - [Git]({{< ref "Git" >}})
@@ -77,7 +78,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Marketing Digital]({{< ref "Marketing Digital" >}})
 - [Filmes]({{< ref "Filmes" >}})
 - [Aplicativos de Notas]({{< ref "Aplicativos de Notas" >}})
-- [Frontend]({{< ref "Frontend" >}})
 - [Obsidian]({{< ref "Obsidian" >}})
 - [Smart Home]({{< ref "Smart Home" >}})
 - [Using Android as Linux Server]({{< ref "Using Android as Linux Server" >}})
