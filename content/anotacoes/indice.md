@@ -13,7 +13,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Python]({{< ref "Python" >}})
 - [Weeknotes/2024-11-24 - 2024-11-30]({{< ref "Weeknotes/2024-11-24 - 2024-11-30" >}})
 - [Weeknotes/2024-11-17 - 2024-11-23]({{< ref "Weeknotes/2024-11-17 - 2024-11-23" >}})
-- [Deploying Django on GitHub Pages]({{< ref "Deploying Django on GitHub Pages" >}})
 - [Frontend]({{< ref "Frontend" >}})
 - [Weeknotes/2024-11-10 - 2024-11-16]({{< ref "Weeknotes/2024-11-10 - 2024-11-16" >}})
 - [Django]({{< ref "Django" >}})
