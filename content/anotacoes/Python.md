@@ -1,7 +1,7 @@
 ---
 title: Python
 date: 2023-08-15
-lastmod: 2024-10-11
+lastmod: 2024-12-04
 aliases:
   - /anotacoes/manifest-python-data-classes/
 ---
@@ -338,6 +338,14 @@ Fonte: https://fstring.help/
 | [memory_profiler](https://github.com/pythonprofilers/memory_profiler) | memory | line-level | +- deterministic |
 | [pympler](https://github.com/pympler/pympler) | memory | method-level | deterministic |
 Fonte: https://www.youtube.com/watch?v=DUCMjsrYSrQ
+
+
+### Promptflow
+#troubleshooting
+```
+promptflow._sdk._errors.MissingAzurePackage: "promptflow[azure]" is required for this functionality, please install it by running "pip install promptflow-azure" with your version.
+```
+Check if there is a connection.provider in the file `~/.promptflow/pf.yaml`.
 
 ### PyPI mirror
 - https://github.com/devpi/devpi

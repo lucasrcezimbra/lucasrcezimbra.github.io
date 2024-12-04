@@ -1,7 +1,7 @@
 ---
 title: Toolbox
 date: 2023-10-09
-lastmod: 2024-10-15
+lastmod: 2024-12-04
 aliases:
   - /anotacoes/integrations-platforms/
   - /anotacoes/vpn/
@@ -111,6 +111,9 @@ Others:
 - [Railway](https://railway.app/)
 - [Render](https://render.com/) - a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.
 
+### Storage
+- [Backblaze - B2 Cloud Storage](https://www.backblaze.com/cloud-storage)
+
 ## Integrations
 ### Open Source
 - * [Activepieces](https://www.activepieces.com/) - [GitHub](https://github.com/activepieces/activepieces) - [Forum](https://community.activepieces.com/) #OpenSource
@@ -212,6 +215,7 @@ Moved to My Toolbox -
 - [Squarespace](https://www.squarespace.com/)
 - [Unbounce](https://unbounce.com/)
 - [Webflow](https://webflow.com/)
+- [10Web](https://10web.io/ai-website-builder)
 
 
 ## WhatsApp Integrations

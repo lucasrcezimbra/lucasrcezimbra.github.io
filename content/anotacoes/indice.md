@@ -1,14 +1,19 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-11-20
+lastmod: 2024-12-04
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2024-12-01 - 2024-12-07]({{< ref "Weeknotes/2024-12-01 - 2024-12-07" >}})
+- [Toolbox]({{< ref "Toolbox" >}})
+- [Python]({{< ref "Python" >}})
+- [Weeknotes/2024-11-24 - 2024-11-30]({{< ref "Weeknotes/2024-11-24 - 2024-11-30" >}})
 - [Weeknotes/2024-11-17 - 2024-11-23]({{< ref "Weeknotes/2024-11-17 - 2024-11-23" >}})
+- [Deploying Django on GitHub Pages]({{< ref "Deploying Django on GitHub Pages" >}})
 - [Frontend]({{< ref "Frontend" >}})
 - [Weeknotes/2024-11-10 - 2024-11-16]({{< ref "Weeknotes/2024-11-10 - 2024-11-16" >}})
 - [Django]({{< ref "Django" >}})
@@ -24,10 +29,8 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Scrapers]({{< ref "Scrapers" >}})
 - [Weeknotes/2024-10-20 - 2024-10-26]({{< ref "Weeknotes/2024-10-20 - 2024-10-26" >}})
 - [Weeknotes/2024-10-13 - 2024-10-19]({{< ref "Weeknotes/2024-10-13 - 2024-10-19" >}})
-- [Toolbox]({{< ref "Toolbox" >}})
 - [Beancount]({{< ref "Beancount" >}})
 - [Weeknotes/2024-10-06 - 2024-10-12]({{< ref "Weeknotes/2024-10-06 - 2024-10-12" >}})
-- [Python]({{< ref "Python" >}})
 - [Web3]({{< ref "Web3" >}})
 - [Storing trees in a database]({{< ref "Storing trees in a database" >}})
 - [Weeknotes/2024-09-29 - 2024-10-05]({{< ref "Weeknotes/2024-09-29 - 2024-10-05" >}})
