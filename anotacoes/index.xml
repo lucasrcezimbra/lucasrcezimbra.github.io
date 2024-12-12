@@ -1,4 +1,84 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-12-01 - 2024-12-07</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-01---2024-12-07/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-01---2024-12-07/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-17---2024-11-23/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-12-08 - 2024-12-14</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/</link><pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-01---2024-12-07/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+&lt;h2 id="books-being-read">
+ Books being read
+ &lt;a class="heading-link" href="#books-being-read">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(pt-BR) Conversas Cruciais - Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan &amp;amp;
+Al Switzler &amp;amp; Emily Gregory&lt;/li>
+&lt;li>(pt-BR) O Clube dos Negócios Estranhos - G.K. Chesterton&lt;/li>
+&lt;/ul>
+&lt;h2 id="discovered-tools">
+ Discovered tools
+ &lt;a class="heading-link" href="#discovered-tools">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="learned">
+ Learned
+ &lt;a class="heading-link" href="#learned">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Loguru vs. Sentry&lt;/strong>: Loguru somehow captures the exceptions and Sentry
+stops working. I didn&amp;rsquo;t investigate why it happens and how to fix. I just
+removed loguru from the project.&lt;/li>
+&lt;/ul>
+&lt;h2 id="read-articles">
+ Read articles
+ &lt;a class="heading-link" href="#read-articles">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(pt-BR) &lt;a href="https://moacirmoda.substack.com/p/quer-crescer-rapido-nao-produza-conteudo" class="external-link" target="_blank" rel="noopener">Quer crescer rápido? NÃO produza conteúdo&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="read-news">
+ Read news
+ &lt;a class="heading-link" href="#read-news">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.wsj.com/tech/cybersecurity/hacking-brian-krebs-snowflake-waifu-49b87fce" class="external-link" target="_blank" rel="noopener">He Investigates the Internet’s Most Vicious Hackers—From a Secret Location - WSJ&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://krebsonsecurity.com" class="external-link" target="_blank" rel="noopener">Krebs on Security - In-depth security news and investigation&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.theverge.com/2024/12/11/24301921/vision-pro-ultrawide-mac-display-visionos-2-2-killer-app" class="external-link" target="_blank" rel="noopener">The Vision Pro’s ultrawide Mac display is very close to being a killer app - The Verge&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="watched">
+ Watched
+ &lt;a class="heading-link" href="#watched">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=0rlATWBNvMw" class="external-link" target="_blank" rel="noopener">DHH discusses SQLite (and Stoicism)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="listened">
+ Listened
+ &lt;a class="heading-link" href="#listened">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-01---2024-12-07/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2024-12-01 - 2024-12-07</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-01---2024-12-07/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-01---2024-12-07/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-17---2024-11-23/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -21,46 +101,6 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
 &lt;ul>
 &lt;li>&lt;a href="http://www.schaik.com/pngsuite/" class="external-link" target="_blank" rel="noopener">PngSuite - the official set of PNG test images&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="learned">
- Learned
- &lt;a class="heading-link" href="#learned">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;/li>
-&lt;/ul>
-&lt;h2 id="read-articles">
- Read articles
- &lt;a class="heading-link" href="#read-articles">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;/li>
-&lt;/ul>
-&lt;h2 id="read-news">
- Read news
- &lt;a class="heading-link" href="#read-news">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;/li>
-&lt;/ul>
-&lt;h2 id="watched">
- Watched
- &lt;a class="heading-link" href="#watched">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=0rlATWBNvMw" class="external-link" target="_blank" rel="noopener">DHH discusses SQLite (and Stoicism)&lt;/a>&lt;/li>
-&lt;/ul>
 &lt;h2 id="listened">
  Listened
  &lt;a class="heading-link" href="#listened">
@@ -69,9 +109,9 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=3GuhboZY7b8" class="external-link" target="_blank" rel="noopener">Homilia Diária | As visitas inesperadas do Salvador (Sexta-feira da 1ª Semana do Advento)&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-17---2024-11-23/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2024-11-24 - 2024-11-30</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-11-24---2024-11-30/</link><pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-11-24---2024-11-30/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-17---2024-11-23/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-01---2024-12-07/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-17---2024-11-23/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>2024-11-24 - 2024-11-30</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-11-24---2024-11-30/</link><pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-11-24---2024-11-30/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-17---2024-11-23/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-01---2024-12-07/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -6209,7 +6249,7 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://agiledictionary.com/209/spike/" class="external-link" target="_blank" rel="noopener">https://agiledictionary.com/209/spike/&lt;/a> - Spike&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=OS6gzabM0pI" class="external-link" target="_blank" rel="noopener">Why Software Estimations Are Always Wrong&lt;/a>
 &lt;ul>
-&lt;li>&lt;img alt="Pasted image 20231012181719.png" src="https://cezimbra.me/anotacoes/Assets/20231012181719.png">&lt;/li>
+&lt;li>&lt;img src="https://cezimbra.me/anotacoes/Assets/20231012181719.png" alt="Pasted image 20231012181719.png">&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
@@ -6257,9 +6297,10 @@ on your page can access;&lt;/li>
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/" >Weeknotes/2024-12-08 - 2024-12-14&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-01---2024-12-07/" >Weeknotes/2024-12-01 - 2024-12-07&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/toolbox/" >Toolbox&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-24---2024-11-30/" >Weeknotes/2024-11-24 - 2024-11-30&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-17---2024-11-23/" >Weeknotes/2024-11-17 - 2024-11-23&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/frontend/" >Frontend&lt;/a>&lt;/li>
@@ -6624,7 +6665,7 @@ on your page can access;&lt;/li>
 &lt;/li>
 &lt;li>&lt;a href="https://medium.com/bytebytego-system-design-alliance/the-architects-blueprint-understanding-software-styles-and-patterns-with-cheatsheet-5c1f5fd55bbd" class="external-link" target="_blank" rel="noopener">The Architect’s Blueprint - Understanding Software Styles and Patterns with Cheatsheet&lt;/a>
 &lt;ul>
-&lt;li>&lt;img src="https://cezimbra.me/anotacoes/Assets/Software_Architecture_Styles.png">&lt;/li>
+&lt;li>&lt;img src="https://cezimbra.me/anotacoes/Assets/Software_Architecture_Styles.png" alt="">&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
@@ -6649,9 +6690,9 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7044,9 +7085,9 @@ despertou a misericórdia de Deus&lt;/p></description></item><item><title>ChatGP
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode27s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode28s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode27s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode28s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7238,9 +7279,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode42s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode43s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode42s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode43s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7541,7 +7582,7 @@ exists.&lt;/li>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
 &lt;li>Run command skipping alias
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">\&amp;lt;&lt;/span>command&amp;gt;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;img src="https://cezimbra.me/anotacoes/Assets/linux-shell-skip-alias.png">&lt;/li>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;img src="https://cezimbra.me/anotacoes/Assets/linux-shell-skip-alias.png" alt="">&lt;/li>
 &lt;/ul>
 &lt;h2 id="debian">
  Debian
@@ -9319,10 +9360,10 @@ exists.&lt;/li>
 &lt;li>&lt;a href="https://www.midjourney.com/" class="external-link" target="_blank" rel="noopener">https://www.midjourney.com/&lt;/a>&lt;/li>
 &lt;li>&lt;code>realistic photograph of a futuristic home office with a rustic wooden table&lt;/code>
 &lt;ul>
-&lt;li>&lt;a href="https://discord.com/channels/662267976984297473/989268383751106560/1074672204614225970" class="external-link" target="_blank" rel="noopener">https://discord.com/channels/662267976984297473/989268383751106560/1074672204614225970&lt;/a> &lt;img src="https://cezimbra.me/anotacoes/Assets/lucasrcezimbra_realistic_photograph_of_a_futuristi.png">&lt;/li>
+&lt;li>&lt;a href="https://discord.com/channels/662267976984297473/989268383751106560/1074672204614225970" class="external-link" target="_blank" rel="noopener">https://discord.com/channels/662267976984297473/989268383751106560/1074672204614225970&lt;/a> &lt;img src="https://cezimbra.me/anotacoes/Assets/lucasrcezimbra_realistic_photograph_of_a_futuristi.png" alt="">&lt;/li>
 &lt;li>&lt;/li>
-&lt;li>&lt;a href="https://discord.com/channels/662267976984297473/989268383751106560/1074672647369142273" class="external-link" target="_blank" rel="noopener">https://discord.com/channels/662267976984297473/989268383751106560/1074672647369142273&lt;/a> &lt;img src="https://cezimbra.me/anotacoes/Assets/lucasrcezimbra_realistic_photograph_of_a_futuristi-1.png">&lt;/li>
-&lt;li>&lt;a href="https://discord.com/channels/662267976984297473/989268383751106560/1074673441548017704" class="external-link" target="_blank" rel="noopener">https://discord.com/channels/662267976984297473/989268383751106560/1074673441548017704&lt;/a> &lt;img src="https://cezimbra.me/anotacoes/Assets/lucasrcezimbra_realistic_photograph_of_a_futuristi-2.png">&lt;/li>
+&lt;li>&lt;a href="https://discord.com/channels/662267976984297473/989268383751106560/1074672647369142273" class="external-link" target="_blank" rel="noopener">https://discord.com/channels/662267976984297473/989268383751106560/1074672647369142273&lt;/a> &lt;img src="https://cezimbra.me/anotacoes/Assets/lucasrcezimbra_realistic_photograph_of_a_futuristi-1.png" alt="">&lt;/li>
+&lt;li>&lt;a href="https://discord.com/channels/662267976984297473/989268383751106560/1074673441548017704" class="external-link" target="_blank" rel="noopener">https://discord.com/channels/662267976984297473/989268383751106560/1074673441548017704&lt;/a> &lt;img src="https://cezimbra.me/anotacoes/Assets/lucasrcezimbra_realistic_photograph_of_a_futuristi-2.png" alt="">&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul></description></item><item><title>Natal</title><link>https://cezimbra.me/anotacoes/natal/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/natal/</guid><description>&lt;h2 id="cludes-de-tiro">
@@ -9463,7 +9504,7 @@ exists.&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/sentry/" >Sentry&lt;/a>&lt;/li>
 &lt;li>Transactions vs Spans
 &lt;ul>
-&lt;li>&lt;img alt="diagram-transaction-trace.png" src="../assets/diagram-transaction-trace_1678298375545_0.png">
+&lt;li>&lt;img src="../assets/diagram-transaction-trace_1678298375545_0.png" alt="diagram-transaction-trace.png">
 from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distributed-tracing/" class="external-link" target="_blank" rel="noopener">https://docs.sentry.io/product/sentry-basics/tracing/distributed-tracing/&lt;/a>&lt;/li>
 &lt;li>Span
 &lt;ul>
@@ -9476,9 +9517,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode86s1hbhb">
+&lt;h2 id="llmhahahugoshortcode87s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode86s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode87s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -9682,7 +9723,18 @@ WhatsApp: (51) 3320-3000&lt;/li>
 &lt;li>Robô fez 3 perguntas e passou para um humano&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Python</title><link>https://cezimbra.me/anotacoes/python/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/python/</guid><description>&lt;h2 id="printing-a-tree">
+&lt;/ul></description></item><item><title>Python</title><link>https://cezimbra.me/anotacoes/python/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/python/</guid><description>&lt;h2 id="unpackaging-a-wheel">
+ Unpackaging a wheel
+ &lt;a class="heading-link" href="#unpackaging-a-wheel">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd00cd">from&lt;/span> zipfile &lt;span style="color:#cd00cd">import&lt;/span> ZipFile
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">with&lt;/span> ZipFile(&lt;span style="color:#cd0000">&amp;#39;&amp;lt;path.whl&amp;gt;&amp;#39;&lt;/span>, &lt;span style="color:#cd0000">&amp;#39;r&amp;#39;&lt;/span>) &lt;span style="color:#cdcd00">as&lt;/span> zf:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> zf&lt;span style="color:#39c">.&lt;/span>extractall(&lt;span style="color:#cd0000">&amp;#39;&amp;lt;path-to-extract&amp;gt;&amp;#39;&lt;/span>)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="printing-a-tree">
  Printing a tree
  &lt;a class="heading-link" href="#printing-a-tree">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>

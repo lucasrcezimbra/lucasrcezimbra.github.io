@@ -47,7 +47,7 @@
  
  &lt;div style="flex: 1 1 0;">
  &lt;!-- begin columns block -->
-&lt;p>&lt;img alt="Setup" src="https://cezimbra.me/sobre/setup.jpg">&lt;/p>
+&lt;p>&lt;img src="https://cezimbra.me/sobre/setup.jpg" alt="Setup">&lt;/p>
  &lt;/div>
  
  &lt;div style="flex: 1 1 0;">
@@ -426,6 +426,16 @@ Responsible for conducting technical interviews.&lt;/p></description></item><ite
  &lt;/a>
 &lt;/h3>
 &lt;p>&lt;div class="contribution">
+ &lt;span>2024-12-12 -&lt;/span>
+ 
+ 
+ &lt;img src="https://cezimbra.me/images/code-pr-open.svg">
+ 
+ 
+ &lt;a class="external-link" href="https://gitlab.com/dalibo/dramatiq-pg/-/merge_requests/74" target="_blank">dramatiq-pg: fix: emit before enqueue before serializing message&lt;/a>
+&lt;/div>
+
+&lt;div class="contribution">
  &lt;span>2024-10-31 -&lt;/span>
  
  
