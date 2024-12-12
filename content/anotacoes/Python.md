@@ -1,10 +1,18 @@
 ---
 title: Python
 date: 2023-08-15
-lastmod: 2024-12-04
+lastmod: 2024-12-12
 aliases:
   - /anotacoes/manifest-python-data-classes/
 ---
+
+## Unpackaging a wheel
+```python
+from zipfile import ZipFile
+
+with ZipFile('<path.whl>', 'r') as zf:
+    zf.extractall('<path-to-extract>')
+```
 
 ## Printing a tree
 [Tweet](https://twitter.com/lucasrcezimbra/status/1711423408909803716)
@@ -300,7 +308,8 @@ Fonte: https://fstring.help/
 - How to enable relative line numbers in PyCharm?
 	- https://intellij-support.jetbrains.com/hc/en-us/community/posts/360008429240-How-To-Enable-Relative-Line-Numbers-With-IdeaVim
 	- `:set relativenumber`
-
+- `Error: pg_config executable not found.` when installing psycopg2-binary
+    * `sudo apt install libpq-dev` on Debian/Ubuntu
 
 
 ## Toolbox

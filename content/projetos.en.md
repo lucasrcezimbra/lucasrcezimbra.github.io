@@ -123,6 +123,14 @@ slug: "projects"
 
 ### Code
 
+
+{{< contribution
+    status="open"
+    url="https://gitlab.com/dalibo/dramatiq-pg/-/merge_requests/74"
+    project="dramatiq-pg"
+    title="fix: emit before enqueue before serializing message"
+    date="2024-12-12"
+>}}
 {{< contribution
     status="open"
     url="https://github.com/jazzband/django-model-utils/pull/635"

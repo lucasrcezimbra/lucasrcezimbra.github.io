@@ -124,6 +124,13 @@ date: 2022-04-08T20:08:54-03:00
 
 {{< contribution
     status="open"
+    url="https://gitlab.com/dalibo/dramatiq-pg/-/merge_requests/74"
+    project="dramatiq-pg"
+    title="fix: emit before enqueue before serializing message"
+    date="2024-12-12"
+>}}
+{{< contribution
+    status="open"
     url="https://github.com/jazzband/django-model-utils/pull/635"
     project="django-model-utils"
     title=" Add FieldTracker.diff"
