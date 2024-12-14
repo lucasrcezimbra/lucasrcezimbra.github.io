@@ -1,10 +1,37 @@
 ---
 title: Python
 date: 2023-08-15
-lastmod: 2024-12-12
+lastmod: 2024-12-14
 aliases:
   - /anotacoes/manifest-python-data-classes/
 ---
+
+## Enable `isinstance` without inherance
+```python
+from abc import ABC, abstractmethod
+
+
+def save(obj):
+    pass
+
+
+class MyClass:
+    save = save
+
+
+class SalvableModel(ABC):
+    @abstractmethod
+    def save(self, **overwrites):
+        pass
+
+    @classmethod
+    def __subclasshook__(cls, subclass):
+        return (hasattr(subclass, 'save') and callable(subclass.save))
+
+
+isinstance(MyClass(), SalvableModel)
+# True
+```
 
 ## Unpackaging a wheel
 ```python
