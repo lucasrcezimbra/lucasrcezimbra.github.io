@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-12-08 - 2024-12-14</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/</link><pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-01---2024-12-07/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-12-08 - 2024-12-14</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/</link><pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-01---2024-12-07/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -7085,9 +7085,9 @@ despertou a misericórdia de Deus&lt;/p></description></item><item><title>ChatGP
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode28s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode27s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode28s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode27s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7279,9 +7279,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode43s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode49s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode43s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode49s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -9517,9 +9517,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode87s1hbhb">
+&lt;h2 id="llmhahahugoshortcode86s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode87s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode86s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -9723,7 +9723,37 @@ WhatsApp: (51) 3320-3000&lt;/li>
 &lt;li>Robô fez 3 perguntas e passou para um humano&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Python</title><link>https://cezimbra.me/anotacoes/python/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/python/</guid><description>&lt;h2 id="unpackaging-a-wheel">
+&lt;/ul></description></item><item><title>Python</title><link>https://cezimbra.me/anotacoes/python/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/python/</guid><description>&lt;h2 id="enable-isinstance-without-inherance">
+ Enable &lt;code>isinstance&lt;/code> without inherance
+ &lt;a class="heading-link" href="#enable-isinstance-without-inherance">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd00cd">from&lt;/span> abc &lt;span style="color:#cd00cd">import&lt;/span> ABC, abstractmethod
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">def&lt;/span> save(obj):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">pass&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">class&lt;/span> &lt;span style="color:#00cdcd">MyClass&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> save &lt;span style="color:#39c">=&lt;/span> save
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">class&lt;/span> &lt;span style="color:#00cdcd">SalvableModel&lt;/span>(ABC):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> @abstractmethod
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">def&lt;/span> save(self, &lt;span style="color:#39c">**&lt;/span>overwrites):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">pass&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> @classmethod
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">def&lt;/span> __subclasshook__(cls, subclass):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">return&lt;/span> (&lt;span style="color:#cd00cd">hasattr&lt;/span>(subclass, &lt;span style="color:#cd0000">&amp;#39;save&amp;#39;&lt;/span>) &lt;span style="color:#cdcd00">and&lt;/span> callable(subclass&lt;span style="color:#39c">.&lt;/span>save))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd00cd">isinstance&lt;/span>(MyClass(), SalvableModel)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># True&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="unpackaging-a-wheel">
  Unpackaging a wheel
  &lt;a class="heading-link" href="#unpackaging-a-wheel">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -9741,36 +9771,7 @@ WhatsApp: (51) 3320-3000&lt;/li>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h2>
-&lt;p>&lt;a href="https://twitter.com/lucasrcezimbra/status/1711423408909803716" class="external-link" target="_blank" rel="noopener">Tweet&lt;/a>&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">def&lt;/span> print_tree(tree, indent&lt;span style="color:#39c">=&lt;/span>&lt;span style="color:#cd00cd">2&lt;/span>, level&lt;span style="color:#39c">=&lt;/span>&lt;span style="color:#cd00cd">0&lt;/span>):
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cdcd00">for&lt;/span> name, child &lt;span style="color:#cdcd00">in&lt;/span> tree&lt;span style="color:#39c">.&lt;/span>items():
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#cd00cd">print&lt;/span>(&lt;span style="color:#cd0000">&amp;#39; &amp;#39;&lt;/span>&lt;span style="color:#39c">*&lt;/span>indent&lt;span style="color:#39c">*&lt;/span>level &lt;span style="color:#39c">+&lt;/span> name)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> print_tree(child, indent, level&lt;span style="color:#39c">+&lt;/span>&lt;span style="color:#cd00cd">1&lt;/span>)
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="extracting-args-names-from-a-function">
- Extracting args names from a function
- &lt;a class="heading-link" href="#extracting-args-names-from-a-function">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd00cd">import&lt;/span> inspect
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>inspect&lt;span style="color:#39c">.&lt;/span>getfullargspec(&lt;span style="color:#39c">&amp;lt;&lt;/span>func&lt;span style="color:#39c">&amp;gt;&lt;/span>)&lt;span style="color:#39c">.&lt;/span>args
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>In [&lt;span style="color:#cd00cd">1&lt;/span>]: &lt;span style="color:#cd00cd">import&lt;/span> inspect
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>In [&lt;span style="color:#cd00cd">2&lt;/span>]: &lt;span style="color:#cdcd00">def&lt;/span> f(x,y):
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#39c">...&lt;/span>: &lt;span style="color:#cdcd00">pass&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#39c">...&lt;/span>:
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>In [&lt;span style="color:#cd00cd">3&lt;/span>]: inspect&lt;span style="color:#39c">.&lt;/span>getfullargspec(f)&lt;span style="color:#39c">.&lt;/span>args
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Out[&lt;span style="color:#cd00cd">3&lt;/span>]: [&lt;span style="color:#cd0000">&amp;#39;x&amp;#39;&lt;/span>, &lt;span style="color:#cd0000">&amp;#39;y&amp;#39;&lt;/span>]
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="why-avoid-initing-decimal-from-float">
- Why avoid initing Decimal from float
- &lt;a class="heading-link" href="#why-avoid-initing-decimal-from-float">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;p>&lt;a href="https://twitter.com/lucasrcezimbra/status/1696892876116914633" class="external-link" target="_blank" rel="noopener">Tweet&lt;/a>&lt;/p></description></item><item><title>Raspberry</title><link>https://cezimbra.me/anotacoes/raspberry/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/raspberry/</guid><description>&lt;h2 id="lite-os">
+&lt;p>&lt;a href="https://twitter.com/lucasrcezimbra/status/1711423408909803716" class="external-link" target="_blank" rel="noopener">Tweet&lt;/a>&lt;/p></description></item><item><title>Raspberry</title><link>https://cezimbra.me/anotacoes/raspberry/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/raspberry/</guid><description>&lt;h2 id="lite-os">
  Lite OS
  &lt;a class="heading-link" href="#lite-os">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
