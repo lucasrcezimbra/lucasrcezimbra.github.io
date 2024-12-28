@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Mon, 23 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-12-22 - 2024-12-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</link><pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Sat, 28 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-12-22 - 2024-12-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</link><pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -121,7 +121,65 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
 &lt;li>&lt;a href="https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs" class="external-link" target="_blank" rel="noopener">Preferring throwaway code over design docs&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://mihaiolteanu.me/interactive-dev" class="external-link" target="_blank" rel="noopener">A high-velocity style of software development&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2024-12-08 - 2024-12-14</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/</link><pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-01---2024-12-07/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>Creating a WhatsApp bot</title><link>https://cezimbra.me/anotacoes/creating-a-whatsapp-bot/</link><pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/creating-a-whatsapp-bot/</guid><description>&lt;ol>
+&lt;li>Create a Facebook account - &lt;a href="https://www.facebook.com/" class="external-link" target="_blank" rel="noopener">https://www.facebook.com/&lt;/a>
+&lt;ul>
+&lt;li>I didn&amp;rsquo;t have an Facebook account. I created a new one, but didn&amp;rsquo;t manage
+to use it to create a Meta Developer account. So, I had to create
+multiple accounts for one to work.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Create a Meta Developer account - &lt;a href="https://developers.facebook.com/" class="external-link" target="_blank" rel="noopener">https://developers.facebook.com/&lt;/a>&lt;/li>
+&lt;li>Create a business portfolio - &lt;a href="https://business.facebook.com/" class="external-link" target="_blank" rel="noopener">https://business.facebook.com/&lt;/a>&lt;/li>
+&lt;li>Create an app - &lt;a href="https://developers.facebook.com/apps/creation/" class="external-link" target="_blank" rel="noopener">https://developers.facebook.com/apps/creation/&lt;/a>
+&lt;ol>
+&lt;li>App details
+&lt;ol>
+&lt;li>App name: &lt;code>&amp;lt;whatever you want&amp;gt;&lt;/code>&lt;/li>
+&lt;li>App contact email: &lt;code>&amp;lt;email&amp;gt;&lt;/code>&lt;/li>
+&lt;li>Click &amp;ldquo;Next&amp;rdquo;&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Use cases
+&lt;ol>
+&lt;li>Select &amp;ldquo;Other&amp;rdquo;&lt;/li>
+&lt;li>Click &amp;ldquo;Next&amp;rdquo;&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Type
+&lt;ol>
+&lt;li>Select &amp;ldquo;Business&amp;rdquo;&lt;/li>
+&lt;li>Click &amp;ldquo;Next&amp;rdquo;&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Details
+&lt;ol>
+&lt;li>Select the &amp;ldquo;Business portfolio&amp;rdquo; created in the previous step&lt;/li>
+&lt;li>Click &amp;ldquo;Create app&amp;rdquo;&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Set up WhatsApp in your app
+&lt;ol>
+&lt;li>Open your app - &lt;a href="https://developers.facebook.com/apps/" class="external-link" target="_blank" rel="noopener">https://developers.facebook.com/apps/&lt;/a>&lt;/li>
+&lt;li>Look for WhatsApp under &amp;ldquo;Add products to your app&amp;rdquo;&lt;/li>
+&lt;li>Click &amp;ldquo;Set up&amp;rdquo;&lt;/li>
+&lt;li>Click &amp;ldquo;Start using the API&amp;rdquo;&lt;/li>
+&lt;li>Click &amp;ldquo;Generate access token&amp;rdquo;
+&lt;ol>
+&lt;li>An pop up will open&lt;/li>
+&lt;li>Click &amp;ldquo;Continue&amp;rdquo;&lt;/li>
+&lt;li>Select &amp;ldquo;Opt in to current WhatsApp accounts only&amp;rdquo;&lt;/li>
+&lt;li>Select &amp;ldquo;Test WhatsApp Business Account&amp;rdquo;&lt;/li>
+&lt;li>Click &amp;ldquo;Continue&amp;rdquo;&lt;/li>
+&lt;li>Click &amp;ldquo;Save&amp;rdquo;&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Follow the steps &amp;ldquo;Send and receive messages&amp;rdquo;&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ol></description></item><item><title>2024-12-08 - 2024-12-14</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/</link><pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-01---2024-12-07/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -6411,6 +6469,7 @@ on your page can access;&lt;/li>
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/creating-a-whatsapp-bot/" >Creating a WhatsApp bot&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/" >Weeknotes/2024-12-22 - 2024-12-28&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >Weeknotes/2024-12-15 - 2024-12-21&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/" >Weeknotes/2024-12-08 - 2024-12-14&lt;/a>&lt;/li>
@@ -6806,9 +6865,9 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7395,9 +7454,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode42s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode43s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode42s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode43s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -9633,9 +9692,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode87s1hbhb">
+&lt;h2 id="llmhahahugoshortcode88s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode87s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode88s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
