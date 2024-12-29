@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Sat, 28 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-12-22 - 2024-12-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</link><pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Sun, 29 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-12-22 - 2024-12-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</link><pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -121,43 +121,39 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
 &lt;li>&lt;a href="https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs" class="external-link" target="_blank" rel="noopener">Preferring throwaway code over design docs&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://mihaiolteanu.me/interactive-dev" class="external-link" target="_blank" rel="noopener">A high-velocity style of software development&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>Creating a WhatsApp bot</title><link>https://cezimbra.me/anotacoes/creating-a-whatsapp-bot/</link><pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/creating-a-whatsapp-bot/</guid><description>&lt;ol>
-&lt;li>Create a Facebook account - &lt;a href="https://www.facebook.com/" class="external-link" target="_blank" rel="noopener">https://www.facebook.com/&lt;/a>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>Creating a WhatsApp bot</title><link>https://cezimbra.me/anotacoes/creating-a-whatsapp-bot/</link><pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/creating-a-whatsapp-bot/</guid><description>&lt;h2 id="requirements">
+ Requirements
+ &lt;a class="heading-link" href="#requirements">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>You will need a phone number that is not linked to WhatApp yet. &amp;ldquo;Your number
+must be used either on the Business Platform or on the Business App.&amp;rdquo;
+(&lt;a href="https://developers.facebook.com/docs/whatsapp/cloud-api/get-started/migrate-existing-whatsapp-number-to-a-business-account" class="external-link" target="_blank" rel="noopener">source&lt;/a>)&lt;/li>
+&lt;/ul>
+&lt;h2 id="steps">
+ Steps
+ &lt;a class="heading-link" href="#steps">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ol>
+&lt;li>Create a &lt;a href="https://www.facebook.com/" class="external-link" target="_blank" rel="noopener">Facebook&lt;/a> account
 &lt;ul>
 &lt;li>I didn&amp;rsquo;t have an Facebook account. I created a new one, but didn&amp;rsquo;t manage
 to use it to create a Meta Developer account. So, I had to create
 multiple accounts for one to work.&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>Create a Meta Developer account - &lt;a href="https://developers.facebook.com/" class="external-link" target="_blank" rel="noopener">https://developers.facebook.com/&lt;/a>&lt;/li>
-&lt;li>Create a business portfolio - &lt;a href="https://business.facebook.com/" class="external-link" target="_blank" rel="noopener">https://business.facebook.com/&lt;/a>&lt;/li>
-&lt;li>Create an app - &lt;a href="https://developers.facebook.com/apps/creation/" class="external-link" target="_blank" rel="noopener">https://developers.facebook.com/apps/creation/&lt;/a>
+&lt;li>Create a &lt;a href="https://developers.facebook.com/" class="external-link" target="_blank" rel="noopener">Meta Developer&lt;/a> account&lt;/li>
+&lt;li>Create a &lt;a href="https://business.facebook.com/" class="external-link" target="_blank" rel="noopener">business portfolio&lt;/a>&lt;/li>
+&lt;li>Create a Facebook app
 &lt;ol>
-&lt;li>App details
-&lt;ol>
-&lt;li>App name: &lt;code>&amp;lt;whatever you want&amp;gt;&lt;/code>&lt;/li>
-&lt;li>App contact email: &lt;code>&amp;lt;email&amp;gt;&lt;/code>&lt;/li>
-&lt;li>Click &amp;ldquo;Next&amp;rdquo;&lt;/li>
-&lt;/ol>
-&lt;/li>
-&lt;li>Use cases
-&lt;ol>
-&lt;li>Select &amp;ldquo;Other&amp;rdquo;&lt;/li>
-&lt;li>Click &amp;ldquo;Next&amp;rdquo;&lt;/li>
-&lt;/ol>
-&lt;/li>
-&lt;li>Type
-&lt;ol>
-&lt;li>Select &amp;ldquo;Business&amp;rdquo;&lt;/li>
-&lt;li>Click &amp;ldquo;Next&amp;rdquo;&lt;/li>
-&lt;/ol>
-&lt;/li>
-&lt;li>Details
-&lt;ol>
-&lt;li>Select the &amp;ldquo;Business portfolio&amp;rdquo; created in the previous step&lt;/li>
-&lt;li>Click &amp;ldquo;Create app&amp;rdquo;&lt;/li>
-&lt;/ol>
-&lt;/li>
+&lt;li>Go to &lt;a href="https://developers.facebook.com/apps/creation/" class="external-link" target="_blank" rel="noopener">https://developers.facebook.com/apps/creation/&lt;/a>&lt;/li>
+&lt;li>Follow the steps. &amp;ldquo;Type&amp;rdquo; must be &amp;ldquo;Business&amp;rdquo; (and &amp;ldquo;Use cases&amp;rdquo; must be &amp;ldquo;Other&amp;rdquo;)&lt;/li>
 &lt;/ol>
 &lt;/li>
 &lt;li>Set up WhatsApp in your app
@@ -166,20 +162,73 @@ multiple accounts for one to work.&lt;/li>
 &lt;li>Look for WhatsApp under &amp;ldquo;Add products to your app&amp;rdquo;&lt;/li>
 &lt;li>Click &amp;ldquo;Set up&amp;rdquo;&lt;/li>
 &lt;li>Click &amp;ldquo;Start using the API&amp;rdquo;&lt;/li>
+&lt;li>Adding your phone number
+&lt;ol>
+&lt;li>Go to &amp;ldquo;Step 1: Select phone numbers&amp;rdquo; &amp;gt; &amp;ldquo;From&amp;rdquo;&lt;/li>
+&lt;li>Click in the dropdown&lt;/li>
+&lt;li>Click &amp;ldquo;Add phone number&amp;rdquo;&lt;/li>
+&lt;li>Fill the fields and click next until you finish&lt;/li>
+&lt;li>Save the &amp;ldquo;Phone number ID&amp;rdquo; for next steps. Use when you see &lt;code>&amp;lt;PHONE_NUMBER_ID&amp;gt;&lt;/code> in this tutorial.&lt;/li>
+&lt;/ol>
+&lt;/li>
 &lt;li>Click &amp;ldquo;Generate access token&amp;rdquo;
 &lt;ol>
 &lt;li>An pop up will open&lt;/li>
 &lt;li>Click &amp;ldquo;Continue&amp;rdquo;&lt;/li>
 &lt;li>Select &amp;ldquo;Opt in to current WhatsApp accounts only&amp;rdquo;&lt;/li>
-&lt;li>Select &amp;ldquo;Test WhatsApp Business Account&amp;rdquo;&lt;/li>
+&lt;li>Select your phone number&lt;/li>
 &lt;li>Click &amp;ldquo;Continue&amp;rdquo;&lt;/li>
 &lt;li>Click &amp;ldquo;Save&amp;rdquo;&lt;/li>
+&lt;li>Save this token to the next steps. Use when you see &lt;code>&amp;lt;ACCESS_TOKEN&amp;gt;&lt;/code> in this tutorial.&lt;/li>
 &lt;/ol>
 &lt;/li>
-&lt;li>Follow the steps &amp;ldquo;Send and receive messages&amp;rdquo;&lt;/li>
 &lt;/ol>
 &lt;/li>
-&lt;/ol></description></item><item><title>2024-12-08 - 2024-12-14</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/</link><pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-01---2024-12-07/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;li>Add Payment method
+&lt;ol>
+&lt;li>Open &lt;a href="https://business.facebook.com/billing_hub/accounts/details/" class="external-link" target="_blank" rel="noopener">https://business.facebook.com/billing_hub/accounts/details/&lt;/a>&lt;/li>
+&lt;li>Select your Business portfolio&lt;/li>
+&lt;li>Go to &amp;ldquo;Payment methods&amp;rdquo;&lt;/li>
+&lt;li>Add business payment method&lt;/li>
+&lt;li>Set as payment method as default
+&lt;ol>
+&lt;li>Repeat steps 1, 2, and 3&lt;/li>
+&lt;li>Go to the &amp;ldquo;Payment methods&amp;rdquo; you added, settings (three dots) and click &amp;ldquo;Set as default&amp;rdquo;&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Set up Two-Step Verification (it will be required in the next step) (&lt;a href="https://developers.facebook.com/docs/whatsapp/cloud-api/reference/two-step-verification#updating-verification-code" class="external-link" target="_blank" rel="noopener">docs&lt;/a>)
+&lt;ol>
+&lt;li>Generate a 6-digit PIN (keep it safe). Use when you see &lt;code>&amp;lt;PIN&amp;gt;&lt;/code> in this tutorial.&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>curl -X POST &lt;span style="color:#cd0000">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span> &lt;span style="color:#cd0000">&amp;#39;https://graph.facebook.com/v21.0/&amp;lt;PHONE_NUMBER_ID&amp;gt;&amp;#39;&lt;/span> &lt;span style="color:#cd0000">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span> -H &lt;span style="color:#cd0000">&amp;#39;Authorization: Bearer &amp;lt;ACCESS_TOKEN&amp;gt;&amp;#39;&lt;/span> &lt;span style="color:#cd0000">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span> -H &lt;span style="color:#cd0000">&amp;#39;Content-Type: application/json&amp;#39;&lt;/span> &lt;span style="color:#cd0000">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span> -d &lt;span style="color:#cd0000">&amp;#39;{&amp;#34;pin&amp;#34; : &amp;#34;&amp;lt;PIN&amp;gt;&amp;#34;}&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ol>
+&lt;h3 id="optionals">
+ Optionals
+ &lt;a class="heading-link" href="#optionals">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Adding WhatsApp profile info
+&lt;ul>
+&lt;li>Some info (like Profile photo) requires setting up the Two-Step Verification&lt;/li>
+&lt;/ul>
+&lt;ol>
+&lt;li>Go to &lt;a href="https://business.facebook.com/latest/whatsapp_manager/phone_numbers/" class="external-link" target="_blank" rel="noopener">https://business.facebook.com/latest/whatsapp_manager/phone_numbers/&lt;/a>&lt;/li>
+&lt;li>Select your WhatsApp account in the dropdown at the top right&lt;/li>
+&lt;li>Click in your phone number&lt;/li>
+&lt;li>Go to &amp;ldquo;Profile&amp;rdquo; and edit it.&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;/ul></description></item><item><title>2024-12-08 - 2024-12-14</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/</link><pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-01---2024-12-07/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -6865,9 +6914,9 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7260,9 +7309,9 @@ despertou a misericórdia de Deus&lt;/p></description></item><item><title>ChatGP
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode27s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode28s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode27s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode28s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7454,9 +7503,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode43s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode44s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode43s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode44s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
