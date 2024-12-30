@@ -1,4 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Sun, 29 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2024-12-22 - 2024-12-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</link><pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>Migrating from Poetry to uv</title><link>https://cezimbra.me/anotacoes/migrating-from-poetry-to-uv/</link><pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/migrating-from-poetry-to-uv/</guid><description>&lt;h2 id="tldr">
+ TL;DR
+ &lt;a class="heading-link" href="#tldr">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>uvx pdm import pyproject.toml
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>uvx tomlq &lt;span style="color:#cd0000">&amp;#39;del(.tool.poetry)&amp;#39;&lt;/span> -i -t pyproject.toml
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>uvx tomlq &lt;span style="color:#cd0000">&amp;#39;del(.&amp;#34;build-system&amp;#34;)&amp;#39;&lt;/span> -i -t pyproject.toml
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>uvx tomlq &lt;span style="color:#cd0000">&amp;#39;del(.tool.pdm)&amp;#39;&lt;/span> -i -t pyproject.toml
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="migration">
+ Migration
+ &lt;a class="heading-link" href="#migration">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>I managed to migrate my project from Poetry to uv using &lt;a href="https://pdm-project.org/latest/reference/cli/#import" class="external-link" target="_blank" rel="noopener">PDM import command&lt;/a>.&lt;/p>
+&lt;ol start="0">
+&lt;li>You will need uv installed&lt;/li>
+&lt;li>Run PDM import
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>uvx pdm import pyproject.toml
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Remove all &lt;code>[tool.poetry.*]&lt;/code> sections from your &lt;code>pyproject.toml&lt;/code>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>uvx tomlq &lt;span style="color:#cd0000">&amp;#39;del(.tool.poetry)&amp;#39;&lt;/span> -i -t pyproject.toml
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Remove &lt;code>build-system&lt;/code> section from your &lt;code>pyproject.toml&lt;/code>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>uvx tomlq &lt;span style="color:#cd0000">&amp;#39;del(.&amp;#34;build-system&amp;#34;)&amp;#39;&lt;/span> -i -t pyproject.toml
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;li>Remove &lt;code>tool.pdm&lt;/code> sections from your &lt;code>pyproject.toml&lt;/code>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>uvx tomlq &lt;span style="color:#cd0000">&amp;#39;del(.tool.pdm)&amp;#39;&lt;/span> -i -t pyproject.toml
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/li>
+&lt;/ol>
+&lt;h2 id="another-tools">
+ Another tools
+ &lt;a class="heading-link" href="#another-tools">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="poetry-to-uv">
+ poetry-to-uv
+ &lt;a class="heading-link" href="#poetry-to-uv">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>&lt;a href="https://pypi.org/project/poetry-to-uv/" class="external-link" target="_blank" rel="noopener">PyPI&lt;/a> | &lt;a href="https://github.com/PacificGilly/poetry_to_uv" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>
+The code looks fine. I tried, but it failed with this error:&lt;/p></description></item><item><title>2024-12-22 - 2024-12-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</link><pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -1087,19 +1136,15 @@ process, for example) will cause corrupted trees&lt;/li>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=TRJe1gBAFB0" class="external-link" target="_blank" rel="noopener">Homilia Diária | O transplante de coração necessário para rezar (Quarta-feira da 27ª S. do T. Comum)&lt;/a>&lt;/li>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=afv0aZnDz28" class="external-link" target="_blank" rel="noopener">Homilia Diária | Por que a oração deve ser perseverante? (Quinta-feira da 27ª Semana do Tempo Comum)&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-13---2024-10-19/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>Comparing Python package managers</title><link>https://cezimbra.me/anotacoes/comparing-python-package-managers/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/comparing-python-package-managers/</guid><description>&lt;h2 id="pyprojecttoml-spec">
- pyproject.toml spec
- &lt;a class="heading-link" href="#pyprojecttoml-spec">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://peps.python.org/pep-0517" class="external-link" target="_blank" rel="noopener">PEP 517 – A build-system independent format for source trees&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://peps.python.org/pep-0518" class="external-link" target="_blank" rel="noopener">PEP 518 – Specifying Minimum Build System Requirements for Python Projects&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://peps.python.org/pep-0621" class="external-link" target="_blank" rel="noopener">PEP 621 – Storing project metadata in pyproject.toml&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://packaging.python.org/en/latest/specifications/pyproject-toml/#pyproject-toml-spec" class="external-link" target="_blank" rel="noopener">pyproject.toml specification&lt;/a>&lt;/li>
-&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-13---2024-10-19/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>Comparing Python package managers</title><link>https://cezimbra.me/anotacoes/comparing-python-package-managers/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/comparing-python-package-managers/</guid><description>&lt;script>
+ document.addEventListener("DOMContentLoaded", function () {
+ $('table').DataTable({
+ paging: false,
+ info: false,
+ });
+ });
+&lt;/script>
+
 &lt;h2 id="comparison">
  Comparison
  &lt;a class="heading-link" href="#comparison">
@@ -1115,67 +1160,67 @@ process, for example) will cause corrupted trees&lt;/li>
  &lt;th>Manage Python versions&lt;/th>
  &lt;th>Global cache&lt;/th>
  &lt;th>PEP compliant&lt;/th>
- &lt;th>Upload to PyPI&lt;/th>
+ &lt;th>Packaging/PyPI distribution&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
  &lt;td>Hatch&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>✅&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✔️ only using Hatch build backend&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>pip&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>❌&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>✅&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Pipenv&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>❌&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>❌&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>PDM&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>Poetry&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>❌&lt;/td>
  &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>✔️ only using Poetry build backend&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>uv&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
- &lt;td>&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>✅&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
-&lt;h2 id="uv">
+&lt;h3 id="uv">
  uv
  &lt;a class="heading-link" href="#uv">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
-&lt;/h2>
+&lt;/h3>
 &lt;p>&lt;a href="https://github.com/astral-sh/uv" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> | &lt;a href="https://docs.astral.sh/uv/" class="external-link" target="_blank" rel="noopener">Docs&lt;/a>&lt;/p></description></item><item><title>Profilling pytest tests and fixtures</title><link>https://cezimbra.me/anotacoes/profilling-python-tests/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/profilling-python-tests/</guid><description>&lt;h2 id="pytest---durations">
  pytest &amp;ndash;durations
  &lt;a class="heading-link" href="#pytest---durations">
@@ -6518,6 +6563,8 @@ on your page can access;&lt;/li>
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/migrating-from-poetry-to-uv/" >Migrating from Poetry to uv&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/comparing-python-package-managers/" >Comparing Python package managers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/creating-a-whatsapp-bot/" >Creating a WhatsApp bot&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/" >Weeknotes/2024-12-22 - 2024-12-28&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >Weeknotes/2024-12-15 - 2024-12-21&lt;/a>&lt;/li>
@@ -6548,7 +6595,6 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/storing-trees-in-a-database/" >Storing trees in a database&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >Weeknotes/2024-09-29 - 2024-10-05&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/bash/" >Bash&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/comparing-python-package-managers/" >Comparing Python package managers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/ast-grep-by-example/" >ast-grep by example&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >Weeknotes/2024-09-22 - 2024-09-28&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/linux/" >Linux&lt;/a>&lt;/li>
@@ -6914,9 +6960,9 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode12s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode12s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7309,9 +7355,9 @@ despertou a misericórdia de Deus&lt;/p></description></item><item><title>ChatGP
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode28s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode26s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode28s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode26s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7503,9 +7549,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode44s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode42s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode44s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode42s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -9741,9 +9787,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode88s1hbhb">
+&lt;h2 id="llmhahahugoshortcode93s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode88s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode93s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
