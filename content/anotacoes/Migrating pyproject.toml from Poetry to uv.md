@@ -1,5 +1,5 @@
 ---
-title: Migrating from Poetry to uv
+title: Migrating pyproject.toml from Poetry to uv
 date: 2024-12-30
 lastmod: 2024-12-30
 ---

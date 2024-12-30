@@ -8,7 +8,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
-- [Migrating from Poetry to uv]({{< ref "Migrating from Poetry to uv" >}})
+- [Migrating pyproject.toml from Poetry to uv]({{< ref "Migrating pyproject.toml from Poetry to uv" >}})
 - [Comparing Python package managers]({{< ref "Comparing Python package managers" >}})
 - [Creating a WhatsApp bot]({{< ref "Creating a WhatsApp bot" >}})
 - [Weeknotes/2024-12-22 - 2024-12-28]({{< ref "Weeknotes/2024-12-22 - 2024-12-28" >}})
