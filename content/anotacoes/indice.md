@@ -1,13 +1,15 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2024-12-29
+lastmod: 2024-12-30
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Migrating from Poetry to uv]({{< ref "Migrating from Poetry to uv" >}})
+- [Comparing Python package managers]({{< ref "Comparing Python package managers" >}})
 - [Creating a WhatsApp bot]({{< ref "Creating a WhatsApp bot" >}})
 - [Weeknotes/2024-12-22 - 2024-12-28]({{< ref "Weeknotes/2024-12-22 - 2024-12-28" >}})
 - [Weeknotes/2024-12-15 - 2024-12-21]({{< ref "Weeknotes/2024-12-15 - 2024-12-21" >}})
@@ -38,7 +40,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Storing trees in a database]({{< ref "Storing trees in a database" >}})
 - [Weeknotes/2024-09-29 - 2024-10-05]({{< ref "Weeknotes/2024-09-29 - 2024-10-05" >}})
 - [Bash]({{< ref "Bash" >}})
-- [Comparing Python package managers]({{< ref "Comparing Python package managers" >}})
 - [ast-grep by example]({{< ref "ast-grep by example" >}})
 - [Weeknotes/2024-09-22 - 2024-09-28]({{< ref "Weeknotes/2024-09-22 - 2024-09-28" >}})
 - [Linux]({{< ref "Linux" >}})
