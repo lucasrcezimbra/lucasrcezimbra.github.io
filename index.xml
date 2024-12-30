@@ -5,7 +5,8 @@
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>uvx pdm import pyproject.toml
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>pipx install uv
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>uvx pdm import pyproject.toml
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>uvx tomlq &lt;span style="color:#cd0000">&amp;#39;del(.tool.poetry)&amp;#39;&lt;/span> -i -t pyproject.toml
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>uvx tomlq &lt;span style="color:#cd0000">&amp;#39;del(.&amp;#34;build-system&amp;#34;)&amp;#39;&lt;/span> -i -t pyproject.toml
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>uvx tomlq &lt;span style="color:#cd0000">&amp;#39;del(.tool.pdm)&amp;#39;&lt;/span> -i -t pyproject.toml
@@ -6959,9 +6960,9 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7354,9 +7355,9 @@ despertou a misericórdia de Deus&lt;/p></description></item><item><title>ChatGP
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode27s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode25s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode27s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode25s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7548,9 +7549,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode43s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode42s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode43s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode42s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -9786,9 +9787,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode87s1hbhb">
+&lt;h2 id="llmhahahugoshortcode90s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode87s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode90s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
