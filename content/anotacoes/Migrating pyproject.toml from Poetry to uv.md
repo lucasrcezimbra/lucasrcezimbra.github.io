@@ -36,6 +36,7 @@ I managed to migrate my project from Poetry to uv using [PDM import command](htt
 ## Another tools
 ### poetry-to-uv
 [PyPI](https://pypi.org/project/poetry-to-uv/) | [GitHub](https://github.com/PacificGilly/poetry_to_uv)
+
 The code looks fine. I tried, but it failed with this error:
 
 ```shell
@@ -51,14 +52,12 @@ I guess it was because my `pyproject.toml` had some dependencies installed
 using git, but I didn't investigated further.
 
 ### uv-migrator
-[crates.io](https://crates.io/crates/uv-migrator) |
-[GitHub](https://github.com/stvnksslr/uv-migrator)
+[crates.io](https://crates.io/crates/uv-migrator) | [GitHub](https://github.com/stvnksslr/uv-migrator)
 
 I didn't try this one.
 
 ### migrate-to-uv
-[PyPI](https://pypi.org/project/migrate-to-uv/) |
-[GitHub](https://github.com/mkniewallner/migrate-to-uv)
+[PyPI](https://pypi.org/project/migrate-to-uv/) | [GitHub](https://github.com/mkniewallner/migrate-to-uv)
 
 I didn't try this one.
 
