@@ -6,6 +6,7 @@ lastmod: 2024-12-30
 
 ## TL;DR
 ```shell
+pipx install uv
 uvx pdm import pyproject.toml
 uvx tomlq 'del(.tool.poetry)' -i -t pyproject.toml
 uvx tomlq 'del(."build-system")' -i -t pyproject.toml
