@@ -97,7 +97,7 @@ I guessed it was because my comment had `, so I removed them and it worked. Open
 
 
 #### Back and forth
-I gave up on this issue and tried others. After some back and forth, I gave up on OpenHands and solved all the issues myself.
+After some back and forth, I gave up on this issue and tried with others. After more back and forth, I gave up on OpenHands at all and solved all the issues myself.
 
 You can follow the back and forth in the PRs: [feat(#488): Makefile · #500](https://github.com/lucasrcezimbra/django-template/pull/500), [Fix issue #501: style: add ruff rules "N804", "N805" · #503](https://github.com/lucasrcezimbra/django-template/pull/503), and [Fix issue #504: Run lint and tests for generated projects · #505](https://github.com/lucasrcezimbra/django-template/pull/505)
 
