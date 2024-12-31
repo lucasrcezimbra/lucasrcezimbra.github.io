@@ -1,16 +1,18 @@
 ---
-title: Testing AI Software "Engineers"
+title: Testing Autonomous Coders (or AI SWE)
 date: 2024-12-26
 lastmod: 2024-12-31
 ---
 
+
+I created this [list of AI Software "Engineers"](https://toolbox.cezimbra.me/lists/ai-software-engineers/).
 
 I used my project [django-template](https://github.com/lucasrcezimbra/django-template) as a test.
 It has a straightforward issue that any AI/developer should be able to solve: [Makefile #488](https://github.com/lucasrcezimbra/django-template/issues/488)
 
 
 
-## All-Hands-AI/OpenHands
+## OpenHands
 [Homepage](https://www.all-hands.dev/) | [GitHub](https://github.com/All-Hands-AI/OpenHands/) | [Docs](https://docs.all-hands.dev/modules/usage/installation)
 
 OpenHands was the first AI SWE I tested.
