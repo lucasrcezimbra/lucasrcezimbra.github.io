@@ -33,7 +33,7 @@ docker run -it --rm --pull=always \
     docker.all-hands.dev/all-hands-ai/openhands:0.16
 ```
 
-I created a (free tier) EC2 instance on AWS:
+Because I didn't review the code, and the Docker command needed some untrusted permissions, I created a (free tier) EC2 instance on AWS to run it:
 
 - OS: Amazon Linux 2023 AMI
 - Instance type: t2.micro
