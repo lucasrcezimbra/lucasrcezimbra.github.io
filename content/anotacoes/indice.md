@@ -9,7 +9,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2024-12-29 - 2025-01-04]({{< ref "Weeknotes/2024-12-29 - 2025-01-04" >}})
-- [Testing AI Software "Engineers"]({{< ref "Testing AI Software "Engineers"" >}})
+- [Testing AI Software "Engineers"]({{< ref "Testing AI Software \"Engineers\"" >}})
 - [Livros]({{< ref "Livros" >}})
 - [Migrating pyproject.toml from Poetry to uv]({{< ref "Migrating pyproject.toml from Poetry to uv" >}})
 - [Comparing Python package managers]({{< ref "Comparing Python package managers" >}})
