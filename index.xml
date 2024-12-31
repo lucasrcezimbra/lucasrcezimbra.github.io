@@ -6601,6 +6601,7 @@ on your page can access;&lt;/li>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-29---2025-01-04/" >Weeknotes/2024-12-29 - 2025-01-04&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/livros/" >Livros&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/migrating-pyproject.toml-from-poetry-to-uv/" >Migrating pyproject.toml from Poetry to uv&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/comparing-python-package-managers/" >Comparing Python package managers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/creating-a-whatsapp-bot/" >Creating a WhatsApp bot&lt;/a>&lt;/li>
@@ -6618,7 +6619,6 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/git/" >Git&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/designing-a-multi-tenant-django-app/" >Designing a multi-tenant Django app&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-03---2024-11-09/" >Weeknotes/2024-11-03 - 2024-11-09&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/livros/" >Livros&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/profilling-python-tests/" >Profilling Python tests&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/postgresql/" >PostgreSQL&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-10-27---2024-11-02/" >Weeknotes/2024-10-27 - 2024-11-02&lt;/a>&lt;/li>
@@ -6998,9 +6998,9 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode12s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode12s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7393,9 +7393,9 @@ despertou a misericórdia de Deus&lt;/p></description></item><item><title>ChatGP
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode28s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode26s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode28s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode26s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7587,9 +7587,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode42s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode56s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode42s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode56s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -8496,7 +8496,7 @@ exists.&lt;/li>
  
  &lt;td>O Clube dos Negócios Estranhos&lt;/td>
  
- &lt;td>👀&lt;/td>
+ &lt;td>✅&lt;/td>
  
  &lt;td>📗&lt;/td>
  
@@ -9418,6 +9418,38 @@ exists.&lt;/li>
  
  &lt;/tr>
  
+ &lt;tr>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>Historia da Literatura Ocidental&lt;/td>
+ 
+ &lt;td>☑&lt;/td>
+ 
+ &lt;td>🛒&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
+ &lt;tr>
+ 
+ &lt;td>Angela Pellicciari&lt;/td>
+ 
+ &lt;td>História da Igreja: marcas da presença de Cristo no mundo&lt;/td>
+ 
+ &lt;td>👀&lt;/td>
+ 
+ &lt;td>📗&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;td>&lt;/td>
+ 
+ &lt;/tr>
+ 
  &lt;/tbody>
  &lt;/table>
  
@@ -9825,9 +9857,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode96s1hbhb">
+&lt;h2 id="llmhahahugoshortcode88s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode96s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode88s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
