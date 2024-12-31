@@ -123,7 +123,35 @@ Pellicciari&lt;/li>
 &lt;ul>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=SJSuLR8XmoI" class="external-link" target="_blank" rel="noopener">Homilia Diária | O Menino que é a esperança de todos nós (6.º dia da Oitava do Natal)&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2024-12-22 - 2024-12-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</link><pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>Testing AI Software "Engineers"</title><link>https://cezimbra.me/anotacoes/testing-ai-software-engineers/</link><pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/testing-ai-software-engineers/</guid><description>&lt;p>I used my project &lt;a href="https://github.com/lucasrcezimbra/django-template" class="external-link" target="_blank" rel="noopener">django-template&lt;/a> as a test.
+It has a straightforward issue that any AI/developer should be able to solve: &lt;a href="https://github.com/lucasrcezimbra/django-template/issues/488" class="external-link" target="_blank" rel="noopener">Makefile #488&lt;/a>&lt;/p>
+&lt;h2 id="all-hands-aiopenhands">
+ All-Hands-AI/OpenHands
+ &lt;a class="heading-link" href="#all-hands-aiopenhands">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>&lt;a href="https://www.all-hands.dev/" class="external-link" target="_blank" rel="noopener">Homepage&lt;/a> | &lt;a href="https://github.com/All-Hands-AI/OpenHands/" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> | &lt;a href="https://docs.all-hands.dev/modules/usage/installation" class="external-link" target="_blank" rel="noopener">Docs&lt;/a>&lt;/p>
+&lt;p>OpenHands was the first AI SWE I tested.&lt;/p>
+&lt;h3 id="attempt-1-using-docker">
+ Attempt 1. Using Docker
+ &lt;a class="heading-link" href="#attempt-1-using-docker">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>First I tried the Quick Start approach from the &lt;a href="https://github.com/All-Hands-AI/OpenHands/blob/172183f1af9ae39118823e8eeaa86cf0b34e4a1e/README.md" class="external-link" target="_blank" rel="noopener">README&lt;/a> that uses Docker:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>docker run -it --rm --pull&lt;span style="color:#39c">=&lt;/span>always &lt;span style="color:#cd0000">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span> -e &lt;span style="color:#00cdcd">SANDBOX_RUNTIME_CONTAINER_IMAGE&lt;/span>&lt;span style="color:#39c">=&lt;/span>docker.all-hands.dev/all-hands-ai/runtime:0.16-nikolaik &lt;span style="color:#cd0000">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span> -e &lt;span style="color:#00cdcd">LOG_ALL_EVENTS&lt;/span>&lt;span style="color:#39c">=&lt;/span>&lt;span style="color:#cd00cd">true&lt;/span> &lt;span style="color:#cd0000">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span> -v /var/run/docker.sock:/var/run/docker.sock &lt;span style="color:#cd0000">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span> -v ~/.openhands:/home/openhands/.openhands &lt;span style="color:#cd0000">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span> -p 3000:3000 &lt;span style="color:#cd0000">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span> --add-host host.docker.internal:host-gateway &lt;span style="color:#cd0000">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span> --name openhands-app &lt;span style="color:#cd0000">\
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd0000">&lt;/span> docker.all-hands.dev/all-hands-ai/openhands:0.16
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>I created a (free tier) EC2 instance on AWS:&lt;/p></description></item><item><title>2024-12-22 - 2024-12-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</link><pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -6601,6 +6629,7 @@ on your page can access;&lt;/li>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-29---2025-01-04/" >Weeknotes/2024-12-29 - 2025-01-04&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/testing-ai-software-engineers/" >Testing AI Software &amp;ldquo;Engineers&amp;rdquo;&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/livros/" >Livros&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/migrating-pyproject.toml-from-poetry-to-uv/" >Migrating pyproject.toml from Poetry to uv&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/comparing-python-package-managers/" >Comparing Python package managers&lt;/a>&lt;/li>
@@ -6998,9 +7027,9 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode12s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode12s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7587,9 +7616,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode56s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode43s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode56s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode43s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -9857,9 +9886,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode88s1hbhb">
+&lt;h2 id="llmhahahugoshortcode89s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode88s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode89s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
