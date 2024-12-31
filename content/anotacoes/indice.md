@@ -9,6 +9,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2024-12-29 - 2025-01-04]({{< ref "Weeknotes/2024-12-29 - 2025-01-04" >}})
+- [Livros]({{< ref "Livros" >}})
 - [Migrating pyproject.toml from Poetry to uv]({{< ref "Migrating pyproject.toml from Poetry to uv" >}})
 - [Comparing Python package managers]({{< ref "Comparing Python package managers" >}})
 - [Creating a WhatsApp bot]({{< ref "Creating a WhatsApp bot" >}})
@@ -26,7 +27,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Git]({{< ref "Git" >}})
 - [Designing a multi-tenant Django app]({{< ref "Designing a multi-tenant Django app" >}})
 - [Weeknotes/2024-11-03 - 2024-11-09]({{< ref "Weeknotes/2024-11-03 - 2024-11-09" >}})
-- [Livros]({{< ref "Livros" >}})
 - [Profilling Python tests]({{< ref "Profilling Python tests" >}})
 - [PostgreSQL]({{< ref "PostgreSQL" >}})
 - [Weeknotes/2024-10-27 - 2024-11-02]({{< ref "Weeknotes/2024-10-27 - 2024-11-02" >}})
