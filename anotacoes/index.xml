@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>Migrating pyproject.toml from Poetry to uv</title><link>https://cezimbra.me/anotacoes/migrating-pyproject.toml-from-poetry-to-uv/</link><pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/migrating-pyproject.toml-from-poetry-to-uv/</guid><description>&lt;h2 id="tldr">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>Migrating pyproject.toml from Poetry to uv</title><link>https://cezimbra.me/anotacoes/migrating-pyproject.toml-from-poetry-to-uv/</link><pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/migrating-pyproject.toml-from-poetry-to-uv/</guid><description>&lt;h2 id="tldr">
  TL;DR
  &lt;a class="heading-link" href="#tldr">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -94,6 +94,8 @@ Pellicciari&lt;/li>
 &lt;li>&lt;a href="https://hunterwalk.com/2024/12/30/if-you-dont-like-sales-dont-start-a-company/" class="external-link" target="_blank" rel="noopener">If You Don&amp;rsquo;t Like Sales, Don&amp;rsquo;t Start a Company | Hunter Walk&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://scottrichmond.me/the-web-is-too-big" class="external-link" target="_blank" rel="noopener">The web is too big, or scaling down | Scott C. Richmond&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://avi.im/blag/2024/sqlite-facts" class="external-link" target="_blank" rel="noopener">Collection of insane and fun facts about SQLite - blag&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/" class="external-link" target="_blank" rel="noopener">The Future of Web Software Is HTML-over-WebSockets&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.nngroup.com/articles/the-need-for-speed/" class="external-link" target="_blank" rel="noopener">The Need for Speed, 23 Years Later&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-news">
  Read news
@@ -116,6 +118,7 @@ Pellicciari&lt;/li>
 &lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=0rlATWBNvMw" class="external-link" target="_blank" rel="noopener">DHH discusses SQLite (and Stoicism)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=927W6zzvV-c" class="external-link" target="_blank" rel="noopener">I Paid $500 For Devin And Found Critical Security Issues&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=wbRViRwflbI" class="external-link" target="_blank" rel="noopener">My Favorite Home Lab So Far&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=TFymV80ZuAo" class="external-link" target="_blank" rel="noopener">Twitter Clone with StimulusReflex gone Hybrid Native App&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="listened">
  Listened
@@ -406,7 +409,7 @@ removed loguru from the project.&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=nsQM81djZ2A" class="external-link" target="_blank" rel="noopener">Homilia Diária | A divindade de Cristo e o perdão dos pecados (Segunda-feira da 2ª Sem. do Advento) - YouTube&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=nsQM81djZ2A" class="external-link" target="_blank" rel="noopener">Homilia Diária | A divindade de Cristo e o perdão dos pecados (Segunda-feira da 2ª Sem. do Advento) - YouTube&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-01---2024-12-07/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>2024-12-01 - 2024-12-07</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-01---2024-12-07/</link><pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-01---2024-12-07/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-11-17---2024-11-23/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
@@ -562,7 +565,6 @@ additional header: &lt;code>Access-Control-Expose-Headers: &amp;lt;accessible-he
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=0rlATWBNvMw" class="external-link" target="_blank" rel="noopener">DHH discusses SQLite (and Stoicism)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=qZO9A5F6BZs" class="external-link" target="_blank" rel="noopener">Vim As You Editor - Advanced Motions P1&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=uL9oOZStezw" class="external-link" target="_blank" rel="noopener">Vim as your editor - Advanced Motions P2&lt;/a>&lt;/li>
 &lt;/ul>
@@ -1820,11 +1822,11 @@ devices&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=49et8xI_B24" class="external-link" target="_blank" rel="noopener">Homilia Diária | Um monumento para lembrar aos padres o que eles são (Mem. de S. Pio de Pietrelcina)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=ed_6qL-GKUk" class="external-link" target="_blank" rel="noopener">Homilia Diária | Aquela que acolheu a Palavra e produziu frutos (Terça-feira da 25ª S. do T. Comum)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=QIUVn2eLXfQ" class="external-link" target="_blank" rel="noopener">Homilia Diária | Sem a graça, não há verdadeira missão (Quarta-feira da 25.ª Semana do Tempo Comum)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=oD7eimD3fZw" class="external-link" target="_blank" rel="noopener">Homilia Diária | O mal da concupiscência dos olhos (Quinta-feira da 25.ª Semana do Tempo Comum)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=JkbDh8mFvrg" class="external-link" target="_blank" rel="noopener">Homilia Diária | O principal objetivo das obras de caridade (Memória de São Vicente de Paulo)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=49et8xI_B24" class="external-link" target="_blank" rel="noopener">Homilia Diária | Um monumento para lembrar aos padres o que eles são (Mem. de S. Pio de Pietrelcina)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=ed_6qL-GKUk" class="external-link" target="_blank" rel="noopener">Homilia Diária | Aquela que acolheu a Palavra e produziu frutos (Terça-feira da 25ª S. do T. Comum)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=QIUVn2eLXfQ" class="external-link" target="_blank" rel="noopener">Homilia Diária | Sem a graça, não há verdadeira missão (Quarta-feira da 25.ª Semana do Tempo Comum)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=oD7eimD3fZw" class="external-link" target="_blank" rel="noopener">Homilia Diária | O mal da concupiscência dos olhos (Quinta-feira da 25.ª Semana do Tempo Comum)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=JkbDh8mFvrg" class="external-link" target="_blank" rel="noopener">Homilia Diária | O principal objetivo das obras de caridade (Memória de São Vicente de Paulo)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-29---2024-10-05/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>2024-09-15 - 2024-09-21</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/</link><pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-08---2024-09-14/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
@@ -1950,8 +1952,6 @@ decentralized social network protocols&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=X6AR2RMB5tE" class="external-link" target="_blank" rel="noopener">Vim As Your Editor - Introduction&lt;/a>&lt;/li>
-&lt;li>(pt-BR) (in progress) &lt;a href="https://www.youtube.com/watch?v=q6w4Ja-KlqI" class="external-link" target="_blank" rel="noopener">VAMOS CRIAR UM LANÇAMENTO 100% POR IA (NOSSA IA) | LIVE #29&lt;/a>&lt;/li>
-&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=xh-iMBOXl6M" class="external-link" target="_blank" rel="noopener">Radical Simplicity&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="listened">
  Listened
@@ -7417,9 +7417,9 @@ despertou a misericórdia de Deus&lt;/p></description></item><item><title>ChatGP
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode27s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode28s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode27s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode28s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7611,9 +7611,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode43s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode42s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode43s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode42s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -9881,9 +9881,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode89s1hbhb">
+&lt;h2 id="llmhahahugoshortcode90s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode89s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode90s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
