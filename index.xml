@@ -1,4 +1,180 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Sat, 04 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>Migrating pyproject.toml from Poetry to uv</title><link>https://cezimbra.me/anotacoes/migrating-pyproject.toml-from-poetry-to-uv/</link><pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/migrating-pyproject.toml-from-poetry-to-uv/</guid><description>&lt;h2 id="tldr">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 09 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>Simple Made Easy</title><link>https://cezimbra.me/anotacoes/videos/simple-made-easy/</link><pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/videos/simple-made-easy/</guid><description>&lt;p>&lt;a href="https://www.youtube.com/watch?v=SxdOUGdseq4" class="external-link" target="_blank" rel="noopener">&amp;ldquo;Simple Made Easy&amp;rdquo; - Rich Hickey (2011)&lt;/a>&lt;/p>
+&lt;h2 id="tldr">
+ TL;DR
+ &lt;a class="heading-link" href="#tldr">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Simple vs. easy: simple means is not complex or entangled. Easy means
+familiar or near to our understanding.&lt;/li>
+&lt;li>Construct vs. Artifact: construct is the codebase. Artifact is what we deliver&lt;/li>
+&lt;li>We can make software simple by choosing constructs with simpler artifacts and
+avoiding constructs that have complex artifacts.&lt;/li>
+&lt;li>Human limits: we can only keep a few things in our mind at a time&lt;/li>
+&lt;li>The Complexity vs. Simplicity part was to abstract and doesn&amp;rsquo;t have code
+examples&lt;/li>
+&lt;/ul>
+&lt;h2 id="simple-vs-easy">
+ Simple vs. Easy
+ &lt;a class="heading-link" href="#simple-vs-easy">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="simple">
+ Simple
+ &lt;a class="heading-link" href="#simple">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>one fold/braid: one role, one task, one concept&lt;/li>
+&lt;li>but not: one instance, one operation&lt;/li>
+&lt;li>about lack of interleaving, not cardinality&lt;/li>
+&lt;li>objective&lt;/li>
+&lt;/ul>
+&lt;h3 id="easy">
+ Easy
+ &lt;a class="heading-link" href="#easy">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Near(by), at hand: on our hard drive, in our tool set, IDE, apt get, gem
+install, etc.&lt;/li>
+&lt;li>Near to our understanding/skill set: familiar&lt;/li>
+&lt;li>Near to our capabilities&lt;/li>
+&lt;li>Easy is relative, unlike simple&lt;/li>
+&lt;/ul>
+&lt;h2 id="construct-vs-artifact">
+ Construct vs Artifact
+ &lt;a class="heading-link" href="#construct-vs-artifact">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Construct is the codebase&lt;/li>
+&lt;li>Artifact is what we deliver&lt;/li>
+&lt;li>We focus on experience of use of construct (programmer convenience and
+replaceability) rather than the long term results of use (software quality,
+correctness, maintenance, change)&lt;/li>
+&lt;li>We must assess contructs by their artifacts&lt;/li>
+&lt;/ul>
+&lt;h2 id="human-limits">
+ Human Limits
+ &lt;a class="heading-link" href="#human-limits">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>We can only hope to make reliable those things we can understand&lt;/li>
+&lt;li>We can only consider (keep on our mind) a few things at a time&lt;/li>
+&lt;li>Related to &lt;a href="https://github.com/zakirullin/cognitive-load/" class="external-link" target="_blank" rel="noopener">https://github.com/zakirullin/cognitive-load/&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="misc">
+ Misc
+ &lt;a class="heading-link" href="#misc">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;blockquote>
+&lt;p>If you want everything to be familiar, you will never learn anything new,
+because it can&amp;rsquo;t be significantly different from what you already know.&lt;/p></description></item><item><title>2025-01-05 - 2025-01-11</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-01-05---2025-01-11/</link><pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-01-05---2025-01-11/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-29---2025-01-04/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+&lt;h2 id="books-being-read">
+ Books being read
+ &lt;a class="heading-link" href="#books-being-read">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(pt-BR) Conversas Cruciais - Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan &amp;amp;
+Al Switzler &amp;amp; Emily Gregory&lt;/li>
+&lt;li>(pt-BR) História da Igreja: marcas da presença de Cristo no mundo - Angela
+Pellicciari&lt;/li>
+&lt;li>(pt-BR) História bíblica: narrativas do Antigo e do Novo Testamento - Dom
+Antônio de Macedo Costa&lt;/li>
+&lt;/ul>
+&lt;h2 id="discovered-tools">
+ Discovered tools
+ &lt;a class="heading-link" href="#discovered-tools">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://open.plantbook.io" class="external-link" target="_blank" rel="noopener">Open Plantbook&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="learned">
+ Learned
+ &lt;a class="heading-link" href="#learned">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="read-articles">
+ Read articles
+ &lt;a class="heading-link" href="#read-articles">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://htmx.org/essays/future" class="external-link" target="_blank" rel="noopener">htmx ~ The future of htmx&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.jonashietala.se/blog/2025/01/06/first_impressions_of_ghostty" class="external-link" target="_blank" rel="noopener">Jonas Hietala: First impressions of Ghostty&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://smarthomescene.com/guides/how-to-build-a-stable-and-robust-zigbee-network" class="external-link" target="_blank" rel="noopener">How To Build a Stable and Robust Zigbee Network - SmartHomeScene&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="read-news">
+ Read news
+ &lt;a class="heading-link" href="#read-news">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="watched">
+ Watched
+ &lt;a class="heading-link" href="#watched">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=0rlATWBNvMw" class="external-link" target="_blank" rel="noopener">DHH discusses SQLite (and Stoicism)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=X4blR5Ua3S0" class="external-link" target="_blank" rel="noopener">This tiny computer changes EVERYTHING&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=eDr6_cMtfdA" class="external-link" target="_blank" rel="noopener">Small Data&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=SxdOUGdseq4" class="external-link" target="_blank" rel="noopener">&amp;ldquo;Simple Made Easy&amp;rdquo; - Rich Hickey (2011)&lt;/a>
+&lt;ul>
+&lt;li>Notes: &lt;a href="https://cezimbra.me/anotacoes/videos/simple-made-easy/" >Videos/Simple Made Easy&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="listened">
+ Listened
+ &lt;a class="heading-link" href="#listened">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=OOg-vG4LGgM" class="external-link" target="_blank" rel="noopener">Homilia Diária | A Luz de Cristo, muito mais que uma metáfora (Segunda-feira depois da Epifania)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=_6myFRXRUbg" class="external-link" target="_blank" rel="noopener">Homilia Diária | A multiplicação dos pães e a história da salvação (Terça-feira depois da Epifania)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=-m3bIQS5i-s" class="external-link" target="_blank" rel="noopener">Homilia Diária | Corações que só querem se servir de Deus (Quarta-feira depois da Epifania)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=qSpIdM7H_7k" class="external-link" target="_blank" rel="noopener">Homilia Diária | O preço da verdadeira libertação (Quinta-feira depois da Epifania)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-29---2025-01-04/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>Migrating pyproject.toml from Poetry to uv</title><link>https://cezimbra.me/anotacoes/migrating-pyproject.toml-from-poetry-to-uv/</link><pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/migrating-pyproject.toml-from-poetry-to-uv/</guid><description>&lt;h2 id="tldr">
  TL;DR
  &lt;a class="heading-link" href="#tldr">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -72,16 +248,8 @@ Pellicciari&lt;/li>
 &lt;li>&lt;a href="https://geminiprotocol.net" class="external-link" target="_blank" rel="noopener">Project Gemini&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://spritely.institute" class="external-link" target="_blank" rel="noopener">Spritely Institute&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://100r.co/site/uxn.html" class="external-link" target="_blank" rel="noopener">100R - uxn&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="learned">
- Learned
- &lt;a class="heading-link" href="#learned">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;/li>
+&lt;li>&lt;a href="https://youmightnotneedjquery.com" class="external-link" target="_blank" rel="noopener">You Might Not Need jQuery&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://staticsitegenerators.net" class="external-link" target="_blank" rel="noopener">Static Site Generators&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-articles">
  Read articles
@@ -94,18 +262,10 @@ Pellicciari&lt;/li>
 &lt;li>&lt;a href="https://hunterwalk.com/2024/12/30/if-you-dont-like-sales-dont-start-a-company/" class="external-link" target="_blank" rel="noopener">If You Don&amp;rsquo;t Like Sales, Don&amp;rsquo;t Start a Company | Hunter Walk&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://scottrichmond.me/the-web-is-too-big" class="external-link" target="_blank" rel="noopener">The web is too big, or scaling down | Scott C. Richmond&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://avi.im/blag/2024/sqlite-facts" class="external-link" target="_blank" rel="noopener">Collection of insane and fun facts about SQLite - blag&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://benhoyt.com/writings/the-small-web-is-beautiful" class="external-link" target="_blank" rel="noopener">The small web is beautiful&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://ar.al/2020/08/07/what-is-the-small-web" class="external-link" target="_blank" rel="noopener">What is the Small Web? – Aral Balkan&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/" class="external-link" target="_blank" rel="noopener">The Future of Web Software Is HTML-over-WebSockets&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.nngroup.com/articles/the-need-for-speed/" class="external-link" target="_blank" rel="noopener">The Need for Speed, 23 Years Later&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="read-news">
- Read news
- &lt;a class="heading-link" href="#read-news">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;/li>
 &lt;/ul>
 &lt;h2 id="watched">
  Watched
@@ -115,10 +275,11 @@ Pellicciari&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=0rlATWBNvMw" class="external-link" target="_blank" rel="noopener">DHH discusses SQLite (and Stoicism)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=927W6zzvV-c" class="external-link" target="_blank" rel="noopener">I Paid $500 For Devin And Found Critical Security Issues&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=wbRViRwflbI" class="external-link" target="_blank" rel="noopener">My Favorite Home Lab So Far&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=TFymV80ZuAo" class="external-link" target="_blank" rel="noopener">Twitter Clone with StimulusReflex gone Hybrid Native App&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=jB0vBmiTr6o" class="external-link" target="_blank" rel="noopener">elevated by Rgba &amp;amp; TBC | 4k intro (FullHD 1080p demoscene demo)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=ugaLp6BIkgo" class="external-link" target="_blank" rel="noopener">i tried to warn you.&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="listened">
  Listened
@@ -129,6 +290,7 @@ Pellicciari&lt;/li>
 &lt;/h2>
 &lt;ul>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=SJSuLR8XmoI" class="external-link" target="_blank" rel="noopener">Homilia Diária | O Menino que é a esperança de todos nós (6.º dia da Oitava do Natal)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=DWu1Nb8XBSA" class="external-link" target="_blank" rel="noopener">Homilia Diária | O nome pelo qual somos salvos (Memória do Santíssimo Nome de Jesus)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>Testing Autonomous Coders (or AI SWE)</title><link>https://cezimbra.me/anotacoes/testing-autonomous-coders-or-ai-swe/</link><pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/testing-autonomous-coders-or-ai-swe/</guid><description>&lt;p>I created this &lt;a href="https://toolbox.cezimbra.me/lists/ai-software-engineers/" class="external-link" target="_blank" rel="noopener">list of AI Software &amp;ldquo;Engineers&amp;rdquo;&lt;/a>.&lt;/p>
 &lt;p>I used my project &lt;a href="https://github.com/lucasrcezimbra/django-template" class="external-link" target="_blank" rel="noopener">django-template&lt;/a> as a test.
@@ -6623,6 +6785,8 @@ on your page can access;&lt;/li>
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/videos/simple-made-easy/" >Videos/Simple Made Easy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-01-05---2025-01-11/" >Weeknotes/2025-01-05 - 2025-01-11&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-29---2025-01-04/" >Weeknotes/2024-12-29 - 2025-01-04&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/testing-autonomous-coders-or-ai-swe/" >Testing Autonomous Coders (or AI SWE)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/livros/" >Livros&lt;/a>&lt;/li>
@@ -7022,9 +7186,9 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7611,9 +7775,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode42s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode44s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode42s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode44s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -9881,9 +10045,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode90s1hbhb">
+&lt;h2 id="llmhahahugoshortcode108s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode90s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode108s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
