@@ -223,7 +223,7 @@ Antônio de Macedo Costa&lt;/li>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h3>
-&lt;p>&lt;a href="https://pypi.org/project/poetry-to-uv/" class="external-link" target="_blank" rel="noopener">PyPI&lt;/a> | &lt;a href="https://github.com/PacificGilly/poetry_to_uv" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/p></description></item><item><title>2024-12-29 - 2025-01-04</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-29---2025-01-04/</link><pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-29---2025-01-04/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+&lt;p>&lt;a href="https://pypi.org/project/poetry-to-uv/" class="external-link" target="_blank" rel="noopener">PyPI&lt;/a> | &lt;a href="https://github.com/PacificGilly/poetry_to_uv" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/p></description></item><item><title>2024-12-29 - 2025-01-04</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-29---2025-01-04/</link><pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-29---2025-01-04/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-01-05---2025-01-11/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -292,7 +292,7 @@ Pellicciari&lt;/li>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=SJSuLR8XmoI" class="external-link" target="_blank" rel="noopener">Homilia Diária | O Menino que é a esperança de todos nós (6.º dia da Oitava do Natal)&lt;/a>&lt;/li>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=DWu1Nb8XBSA" class="external-link" target="_blank" rel="noopener">Homilia Diária | O nome pelo qual somos salvos (Memória do Santíssimo Nome de Jesus)&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>Testing Autonomous Coders (or AI SWE)</title><link>https://cezimbra.me/anotacoes/testing-autonomous-coders-or-ai-swe/</link><pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/testing-autonomous-coders-or-ai-swe/</guid><description>&lt;p>I created this &lt;a href="https://toolbox.cezimbra.me/lists/ai-software-engineers/" class="external-link" target="_blank" rel="noopener">list of AI Software &amp;ldquo;Engineers&amp;rdquo;&lt;/a>.&lt;/p>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-01-05---2025-01-11/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>Testing Autonomous Coders (or AI SWE)</title><link>https://cezimbra.me/anotacoes/testing-autonomous-coders-or-ai-swe/</link><pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/testing-autonomous-coders-or-ai-swe/</guid><description>&lt;p>I created this &lt;a href="https://toolbox.cezimbra.me/lists/ai-software-engineers/" class="external-link" target="_blank" rel="noopener">list of AI Software &amp;ldquo;Engineers&amp;rdquo;&lt;/a>.&lt;/p>
 &lt;p>I used my project &lt;a href="https://github.com/lucasrcezimbra/django-template" class="external-link" target="_blank" rel="noopener">django-template&lt;/a> as a test.
 It has a straightforward issue that any AI/developer should be able to solve: &lt;a href="https://github.com/lucasrcezimbra/django-template/issues/488" class="external-link" target="_blank" rel="noopener">Makefile #488&lt;/a>&lt;/p>
 &lt;h2 id="openhands">
@@ -311,7 +311,7 @@ It has a straightforward issue that any AI/developer should be able to solve: &l
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h3>
-&lt;p>First I tried the Quick Start approach from the &lt;a href="https://github.com/All-Hands-AI/OpenHands/blob/172183f1af9ae39118823e8eeaa86cf0b34e4a1e/README.md" class="external-link" target="_blank" rel="noopener">README&lt;/a> that uses Docker:&lt;/p></description></item><item><title>2024-12-22 - 2024-12-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</link><pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+&lt;p>First I tried the Quick Start approach from the &lt;a href="https://github.com/All-Hands-AI/OpenHands/blob/172183f1af9ae39118823e8eeaa86cf0b34e4a1e/README.md" class="external-link" target="_blank" rel="noopener">README&lt;/a> that uses Docker:&lt;/p></description></item><item><title>2024-12-22 - 2024-12-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</link><pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-29---2025-01-04/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -349,7 +349,7 @@ Pellicciari&lt;/li>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=w55J9Kuf22w" class="external-link" target="_blank" rel="noopener">Homilia Diária | De onde veio a profundidade de São João? (Festa de S. João, Apóstolo e Evangelista)&lt;/a>&lt;/li>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=xYwnwgoIgSc" class="external-link" target="_blank" rel="noopener">Homilia Diária | O desejo de poder e a matança dos inocentes (Festa dos Santos Inocentes, Mártires)&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2024-12-15 - 2024-12-21</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/</link><pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-29---2025-01-04/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>2024-12-15 - 2024-12-21</title><link>https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/</link><pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -390,12 +390,12 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://www.akitaonrails.com/2024/12/14/refletindo-sobre-alcance-de-redes-sociais-dff9d8fb-b54f-47f8-a013-4e37a54687e3" class="external-link" target="_blank" rel="noopener">Refletindo Sobre Alcance de Redes Sociais | AkitaOnRails.com&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.akitaonrails.com/2024/12/14/refletindo-sobre-alcance-de-redes-sociais-dff9d8fb-b54f-47f8-a013-4e37a54687e3" class="external-link" target="_blank" rel="noopener">Refletindo Sobre Alcance de Redes Sociais | AkitaOnRails.com&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://developer.chrome.com/docs/css-ui/hidden-until-found" class="external-link" target="_blank" rel="noopener">Making collapsed content accessible with hidden=until-found&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://softwaredoug.com/blog/2024/12/14/throwaway-prs-not-design-docs" class="external-link" target="_blank" rel="noopener">Preferring throwaway code over design docs&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://mihaiolteanu.me/interactive-dev" class="external-link" target="_blank" rel="noopener">A high-velocity style of software development&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>Creating a WhatsApp bot</title><link>https://cezimbra.me/anotacoes/creating-a-whatsapp-bot/</link><pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/creating-a-whatsapp-bot/</guid><description>&lt;h2 id="requirements">
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-08---2024-12-14/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>Creating a WhatsApp bot</title><link>https://cezimbra.me/anotacoes/creating-a-whatsapp-bot/</link><pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/creating-a-whatsapp-bot/</guid><description>&lt;h2 id="requirements">
  Requirements
  &lt;a class="heading-link" href="#requirements">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -7186,9 +7186,9 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -10045,9 +10045,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode108s1hbhb">
+&lt;h2 id="llmhahahugoshortcode90s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode108s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode90s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
