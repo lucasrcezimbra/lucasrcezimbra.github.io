@@ -1,15 +1,16 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-01-09
+lastmod: 2025-01-15
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
-- [Videos/Simple Made Easy]({{< ref "Videos/Simple Made Easy" >}})
+- [Weeknotes/2025-01-12 - 2025-01-18]({{< ref "Weeknotes/2025-01-12 - 2025-01-18" >}})
 - [Weeknotes/2025-01-05 - 2025-01-11]({{< ref "Weeknotes/2025-01-05 - 2025-01-11" >}})
+- [Videos/Simple Made Easy]({{< ref "Videos/Simple Made Easy" >}})
 - [Weeknotes/2024-12-29 - 2025-01-04]({{< ref "Weeknotes/2024-12-29 - 2025-01-04" >}})
 - [Testing Autonomous Coders (or AI SWE)]({{< ref "Testing Autonomous Coders (or AI SWE)" >}})
 - [Livros]({{< ref "Livros" >}})
