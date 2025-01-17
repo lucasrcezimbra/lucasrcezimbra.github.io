@@ -1,7 +1,7 @@
 ---
 title: "Docker"
 date: 2023-08-15
-lastmod: 2023-10-13
+lastmod: 2025-01-17
 ---
 - Error: `Bind for 0.0.0.0:8080 failed: port is already allocated` #troubleshooting
 	- `sudo netstat -tulpn | grep LISTEN`
@@ -14,3 +14,5 @@ lastmod: 2023-10-13
 	- `sudo shutdown -r now`
 	- If reboot doesn't work: `sudo update-alternatives --set iptables /usr/sbin/iptables-legacy && sudo update-alternatives --set ip6tables /usr/sbin/ip6tables-legacy`
 - [export command](https://docs.docker.com/engine/reference/commandline/export/) - export the contents of the _underlying_ directory, not the contents of the volume.
+- Docker build --ssh not working #troubleshooting
+    - Pass the private key filepath explicitly: `docker build --ssh default=~/.ssh/id_rsa .`

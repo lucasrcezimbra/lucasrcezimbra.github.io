@@ -1,7 +1,7 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-01-15
+lastmod: 2025-01-17
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
@@ -9,6 +9,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2025-01-12 - 2025-01-18]({{< ref "Weeknotes/2025-01-12 - 2025-01-18" >}})
+- [Docker]({{< ref "Docker" >}})
 - [Weeknotes/2025-01-05 - 2025-01-11]({{< ref "Weeknotes/2025-01-05 - 2025-01-11" >}})
 - [Videos/Simple Made Easy]({{< ref "Videos/Simple Made Easy" >}})
 - [Weeknotes/2024-12-29 - 2025-01-04]({{< ref "Weeknotes/2024-12-29 - 2025-01-04" >}})
@@ -124,7 +125,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Hugo]({{< ref "Hugo" >}})
 - [Seguranca]({{< ref "Seguranca" >}})
 - [Project Management]({{< ref "Project Management" >}})
-- [Docker]({{< ref "Docker" >}})
 - [PDF]({{< ref "PDF" >}})
 - [Sky Computing]({{< ref "Sky Computing" >}})
 - [Porto Alegre]({{< ref "Porto Alegre" >}})
