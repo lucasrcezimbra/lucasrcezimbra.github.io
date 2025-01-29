@@ -1,13 +1,15 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-01-17
+lastmod: 2025-01-29
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2025-01-26 - 2025-02-01]({{< ref "Weeknotes/2025-01-26 - 2025-02-01" >}})
+- [Weeknotes/2025-01-19 - 2025-01-25]({{< ref "Weeknotes/2025-01-19 - 2025-01-25" >}})
 - [Weeknotes/2025-01-12 - 2025-01-18]({{< ref "Weeknotes/2025-01-12 - 2025-01-18" >}})
 - [Docker]({{< ref "Docker" >}})
 - [Weeknotes/2025-01-05 - 2025-01-11]({{< ref "Weeknotes/2025-01-05 - 2025-01-11" >}})
