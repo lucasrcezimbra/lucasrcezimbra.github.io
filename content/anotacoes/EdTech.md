@@ -1,16 +1,23 @@
 ---
 title: "EdTech"
 date: 2023-08-15
-lastmod: 2024-07-10
+lastmod: 2025-02-06
 ---
+
 ## QTI
-- [API v3.0](https://www.imsglobal.org/spec/qti/v3p0/impl)
+- [Validator](https://webapps.ph.ed.ac.uk/qtiworks/anonymous/validator)
+
+### v3.0
+- [Beginner's Guide](https://www.imsglobal.org/spec/qti/v3p0/guide)
+- [Best Practices & Implementation Guide](https://www.imsglobal.org/spec/qti/v3p0/impl)
+- [Specifications](https://www.imsglobal.org/spec/qti/v3p0/info)
+
+### v2.*
 - [API v2.2 with good examples](http://www.imsglobal.org/question/qtiv2p2/imsqti_v2p2_impl.html)
 - [API v2.1](https://www.imsglobal.org/question/qtiv2p1/imsqti_infov2p1.html)
 - [API v2.0 with good examples](http://www.imsglobal.org/question/qti_v2p0/imsqti_implv2p0.html)
     - [PDF version](https://www.immagic.com/eLibrary/ARCHIVES/TECH/IMS_US/I050124G.pdf)
-- [Slides with good examples](http://elite.polito.it/files/courses/01NPYPD/lucidi/10-QTI.pdf)
-- [Validator](https://webapps.ph.ed.ac.uk/qtiworks/anonymous/validator)
+
 ### npm packages
 - [@abuenameh/qti-components](https://www.npmjs.com/package/@abuenameh/qti-components)
 - [@citolab/qti-api](https://www.npmjs.com/package/@citolab/qti-api)
@@ -22,6 +29,7 @@ lastmod: 2024-07-10
 - [qti3-stimulus-player](https://www.npmjs.com/package/qti3-stimulus-player)
 - [quiz-interactions](https://www.npmjs.com/package/quiz-interactions)
 - [react-qti](https://www.npmjs.com/package/react-qti)
+
 
 ## Surpass
 - [Help Site](https://help.surpass.com/)

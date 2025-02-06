@@ -1,13 +1,15 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-01-29
+lastmod: 2025-02-06
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2025-02-02 - 2025-02-08]({{< ref "Weeknotes/2025-02-02 - 2025-02-08" >}})
+- [EdTech]({{< ref "EdTech" >}})
 - [Weeknotes/2025-01-26 - 2025-02-01]({{< ref "Weeknotes/2025-01-26 - 2025-02-01" >}})
 - [Weeknotes/2025-01-19 - 2025-01-25]({{< ref "Weeknotes/2025-01-19 - 2025-01-25" >}})
 - [Weeknotes/2025-01-12 - 2025-01-18]({{< ref "Weeknotes/2025-01-12 - 2025-01-18" >}})
@@ -84,7 +86,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2024-07-07 - 2024-07-13]({{< ref "Weeknotes/2024-07-07 - 2024-07-13" >}})
 - [My thoughts about software]({{< ref "My thoughts about software" >}})
 - [Architecture]({{< ref "Architecture" >}})
-- [EdTech]({{< ref "EdTech" >}})
 - [Weeknotes/2024-06-30 - 2024-07-06]({{< ref "Weeknotes/2024-06-30 - 2024-07-06" >}})
 - [Books/Os segredos dos casais inteligentes]({{< ref "Books/Os segredos dos casais inteligentes" >}})
 - [Books/Casais inteligentes enriquecem juntos]({{< ref "Books/Casais inteligentes enriquecem juntos" >}})
