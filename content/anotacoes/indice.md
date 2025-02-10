@@ -11,7 +11,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2025-02-09 - 2025-02-15]({{< ref "Weeknotes/2025-02-09 - 2025-02-15" >}})
 - [Bash]({{< ref "Bash" >}})
 - [Weeknotes/2025-02-02 - 2025-02-08]({{< ref "Weeknotes/2025-02-02 - 2025-02-08" >}})
-- [Software Zen - A Arte da Gestão de Software]({{< ref "Software Zen - A Arte da Gestão de Software" >}})
 - [EdTech]({{< ref "EdTech" >}})
 - [Weeknotes/2025-01-26 - 2025-02-01]({{< ref "Weeknotes/2025-01-26 - 2025-02-01" >}})
 - [Weeknotes/2025-01-19 - 2025-01-25]({{< ref "Weeknotes/2025-01-19 - 2025-01-25" >}})
