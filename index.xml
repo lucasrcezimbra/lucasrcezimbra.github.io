@@ -74,7 +74,81 @@ Antônio de Macedo Costa&lt;/li>
 &lt;ul>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=Dgz01nVswZU" class="external-link" target="_blank" rel="noopener">Homilia Diária | “Eu pedi ao meu Deus, e Ele me ouviu” (Memória de Santa Escolástica, Virgem)&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-02---2025-02-08/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2025-02-02 - 2025-02-08</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-02-02---2025-02-08/</link><pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-02-02---2025-02-08/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-01-26---2025-02-01/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-09---2025-02-15/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-02---2025-02-08/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>Software Zen - A Arte da Gestão de Software</title><link>https://cezimbra.me/anotacoes/software-zen---a-arte-da-gest%C3%A3o-de-software/</link><pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/software-zen---a-arte-da-gest%C3%A3o-de-software/</guid><description>&lt;p>Curso: &lt;a href="https://softwarezen.com.br/produtos/software-zen/" class="external-link" target="_blank" rel="noopener">https://softwarezen.com.br/produtos/software-zen/&lt;/a>
+Edição 2024&lt;/p>
+&lt;h2 id="sprint-1-pensando-sistematicamente">
+ Sprint 1. Pensando Sistematicamente
+ &lt;a class="heading-link" href="#sprint-1-pensando-sistematicamente">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Começa aos 37:00 da aula&lt;/li>
+&lt;li>Pensamento sistemico já está inserido na nossa cultura, mas o exercício
+ainda é um desafio.&lt;/li>
+&lt;/ul>
+&lt;h3 id="parte-1-uma-nova-identidade">
+ Parte 1. Uma nova Identidade
+ &lt;a class="heading-link" href="#parte-1-uma-nova-identidade">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Artistas são agrupados em estilos, movimentos, escolas. Em gestão também
+existem esses grupos (exemplo: Agile, PMBOK, Kanban, Lean, etc.), mas também
+tem a parte utilitarista (tem que funcionar). Diferentes metodologias são
+mais apropriadas para certos contextos. Há um custo em usar uma metodologia
+para algo que não foi o que ela foi idealizada.&lt;/li>
+&lt;li>Discutir qual metodologia é a mais certa nos afasta da questão central.&lt;/li>
+&lt;li>Livro: Zen e a Arte da Manutenção de Motocicletas - Robert M. Pirsig
+&lt;ul>
+&lt;li>&lt;a href="https://medium.com/software-zen/zen-e-a-arte-da-gest%C3%A3o-de-software-ou-da-manuten%C3%A7%C3%A3o-de-motocicletas-42f9be67f9e4" class="external-link" target="_blank" rel="noopener">Zen e a Arte da Gestão de Software (ou da Manutenção de Motocicletas?)&lt;/a>
+&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>John&lt;/th>
+ &lt;th>Robert&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>Separação sujeito/objeto&lt;/td>
+ &lt;td>União sujeito/objeto&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&amp;ldquo;Eu paguei então tem que funcionar&amp;rdquo;&lt;/td>
+ &lt;td>Quer entender as relações de causalidade&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>&amp;ldquo;Se der problema, chama um consultor.&amp;rdquo;&lt;/td>
+ &lt;td>Busca prevenir e remediar os problemas como se fossem seus&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Desinteresse&lt;/td>
+ &lt;td>Interesse legítimo&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Incapacidade&lt;/td>
+ &lt;td>Formação. Não necessariamente um conhecimento técnico, mas no sentido de encaixar-se com forma que a tecnologia (moto) funciona.&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>É um comportamento comum em gestores. &amp;ldquo;Coloca a &amp;lsquo;metodologia x&amp;rsquo; pra funcionar e segue a vida. Se der problema, chama um consultor.&amp;rdquo;&lt;/td>
+ &lt;td>As metodologias só funcionam quando as pessoas adotam esse posicionamento onde a metodologia está intrinsicamente ligada ao que é feito.&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table>
+&lt;/li>
+&lt;li>TODO - &amp;ldquo;pessoas&amp;rdquo; refere-se a gestores ou a equipe inteira? Se
+relacionado a equipe inteira, deve-se adotar algo que a equipe
+&amp;ldquo;goste&amp;rdquo; de utilizar.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Não há problema em começar utilizando um método pronto. Porém, durante o
+projeto é necessário ir se adaptando &amp;ldquo;conforme a música&amp;rdquo;.&lt;/li>
+&lt;/ul>
+&lt;p>(1:10:00)&lt;/p></description></item><item><title>2025-02-02 - 2025-02-08</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-02-02---2025-02-08/</link><pubDate>Sun, 02 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-02-02---2025-02-08/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-01-26---2025-02-01/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-09---2025-02-15/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -7042,6 +7116,7 @@ on your page can access;&lt;/li>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-09---2025-02-15/" >Weeknotes/2025-02-09 - 2025-02-15&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/software-zen---a-arte-da-gest%C3%A3o-de-software/" >Software Zen - A Arte da Gestão de Software&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/bash/" >Bash&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-02---2025-02-08/" >Weeknotes/2025-02-02 - 2025-02-08&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/edtech/" >EdTech&lt;/a>&lt;/li>
@@ -7447,9 +7522,9 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode14s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7834,9 +7909,9 @@ aliviarei. (Mateus 11, 28)&lt;/p>&lt;/blockquote>
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode36s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode27s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode36s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode27s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -8033,9 +8108,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode48s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode44s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode48s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode44s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -10321,9 +10396,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode90s1hbhb">
+&lt;h2 id="llmhahahugoshortcode87s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode90s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode87s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
