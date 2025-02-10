@@ -38,13 +38,6 @@ date: 2022-04-08T20:08:54-03:00
 >}}
 
 {{< project
-    name="Agilize"
-    description="Cliente para acessar seus dados na Agilize."
-    github="lucasrcezimbra/agilize"
-    pypi="agilize"
->}}
-
-{{< project
     name="Banco Inter"
     description="Cliente para consumir a API do banco Inter para contas PJ"
     github="lucasrcezimbra/bancointer"
@@ -84,6 +77,14 @@ date: 2022-04-08T20:08:54-03:00
     description="Ultimate Django app for multi-tenant."
     github="HBN3tw0rk/django-ultratenant"
     pypi="django-ultratenant"
+>}}
+
+{{< project
+    name="Agilize (Arquivado)"
+    description="Cliente para acessar seus dados na Agilize."
+    github="lucasrcezimbra/agilize"
+    pypi="agilize"
+    archived=true
 >}}
 
 {{< project

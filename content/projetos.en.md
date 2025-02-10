@@ -39,13 +39,6 @@ slug: "projects"
 >}}
 
 {{< project
-    name="Agilize"
-    description="Client to access Agilize (Brazilian accouting company)."
-    github="lucasrcezimbra/agilize"
-    pypi="agilize"
->}}
-
-{{< project
     name="Banco Inter"
     description="Client to consume Inter (Brazilian Bank) APIs for legal person accounts."
     github="lucasrcezimbra/bancointer"
@@ -85,6 +78,14 @@ slug: "projects"
     description="Ultimate Django app for multi-tenant."
     github="HBN3tw0rk/django-ultratenant"
     pypi="django-ultratenant"
+>}}
+
+{{< project
+    name="Agilize (Archived)"
+    description="Client to access Agilize (Brazilian accouting company)."
+    github="lucasrcezimbra/agilize"
+    pypi="agilize"
+    archived=true
 >}}
 
 {{< project
