@@ -9,6 +9,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2025-02-09 - 2025-02-15]({{< ref "Weeknotes/2025-02-09 - 2025-02-15" >}})
+- [Bash]({{< ref "Bash" >}})
 - [Weeknotes/2025-02-02 - 2025-02-08]({{< ref "Weeknotes/2025-02-02 - 2025-02-08" >}})
 - [Software Zen - A Arte da Gestão de Software]({{< ref "Software Zen - A Arte da Gestão de Software" >}})
 - [EdTech]({{< ref "EdTech" >}})
@@ -51,7 +52,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Web3]({{< ref "Web3" >}})
 - [Storing trees in a database]({{< ref "Storing trees in a database" >}})
 - [Weeknotes/2024-09-29 - 2024-10-05]({{< ref "Weeknotes/2024-09-29 - 2024-10-05" >}})
-- [Bash]({{< ref "Bash" >}})
 - [ast-grep by example]({{< ref "ast-grep by example" >}})
 - [Weeknotes/2024-09-22 - 2024-09-28]({{< ref "Weeknotes/2024-09-22 - 2024-09-28" >}})
 - [Linux]({{< ref "Linux" >}})

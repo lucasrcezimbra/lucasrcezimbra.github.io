@@ -1,7 +1,7 @@
 ---
 title: Bash
 date: 2024-09-30
-lastmod: 2024-10-03
+lastmod: 2025-02-10
 ---
 
 - command or error
@@ -57,6 +57,8 @@ fi
 ```
 
 ### Conditions
+- `[[ ! <condition> ]]` not
+
 #### Files/dirs
 - `[[ -e <file> ]]` file exists
 - `[[ -d <dir> ]]` dir exists
