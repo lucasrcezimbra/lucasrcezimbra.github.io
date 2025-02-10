@@ -7447,9 +7447,9 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode12s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode12s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode13s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7834,9 +7834,9 @@ aliviarei. (Mateus 11, 28)&lt;/p>&lt;/blockquote>
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode26s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode36s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode26s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode36s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -8033,9 +8033,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode42s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode48s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode42s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode48s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -10321,9 +10321,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode87s1hbhb">
+&lt;h2 id="llmhahahugoshortcode90s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode87s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode90s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -12138,26 +12138,6 @@ manage relays&lt;/li>
 
 &lt;div class="card ">
  &lt;div class="container">
- &lt;h3>&lt;b>Agilize&lt;/b>&lt;/h3>
- &lt;span>Cliente para acessar seus dados na Agilize.&lt;/span>
- &lt;div>
- 
-
- 
- &lt;a href="https://github.com/lucasrcezimbra/agilize/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
- 
-
- 
- &lt;a href="https://pypi.org/project/agilize/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
- 
-
- 
- &lt;/div>
- &lt;/div>
-&lt;/div>
-
-&lt;div class="card ">
- &lt;div class="container">
  &lt;h3>&lt;b>Banco Inter&lt;/b>&lt;/h3>
  &lt;span>Cliente para consumir a API do banco Inter para contas PJ&lt;/span>
  &lt;div>
@@ -12269,6 +12249,26 @@ manage relays&lt;/li>
 
  
  &lt;a href="https://pypi.org/project/django-ultratenant/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
+ 
+
+ 
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;div class="card archived">
+ &lt;div class="container">
+ &lt;h3>&lt;b>Agilize (Arquivado)&lt;/b>&lt;/h3>
+ &lt;span>Cliente para acessar seus dados na Agilize.&lt;/span>
+ &lt;div>
+ 
+
+ 
+ &lt;a href="https://github.com/lucasrcezimbra/agilize/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ 
+
+ 
+ &lt;a href="https://pypi.org/project/agilize/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
  
 
  

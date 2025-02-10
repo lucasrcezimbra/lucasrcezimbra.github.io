@@ -195,26 +195,6 @@ Responsible for conducting technical interviews.&lt;/p></description></item><ite
 
 &lt;div class="card ">
  &lt;div class="container">
- &lt;h3>&lt;b>Agilize&lt;/b>&lt;/h3>
- &lt;span>Client to access Agilize (Brazilian accouting company).&lt;/span>
- &lt;div>
- 
-
- 
- &lt;a href="https://github.com/lucasrcezimbra/agilize/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
- 
-
- 
- &lt;a href="https://pypi.org/project/agilize/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
- 
-
- 
- &lt;/div>
- &lt;/div>
-&lt;/div>
-
-&lt;div class="card ">
- &lt;div class="container">
  &lt;h3>&lt;b>Banco Inter&lt;/b>&lt;/h3>
  &lt;span>Client to consume Inter (Brazilian Bank) APIs for legal person accounts.&lt;/span>
  &lt;div>
@@ -326,6 +306,26 @@ Responsible for conducting technical interviews.&lt;/p></description></item><ite
 
  
  &lt;a href="https://pypi.org/project/django-ultratenant/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
+ 
+
+ 
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;div class="card archived">
+ &lt;div class="container">
+ &lt;h3>&lt;b>Agilize (Archived)&lt;/b>&lt;/h3>
+ &lt;span>Client to access Agilize (Brazilian accouting company).&lt;/span>
+ &lt;div>
+ 
+
+ 
+ &lt;a href="https://github.com/lucasrcezimbra/agilize/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ 
+
+ 
+ &lt;a href="https://pypi.org/project/agilize/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
  
 
  
