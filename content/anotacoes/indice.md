@@ -1,7 +1,7 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-02-10
+lastmod: 2025-02-11
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
@@ -117,7 +117,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Databases]({{< ref "Databases" >}})
 - [Passaporte Dev Senior]({{< ref "Passaporte Dev Senior" >}})
 - [HTTP]({{< ref "HTTP" >}})
-- [Software Zen]({{< ref "Software Zen" >}})
 - [(Manifest) Microservices]({{< ref "(Manifest) Microservices" >}})
 - [(Manifest) Platforms]({{< ref "(Manifest) Platforms" >}})
 - [Alternatives to]({{< ref "Alternatives to" >}})

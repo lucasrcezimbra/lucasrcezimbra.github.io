@@ -1,7 +1,7 @@
 ---
 title: Software Zen - A Arte da Gestão de Software
 date: 2025-02-07
-lastmod: 2025-02-10
+lastmod: 2025-02-11
 aliases:
   - /anotacoes/software-zen/
 ---
@@ -37,10 +37,18 @@ Edição 2024
       "goste" de utilizar.
 - Não há problema em começar utilizando um método pronto. Porém, durante o
   projeto é necessário ir se adaptando "conforme a música".
+- Uma nova Identidade - A Gestão como Arte
+    - Desapego à métodologias específicas;
+    - Partir dos problemas e não das soluções;
+    - Uso dos métodos como repertório para resolver os problemas;
+    - Abraçar a originalidade e a arte do design de soluções;
+    - Ancorar-se em princípios;
+    - Ser especialista do nosso próprio ambiente e não de uma metodologia
 
-(1:10:00)
 
 ### Parte 2. Superando a visão cartesiana
+(1:18:20)
+
 
 ### Parte 3. Adotando a visão do todo
 
