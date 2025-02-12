@@ -13,7 +13,7 @@ by [Phil Calçado](https://philcalcado.com/)
 	- Externalizar as ideias num documento e discutir o documento ao invés das ideias.
 ### Pensamento Sistêmico
 - Sempre tem um gargalo no sistema.
-- [Software Zen]({{< ref "Software Zen" >}})
+- [Software Zen]({{< ref "Software Zen - A Arte da Gestão de Software" >}})
 - **"seu papel como líder é ser responsável pelo sistema/máquina de entrega"**
 - "só se aumenta a produtividade de um sistema identificando os gargalos"
 	- [How we ended up with microservices](https://philcalcado.com/2015/09/08/how_we_ended_up_with_microservices.html)
