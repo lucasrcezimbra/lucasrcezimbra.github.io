@@ -4657,24 +4657,185 @@ Jesus passou a noite rezando antes de escolher os 12 apóstolos. Isso nos mostra
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-06-30---2024-07-06/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-07-14---2024-07-20/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>My principles for building software</title><link>https://cezimbra.me/anotacoes/my-principles-for-building-software/</link><pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/my-principles-for-building-software/</guid><description>&lt;ul>
-&lt;li>
-&lt;p>&amp;ldquo;Simplicity is the ultimate sophistication.&amp;rdquo;&lt;/p>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-06-30---2024-07-06/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-07-14---2024-07-20/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>My principles for building software</title><link>https://cezimbra.me/anotacoes/my-principles-for-building-software/</link><pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/my-principles-for-building-software/</guid><description>&lt;h2 id="context">
+ Context
+ &lt;a class="heading-link" href="#context">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>(Inspirations: &lt;a href="https://evanhahn.com/programming-beliefs-as-of-july-2024/" class="external-link" target="_blank" rel="noopener">My programming beliefs as of July 2024&lt;/a> and &lt;a href="https://kevinmahoney.co.uk/articles/my-principles-for-building-software/" class="external-link" target="_blank" rel="noopener">My Principles for Building Software&lt;/a>)&lt;/p>
+&lt;p>Here are my personal thoughts about building software. I&amp;rsquo;m constantly updating
+and improving this page.&lt;/p>
+&lt;h2 id="table-of-contents">
+ Table of Contents
+ &lt;a class="heading-link" href="#table-of-contents">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#principles" >Principles&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="#maintainability" >Maintainability&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#simplicity" >Simplicity&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#automated-testing" >Automated testing&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#scalabilityperformance" >Scalability/Performance&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#monolith-first-microservices-need-justification" >Monolith first. Microservices need justification.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#html-first-spas-need-justification" >HTML first. SPAs need justification.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#sql-first-others-need-justification" >SQL first. Others need justification.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#business-first" >Business first&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#paas-first-building-a-platform-needs-justification" >PaaS first. Building a platform needs justification.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#devs-ownership" >Devs Ownership&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;/li>
-&lt;li>
-&lt;p>Automated testing - could not be left out, although I believe it is already a consensus in the industry.&lt;/p>
+&lt;li>&lt;a href="#to-thinkwrite-about" >To think/write about&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#references" >References&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="principles">
+ Principles
+ &lt;a class="heading-link" href="#principles">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="maintainability">
+ Maintainability
+ &lt;a class="heading-link" href="#maintainability">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>People (developers) time are more expensive than machine time (at least until
+the AGI).&lt;/li>
+&lt;/ul>
+&lt;h3 id="simplicity">
+ Simplicity
+ &lt;a class="heading-link" href="#simplicity">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&amp;ldquo;Simplicity is the ultimate sophistication.&amp;rdquo;&lt;/li>
+&lt;/ul>
+&lt;h3 id="automated-testing">
+ Automated testing
+ &lt;a class="heading-link" href="#automated-testing">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>It&amp;rsquo;s a must, although I believe it is already a consensus in the industry.&lt;/li>
+&lt;/ul>
+&lt;h3 id="scalabilityperformance">
+ Scalability/Performance
+ &lt;a class="heading-link" href="#scalabilityperformance">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://computers-are-fast.github.io/" class="external-link" target="_blank" rel="noopener">Computers are fast&lt;/a>&lt;/li>
+&lt;li>Don&amp;rsquo;t try to optimize to solve a problem you don&amp;rsquo;t have&lt;/li>
+&lt;li>&amp;ldquo;Premature optimization is the root of all evil&amp;rdquo; Donald Knuth&lt;/li>
+&lt;li>Data-driven optimizations. You need observability to detect bottlenecks and
+optimize based on it.&lt;/li>
+&lt;li>Optimize based on the number of users.&lt;/li>
+&lt;li>Optimizations Should be driven by the SLAs/SLOs defined by the business.&lt;/li>
+&lt;li>People (developers) time are more expensive than machine time (at least until
+the AGI).&lt;/li>
+&lt;li>You system is probably IO bound. If so, you don&amp;rsquo;t need a CPU/memory optimized
+languages.&lt;/li>
+&lt;/ul>
+&lt;h3 id="monolith-first-microservices-need-justification">
+ Monolith first. Microservices need justification.
+ &lt;a class="heading-link" href="#monolith-first-microservices-need-justification">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Microservices add way too much complexity.&lt;/li>
+&lt;li>If your team doesn&amp;rsquo;t know how to separate concerns in a monolith, they won&amp;rsquo;t
+know how to do it in microservices. Unless you are centralizing the
+separation decisions, but in this case you are not solving the problem.&lt;/li>
+&lt;li>References
+&lt;ul>
+&lt;li>&lt;a href="https://x.com/milan_milanovic/status/1722252645438484810?s=46" class="external-link" target="_blank" rel="noopener">https://x.com/milan_milanovic/status/1722252645438484810?s=46&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://signalvnoise.com/svn3/the-majestic-monolith/" class="external-link" target="_blank" rel="noopener">The Majestic Monolith&lt;/a>&lt;/li>
+&lt;li>Meme: &lt;a href="https://youtu.be/y8OnoxKotPQ?si=gB0Gpt8Pwey-Mt9Z" class="external-link" target="_blank" rel="noopener">Microservices&lt;/a> orchestration complexity&lt;/li>
+&lt;li>&lt;a href="https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc" class="external-link" target="_blank" rel="noopener">How to recover from microservices&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://martinfowler.com/bliki/MonolithFirst.html" class="external-link" target="_blank" rel="noopener">MonolithFirst&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://twitter.com/milan_milanovic/status/1722252645438484810" class="external-link" target="_blank" rel="noopener">Monoliths are good enough for almost everything. Microservices need justification.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.primevideotech.com/video-streaming/scaling-up-the-prime-video-audio-video-monitoring-service-and-reducing-costs-by-90" class="external-link" target="_blank" rel="noopener">Scaling up the Prime Video audio/video monitoring service and reducing costs by 90%&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://thenewstack.io/amazon-prime-videos-microservices-move-doesnt-lead-to-a-monolith-after-all/" class="external-link" target="_blank" rel="noopener">Amazon Prime Video’s Microservices Move Doesn’t Lead to a Monolith after All&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;/li>
-&lt;li>
-&lt;p>Prefer pure functions and immutable data - improves testability, predictability, etc.&lt;/p>
+&lt;li>&lt;a href="https://stackexchange.com/performance" class="external-link" target="_blank" rel="noopener">Stack Overflow Architecture&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://m.signalvnoise.com/the-majestic-monolith/" class="external-link" target="_blank" rel="noopener">The Majestic Monolith&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://instagram-engineering.com/what-powers-instagram-hundreds-of-instances-dozens-of-technologies-adf2e22da2ad" class="external-link" target="_blank" rel="noopener">What Powers Instagram: Hundreds of Instances, Dozens of Technologies&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://twitter.com/milan_milanovic/status/1722573693795086378" class="external-link" target="_blank" rel="noopener">Why you should build a (modular) monolith first?&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;/li>
-&lt;li>
-&lt;p>&lt;a href="https://computers-are-fast.github.io/" class="external-link" target="_blank" rel="noopener">Computers are fast&lt;/a> - don&amp;rsquo;t try to optimize to solve a problem you don&amp;rsquo;t have - &amp;ldquo;premature optimization is the root of all evil&amp;rdquo; Donald Knuth&lt;/p>
+&lt;/ul>
+&lt;h3 id="html-first-spas-need-justification">
+ HTML first. SPAs need justification.
+ &lt;a class="heading-link" href="#html-first-spas-need-justification">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Backend should be the only source of application state.&lt;/li>
+&lt;li>No build&lt;/li>
+&lt;/ul>
+&lt;h3 id="sql-first-others-need-justification">
+ SQL first. Others need justification.
+ &lt;a class="heading-link" href="#sql-first-others-need-justification">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>SQLite or PostgreSQL is probably all you need.&lt;/li>
+&lt;/ul>
+&lt;h3 id="business-first">
+ Business first
+ &lt;a class="heading-link" href="#business-first">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>All code must serve the business.&lt;/li>
+&lt;li>Technical decisions must be driven by the business.&lt;/li>
+&lt;/ul>
+&lt;h3 id="paas-first-building-a-platform-needs-justification">
+ PaaS first. Building a platform needs justification.
+ &lt;a class="heading-link" href="#paas-first-building-a-platform-needs-justification">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Do NOT start building your own platform - PaaS will be better built and
+cheaper than hiring DevOps and building internally.&lt;/li>
+&lt;li>People (Ops) time are more expensive than machine time (at least until the
+AGI).&lt;/li>
+&lt;li>When to build a platform internally?
+&lt;ul>
+&lt;li>When the cost of building and maintaining is smaller than paying a PaaS&lt;/li>
+&lt;li>Or when you have a specific use case not supported by PaaS (uncommon)&lt;/li>
+&lt;/ul>
 &lt;/li>
-&lt;li>
-&lt;p>Monolith first and &lt;a href="https://signalvnoise.com/svn3/the-majestic-monolith/" class="external-link" target="_blank" rel="noopener">The Majestic Monolith&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Microservices are about team topologies and scaling systems with different types of bounds&lt;/p></description></item><item><title>Os segredos dos casais inteligentes</title><link>https://cezimbra.me/anotacoes/books/os-segredos-dos-casais-inteligentes/</link><pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/books/os-segredos-dos-casais-inteligentes/</guid><description>&lt;h2 id="minhas-notas">
+&lt;li>References
+&lt;blockquote>
+&lt;p>🗣️ “Platform engineering will ultimately solve the central problem
+of cooperation between software developers and operators.”&lt;/p></description></item><item><title>Os segredos dos casais inteligentes</title><link>https://cezimbra.me/anotacoes/books/os-segredos-dos-casais-inteligentes/</link><pubDate>Thu, 04 Jul 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/books/os-segredos-dos-casais-inteligentes/</guid><description>&lt;h2 id="minhas-notas">
  Minhas Notas
  &lt;a class="heading-link" href="#minhas-notas">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -7509,9 +7670,9 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode12s0hbhb">
+&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode12s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -7896,9 +8057,9 @@ aliviarei. (Mateus 11, 28)&lt;/p>&lt;/blockquote>
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode25s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode23s0hbhb-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode25s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloudhahahugoshortcode23s0hbhb-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -8095,9 +8256,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode41s1hbhb">
+&lt;h2 id="pythonhahahugoshortcode39s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode41s1hbhb">
+ &lt;a class="heading-link" href="#pythonhahahugoshortcode39s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -10383,9 +10544,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode88s1hbhb">
+&lt;h2 id="llmhahahugoshortcode87s1hbhb">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode88s1hbhb">
+ &lt;a class="heading-link" href="#llmhahahugoshortcode87s1hbhb">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
