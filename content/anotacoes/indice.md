@@ -1,7 +1,7 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-02-12
+lastmod: 2025-02-14
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
@@ -9,6 +9,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2025-02-09 - 2025-02-15]({{< ref "Weeknotes/2025-02-09 - 2025-02-15" >}})
+- [My principles for building software]({{< ref "My principles for building software" >}})
 - [Software Zen - A Arte da Gestão de Software]({{< ref "Software Zen - A Arte da Gestão de Software" >}})
 - [Bash]({{< ref "Bash" >}})
 - [Weeknotes/2025-02-02 - 2025-02-08]({{< ref "Weeknotes/2025-02-02 - 2025-02-08" >}})
@@ -86,7 +87,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Videos/DVC 13 - Arquitetura de Software com Rodrigo Branas e Elton Minetto]({{< ref "Videos/DVC 13 - Arquitetura de Software com Rodrigo Branas e Elton Minetto" >}})
 - [Videos/Git Hidden Gems]({{< ref "Videos/Git Hidden Gems" >}})
 - [Weeknotes/2024-07-07 - 2024-07-13]({{< ref "Weeknotes/2024-07-07 - 2024-07-13" >}})
-- [My thoughts about software]({{< ref "My thoughts about software" >}})
 - [Architecture]({{< ref "Architecture" >}})
 - [Weeknotes/2024-06-30 - 2024-07-06]({{< ref "Weeknotes/2024-06-30 - 2024-07-06" >}})
 - [Books/Os segredos dos casais inteligentes]({{< ref "Books/Os segredos dos casais inteligentes" >}})
@@ -118,9 +118,7 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Passaporte Dev Senior]({{< ref "Passaporte Dev Senior" >}})
 - [HTTP]({{< ref "HTTP" >}})
 - [(Manifest) Microservices]({{< ref "(Manifest) Microservices" >}})
-- [(Manifest) Platforms]({{< ref "(Manifest) Platforms" >}})
 - [Alternatives to]({{< ref "Alternatives to" >}})
-- [(Manifest) Front-end]({{< ref "(Manifest) Front-end" >}})
 - [Upwork]({{< ref "Upwork" >}})
 - [Cartão de Crédito]({{< ref "Cartão de Crédito" >}})
 - [Agile]({{< ref "Agile" >}})
