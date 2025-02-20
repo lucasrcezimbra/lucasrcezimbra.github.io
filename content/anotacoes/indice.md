@@ -1,15 +1,17 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-02-14
+lastmod: 2025-02-20
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
-- [Weeknotes/2025-02-09 - 2025-02-15]({{< ref "Weeknotes/2025-02-09 - 2025-02-15" >}})
+- [Weeknotes/2025-02-16 - 2025-02-22]({{< ref "Weeknotes/2025-02-16 - 2025-02-22" >}})
 - [My principles for building software]({{< ref "My principles for building software" >}})
+- [Parir Feliz]({{< ref "Parir Feliz" >}})
+- [Weeknotes/2025-02-09 - 2025-02-15]({{< ref "Weeknotes/2025-02-09 - 2025-02-15" >}})
 - [Software Zen - A Arte da Gestão de Software]({{< ref "Software Zen - A Arte da Gestão de Software" >}})
 - [Bash]({{< ref "Bash" >}})
 - [Weeknotes/2025-02-02 - 2025-02-08]({{< ref "Weeknotes/2025-02-02 - 2025-02-08" >}})

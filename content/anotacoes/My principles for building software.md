@@ -1,7 +1,7 @@
 ---
 title: My principles for building software
 date: 2024-07-04
-lastmod: 2025-02-14
+lastmod: 2025-02-20
 aliases:
   - /anotacoes/manifest-front-end/
   - /anotacoes/manifest-platforms/
@@ -76,7 +76,8 @@ and improving this page.
 
 ### HTML first. SPAs need justification.
 - Backend should be the only source of application state.
-- No build
+- References
+    - [HTML First](https://html-first.com)
 
 ### SQL first. Others need justification.
 - SQLite or PostgreSQL is probably all you need.
@@ -118,6 +119,7 @@ and improving this page.
 - Microservices are about team topologies and scaling systems with different types of bounds
 - Security
 - Documentation
+- No build
 - Typing dynamic languages is a mistake
     * TODO To read - https://techblog.bozho.net/static-typing-is-not-for-type-checking/
     * TODO To read - https://docs.google.com/document/d/1aXs1tpwzPjW9MdsG5dI7clNFyYayFBkcXwRDo-qvbIk/preview?tab=t.0
@@ -126,7 +128,6 @@ and improving this page.
 
 ## References
 - [The Twelve-Factor App](https://12factor.net)
-- [HTML First](https://html-first.com)
 - [Computers are fast!](https://computers-are-fast.github.io)
 - [Radical Simplicity in Technology](https://www.radicalsimpli.city)
 - [ONCE #1 is entirely #nobuild for the front-end](https://world.hey.com/dhh/once-1-is-entirely-nobuild-for-the-front-end-ce56f6d7)
