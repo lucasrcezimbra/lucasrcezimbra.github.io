@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-02-09 - 2025-02-15</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-02-09---2025-02-15/</link><pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-02-09---2025-02-15/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-02---2025-02-08/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 20 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-02-16 - 2025-02-22</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-02-16---2025-02-22/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-02-16---2025-02-22/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-09---2025-02-15/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -22,7 +22,8 @@ Antônio de Macedo Costa&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>&lt;a href="https://kindlemodding.org" class="external-link" target="_blank" rel="noopener">Home | Kindle Modding Wiki&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://searchcode.com" class="external-link" target="_blank" rel="noopener">searchcode | source code search engine&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="learned">
  Learned
@@ -33,6 +34,68 @@ Antônio de Macedo Costa&lt;/li>
 &lt;/h2>
 &lt;ul>
 &lt;li>&lt;/li>
+&lt;/ul>
+&lt;h2 id="read-articles">
+ Read articles
+ &lt;a class="heading-link" href="#read-articles">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://boyter.org/posts/searchcode-bigger-sqlite-than-you" class="external-link" target="_blank" rel="noopener">searchcode.com’s SQLite database is probably 6 terabytes bigger than yours | Ben E. C. Boyter&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://web.dev/blog/ruby-on-rails-on-webassembly" class="external-link" target="_blank" rel="noopener">Ruby on Rails on WebAssembly, the full-stack in-browser journey | web.dev&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://world.hey.com/dhh/when-to-give-up-1dd951f9" class="external-link" target="_blank" rel="noopener">When to give up&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://microsaas.substack.com/p/de-dono-de-restaurante-para-dono" class="external-link" target="_blank" rel="noopener">De dono de restaurante para dono de Micro-SaaS que fatura R$ 120k ARR&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="read-news">
+ Read news
+ &lt;a class="heading-link" href="#read-news">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://9to5mac.com/2025/02/19/apple-unveils-new-iphone-16e-heres-everything-you-need-to-know" class="external-link" target="_blank" rel="noopener">Apple launches new iPhone 16e: Here's everything you need to know - 9to5Mac&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="watched">
+ Watched
+ &lt;a class="heading-link" href="#watched">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=rrJhQpvlkLA" class="external-link" target="_blank" rel="noopener">Joe Rogan Experience #2237 - Mike Benz&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=sXwDrcd1t-E" class="external-link" target="_blank" rel="noopener">This ESP32 Antenna Array Can See WiFi&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="listened">
+ Listened
+ &lt;a class="heading-link" href="#listened">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=u14yheOurGU" class="external-link" target="_blank" rel="noopener">Homilia Diária | A fé é para os humildes (Segunda-feira da 6.ª Semana do Tempo Comum)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=yadKOIIT07k" class="external-link" target="_blank" rel="noopener">Homilia Diária | Falta-nos o pão da fé (Terça-feira da 6.ª Semana do Tempo Comum)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=2h9K3-zg5e0" class="external-link" target="_blank" rel="noopener">Homilia Diária | A cura do cego e o crescimento na fé (Quarta-feira da 6.ª Semana do Tempo Comum)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-09---2025-02-15/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2025-02-09 - 2025-02-15</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-02-09---2025-02-15/</link><pubDate>Sun, 09 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-02-09---2025-02-15/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-02---2025-02-08/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-16---2025-02-22/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;h2 id="books-being-read">
+ Books being read
+ &lt;a class="heading-link" href="#books-being-read">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(pt-BR) Conversas Cruciais - Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan &amp;amp;
+Al Switzler &amp;amp; Emily Gregory&lt;/li>
+&lt;li>(pt-BR) História da Igreja: marcas da presença de Cristo no mundo - Angela
+Pellicciari&lt;/li>
+&lt;li>(pt-BR) História bíblica: narrativas do Antigo e do Novo Testamento - Dom
+Antônio de Macedo Costa&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-articles">
  Read articles
@@ -82,7 +145,7 @@ Antônio de Macedo Costa&lt;/li>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=nbnJkNmhpeo" class="external-link" target="_blank" rel="noopener">Homilia Diária | A filiação divina que provém da fé (Quinta-feira da 5.ª Semana do Tempo Comum)&lt;/a>&lt;/li>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=L6Wf_A2gi1M" class="external-link" target="_blank" rel="noopener">Homilia Diária | Intercessores contra o indiferentismo religioso (Mem. de São Cirilo e São Metódio)&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-02---2025-02-08/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>Software Zen - A Arte da Gestão de Software</title><link>https://cezimbra.me/anotacoes/software-zen---a-arte-da-gest%C3%A3o-de-software/</link><pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/software-zen---a-arte-da-gest%C3%A3o-de-software/</guid><description>&lt;p>Curso: &lt;a href="https://softwarezen.com.br/produtos/software-zen/" class="external-link" target="_blank" rel="noopener">https://softwarezen.com.br/produtos/software-zen/&lt;/a>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-02---2025-02-08/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-16---2025-02-22/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>Software Zen - A Arte da Gestão de Software</title><link>https://cezimbra.me/anotacoes/software-zen---a-arte-da-gest%C3%A3o-de-software/</link><pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/software-zen---a-arte-da-gest%C3%A3o-de-software/</guid><description>&lt;p>Curso: &lt;a href="https://softwarezen.com.br/produtos/software-zen/" class="external-link" target="_blank" rel="noopener">https://softwarezen.com.br/produtos/software-zen/&lt;/a>
 Edição 2024&lt;/p>
 &lt;h2 id="sprint-1-pensando-sistematicamente">
  Sprint 1. Pensando Sistematicamente
@@ -1798,9 +1861,9 @@ process, for example) will cause corrupted trees&lt;/li>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h3>
-&lt;p>&lt;a href="https://github.com/astral-sh/uv" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> | &lt;a href="https://docs.astral.sh/uv/" class="external-link" target="_blank" rel="noopener">Docs&lt;/a>&lt;/p></description></item><item><title>Profilling pytest tests and fixtures</title><link>https://cezimbra.me/anotacoes/profilling-python-tests/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/profilling-python-tests/</guid><description>&lt;h2 id="pytest---durations">
+&lt;p>&lt;a href="https://github.com/astral-sh/uv" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> | &lt;a href="https://docs.astral.sh/uv/" class="external-link" target="_blank" rel="noopener">Docs&lt;/a>&lt;/p></description></item><item><title>Profilling pytest tests and fixtures</title><link>https://cezimbra.me/anotacoes/profilling-python-tests/</link><pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/profilling-python-tests/</guid><description>&lt;h2 id="pytest-durations">
  pytest &amp;ndash;durations
- &lt;a class="heading-link" href="#pytest---durations">
+ &lt;a class="heading-link" href="#pytest-durations">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -4791,7 +4854,11 @@ separation decisions, but in this case you are not solving the problem.&lt;/li>
 &lt;/h3>
 &lt;ul>
 &lt;li>Backend should be the only source of application state.&lt;/li>
-&lt;li>No build&lt;/li>
+&lt;li>References
+&lt;ul>
+&lt;li>&lt;a href="https://html-first.com" class="external-link" target="_blank" rel="noopener">HTML First&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;h3 id="sql-first-others-need-justification">
  SQL first. Others need justification.
@@ -7266,8 +7333,10 @@ on your page can access;&lt;/li>
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-09---2025-02-15/" >Weeknotes/2025-02-09 - 2025-02-15&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-16---2025-02-22/" >Weeknotes/2025-02-16 - 2025-02-22&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/my-principles-for-building-software/" >My principles for building software&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/parir-feliz/" >Parir Feliz&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-09---2025-02-15/" >Weeknotes/2025-02-09 - 2025-02-15&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/software-zen---a-arte-da-gest%C3%A3o-de-software/" >Software Zen - A Arte da Gestão de Software&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/bash/" >Bash&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-02---2025-02-08/" >Weeknotes/2025-02-02 - 2025-02-08&lt;/a>&lt;/li>
@@ -7670,9 +7739,9 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/" class="external-link" target="_blank" rel="noopener">How Did REST Come To Mean The Opposite of REST?&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://roy.gbiv.com/untangled/2008/rest-apis-must-be-hypertext-driven" class="external-link" target="_blank" rel="noopener">REST APIs must be hypertext-driven&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
+&lt;h2 id="clean-architectures-in-python">
  Clean Architectures in &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#clean-architectures-in-pythonhahahugoshortcode11s0hbhb">
+ &lt;a class="heading-link" href="#clean-architectures-in-python">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -8057,9 +8126,9 @@ aliviarei. (Mateus 11, 28)&lt;/p>&lt;/blockquote>
 &lt;p>The reason for this behavior is related to how floating-point numbers are represented in computers.&lt;/p>
 &lt;p>In computers, floating-point numbers are represented in binary format using a fixed number of bits. However, some decimal numbers that have a finite number of decimal places, such as 0.1, cannot be represented exactly in binary format using a finite number of bits. Instead, they can only be approximated using a sequence of binary digits.&lt;/p></description></item><item><title>Clojure</title><link>https://cezimbra.me/anotacoes/clojure/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/clojure/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://medium.com/@wellicfaria/introdu%C3%A7%C3%A3o-de-clojure-com-python-fe64639b8ead" class="external-link" target="_blank" rel="noopener">Introdução de Clojure com Python&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloudhahahugoshortcode23s0hbhb-vs-on-premises">
+&lt;/ul></description></item><item><title>Cloud</title><link>https://cezimbra.me/anotacoes/cloud/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/cloud/</guid><description>&lt;h2 id="cloud-vs-on-premises">
  &lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a> vs On Premises
- &lt;a class="heading-link" href="#cloudhahahugoshortcode23s0hbhb-vs-on-premises">
+ &lt;a class="heading-link" href="#cloud-vs-on-premises">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -8256,9 +8325,9 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
 &lt;li>&lt;a href="https://github.com/sbstjn/timesheet.js" class="external-link" target="_blank" rel="noopener">Timesheet.js&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://visjs.org/" class="external-link" target="_blank" rel="noopener">vis.js&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="pythonhahahugoshortcode39s1hbhb">
+&lt;h2 id="python">
  &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>
- &lt;a class="heading-link" href="#pythonhahahugoshortcode39s1hbhb">
+ &lt;a class="heading-link" href="#python">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -10544,9 +10613,9 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="llmhahahugoshortcode87s1hbhb">
+&lt;h2 id="llm">
  &lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>
- &lt;a class="heading-link" href="#llmhahahugoshortcode87s1hbhb">
+ &lt;a class="heading-link" href="#llm">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -11226,7 +11295,136 @@ manage relays&lt;/li>
 &lt;li>Nunca consegui terminar o onboarding pq fica dando erro&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;/ul></description></item><item><title>Smart Home</title><link>https://cezimbra.me/anotacoes/smart-home/</link><pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/smart-home/</guid><description>&lt;h2 id="communication">
+&lt;/ul></description></item><item><title>Parir Feliz</title><link>https://cezimbra.me/anotacoes/parir-feliz/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/parir-feliz/</guid><description>&lt;h2 id="como-é-estar-grávida-no-brasil">
+ Como é estar grávida no Brasil
+ &lt;a class="heading-link" href="#como-%c3%a9-estar-gr%c3%a1vida-no-brasil">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Cesária é cultural. A maioria (55%) dos partos é cesariana. Segundo a OMS, a
+taxa esperada é de 10% a 15%.&lt;/p>
+&lt;h2 id="riscosbenefícios">
+ Riscos/Benefícios
+ &lt;a class="heading-link" href="#riscosbenef%c3%adcios">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Parto Normal
+&lt;ul>
+&lt;li>Riscos
+&lt;ul>
+&lt;li>tem risco de hemorragia, assim como a cesariana&lt;/li>
+&lt;li>laceração&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Benefícios
+&lt;ul>
+&lt;li>é o mais natural, é fisiológico&lt;/li>
+&lt;li>é melhor pro bebê q recebe as bactérias da mãe&lt;/li>
+&lt;li>a recuperação é melhor&lt;/li>
+&lt;li>consegue dar de mamar melhor&lt;/li>
+&lt;li>nasce e o bebê vem pro seu colo&lt;/li>
+&lt;li>o útero volta ao normal mais rápido&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Cesária
+&lt;ul>
+&lt;li>Riscos
+&lt;ul>
+&lt;li>não é um processo fisiológico&lt;/li>
+&lt;li>a mãe não consegue segurar o bebê após o parto&lt;/li>
+&lt;li>anestesia na medula
+&lt;ul>
+&lt;li>choque anafilático&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>mãe
+&lt;ul>
+&lt;li>o risco de sangramento é muito maior do que no parto normal&lt;/li>
+&lt;li>pode causar aderência no futuro&lt;/li>
+&lt;li>útero com cicatriz de cesariana corre o risco de romper na próxima gestação, ou placenta grudar, ou o saco gestacional ficar no local da cicatriz, etc.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>bebê
+&lt;ul>
+&lt;li>não passa pelo trabalho de parto e pela preparação psicológica, pulmonar, fisiológica, etc.&lt;/li>
+&lt;li>o primeiro contato do bebe é com material hospitalar ao invés das bactérias do canal vaginal da mãe&lt;/li>
+&lt;li>bebê tem mais chance de alergias e problemas respiratórios no futuro&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Benefícios
+&lt;ul>
+&lt;li>não sente dor&lt;/li>
+&lt;li>mais controlado (horário, local, etc.)&lt;/li>
+&lt;li>socialmente aceita&lt;/li>
+&lt;li>salva vidas, quando necessário (mãe e filho)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="mitos-do-parto-normal">
+ Mitos do Parto Normal
+ &lt;a class="heading-link" href="#mitos-do-parto-normal">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ol>
+&lt;li>&lt;strong>A dor do parto é muito grande&lt;/strong>: causado por intervenções desnecessárias e
+ambiente hostil.&lt;/li>
+&lt;li>&lt;strong>Magrinha/gordinha demais&lt;/strong>: não existe isso. toda mulher vai conseguir parir,
+independente dessas características externas. O que importa é a liberação
+hormonal, o útero, o posicionamento do bebê, etc.&lt;/li>
+&lt;li>&lt;strong>Uma vez cesária, sempre cesária&lt;/strong>: um pouco mais de risco, mas pode&lt;/li>
+&lt;li>&lt;strong>Algumas mulheres não tem dilatação&lt;/strong>: é pq a cesária foi feita antes&lt;/li>
+&lt;/ol>
+&lt;h2 id="indicações-de-cesária">
+ Indicações de cesária
+ &lt;a class="heading-link" href="#indica%c3%a7%c3%b5es-de-ces%c3%a1ria">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ol>
+&lt;li>&lt;strong>Prolapso de cordão&lt;/strong>: quando o cordão vem antes do bebê. Pq o bebe vai
+comprimir o cordão no momento do expulsivo e não vai passar oxigênio e
+nutrientes.&lt;/li>
+&lt;li>&lt;strong>Apresentação córnica&lt;/strong>: bebê está virado com as costas ou barriga pro
+colo do útero então não consegue sair. Só tem como ser diagnosticado no
+momento do parto, antes disso o bebe ainda pode virar.&lt;/li>
+&lt;li>&lt;strong>Placenta prévia&lt;/strong>: a placenta vai sair primeiro que o bebê. Diagnóstico é
+feito no final do segundo ou início do terceiro trimestre.&lt;/li>
+&lt;li>&lt;strong>Descolamento de placenta&lt;/strong>: pode acontecer na gestação ou no trabalho de
+parto; sinais: sangue em grande quantidade, dor, batimentos do bebê caindo.&lt;/li>
+&lt;li>&lt;strong>Vasa prévia&lt;/strong>: implantação do cordão imperfeita + rompimento (rotura de
+vasa prévia); diagnóstico: exame de ultrassom, batimentos do bebê caindo,
+sangramento.&lt;/li>
+&lt;li>&lt;strong>Desproporção cefalo-pélvica&lt;/strong>: bebê sai do útero, mas não passa pela
+pelve; diagnóstico no expulsivo com mais de 4h fazendo força&lt;/li>
+&lt;li>&lt;strong>Sofrimento fetal&lt;/strong>: quando os batimentos do bebê estão anormais durante o
+parto e não voltam ao normal após as contrações; os batimentos do bebê
+são monitorados durante o parto; o normal é variar entre 110-160bpm;
+variar é bom. Pode acontecer por: infecção, síndrome de aspiração do
+mecônio, descolamento prematuro de placenta, desproporção cefalo-pélvica.&lt;/li>
+&lt;li>&lt;strong>Parada de progressão&lt;/strong>: o útero para de contrair pq o bebê está entalado
+ou mal posicionado; tem formas de corrigir: exercício pra reposicionar o
+bebê, exercício de aumentar a pelve, farmacológicas e naturais. Caso não
+corrija, é cesaria.&lt;/li>
+&lt;li>&lt;strong>Ruptura uterina prévia&lt;/strong>: quando a mulher fez cesária (dependendo de como
+foi feito o corte a chance muda) em um parto anterior tem esse risco.
+Miomectomia (remoção de miomas) anterior também pode ser um risco
+dependendo de como foi feito.&lt;/li>
+&lt;li>&lt;strong>Herpes vaginal&lt;/strong>: ativa (no trabalho de parto) e em alguma parte da vagina
+que o bebê vai passar.&lt;/li>
+&lt;/ol></description></item><item><title>Smart Home</title><link>https://cezimbra.me/anotacoes/smart-home/</link><pubDate>Tue, 27 Dec 2022 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/smart-home/</guid><description>&lt;h2 id="communication">
  Communication
  &lt;a class="heading-link" href="#communication">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
