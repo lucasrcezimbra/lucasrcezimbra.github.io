@@ -3,7 +3,6 @@ title = "Lucas Cezimbra"
 theme = "hugo-coder"
 languagecode = "pt"
 defaultcontentlanguage = "pt"
-paginate = 20
 pygmentsstyle = "vim"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
