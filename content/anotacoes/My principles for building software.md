@@ -1,7 +1,7 @@
 ---
 title: My principles for building software
 date: 2024-07-04
-lastmod: 2025-02-20
+lastmod: 2025-02-24
 aliases:
   - /anotacoes/manifest-front-end/
   - /anotacoes/manifest-platforms/
@@ -60,6 +60,7 @@ and improving this page.
 - If your team doesn't know how to separate concerns in a monolith, they won't
   know how to do it in microservices. Unless you are centralizing the
   separation decisions, but in this case you are not solving the problem.
+- Microservices are about team topologies and scaling systems with different types of bounds
 - References
     - https://x.com/milan_milanovic/status/1722252645438484810?s=46
     - [The Majestic Monolith](https://signalvnoise.com/svn3/the-majestic-monolith/)
@@ -116,7 +117,6 @@ and improving this page.
 ## To think/write about
 - Containers are for external services. The application should run locally.
 - Prefer pure functions and immutable data - improves testability, predictability, etc.
-- Microservices are about team topologies and scaling systems with different types of bounds
 - Security
 - Documentation
 - No build
