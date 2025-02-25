@@ -12,7 +12,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2025-02-23 - 2025-03-01]({{< ref "Weeknotes/2025-02-23 - 2025-03-01" >}})
 - [My principles for building software]({{< ref "My principles for building software" >}})
 - [Catolicismo]({{< ref "Catolicismo" >}})
-- [Deploying Django with Kamal]({{< ref "Deploying Django with Kamal" >}})
 - [Weeknotes/2025-02-16 - 2025-02-22]({{< ref "Weeknotes/2025-02-16 - 2025-02-22" >}})
 - [Parir Feliz]({{< ref "Parir Feliz" >}})
 - [Weeknotes/2025-02-09 - 2025-02-15]({{< ref "Weeknotes/2025-02-09 - 2025-02-15" >}})
