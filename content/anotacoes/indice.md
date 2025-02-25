@@ -1,15 +1,18 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-02-24
+lastmod: 2025-02-25
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [VPS providers]({{< ref "VPS providers" >}})
 - [Weeknotes/2025-02-23 - 2025-03-01]({{< ref "Weeknotes/2025-02-23 - 2025-03-01" >}})
 - [My principles for building software]({{< ref "My principles for building software" >}})
+- [Catolicismo]({{< ref "Catolicismo" >}})
+- [Deploying Django with Kamal]({{< ref "Deploying Django with Kamal" >}})
 - [Weeknotes/2025-02-16 - 2025-02-22]({{< ref "Weeknotes/2025-02-16 - 2025-02-22" >}})
 - [Parir Feliz]({{< ref "Parir Feliz" >}})
 - [Weeknotes/2025-02-09 - 2025-02-15]({{< ref "Weeknotes/2025-02-09 - 2025-02-15" >}})
@@ -60,7 +63,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2024-09-22 - 2024-09-28]({{< ref "Weeknotes/2024-09-22 - 2024-09-28" >}})
 - [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2024-09-15 - 2024-09-21]({{< ref "Weeknotes/2024-09-15 - 2024-09-21" >}})
-- [Catolicismo]({{< ref "Catolicismo" >}})
 - [Weeknotes/2024-09-08 - 2024-09-14]({{< ref "Weeknotes/2024-09-08 - 2024-09-14" >}})
 - [Weeknotes/2024-09-01 - 2024-09-07]({{< ref "Weeknotes/2024-09-01 - 2024-09-07" >}})
 - [LLM]({{< ref "LLM" >}})

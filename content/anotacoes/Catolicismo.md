@@ -1,7 +1,7 @@
 ---
 title: "Catolicismo"
 date: 2023-08-15
-lastmod: 2024-09-16
+lastmod: 2025-02-25
 ---
 > Sê firme, amável e justo.
 
@@ -352,7 +352,7 @@ lastmod: 2024-09-16
     * "pessoas de idade avançada, cuja fragilidade se acentua" (CIC 1515)
 
 
-## Supertição
+## Superstição
 > Quando se atribui uma importância de algum modo mágica a certas práticas, de
 > outra forma legítimas ou necessárias, ou se atribui a eficácia das orações ou
 > dos sinais sacramentais apenas à sua materialidade, independentemente das
