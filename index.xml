@@ -1,4 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-02-23 - 2025-03-01</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-02-23---2025-03-01/</link><pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-02-23---2025-03-01/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-16---2025-02-22/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>VPS providers</title><link>https://cezimbra.me/anotacoes/vps-providers/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/vps-providers/</guid><description>&lt;table>
+ &lt;thead>
+ &lt;tr>
+ &lt;th>Provider&lt;/th>
+ &lt;th>Link&lt;/th>
+ &lt;th>Available in Brazil&lt;/th>
+ &lt;th>Pricing&lt;/th>
+ &lt;/tr>
+ &lt;/thead>
+ &lt;tbody>
+ &lt;tr>
+ &lt;td>AWS&lt;/td>
+ &lt;td>&lt;a href="https://aws.amazon.com" class="external-link" target="_blank" rel="noopener">https://aws.amazon.com&lt;/a>&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>DigitalOcean&lt;/td>
+ &lt;td>&lt;a href="https://www.digitalocean.com" class="external-link" target="_blank" rel="noopener">https://www.digitalocean.com&lt;/a>&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Hetzner&lt;/td>
+ &lt;td>&lt;a href="https://www.hetzner.com" class="external-link" target="_blank" rel="noopener">https://www.hetzner.com&lt;/a>&lt;/td>
+ &lt;td>❌&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>HostGator&lt;/td>
+ &lt;td>&lt;a href="https://www.hostgator.com.br" class="external-link" target="_blank" rel="noopener">https://www.hostgator.com.br&lt;/a>&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>R$ 239,39 3 vCPU, 4 GB RAM, 160 GB SSD&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Hostinger&lt;/td>
+ &lt;td>&lt;a href="https://www.hostinger.com.br" class="external-link" target="_blank" rel="noopener">https://www.hostinger.com.br&lt;/a>&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>R$ 34,99 1 vCPU, 4 GB RAM, 50 GB SSD, 4 TB bandwidth&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>KingHost&lt;/td>
+ &lt;td>&lt;a href="https://king.host" class="external-link" target="_blank" rel="noopener">https://king.host&lt;/a>&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>R$ 29,90 1 vCPU, 1 GB RAM, 50 GB SSD, unlimited bandwidth&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Locaweb&lt;/td>
+ &lt;td>&lt;a href="https://www.locaweb.com.br" class="external-link" target="_blank" rel="noopener">https://www.locaweb.com.br&lt;/a>&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>R$ 15,90 1 vCPU, 512 MB RAM, 20 GB SSD, unlimited bandwidth&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Napoleon&lt;/td>
+ &lt;td>&lt;a href="https://napoleon.com.br" class="external-link" target="_blank" rel="noopener">https://napoleon.com.br&lt;/a>&lt;/td>
+ &lt;td>✅&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;/tbody>
+&lt;/table></description></item><item><title>2025-02-23 - 2025-03-01</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-02-23---2025-03-01/</link><pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-02-23---2025-03-01/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-16---2025-02-22/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -22,7 +81,7 @@ Antônio de Macedo Costa&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>&lt;a href="https://www.datacentermap.com/" class="external-link" target="_blank" rel="noopener">Data Center Map&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="learned">
  Learned
@@ -42,7 +101,8 @@ Antônio de Macedo Costa&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>&lt;a href="https://utcc.utoronto.ca/~cks/space/blog/sysadmin/JSONModernMachineReadableFormat" class="external-link" target="_blank" rel="noopener">Chris&amp;rsquo;s Wiki :: blog/sysadmin/JSONModernMachineReadableFormat&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://huggingface.co/blog/embedding-quantization" class="external-link" target="_blank" rel="noopener">Binary and Scalar Embedding Quantization for Significantly Faster &amp;amp; Cheaper Retrieval&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-news">
  Read news
@@ -52,7 +112,8 @@ Antônio de Macedo Costa&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>&lt;a href="https://www.infoq.com/news/2025/02/latam-gpt" class="external-link" target="_blank" rel="noopener">Latin America Launches Latam-GPT to Improve AI Cultural Relevance - InfoQ&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.anthropic.com/news/claude-3-7-sonnet" class="external-link" target="_blank" rel="noopener">Claude 3.7 Sonnet and Claude Code \ Anthropic&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="watched">
  Watched
@@ -63,6 +124,7 @@ Antônio de Macedo Costa&lt;/li>
 &lt;/h2>
 &lt;ul>
 &lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=rrJhQpvlkLA" class="external-link" target="_blank" rel="noopener">Joe Rogan Experience #2237 - Mike Benz&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=AJpK3YTTKZ4" class="external-link" target="_blank" rel="noopener">Introducing Claude Code&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="listened">
  Listened
@@ -72,7 +134,8 @@ Antônio de Macedo Costa&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=_O0ISUzE_F4" class="external-link" target="_blank" rel="noopener">Homilia Diária | Apaguemos a luz dos apegos! (Segunda-feira da 7.ª Semana do Tempo Comum)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=VfEaOWwj6ck" class="external-link" target="_blank" rel="noopener">Homilia Diária | É pela humildade que nos elevamos (Segunda-feira da 7.ª Semana do Tempo Comum)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-16---2025-02-22/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2025-02-16 - 2025-02-22</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-02-16---2025-02-22/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-02-16---2025-02-22/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-09---2025-02-15/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-23---2025-03-01/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
@@ -7401,8 +7464,10 @@ on your page can access;&lt;/li>
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/vps-providers/" >VPS providers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-23---2025-03-01/" >Weeknotes/2025-02-23 - 2025-03-01&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/my-principles-for-building-software/" >My principles for building software&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/catolicismo/" >Catolicismo&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-16---2025-02-22/" >Weeknotes/2025-02-16 - 2025-02-22&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/parir-feliz/" >Parir Feliz&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-09---2025-02-15/" >Weeknotes/2025-02-09 - 2025-02-15&lt;/a>&lt;/li>
@@ -7453,7 +7518,6 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-22---2024-09-28/" >Weeknotes/2024-09-22 - 2024-09-28&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/linux/" >Linux&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-15---2024-09-21/" >Weeknotes/2024-09-15 - 2024-09-21&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/catolicismo/" >Catolicismo&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-08---2024-09-14/" >Weeknotes/2024-09-08 - 2024-09-14&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-09-01---2024-09-07/" >Weeknotes/2024-09-01 - 2024-09-07&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/llm/" >LLM&lt;/a>&lt;/li>
