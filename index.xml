@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>VPS providers</title><link>https://cezimbra.me/anotacoes/vps-providers/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/vps-providers/</guid><description>&lt;table>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 28 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>VPS providers</title><link>https://cezimbra.me/anotacoes/vps-providers/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/vps-providers/</guid><description>&lt;table>
  &lt;thead>
  &lt;tr>
  &lt;th>Provider&lt;/th>
@@ -91,7 +91,9 @@ Antônio de Macedo Costa&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>GitHub API &lt;code>watchers&lt;/code> and &lt;code>watchers_count&lt;/code> are the number of stars of the
+repo. &lt;a href="https://api.github.com/users/lucasrcezimbra/starred" class="external-link" target="_blank" rel="noopener">Example&lt;/a>.
+&lt;a href="https://github.com/orgs/community/discussions/24795" class="external-link" target="_blank" rel="noopener">Source&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="read-articles">
  Read articles
@@ -114,6 +116,8 @@ Antônio de Macedo Costa&lt;/li>
 &lt;ul>
 &lt;li>&lt;a href="https://www.infoq.com/news/2025/02/latam-gpt" class="external-link" target="_blank" rel="noopener">Latin America Launches Latam-GPT to Improve AI Cultural Relevance - InfoQ&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.anthropic.com/news/claude-3-7-sonnet" class="external-link" target="_blank" rel="noopener">Claude 3.7 Sonnet and Claude Code \ Anthropic&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.aboutamazon.com/news/devices/new-alexa-generative-artificial-intelligence" class="external-link" target="_blank" rel="noopener">Introducing Alexa+, the next generation of Alexa&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://techcrunch.com/2025/02/27/stripe-ceo-says-ai-startups-are-growing-faster-than-saas-ever-did-and-calling-them-wrappers-misses-the-point/" class="external-link" target="_blank" rel="noopener">Stripe says AI startups are growing faster than SaaS ever did, and calling them wrappers ‘misses the point’ | TechCrunch&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="watched">
  Watched
@@ -125,6 +129,8 @@ Antônio de Macedo Costa&lt;/li>
 &lt;ul>
 &lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=rrJhQpvlkLA" class="external-link" target="_blank" rel="noopener">Joe Rogan Experience #2237 - Mike Benz&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=AJpK3YTTKZ4" class="external-link" target="_blank" rel="noopener">Introducing Claude Code&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=cfRYp0nItZ8" class="external-link" target="_blank" rel="noopener">Introduction to GPT-4.5&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/posts/andrewyng_announcing-agentic-document-extraction-activity-7300953738356084736-Q3yc" class="external-link" target="_blank" rel="noopener">Andrew Ng on LinkedIn: Announcing: Agentic Document Extraction! PDF files represent information…&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="listened">
  Listened
@@ -136,6 +142,8 @@ Antônio de Macedo Costa&lt;/li>
 &lt;ul>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=_O0ISUzE_F4" class="external-link" target="_blank" rel="noopener">Homilia Diária | Apaguemos a luz dos apegos! (Segunda-feira da 7.ª Semana do Tempo Comum)&lt;/a>&lt;/li>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=VfEaOWwj6ck" class="external-link" target="_blank" rel="noopener">Homilia Diária | É pela humildade que nos elevamos (Segunda-feira da 7.ª Semana do Tempo Comum)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=gVPjVhloYMk" class="external-link" target="_blank" rel="noopener">Homilia Diária | Não somos donos da bondade (Quarta-feira da 7.ª Semana do Tempo Comum)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=Mz7unbS5JWk" class="external-link" target="_blank" rel="noopener">Homilia Diária | A união que aponta para o Céu (Sexta-feira da 7ª Sem. do Tempo Comum)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-16---2025-02-22/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2025-02-16 - 2025-02-22</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-02-16---2025-02-22/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-02-16---2025-02-22/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-09---2025-02-15/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-23---2025-03-01/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;h2 id="books-being-read">
@@ -7464,8 +7472,8 @@ on your page can access;&lt;/li>
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/vps-providers/" >VPS providers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-23---2025-03-01/" >Weeknotes/2025-02-23 - 2025-03-01&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/vps-providers/" >VPS providers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/my-principles-for-building-software/" >My principles for building software&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/catolicismo/" >Catolicismo&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-16---2025-02-22/" >Weeknotes/2025-02-16 - 2025-02-22&lt;/a>&lt;/li>
