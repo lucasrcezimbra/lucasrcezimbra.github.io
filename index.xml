@@ -180,7 +180,30 @@ component framework. It&amp;rsquo;s way bigger than only UI components.&lt;/li>
 &lt;li>&lt;a href="https://github.com/iwanalabs/django-htmx-components" class="external-link" target="_blank" rel="noopener">django-htmx-components&lt;/a>
 is a collection of components for Django and HTMX meant to be copy-pasted
 into your project.&lt;/li>
-&lt;/ul></description></item><item><title>VPS providers</title><link>https://cezimbra.me/anotacoes/vps-providers/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/vps-providers/</guid><description>&lt;table>
+&lt;/ul></description></item><item><title>Deploying Django with Kamal</title><link>https://cezimbra.me/anotacoes/deploying-django-with-kamal/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/deploying-django-with-kamal/</guid><description>&lt;h2 id="steps">
+ Steps
+ &lt;a class="heading-link" href="#steps">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ol>
+&lt;li>Install Ruby. I didn&amp;rsquo;t have Ruby installed and I use
+&lt;a href="https://mise.jdx.dev/" class="external-link" target="_blank" rel="noopener">mise-en-place&lt;/a> as my tool version manager. So, I
+installed Ruby:&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>mise use ruby 3.4.2
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol start="2">
+&lt;li>
+&lt;p>Spin up a VPS. It could be any VPS. I used AWS EC2 because of the free tier.
+I did it through the AWS console.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Install kamal&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-shell" data-lang="shell">&lt;span style="display:flex;">&lt;span>gem install kamal
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>VPS providers</title><link>https://cezimbra.me/anotacoes/vps-providers/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/vps-providers/</guid><description>&lt;table>
  &lt;thead>
  &lt;tr>
  &lt;th>Provider&lt;/th>
@@ -7655,6 +7678,7 @@ on your page can access;&lt;/li>
 &lt;ul>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-03-02---2025-03-08/" >Weeknotes/2025-03-02 - 2025-03-08&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/trying-django-ui-components-libraries/" >Trying Django UI Components libraries&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/deploying-django-with-kamal/" >Deploying Django with Kamal&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-23---2025-03-01/" >Weeknotes/2025-02-23 - 2025-03-01&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/vps-providers/" >VPS providers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/my-principles-for-building-software/" >My principles for building software&lt;/a>&lt;/li>
