@@ -1,7 +1,7 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-03-03
+lastmod: 2025-03-06
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
@@ -9,12 +9,13 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2025-03-02 - 2025-03-08]({{< ref "Weeknotes/2025-03-02 - 2025-03-08" >}})
+- [Docker]({{< ref "Docker" >}})
+- [Catolicismo]({{< ref "Catolicismo" >}})
 - [Trying Django UI Components libraries]({{< ref "Trying Django UI Components libraries" >}})
 - [Deploying Django with Kamal]({{< ref "Deploying Django with Kamal" >}})
 - [Weeknotes/2025-02-23 - 2025-03-01]({{< ref "Weeknotes/2025-02-23 - 2025-03-01" >}})
 - [VPS providers]({{< ref "VPS providers" >}})
 - [My principles for building software]({{< ref "My principles for building software" >}})
-- [Catolicismo]({{< ref "Catolicismo" >}})
 - [Weeknotes/2025-02-16 - 2025-02-22]({{< ref "Weeknotes/2025-02-16 - 2025-02-22" >}})
 - [Parir Feliz]({{< ref "Parir Feliz" >}})
 - [Weeknotes/2025-02-09 - 2025-02-15]({{< ref "Weeknotes/2025-02-09 - 2025-02-15" >}})
@@ -25,7 +26,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2025-01-26 - 2025-02-01]({{< ref "Weeknotes/2025-01-26 - 2025-02-01" >}})
 - [Weeknotes/2025-01-19 - 2025-01-25]({{< ref "Weeknotes/2025-01-19 - 2025-01-25" >}})
 - [Weeknotes/2025-01-12 - 2025-01-18]({{< ref "Weeknotes/2025-01-12 - 2025-01-18" >}})
-- [Docker]({{< ref "Docker" >}})
 - [Weeknotes/2025-01-05 - 2025-01-11]({{< ref "Weeknotes/2025-01-05 - 2025-01-11" >}})
 - [Videos/Simple Made Easy]({{< ref "Videos/Simple Made Easy" >}})
 - [Weeknotes/2024-12-29 - 2025-01-04]({{< ref "Weeknotes/2024-12-29 - 2025-01-04" >}})

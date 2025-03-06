@@ -1,7 +1,7 @@
 ---
 title: "Catolicismo"
 date: 2023-08-15
-lastmod: 2025-02-25
+lastmod: 2025-03-06
 ---
 > Sê firme, amável e justo.
 
@@ -299,6 +299,26 @@ lastmod: 2025-02-25
 > possam sempre elevar a vós o louvor e a ação de graças, por meio do vosso
 > Filho, Jesus Cristo, Senhor nosso. Amém.
 
+## Penitência
+### no domingo
+> ...o domingo não é um dia penitencial. Como regra geral, portanto, não é
+> aconselhável que acrescentemos, neste dia, mortificações à nossa lista de
+> penitências.
+>
+> Dizer, porém, que é terminantemente proibido penitenciar-se no Dia do
+> Senhor seria ignorar, primeiro, o caráter flexível das "expressões
+> rituais" com que os cristãos sempre viveram o espírito do domingo;
+> segundo, o nosso estado de fragilidade nesta vida, em que necessitamos
+> constantemente de mortificação; e, por fim, a própria natureza da alegria
+> cristã, que pode conviver tranquilamente com os sofrimentos inerentes a esta
+> vida...
+>
+> ...não só é possível, como muito agradável a Deus continuarmos a viver
+> nossos propósitos de penitência também durante os domingos. Os pequenos
+> sacrifícios que fazemos não comprometem, afinal, "a alegria própria do
+> dia do Senhor"...
+>
+> https://padrepauloricardo.org/episodios/e-proibido-fazer-penitencia-aos-domingos
 
 ## Protestantismo
 > Quando urge uma necessidade grave, a critério do ordinário, os ministros
