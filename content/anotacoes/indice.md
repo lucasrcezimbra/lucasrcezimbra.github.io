@@ -8,6 +8,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Product Development]({{< ref "Product Development" >}})
 - [Why to produce content]({{< ref "Why to produce content" >}})
 - [Weeknotes/2025-03-09 - 2025-03-15]({{< ref "Weeknotes/2025-03-09 - 2025-03-15" >}})
 - [Python]({{< ref "Python" >}})
