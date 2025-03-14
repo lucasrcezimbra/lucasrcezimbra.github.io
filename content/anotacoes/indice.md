@@ -1,14 +1,17 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-03-06
+lastmod: 2025-03-14
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Why to produce content]({{< ref "Why to produce content" >}})
+- [Weeknotes/2025-03-09 - 2025-03-15]({{< ref "Weeknotes/2025-03-09 - 2025-03-15" >}})
 - [Weeknotes/2025-03-02 - 2025-03-08]({{< ref "Weeknotes/2025-03-02 - 2025-03-08" >}})
+- [Python]({{< ref "Python" >}})
 - [Docker]({{< ref "Docker" >}})
 - [Catolicismo]({{< ref "Catolicismo" >}})
 - [Trying Django UI Components libraries]({{< ref "Trying Django UI Components libraries" >}})
@@ -37,7 +40,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2024-12-22 - 2024-12-28]({{< ref "Weeknotes/2024-12-22 - 2024-12-28" >}})
 - [Weeknotes/2024-12-15 - 2024-12-21]({{< ref "Weeknotes/2024-12-15 - 2024-12-21" >}})
 - [Weeknotes/2024-12-08 - 2024-12-14]({{< ref "Weeknotes/2024-12-08 - 2024-12-14" >}})
-- [Python]({{< ref "Python" >}})
 - [Weeknotes/2024-12-01 - 2024-12-07]({{< ref "Weeknotes/2024-12-01 - 2024-12-07" >}})
 - [Toolbox]({{< ref "Toolbox" >}})
 - [Weeknotes/2024-11-24 - 2024-11-30]({{< ref "Weeknotes/2024-11-24 - 2024-11-30" >}})
@@ -156,7 +158,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [ChatGPT - Decimal approximation in Python]({{< ref "ChatGPT - Decimal approximation in Python" >}})
 - [IoT]({{< ref "IoT" >}})
 - [OpenTelemetry]({{< ref "OpenTelemetry" >}})
-- [Empreendedorismo]({{< ref "Empreendedorismo" >}})
 - [Filesystems]({{< ref "Filesystems" >}})
 - [Joplin]({{< ref "Joplin" >}})
 - [Sentry]({{< ref "Sentry" >}})

@@ -1,7 +1,7 @@
 ---
 title: Python
 date: 2023-08-15
-lastmod: 2024-12-14
+lastmod: 2025-03-14
 aliases:
   - /anotacoes/manifest-python-data-classes/
 ---
@@ -285,6 +285,7 @@ create_autospec(MyClass).myobj.wrong_method()
 
 ## Dataclasses
 - attrs vs pydantic: [Why I use attrs instead of pydantic](https://threeofwands.com/why-i-use-attrs-instead-of-pydantic/)
+- [dry-python/classes: Smart, pythonic, ad-hoc, typed polymorphism for Python](https://github.com/dry-python/classes)
 
 ## Strings
 ### Formatting
