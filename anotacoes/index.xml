@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>Why to produce content?</title><link>https://cezimbra.me/anotacoes/why-to-produce-content/</link><pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/why-to-produce-content/</guid><description>&lt;h2 id="references">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 14 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>Product Development</title><link>https://cezimbra.me/anotacoes/product-development/</link><pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/product-development/</guid><description>&lt;h2 id="fake-door">
+ Fake Door
+ &lt;a class="heading-link" href="#fake-door">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="references">
+ References
+ &lt;a class="heading-link" href="#references">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>TODO: &lt;a href="https://www.gethorizon.net/guides/fake-door-testing" class="external-link" target="_blank" rel="noopener">Fake Door Testing - The Complete Guide on How, Why and When to Use&lt;/a>&lt;/li>
+&lt;li>TODO: &lt;a href="https://data36.com/fake-door-testing" class="external-link" target="_blank" rel="noopener">Fake Door Testing: an “Evil” but Efficient Testing Method&lt;/a>&lt;/li>
+&lt;li>TODO: &lt;a href="https://userpilot.com/blog/fake-door-testing" class="external-link" target="_blank" rel="noopener">Fake Door Testing: Definition + How to Run | Userpilot Blog&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Why to produce content?</title><link>https://cezimbra.me/anotacoes/why-to-produce-content/</link><pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/why-to-produce-content/</guid><description>&lt;h2 id="references">
  References
  &lt;a class="heading-link" href="#references">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -82,7 +100,7 @@ Antônio de Macedo Costa&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>&lt;a href="https://spreadsheetpoint.com/google-is-bringing-linux-to-android-heres-why-that-matters" class="external-link" target="_blank" rel="noopener">Google is Bringing Linux to Android. Here’s Why That Matters - Spreadsheet Point&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="watched">
  Watched
@@ -7776,6 +7794,7 @@ on your page can access;&lt;/li>
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/product-development/" >Product Development&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/why-to-produce-content/" >Why to produce content&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-03-09---2025-03-15/" >Weeknotes/2025-03-09 - 2025-03-15&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>&lt;/li>
