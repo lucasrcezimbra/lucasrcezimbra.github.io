@@ -1,16 +1,17 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-03-14
+lastmod: 2025-03-17
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2025-03-16 - 2025-03-22]({{< ref "Weeknotes/2025-03-16 - 2025-03-22" >}})
+- [Weeknotes/2025-03-09 - 2025-03-15]({{< ref "Weeknotes/2025-03-09 - 2025-03-15" >}})
 - [Product Development]({{< ref "Product Development" >}})
 - [Why to produce content]({{< ref "Why to produce content" >}})
-- [Weeknotes/2025-03-09 - 2025-03-15]({{< ref "Weeknotes/2025-03-09 - 2025-03-15" >}})
 - [Python]({{< ref "Python" >}})
 - [Weeknotes/2025-03-02 - 2025-03-08]({{< ref "Weeknotes/2025-03-02 - 2025-03-08" >}})
 - [Docker]({{< ref "Docker" >}})
