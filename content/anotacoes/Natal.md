@@ -21,12 +21,12 @@ lastmod: 2025-03-24
 	- (84) 9912-8345
 
 ## Prestadores de Serviço
-- Ar Condicionado (instalação e manutenção): Márcio (84) 98849-4952
-- Máquina de Lavar (limpeza): Deyvison (84) 98759-1578
-- Móveis (montador): Serginho (84) 99127-0056
-- Pintura: Eupíbes (Roberto Carlos) (84) 99907-0786
-- Pintura: Fernando (84) 99910-2753
-- Serviços gerais (elétrica, hidráulica, reparos, instalações): Jallyson (84) 99154-2666
+- Ar Condicionado (instalação e manutenção): Márcio [(84) 98849-4952](https://wa.me/+558498494952)
+- Máquina de Lavar (limpeza): Deyvison [(84) 98759-1578](https://wa.me/+5584987591578)
+- Móveis (montador): Serginho [(84) 99127-0056](https://wa.me/+5584991270056)
+- Pintura: Eupíbes (Roberto Carlos) [(84) 99907-0786](https://wa.me/+5584999070786)
+- Pintura: Fernando [(84) 99910-2753](https://wa.me/+5584999102753)
+- Serviços gerais (elétrica, hidráulica, reparos, instalações): Jallyson [(84) 99154-2666](https://wa.me/+5584991542666)
 
 ## Saúde
 ### Unimed
