@@ -1,7 +1,7 @@
 ---
 title: Linux
 date: 2023-08-15
-lastmod: 2024-09-23
+lastmod: 2025-03-24
 aliases:
   - /anotacoes/linux/
   - /dicas-rapidas-linux/
@@ -125,6 +125,12 @@ aliases:
 	```bash
 	sudo apt install apache2-utils
 	```
+
+## CPU
+- How to discover CPU model and version
+    ```shell
+    lscpu | rg 'Model name'
+    ```
 
 ## GPU
 - How to discover GPU. Options:

@@ -1,13 +1,16 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-03-18
+lastmod: 2025-03-24
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2025-03-23 - 2025-03-29]({{< ref "Weeknotes/2025-03-23 - 2025-03-29" >}})
+- [Natal]({{< ref "Natal" >}})
+- [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2025-03-16 - 2025-03-22]({{< ref "Weeknotes/2025-03-16 - 2025-03-22" >}})
 - [Weeknotes/2025-03-09 - 2025-03-15]({{< ref "Weeknotes/2025-03-09 - 2025-03-15" >}})
 - [Product Development]({{< ref "Product Development" >}})
@@ -67,7 +70,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2024-09-29 - 2024-10-05]({{< ref "Weeknotes/2024-09-29 - 2024-10-05" >}})
 - [ast-grep by example]({{< ref "ast-grep by example" >}})
 - [Weeknotes/2024-09-22 - 2024-09-28]({{< ref "Weeknotes/2024-09-22 - 2024-09-28" >}})
-- [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2024-09-15 - 2024-09-21]({{< ref "Weeknotes/2024-09-15 - 2024-09-21" >}})
 - [Weeknotes/2024-09-08 - 2024-09-14]({{< ref "Weeknotes/2024-09-08 - 2024-09-14" >}})
 - [Weeknotes/2024-09-01 - 2024-09-07]({{< ref "Weeknotes/2024-09-01 - 2024-09-07" >}})
@@ -77,7 +79,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Vim]({{< ref "Vim" >}})
 - [Weeknotes/2024-08-25 - 2024-08-31]({{< ref "Weeknotes/2024-08-25 - 2024-08-31" >}})
 - [Santos Catolicos]({{< ref "Santos Catolicos" >}})
-- [Natal]({{< ref "Natal" >}})
 - [Weeknotes/2024-08-18 - 2024-08-24]({{< ref "Weeknotes/2024-08-18 - 2024-08-24" >}})
 - [Do zero aos R$ 10k MRR em 3 meses]({{< ref "Do zero aos R$ 10k MRR em 3 meses" >}})
 - [Weeknotes/2024-08-11 - 2024-08-17]({{< ref "Weeknotes/2024-08-11 - 2024-08-17" >}})

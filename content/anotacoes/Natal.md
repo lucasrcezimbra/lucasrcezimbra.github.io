@@ -1,7 +1,7 @@
 ---
 title: "Natal"
 date: 2023-08-15
-lastmod: 2024-08-27
+lastmod: 2025-03-24
 ---
 
 ## Cludes de Tiro
@@ -19,6 +19,13 @@ lastmod: 2024-08-27
 - [Blum](https://universoblum.com/)
 	- Av. Miguel Castro, 1142 - Lagoa Nova
 	- (84) 9912-8345
+
+## Prestadores de Serviço
+- Pintura: Eupíbes (Roberto Carlos) (84) 99907-0786
+- Pintura: Fernando (84) 99910-2753
+- Serviços gerais (Elétrica, Hidráulica, Reparos, Instalações): Jallyson (84) 99154-2666
+- Limpeza de Máquina de Lavar: Deyvison (84) 98759-1578
+- Instalação e Manutenção de Ar Condicionado: Márcio (84) 98849-4952
 
 ## Saúde
 ### Unimed
