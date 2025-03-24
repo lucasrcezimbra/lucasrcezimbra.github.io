@@ -22,6 +22,7 @@ lastmod: 2025-03-24
 
 ## Prestadores de Serviço
 - Ar Condicionado (instalação e manutenção): Márcio [(84) 98849-4952](https://wa.me/+5584988494952)
+- Comida (cozinha na sua casa): Jeane [(84) 98849-8272](https://wa.me/+5584988498272)
 - Máquina de Lavar (limpeza): Deyvison [(84) 98759-1578](https://wa.me/+5584987591578)
 - Móveis (montador): Serginho [(84) 99127-0056](https://wa.me/+5584991270056)
 - Pintura: Eupíbes (Roberto Carlos) [(84) 99907-0786](https://wa.me/+5584999070786)
