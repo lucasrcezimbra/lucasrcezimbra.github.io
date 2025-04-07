@@ -1,7 +1,7 @@
 ---
 title: "Vim"
 date: 2023-08-15
-lastmod: 2024-09-02
+lastmod: 2025-04-07
 ---
 - Profilling startup time
 	- https://github.com/dstein64/vim-startuptime
@@ -38,6 +38,8 @@ lastmod: 2024-09-02
 - vim-illuminate not highlighting #troubleshooting
 	- https://github.com/RRethy/vim-illuminate/issues/154
 	- `set termguicolors`
+- `:LspInfo` to show the active LSP clients and servers
+- `:Mason` to show installed LSPs, DAPs, Linters, and Formatters
 
 ### Creating a new plugin
 - Tutorials
