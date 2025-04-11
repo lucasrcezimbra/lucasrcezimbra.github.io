@@ -40,48 +40,11 @@ class ImplementedGreen(Green):
     Link to heading
   
 
-(12:55)'><meta name=keywords content><meta name=twitter:card content="summary"><meta name=twitter:image content="https://cezimbra.me/images/lucas-180x180.jpg"><meta name=twitter:title content="The End Of Object Inheritance & The Beginning Of A New Modularity"><meta name=twitter:description content='The End Of Object Inheritance & The Beginning Of A New Modularity
-
-  Composition over Inheritance
-  
-    
-    Link to heading
-  
-
-(4:30)
-&ldquo;If you are explaining, even if you are write, you are losing.&rdquo;.
+(12:55)'><meta name=keywords content><meta name=twitter:card content="summary_large_image"><meta name=twitter:image content="https://cezimbra.me/images/lucas-180x180.jpg"><meta name=twitter:title content="The End Of Object Inheritance & The Beginning Of A New Modularity"><meta name=twitter:description content='The End Of Object Inheritance & The Beginning Of A New Modularity
+Composition over Inheritance Link to heading (4:30) “If you are explaining, even if you are write, you are losing.”.
 Inheritance approach:
-class MyAbstractBase:
-    def OrangeMethod(self):
-        ...
-
-    def GreenMethod(self):
-        """
-        Do not call OrangeMethod() in your implementation...
-        """
-        raise NotImplementedError()
-
-    def BlueMethod(self):
-        ...
-vs composition approach:
-class Green:
-    def GreenMethod(self):
-        raise NotImplementedError()
-
-class ImplementedGreen(Green):
-    def __init__(self, blue):
-        self._blue = blue
-
-    def GreenMethod(self):
-        ...
-
-  Object Inheritance Fails At Fault Intolerance
-  
-    
-    Link to heading
-  
-
-(12:55)'><meta name=twitter:site content="@lucasrcezimbra"><meta property="og:url" content="https://cezimbra.me/anotacoes/videos/the-end-of-object-inheritance-and-the-beginning-of-a-new-modularity/"><meta property="og:site_name" content="Lucas Cezimbra"><meta property="og:title" content="The End Of Object Inheritance & The Beginning Of A New Modularity"><meta property="og:description" content='The End Of Object Inheritance & The Beginning Of A New Modularity
+class MyAbstractBase: def OrangeMethod(self): ... def GreenMethod(self): """ Do not call OrangeMethod() in your implementation... """ raise NotImplementedError() def BlueMethod(self): ... vs composition approach:
+class Green: def GreenMethod(self): raise NotImplementedError() class ImplementedGreen(Green): def __init__(self, blue): self._blue = blue def GreenMethod(self): ... Object Inheritance Fails At Fault Intolerance Link to heading (12:55)'><meta property="og:url" content="https://cezimbra.me/anotacoes/videos/the-end-of-object-inheritance-and-the-beginning-of-a-new-modularity/"><meta property="og:site_name" content="Lucas Cezimbra"><meta property="og:title" content="The End Of Object Inheritance & The Beginning Of A New Modularity"><meta property="og:description" content='The End Of Object Inheritance & The Beginning Of A New Modularity
 Composition over Inheritance Link to heading (4:30) “If you are explaining, even if you are write, you are losing.”.
 Inheritance approach:
 class MyAbstractBase: def OrangeMethod(self): ... def GreenMethod(self): """ Do not call OrangeMethod() in your implementation... """ raise NotImplementedError() def BlueMethod(self): ... vs composition approach:

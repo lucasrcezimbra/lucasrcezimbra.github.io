@@ -63,71 +63,11 @@ t = time()
 next(it)
 print(f"#################################### fixture {fixturefunc} teardown took {d} seconds")
 
-'><meta name=keywords content><meta name=twitter:card content="summary"><meta name=twitter:image content="https://cezimbra.me/images/lucas-180x180.jpg"><meta name=twitter:title content="Profilling pytest tests and fixtures"><meta name=twitter:description content='
-  pytest &ndash;durations
-  
-    
-    Link to heading
-  
-
---durations=<n> outputs the top  slowest tests/fixtures
-pytest --durations=<n>
-
-  pyinstrument
-  
-    
-    Link to heading
-  
-
-pyinstrument · PyPI
-pip install pyinstrument
-pyinstrument -m pytest
-
-  pytest-profiling
-  
-    
-    Link to heading
-  
-
-pytest-profiling · PyPI
-pip install pytest-profiling
-
-  + SnakeViz
-  
-    
-    Link to heading
-  
-
-snakeviz · PyPI
-pytest --profile
-pip install snakeviz
-snakeviz prof/combined.prof
-
-  + SVG
-  
-    
-    Link to heading
-  
-
-pytest --profile-svg
-# open prof/combined.svg
-
-  Workaround to time fixtures teardown
-  
-    
-    Link to heading
-  
-
-
-Edit file <venv>/lib/python<version>/site-packages/_pytest/fixtures.py
-Search for def _teardown_yield_fixture
-Replace next(it) with
-from time import time
-t = time()
-next(it)
-print(f"#################################### fixture {fixturefunc} teardown took {d} seconds")
-
-'><meta name=twitter:site content="@lucasrcezimbra"><meta property="og:url" content="https://cezimbra.me/anotacoes/profilling-python-tests/"><meta property="og:site_name" content="Lucas Cezimbra"><meta property="og:title" content="Profilling pytest tests and fixtures"><meta property="og:description" content='pytest –durations Link to heading --durations=<n> outputs the top slowest tests/fixtures
+'><meta name=keywords content><meta name=twitter:card content="summary_large_image"><meta name=twitter:image content="https://cezimbra.me/images/lucas-180x180.jpg"><meta name=twitter:title content="Profilling pytest tests and fixtures"><meta name=twitter:description content='pytest –durations Link to heading --durations=<n> outputs the top slowest tests/fixtures
+pytest --durations=<n> pyinstrument Link to heading pyinstrument · PyPI
+pip install pyinstrument pyinstrument -m pytest pytest-profiling Link to heading pytest-profiling · PyPI
+pip install pytest-profiling + SnakeViz Link to heading snakeviz · PyPI
+pytest --profile pip install snakeviz snakeviz prof/combined.prof + SVG Link to heading pytest --profile-svg # open prof/combined.svg Workaround to time fixtures teardown Link to heading Edit file <venv>/lib/python<version>/site-packages/_pytest/fixtures.py Search for def _teardown_yield_fixture Replace next(it) with from time import time t = time() next(it) print(f"#################################### fixture {fixturefunc} teardown took {d} seconds")'><meta property="og:url" content="https://cezimbra.me/anotacoes/profilling-python-tests/"><meta property="og:site_name" content="Lucas Cezimbra"><meta property="og:title" content="Profilling pytest tests and fixtures"><meta property="og:description" content='pytest –durations Link to heading --durations=<n> outputs the top slowest tests/fixtures
 pytest --durations=<n> pyinstrument Link to heading pyinstrument · PyPI
 pip install pyinstrument pyinstrument -m pytest pytest-profiling Link to heading pytest-profiling · PyPI
 pip install pytest-profiling + SnakeViz Link to heading snakeviz · PyPI
