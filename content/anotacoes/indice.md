@@ -1,13 +1,14 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-04-11
+lastmod: 2025-04-12
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Javascript]({{< ref "Javascript" >}})
 - [Weeknotes/2025-04-06 - 2025-04-12]({{< ref "Weeknotes/2025-04-06 - 2025-04-12" >}})
 - [Vim]({{< ref "Vim" >}})
 - [Weeknotes/2025-03-30 - 2025-04-05]({{< ref "Weeknotes/2025-03-30 - 2025-04-05" >}})
@@ -157,7 +158,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Clojure]({{< ref "Clojure" >}})
 - [Cloud]({{< ref "Cloud" >}})
 - [Brag document]({{< ref "Brag document" >}})
-- [Javascript]({{< ref "Javascript" >}})
 - [Catequese para Adultos]({{< ref "Catequese para Adultos" >}})
 - [The most famous 5 laws in the world]({{< ref "The most famous 5 laws in the world" >}})
 - [ChatGPT - Decimal approximation in Python]({{< ref "ChatGPT - Decimal approximation in Python" >}})
