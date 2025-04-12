@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-04-06 - 2025-04-12</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-04-06---2025-04-12/</link><pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-04-06---2025-04-12/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-03-30---2025-04-05/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-04-06 - 2025-04-12</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-04-06---2025-04-12/</link><pubDate>Sun, 06 Apr 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-04-06---2025-04-12/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-03-30---2025-04-05/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;h2 id="books-being-read">
  Books being read
  &lt;a class="heading-link" href="#books-being-read">
@@ -7878,6 +7878,7 @@ on your page can access;&lt;/li>
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/javascript/" >Javascript&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-04-06---2025-04-12/" >Weeknotes/2025-04-06 - 2025-04-12&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/vim/" >Vim&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-03-30---2025-04-05/" >Weeknotes/2025-03-30 - 2025-04-05&lt;/a>&lt;/li>
@@ -8027,7 +8028,6 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/clojure/" >Clojure&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/brag-document/" >Brag document&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/javascript/" >Javascript&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/catequese-para-adultos/" >Catequese para Adultos&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/the-most-famous-5-laws-in-the-world/" >The most famous 5 laws in the world&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/chatgpt---decimal-approximation-in-python/" >ChatGPT - Decimal approximation in Python&lt;/a>&lt;/li>
@@ -9071,7 +9071,78 @@ rolled back. For example:
 exists.&lt;/li>
 &lt;/ul></description></item><item><title>IoT</title><link>https://cezimbra.me/anotacoes/iot/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/iot/</guid><description>&lt;blockquote>
 &lt;p>LoRa (from &amp;ldquo;long range&amp;rdquo;) is a physical proprietary radio communication technique. (&amp;hellip;). The continued development of the LoRaWAN protocol is managed by the open, non-profit LoRa Alliance (&amp;hellip;).&lt;/p>
-&lt;p>Together, LoRa and LoRaWAN define a Low Power, Wide Area (LPWA) networking protocol designed to wirelessly connect battery operated devices to the internet in regional, national or global networks, and targets key Internet of things (IoT) requirements such as bi-directional communication, end-to-end security, mobility and localization services. The low power, low bit rate, and IoT use distinguish this type of network from a wireless WAN that is designed to connect users or businesses, and carry more data, using more power. The LoRaWAN data rate ranges from 0.3 kbit/s to 50 kbit/s per channel.&lt;/p></description></item><item><title>Javascript</title><link>https://cezimbra.me/anotacoes/javascript/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/javascript/</guid><description/></item><item><title>Joplin</title><link>https://cezimbra.me/anotacoes/joplin/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/joplin/</guid><description>&lt;ul>
+&lt;p>Together, LoRa and LoRaWAN define a Low Power, Wide Area (LPWA) networking protocol designed to wirelessly connect battery operated devices to the internet in regional, national or global networks, and targets key Internet of things (IoT) requirements such as bi-directional communication, end-to-end security, mobility and localization services. The low power, low bit rate, and IoT use distinguish this type of network from a wireless WAN that is designed to connect users or businesses, and carry more data, using more power. The LoRaWAN data rate ranges from 0.3 kbit/s to 50 kbit/s per channel.&lt;/p></description></item><item><title>Javascript</title><link>https://cezimbra.me/anotacoes/javascript/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/javascript/</guid><description>&lt;h2 id="javascript-for-pythonistas">
+ JavaScript for Pythonistas
+ &lt;a class="heading-link" href="#javascript-for-pythonistas">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="dictitems">
+ &lt;code>dict.items()&lt;/code>
+ &lt;a class="heading-link" href="#dictitems">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">for&lt;/span> (&lt;span style="color:#cdcd00">const&lt;/span> [key, value] &lt;span style="color:#cdcd00">of&lt;/span> &lt;span style="color:#cd00cd">Object&lt;/span>.entries(obj)) {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> console.log(key, value);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="getattr">
+ &lt;code>getattr&lt;/code>
+ &lt;a class="heading-link" href="#getattr">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">const&lt;/span> value &lt;span style="color:#39c">=&lt;/span> obj[key];
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="transform-a-list-of-lists-with-key-values-into-a-object">
+ Transform a list of lists with key-values into a object
+ &lt;a class="heading-link" href="#transform-a-list-of-lists-with-key-values-into-a-object">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">const&lt;/span> entries &lt;span style="color:#39c">=&lt;/span> [
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> [&lt;span style="color:#cd0000">&amp;#39;a&amp;#39;&lt;/span>, &lt;span style="color:#cd00cd">1&lt;/span>],
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> [&lt;span style="color:#cd0000">&amp;#39;b&amp;#39;&lt;/span>, &lt;span style="color:#cd00cd">2&lt;/span>],
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>];
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">const&lt;/span> obj &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cd00cd">Object&lt;/span>.fromEntries(entries);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>console.log(obj);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080">// Output: { a: 1, b: 2 }
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="use-the-value-of-a-variable-instead-of-the-variable-name-as-the-key-in-an-object">
+ Use the value of a variable (instead of the variable name) as the key in an object
+ &lt;a class="heading-link" href="#use-the-value-of-a-variable-instead-of-the-variable-name-as-the-key-in-an-object">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-javascript" data-lang="javascript">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">const&lt;/span> x &lt;span style="color:#39c">=&lt;/span> &lt;span style="color:#cd0000">&amp;#39;abc&amp;#39;&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">const&lt;/span> obj &lt;span style="color:#39c">=&lt;/span> {
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> [x]&lt;span style="color:#39c">:&lt;/span> &lt;span style="color:#cd0000">&amp;#39;&amp;lt;whatever&amp;gt;&amp;#39;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>};
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>console.log(obj);
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080">// Output: { abc: &amp;#39;&amp;lt;whatever&amp;gt;&amp;#39; }
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="typescript">
+ TypeScript
+ &lt;a class="heading-link" href="#typescript">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="referenceerror-ts-is-not-defined-at-">
+ ReferenceError: ts is not defined at (&amp;hellip;)
+ &lt;a class="heading-link" href="#referenceerror-ts-is-not-defined-at-">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-typescript" data-lang="typescript">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">import&lt;/span> &lt;span style="color:#39c">*&lt;/span> &lt;span style="color:#cdcd00">as&lt;/span> ts &lt;span style="color:#cdcd00">from&lt;/span> &lt;span style="color:#cd0000">&amp;#39;typescript&amp;#39;&lt;/span>;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Joplin</title><link>https://cezimbra.me/anotacoes/joplin/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/joplin/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://github.com/laurent22/joplin/" class="external-link" target="_blank" rel="noopener">https://github.com/laurent22/joplin/&lt;/a>&lt;/li>
 &lt;li>an open source note taking and to-do application with synchronisation capabilities&lt;/li>
 &lt;/ul>
