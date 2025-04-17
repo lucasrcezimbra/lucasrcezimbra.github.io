@@ -1,7 +1,7 @@
 ---
 title: My principles for building software
 date: 2024-07-04
-lastmod: 2025-02-25
+lastmod: 2025-04-17
 aliases:
   - /anotacoes/manifest-front-end/
   - /anotacoes/manifest-platforms/
@@ -120,6 +120,7 @@ and improving this page.
 - Security
 - Documentation
 - No build
+  * [Yes, you want a build step](https://data-star.dev/essays/yes_you_want_a_build_step)
 - Solve things by building it, not only thinking about. You won't be able to
   solve everything in your mind; Some stuff needs to be be built to show up the
   issues; You should focus on easy changing, not doing it right the at first

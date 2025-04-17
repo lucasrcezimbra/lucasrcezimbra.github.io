@@ -1,15 +1,17 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-04-12
+lastmod: 2025-04-17
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
-- [Javascript]({{< ref "Javascript" >}})
+- [Weeknotes/2025-04-13 - 2025-04-19]({{< ref "Weeknotes/2025-04-13 - 2025-04-19" >}})
+- [My principles for building software]({{< ref "My principles for building software" >}})
 - [Weeknotes/2025-04-06 - 2025-04-12]({{< ref "Weeknotes/2025-04-06 - 2025-04-12" >}})
+- [Javascript]({{< ref "Javascript" >}})
 - [Vim]({{< ref "Vim" >}})
 - [Weeknotes/2025-03-30 - 2025-04-05]({{< ref "Weeknotes/2025-03-30 - 2025-04-05" >}})
 - [Weeknotes/2025-03-23 - 2025-03-29]({{< ref "Weeknotes/2025-03-23 - 2025-03-29" >}})
@@ -27,7 +29,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Deploying Django with Kamal]({{< ref "Deploying Django with Kamal" >}})
 - [Weeknotes/2025-02-23 - 2025-03-01]({{< ref "Weeknotes/2025-02-23 - 2025-03-01" >}})
 - [VPS providers]({{< ref "VPS providers" >}})
-- [My principles for building software]({{< ref "My principles for building software" >}})
 - [Weeknotes/2025-02-16 - 2025-02-22]({{< ref "Weeknotes/2025-02-16 - 2025-02-22" >}})
 - [Parir Feliz]({{< ref "Parir Feliz" >}})
 - [Weeknotes/2025-02-09 - 2025-02-15]({{< ref "Weeknotes/2025-02-09 - 2025-02-15" >}})
