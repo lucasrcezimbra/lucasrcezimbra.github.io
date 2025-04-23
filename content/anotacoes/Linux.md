@@ -1,7 +1,7 @@
 ---
 title: Linux
 date: 2023-08-15
-lastmod: 2025-03-24
+lastmod: 2025-04-23
 aliases:
   - /anotacoes/linux/
   - /dicas-rapidas-linux/
@@ -44,53 +44,44 @@ aliases:
 	# Ignoring aspect ratio
 	convert <input> -resize <w>x<h>! <output>
 	```
-- Listar e ordenar diretórios por tamanho
+- List and sort directories by size
 	```bash
 	du -sh * | sort -hr
 	```
-- Logar como outro usuário no terminal
+- Open a terminal logged in as another user
 	```bash
 	su $OTHER_USER
 	```
-- Gerar Lorem Ipsum pelo terminal
+- Lorem Ipsum
 	```bash
 	sudo apt update && sudo apt install libtext-lorem-perl
 	lorem -w 96  # 96 words
 	lorem -s 8   # 8 sentences
 	lorem -p 12  # 12 paragraphs
 	```
-- Captive Portals - Acessar WiFi que precisa de autenticação pelo browser
+- Captive Portals - Accessing WiFi that requires a browser authentication
 	```bash
 	ip --oneline route get 1.1.1.1 | awk '{print $3}' | xargs google-chrome
 	```
-- Formatar pendrive
+- Format pendrive
 	```bash
 	df -h
-	# encontre o pendrive a ser formatado
+	# find the pendrive to be formatted
 	sudo umount /dev/sdXX
 	sudo mkfs.vfat /dev/sdXX
 	```
-- Pendrive bootavel
+- Bootable pendrive
 	```bash
 	df -h
-	# encontre o pendrive
+	# find the pendrive
 	sudo umount /dev/sdXX
 	cp image.iso /dev/sdXX
 	sync
 	```
-- Comando `time` (POSIX)
-	- `real` é o tempo total do processo, do início ao fim;
-	- `user` é o tempo de CPU gasto em user-mode (fora do Kernel);
-	- `sys` é o tempo de CPU gasto no Kernel (ex.: syscalls, alocação de memória, I/O, etc.);
-	- `user + sys` é o tempo total de CPU do processo;
-- Ler o output de um processo
+- Reading the output of a process
 	```bash
 	less /proc/$PID/fd/1  #stdout
 	less /proc/$PID/fd/2  #stderr
-	```
-- Inverter o teclado - Símbolos serem primários e os números secundários (créditos ao [Vítor](https://elmord.org/))
-	```bash
-	xmodmap -pke | sed -nre 's/keycode  (1[0-9]) = ([^ ]*) ([^ ]*)/keycode \1 = \3 \2/p' | xmodmap -
 	```
 - How to use SSH as SOCKS5 proxy
 	```bash
@@ -112,6 +103,17 @@ aliases:
 	\<command>
 	```
 	![](/anotacoes/Assets/linux-shell-skip-alias.png)
+- Comando `time` (POSIX)
+	- `real` é o tempo total do processo, do início ao fim;
+	- `user` é o tempo de CPU gasto em user-mode (fora do Kernel);
+	- `sys` é o tempo de CPU gasto no Kernel (ex.: syscalls, alocação de memória, I/O, etc.);
+	- `user + sys` é o tempo total de CPU do processo;
+- Inverter o teclado - Símbolos serem primários e os números secundários (créditos ao [Vítor](https://elmord.org/))
+	```bash
+	xmodmap -pke | sed -nre 's/keycode  (1[0-9]) = ([^ ]*) ([^ ]*)/keycode \1 = \3 \2/p' | xmodmap -
+	```
+
+
 ## Debian
 - How to validate a .desktop file
 	```bash
@@ -125,6 +127,12 @@ aliases:
 	```bash
 	sudo apt install apache2-utils
 	```
+- Empty trash using terminal
+  ```shell
+  sudo apt install trash-cli
+  trash-empty
+  ```
+
 
 ## CPU
 - How to discover CPU model and version

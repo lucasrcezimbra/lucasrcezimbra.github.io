@@ -1,13 +1,15 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-04-17
+lastmod: 2025-04-23
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2025-04-20 - 2025-04-26]({{< ref "Weeknotes/2025-04-20 - 2025-04-26" >}})
+- [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2025-04-13 - 2025-04-19]({{< ref "Weeknotes/2025-04-13 - 2025-04-19" >}})
 - [My principles for building software]({{< ref "My principles for building software" >}})
 - [Weeknotes/2025-04-06 - 2025-04-12]({{< ref "Weeknotes/2025-04-06 - 2025-04-12" >}})
@@ -16,7 +18,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2025-03-30 - 2025-04-05]({{< ref "Weeknotes/2025-03-30 - 2025-04-05" >}})
 - [Weeknotes/2025-03-23 - 2025-03-29]({{< ref "Weeknotes/2025-03-23 - 2025-03-29" >}})
 - [Natal]({{< ref "Natal" >}})
-- [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2025-03-16 - 2025-03-22]({{< ref "Weeknotes/2025-03-16 - 2025-03-22" >}})
 - [Weeknotes/2025-03-09 - 2025-03-15]({{< ref "Weeknotes/2025-03-09 - 2025-03-15" >}})
 - [Product Development]({{< ref "Product Development" >}})
