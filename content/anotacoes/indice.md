@@ -8,6 +8,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2025-05-11 - 2025-05-17]({{< ref "Weeknotes/2025-05-11 - 2025-05-17" >}})
 - [Weeknotes/2025-05-04 - 2025-05-10]({{< ref "Weeknotes/2025-05-04 - 2025-05-10" >}})
 - [Weeknotes/2025-04-27 - 2025-05-03]({{< ref "Weeknotes/2025-04-27 - 2025-05-03" >}})
 - [Weeknotes/2025-04-20 - 2025-04-26]({{< ref "Weeknotes/2025-04-20 - 2025-04-26" >}})
