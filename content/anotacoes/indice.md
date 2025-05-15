@@ -1,14 +1,18 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-05-12
+lastmod: 2025-05-15
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Aposente-se em 8 anos]({{< ref "Aposente-se em 8 anos" >}})
 - [Weeknotes/2025-05-11 - 2025-05-17]({{< ref "Weeknotes/2025-05-11 - 2025-05-17" >}})
+- [Culinária]({{< ref "Culinária" >}})
+- [Sono bebê 0-3 meses]({{< ref "Sono bebê 0-3 meses" >}})
+- [Parir Feliz]({{< ref "Parir Feliz" >}})
 - [Weeknotes/2025-05-04 - 2025-05-10]({{< ref "Weeknotes/2025-05-04 - 2025-05-10" >}})
 - [Weeknotes/2025-04-27 - 2025-05-03]({{< ref "Weeknotes/2025-04-27 - 2025-05-03" >}})
 - [Weeknotes/2025-04-20 - 2025-04-26]({{< ref "Weeknotes/2025-04-20 - 2025-04-26" >}})
@@ -34,7 +38,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2025-02-23 - 2025-03-01]({{< ref "Weeknotes/2025-02-23 - 2025-03-01" >}})
 - [VPS providers]({{< ref "VPS providers" >}})
 - [Weeknotes/2025-02-16 - 2025-02-22]({{< ref "Weeknotes/2025-02-16 - 2025-02-22" >}})
-- [Parir Feliz]({{< ref "Parir Feliz" >}})
 - [Weeknotes/2025-02-09 - 2025-02-15]({{< ref "Weeknotes/2025-02-09 - 2025-02-15" >}})
 - [Software Zen - A Arte da Gestão de Software]({{< ref "Software Zen - A Arte da Gestão de Software" >}})
 - [Bash]({{< ref "Bash" >}})
