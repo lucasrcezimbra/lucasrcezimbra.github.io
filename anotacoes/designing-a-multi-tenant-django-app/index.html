@@ -117,15 +117,15 @@ using <a href=https://github.com/django/asgiref/ class=external-link target=_bla
 <span class=sr-only>Link to heading</span></a></h3><p>Example:</p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:navy># middleware.py</span>
 </span></span><span style=display:flex><span><span style=color:#cdcd00>class</span> <span style=color:#00cdcd>TenantMiddleware</span>:
 </span></span><span style=display:flex><span>    <span style=color:#39c>...</span>
-</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> __call__(self, request):
+</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> __call__(<span style=color:#cd00cd>self</span>, request):
 </span></span><span style=display:flex><span>        set_tenant(extract_tenant(request))
-</span></span><span style=display:flex><span>        response <span style=color:#39c>=</span> self<span style=color:#39c>.</span>get_response(request)
+</span></span><span style=display:flex><span>        response <span style=color:#39c>=</span> <span style=color:#cd00cd>self</span><span style=color:#39c>.</span>get_response(request)
 </span></span><span style=display:flex><span>        <span style=color:#cdcd00>return</span> response
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:navy># models.py</span>
 </span></span><span style=display:flex><span><span style=color:#cdcd00>class</span> <span style=color:#00cdcd>TenantManager</span>(models<span style=color:#39c>.</span>Manager):
-</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> get_queryset(self):
+</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> get_queryset(<span style=color:#cd00cd>self</span>):
 </span></span><span style=display:flex><span>        assert_tenant()
 </span></span><span style=display:flex><span>        <span style=color:#cdcd00>return</span> <span style=color:#cd00cd>super</span>()<span style=color:#39c>.</span>get_queryset()<span style=color:#39c>.</span>filter(tenant_id<span style=color:#39c>=</span>get_tenant()})
 </span></span><span style=display:flex><span>
@@ -138,15 +138,15 @@ using <a href=https://github.com/django/asgiref/ class=external-link target=_bla
 <span class=sr-only>Link to heading</span></a></h3><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:navy># middleware.py</span>
 </span></span><span style=display:flex><span><span style=color:#cdcd00>class</span> <span style=color:#00cdcd>TenantMiddleware</span>:
 </span></span><span style=display:flex><span>    <span style=color:#39c>...</span>
-</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> __call__(self, request):
+</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> __call__(<span style=color:#cd00cd>self</span>, request):
 </span></span><span style=display:flex><span>        set_tenant(extract_tenant(request))
-</span></span><span style=display:flex><span>        response <span style=color:#39c>=</span> self<span style=color:#39c>.</span>get_response(request)
+</span></span><span style=display:flex><span>        response <span style=color:#39c>=</span> <span style=color:#cd00cd>self</span><span style=color:#39c>.</span>get_response(request)
 </span></span><span style=display:flex><span>        <span style=color:#cdcd00>return</span> response
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:navy># models.py</span>
 </span></span><span style=display:flex><span><span style=color:#cdcd00>class</span> <span style=color:#00cdcd>TenantManager</span>(models<span style=color:#39c>.</span>Manager):
-</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> get_queryset(self):
+</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> get_queryset(<span style=color:#cd00cd>self</span>):
 </span></span><span style=display:flex><span>        qs <span style=color:#39c>=</span> <span style=color:#cd00cd>super</span>()<span style=color:#39c>.</span>get_queryset()
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span>        <span style=color:#cdcd00>if</span> tenant <span style=color:#39c>:=</span> get_tenant():

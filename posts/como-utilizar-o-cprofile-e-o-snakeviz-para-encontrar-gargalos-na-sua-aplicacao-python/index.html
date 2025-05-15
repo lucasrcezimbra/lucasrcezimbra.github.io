@@ -31,15 +31,15 @@ A ferramenta pode ser usada pela linha de comando para gerar uma saída em texto
 </span></span><span style=display:flex><span>DATABASE <span style=color:#39c>=</span> <span style=color:#cd0000>&#39;people.sqlite&#39;</span>
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:#cdcd00>class</span> <span style=color:#00cdcd>Cursor</span>:
-</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> __init__(self, database<span style=color:#39c>=</span>DATABASE):
-</span></span><span style=display:flex><span>        self<span style=color:#39c>.</span>db <span style=color:#39c>=</span> sqlite3<span style=color:#39c>.</span>connect(DATABASE)
+</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> __init__(<span style=color:#cd00cd>self</span>, database<span style=color:#39c>=</span>DATABASE):
+</span></span><span style=display:flex><span>        <span style=color:#cd00cd>self</span><span style=color:#39c>.</span>db <span style=color:#39c>=</span> sqlite3<span style=color:#39c>.</span>connect(DATABASE)
 </span></span><span style=display:flex><span>
-</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> __enter__(self, <span style=color:#39c>*</span>args, <span style=color:#39c>**</span>kwargs):
-</span></span><span style=display:flex><span>        <span style=color:#cdcd00>return</span> self<span style=color:#39c>.</span>db<span style=color:#39c>.</span>cursor()
+</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> __enter__(<span style=color:#cd00cd>self</span>, <span style=color:#39c>*</span>args, <span style=color:#39c>**</span>kwargs):
+</span></span><span style=display:flex><span>        <span style=color:#cdcd00>return</span> <span style=color:#cd00cd>self</span><span style=color:#39c>.</span>db<span style=color:#39c>.</span>cursor()
 </span></span><span style=display:flex><span>
-</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> __exit__(self, <span style=color:#39c>*</span>args, <span style=color:#39c>**</span>kwargs):
-</span></span><span style=display:flex><span>        self<span style=color:#39c>.</span>db<span style=color:#39c>.</span>commit()
-</span></span><span style=display:flex><span>        self<span style=color:#39c>.</span>db<span style=color:#39c>.</span>close()
+</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> __exit__(<span style=color:#cd00cd>self</span>, <span style=color:#39c>*</span>args, <span style=color:#39c>**</span>kwargs):
+</span></span><span style=display:flex><span>        <span style=color:#cd00cd>self</span><span style=color:#39c>.</span>db<span style=color:#39c>.</span>commit()
+</span></span><span style=display:flex><span>        <span style=color:#cd00cd>self</span><span style=color:#39c>.</span>db<span style=color:#39c>.</span>close()
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:#cdcd00>def</span> create_database():
 </span></span><span style=display:flex><span>    <span style=color:#cdcd00>with</span> Cursor() <span style=color:#cdcd00>as</span> cursor:
@@ -95,15 +95,15 @@ A ferramenta pode ser usada pela linha de comando para gerar uma saída em texto
 </span></span></code></pre></div><p><img src=/posts/como-utilizar-o-cprofile-e-o-snakeviz-para-encontrar-gargalos-na-sua-aplicacao-python/grafico2.png alt></p><p>E assim percebemos que:</p><ul><li><p>O processo inteiro levou ~48 segundos (~30 segundos a menos que a primeira versão);</p></li><li><p>As funções <code>main</code> e <code>read_and_insert</code> levaram o mesmo tempo do processo como esperado;</p></li><li><p>A função <code>exists</code> não aparece mais no gráfico, pois foi removida do código;</p></li><li><p>Agora a maior parte do tempo (~48 segundos) foi gasta na função <code>insert</code>; especificamente no <code>*method 'commit' of 'sqlite3...*</code> que fica dentro do <code>Cursor.__exit__.</code></p><p><img src=/posts/como-utilizar-o-cprofile-e-o-snakeviz-para-encontrar-gargalos-na-sua-aplicacao-python/grafico3.png alt></p></li></ul><h3 id=segunda-otimização>Segunda Otimização
 <a class=heading-link href=#segunda-otimiza%c3%a7%c3%a3o><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
 <span class=sr-only>Link to heading</span></a></h3><p>Analisemos a função <code>insert</code> e a classe <code>Cursor</code>:</p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:#cdcd00>class</span> <span style=color:#00cdcd>Cursor</span>:
-</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> __init__(self, database<span style=color:#39c>=</span>DATABASE):
-</span></span><span style=display:flex><span>        self<span style=color:#39c>.</span>db <span style=color:#39c>=</span> sqlite3<span style=color:#39c>.</span>connect(DATABASE)
+</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> __init__(<span style=color:#cd00cd>self</span>, database<span style=color:#39c>=</span>DATABASE):
+</span></span><span style=display:flex><span>        <span style=color:#cd00cd>self</span><span style=color:#39c>.</span>db <span style=color:#39c>=</span> sqlite3<span style=color:#39c>.</span>connect(DATABASE)
 </span></span><span style=display:flex><span>
-</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> __enter__(self, <span style=color:#39c>*</span>args, <span style=color:#39c>**</span>kwargs):
-</span></span><span style=display:flex><span>        <span style=color:#cdcd00>return</span> self<span style=color:#39c>.</span>db<span style=color:#39c>.</span>cursor()
+</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> __enter__(<span style=color:#cd00cd>self</span>, <span style=color:#39c>*</span>args, <span style=color:#39c>**</span>kwargs):
+</span></span><span style=display:flex><span>        <span style=color:#cdcd00>return</span> <span style=color:#cd00cd>self</span><span style=color:#39c>.</span>db<span style=color:#39c>.</span>cursor()
 </span></span><span style=display:flex><span>
-</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> __exit__(self, <span style=color:#39c>*</span>args, <span style=color:#39c>**</span>kwargs):
-</span></span><span style=display:flex><span>        self<span style=color:#39c>.</span>db<span style=color:#39c>.</span>commit()
-</span></span><span style=display:flex><span>        self<span style=color:#39c>.</span>db<span style=color:#39c>.</span>close()
+</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> __exit__(<span style=color:#cd00cd>self</span>, <span style=color:#39c>*</span>args, <span style=color:#39c>**</span>kwargs):
+</span></span><span style=display:flex><span>        <span style=color:#cd00cd>self</span><span style=color:#39c>.</span>db<span style=color:#39c>.</span>commit()
+</span></span><span style=display:flex><span>        <span style=color:#cd00cd>self</span><span style=color:#39c>.</span>db<span style=color:#39c>.</span>close()
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:#39c>...</span>
 </span></span><span style=display:flex><span>

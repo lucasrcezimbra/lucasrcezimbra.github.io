@@ -64,11 +64,11 @@ Tweet"><meta name=keywords content><meta name=twitter:card content="summary_larg
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:#cdcd00>class</span> <span style=color:#00cdcd>SalvableModel</span>(ABC):
 </span></span><span style=display:flex><span>    @abstractmethod
-</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> save(self, <span style=color:#39c>**</span>overwrites):
+</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> save(<span style=color:#cd00cd>self</span>, <span style=color:#39c>**</span>overwrites):
 </span></span><span style=display:flex><span>        <span style=color:#cdcd00>pass</span>
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span>    @classmethod
-</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> __subclasshook__(cls, subclass):
+</span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> __subclasshook__(<span style=color:#cd00cd>cls</span>, subclass):
 </span></span><span style=display:flex><span>        <span style=color:#cdcd00>return</span> (<span style=color:#cd00cd>hasattr</span>(subclass, <span style=color:#cd0000>&#39;save&#39;</span>) <span style=color:#cdcd00>and</span> callable(subclass<span style=color:#39c>.</span>save))
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span>
