@@ -1,7 +1,7 @@
 ---
 title: "Aposente-se em 8 anos"
 date: 2025-05-11
-lastmod: 2025-05-15
+lastmod: 2025-05-16
 ---
 
 Curso: [Aposente-se em 8 anos](https://hotmart.com/pt-br/marketplace/produtos/aposentadoria-em-8-anos/D99453357H)
@@ -46,3 +46,7 @@ Curso: [Aposente-se em 8 anos](https://hotmart.com/pt-br/marketplace/produtos/ap
 3. Ter dinheiro e perdê-lo é pior do que nunca tê-lo tido;
 4. Há duas coisas que incomodam na Bolsa: os prejuízos da gente e os lucros dos outros;
 5. O futuro recompensa os que têm paciência com ele.
+
+## Geral
+- Renda Fixa não é renda nem fixa; não é o instrumento certo para se aposentar.
+  Paga imposto toda vez que saca. Se não reinvestir, vai perdendo pra inflação.

@@ -1,7 +1,7 @@
 ---
 title: "Culinária"
 date: 2025-05-11
-lastmod: 2025-05-15
+lastmod: 2025-05-16
 ---
 
 ## Coxa e sobrecoxa desossada temperadas com cerveja e mel
@@ -23,6 +23,7 @@ lastmod: 2025-05-15
    para o outro.
 2. Assar no forno.
 
+---
 
 ## Carne assada com batata
 ### Ingredientes
