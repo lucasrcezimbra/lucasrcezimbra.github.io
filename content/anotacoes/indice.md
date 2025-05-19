@@ -1,15 +1,16 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-05-16
+lastmod: 2025-05-19
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
-- [Aposente-se em 8 anos]({{< ref "Aposente-se em 8 anos" >}})
+- [Weeknotes/2025-05-18 - 2025-05-24]({{< ref "Weeknotes/2025-05-18 - 2025-05-24" >}})
 - [Weeknotes/2025-05-11 - 2025-05-17]({{< ref "Weeknotes/2025-05-11 - 2025-05-17" >}})
+- [Aposente-se em 8 anos]({{< ref "Aposente-se em 8 anos" >}})
 - [Culinária]({{< ref "Culinária" >}})
 - [Sono bebê 0-3 meses]({{< ref "Sono bebê 0-3 meses" >}})
 - [Parir Feliz]({{< ref "Parir Feliz" >}})
