@@ -15,17 +15,15 @@ slug: "about"
 
 * Notebook Thinkpad T480
     * Intel Core i5
-    * 16 GB RAM
+    * 32 GB RAM
     * SSD HP S700 250GB
     * [Debian Bullseye](https://www.debian.org/releases/bullseye/)
-* [LG LED 23" Monitor](https://www.lg.com/br/monitores/lg-23MB35VQ) on [ELG F80N Stand](https://a.co/d/5s1SwBV)
+* [Samsung T350 24" Monitor](https://www.amazon.com.br/dp/B098ZLDFG7)
 * [Webcam Logitech C920s](https://a.co/d/jgwzInX) + [Ring Light](https://produto.mercadolivre.com.br/MLB-1794696234-anel-de-luz-ring-light-clip-celular-mesa-14-cm-articulado-_JM)
-* [Edifier W800BT Headphone](https://edifier.com.br/headphone-w800bt-plus-bluetooth-5-1-over-ear-edifier-preto.html) + [Boya BY-M1 Microphone](https://a.co/d/j1yTSn9)
-* [Logitech M100 Mouse](https://www.logitech.com/pt-br/products/mice/m100-usb-mouse.910-001601.html)
+* [Edifier W800BT Headphone](https://edifier.com.br/headphone-w800bt-plus-bluetooth-5-1-over-ear-edifier-preto.html) + [Blue Yeti Nano Microphone](https://www.logitechg.com/en-us/products/streaming-gear/yeti-nano-usb-microphone.html)
+* [Logitech Lift vertical ergonomic mouse](https://www.logitech.com/en-us/shop/p/lift-vertical-ergonomic-mouse.910-006469) + [Dante Capelli Mousepad](https://dantecapelli.com.br/loja/acessorios/mouse-pad-de-couro-marrom/)
 * [Baseus 6 in 1 Hub](https://produto.mercadolivre.com.br/MLB-2027205008-hub-6-em-1-type-c-hdmi-4k-rj45-macbook-m1-_JM)
-* [dF Metal Arts Desk](https://www.instagram.com/dfmetalarts/) and [Plaxmetal Brizza Presidente Chair](https://plaxmetal.com.br/produtos/brizza-presidente/)
-* Paper and Pen
-* ["A Mão de São José"](https://www.santalberti.com.br/produtos/quadro-poster-a-mao-de-sao-jose/) by [Matheus Bazzo](https://www.instagram.com/matheus.bazzo/) in the background.
+* [Elements Vertta Pro Chair](https://loja.elements.com.br/products/cadeira-ergonomica-elements-vertta-pro)
 
 {{< /columns >}}
 
@@ -72,7 +70,7 @@ Left because the project was ending.
 {{< /timeline-event >}}
 
 {{% timeline-event type="study" title="Welcome to the Django" date="Dec 2015" %}}
-Joined [WTTD](https://henriquebastos.net/produtos/welcome-to-the-django/em-breve/) and started learning Python, Django and much more than programming.
+Joined [WTTD](https://www.youtube.com/playlist?list=PLeKXYyZCJHxczQsE7L5H9RXTcNFjx3U55) and started learning Python, Django and much more than programming.
 {{% /timeline-event %}}
 
 {{< timeline-event type="work" title="Webmaster at Sprint Final" date="Feb 2015 - Jul 2017 (2 years 6 months)" >}}
