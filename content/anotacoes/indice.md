@@ -1,7 +1,7 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-05-19
+lastmod: 2025-05-20
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
@@ -9,6 +9,9 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2025-05-18 - 2025-05-24]({{< ref "Weeknotes/2025-05-18 - 2025-05-24" >}})
+- [Testing Autonomous Coders (or AI SWE)]({{< ref "Testing Autonomous Coders (or AI SWE)" >}})
+- [My principles for building software]({{< ref "My principles for building software" >}})
+- [Toolbox]({{< ref "Toolbox" >}})
 - [Weeknotes/2025-05-11 - 2025-05-17]({{< ref "Weeknotes/2025-05-11 - 2025-05-17" >}})
 - [Aposente-se em 8 anos]({{< ref "Aposente-se em 8 anos" >}})
 - [Culinária]({{< ref "Culinária" >}})
@@ -19,7 +22,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2025-04-20 - 2025-04-26]({{< ref "Weeknotes/2025-04-20 - 2025-04-26" >}})
 - [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2025-04-13 - 2025-04-19]({{< ref "Weeknotes/2025-04-13 - 2025-04-19" >}})
-- [My principles for building software]({{< ref "My principles for building software" >}})
 - [Weeknotes/2025-04-06 - 2025-04-12]({{< ref "Weeknotes/2025-04-06 - 2025-04-12" >}})
 - [Javascript]({{< ref "Javascript" >}})
 - [Vim]({{< ref "Vim" >}})
@@ -50,7 +52,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2025-01-05 - 2025-01-11]({{< ref "Weeknotes/2025-01-05 - 2025-01-11" >}})
 - [Videos/Simple Made Easy]({{< ref "Videos/Simple Made Easy" >}})
 - [Weeknotes/2024-12-29 - 2025-01-04]({{< ref "Weeknotes/2024-12-29 - 2025-01-04" >}})
-- [Testing Autonomous Coders (or AI SWE)]({{< ref "Testing Autonomous Coders (or AI SWE)" >}})
 - [Livros]({{< ref "Livros" >}})
 - [Migrating pyproject.toml from Poetry to uv]({{< ref "Migrating pyproject.toml from Poetry to uv" >}})
 - [Comparing Python package managers]({{< ref "Comparing Python package managers" >}})
@@ -59,7 +60,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2024-12-15 - 2024-12-21]({{< ref "Weeknotes/2024-12-15 - 2024-12-21" >}})
 - [Weeknotes/2024-12-08 - 2024-12-14]({{< ref "Weeknotes/2024-12-08 - 2024-12-14" >}})
 - [Weeknotes/2024-12-01 - 2024-12-07]({{< ref "Weeknotes/2024-12-01 - 2024-12-07" >}})
-- [Toolbox]({{< ref "Toolbox" >}})
 - [Weeknotes/2024-11-24 - 2024-11-30]({{< ref "Weeknotes/2024-11-24 - 2024-11-30" >}})
 - [Weeknotes/2024-11-17 - 2024-11-23]({{< ref "Weeknotes/2024-11-17 - 2024-11-23" >}})
 - [Frontend]({{< ref "Frontend" >}})

@@ -1,7 +1,7 @@
 ---
 title: Testing Autonomous Coders (or AI SWE)
 date: 2024-12-26
-lastmod: 2024-12-31
+lastmod: 2025-05-20
 ---
 
 
@@ -11,11 +11,54 @@ I used my project [django-template](https://github.com/lucasrcezimbra/django-tem
 It has a straightforward issue that any AI/developer should be able to solve: [Makefile #488](https://github.com/lucasrcezimbra/django-template/issues/488)
 
 
+## GitHub Copilot coding agent
+Pricing: $39/month or $390/year
+
+Testing on May/2025
+
+### Setup
+1. Signing up: https://github.com/features/copilot/plans
+1. Allowing to access my repos: https://github.com/settings/copilot/coding_agent
+
+### Testing
+Issue: [Update psycopg from 2 to 3 · Issue #509 · lucasrcezimbra/django-template · GitHub](https://github.com/lucasrcezimbra/django-template/issues/509)
+
+1. It created this WIP PR:
+   [[WIP] Update psycopg from 2 to 3 · Pull Request #524 · lucasrcezimbra/django-template · GitHub](https://github.com/lucasrcezimbra/django-template/pull/524)
+1. It started this agent session:
+   [Update psycopg from version 2 to 3](https://github.com/lucasrcezimbra/django-template/pull/524/agent-sessions/0ee0e793-75c1-4ab0-889f-3a50efbb07da)
+1. ✅ It checked and understood the repo structure
+1. ❌ It tried to run the tests and failed because pytest was not installed;
+   it tried to install and failed due a PyPI read timeout; then it gave up.
+1. ✅ It "thought" and came up with a plan:
+   ```
+   - [ ] Update `{{cookiecutter.project_slug}}/pyproject.toml` to use psycopg 3.x instead of psycopg2-binary
+   - [ ] Update test assertions in `tests/test_database.py` to check for psycopg instead of psycopg2-binary
+   - [ ] Check for any other files that might need updates for psycopg3 compatibility
+   - [ ] Verify changes work with the existing database connection configuration
+   ```
+1. ⚠ It updated psycopg by editing `{{cookiecutter.project_slug}}/pyproject.toml`
+   instead of running poetry. Given that, it installed `psycopg==3.2.0` instead
+   of the latest `3.2.9`.
+1. ✅ It updated `tests/test_database.py` correctly.
+1. ✅ It searched for another occurrences of `psycopg2` and didn't find.
+1. ✅ It checked the `settings.py` file and understood it's using
+   `dj-database-url`, so no need to change.
+1. ⚠ It "thought" that `dj-database-url` supports psycopg3 which is true, but
+   it referenced a release note that doesn't exist.
+   > version 2.0.0 (released in August 2023) added support for psycopg3
+   > ...
+   > Reference: https://github.com/jazzband/dj-database-url/blob/master/CHANGELOG.md
+
+   Version 2.0.0 was released April 2023 and there is no mention of psycopg3.
+1. ✅ It pushed everything; the tests passed on CI.
+
+
 
 ## OpenHands
 [Homepage](https://www.all-hands.dev/) | [GitHub](https://github.com/All-Hands-AI/OpenHands/) | [Docs](https://docs.all-hands.dev/modules/usage/installation)
 
-OpenHands was the first AI SWE I tested.
+OpenHands was the first AI SWE I tested on Dec/2024.
 
 
 ### Attempt 1. Using Docker
@@ -90,7 +133,7 @@ After the PR was open, I [asked](https://github.com/lucasrcezimbra/django-templa
 Then I found some bugs:
 
 `Error: Unhandled error: SyntaxError: Unexpected token '{'`.
-and 
+and
  `Error: Unhandled error: SyntaxError: Unexpected identifier 'cookiecutter'`
 
 I guessed it was because my comment had `, so I removed them and it worked. OpenHands added a new [commit](https://github.com/lucasrcezimbra/django-template/pull/500/commits/c69a9775b1af9db9a27b3017efc13d3a4d750829) to the PR.

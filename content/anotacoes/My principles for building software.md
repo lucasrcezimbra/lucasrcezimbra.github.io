@@ -1,7 +1,7 @@
 ---
 title: My principles for building software
 date: 2024-07-04
-lastmod: 2025-04-17
+lastmod: 2025-05-20
 aliases:
   - /anotacoes/manifest-front-end/
   - /anotacoes/manifest-platforms/
@@ -129,6 +129,15 @@ and improving this page.
     * TODO To read - https://techblog.bozho.net/static-typing-is-not-for-type-checking/
     * TODO To read - https://docs.google.com/document/d/1aXs1tpwzPjW9MdsG5dI7clNFyYayFBkcXwRDo-qvbIk/preview?tab=t.0
     * TODO To read - https://danluu.com/empirical-pl/
+- Prioritize client over server
+  - [10,000 Times Faster, 10,000 Times Simpler: Why Today’s Solutions Don’t Need Internet-Scale Complexity](https://tailscale.com/blog/10000-times-faster)
+    - "Today’s smartphones and tablets are capable of tasks that once
+      required high-end servers."
+    - "The local hardware is powerful enough for most tasks, and when it
+      isn’t, the system seamlessly falls back on cloud resources."
+    - eliminates network delays; improves privacy by keeping sensitive data on
+      the device; reduces processing and transfer costs for both the user and
+      the business
 
 
 ## References
@@ -140,3 +149,4 @@ and improving this page.
 - [Choose Boring Technology](https://mcfunley.com/choose-boring-technology)
 - [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load/blob/main/README.md)
 - [The Twelve-Factor App](https://12factor.net)
+- [10,000 Times Faster, 10,000 Times Simpler: Why Today’s Solutions Don’t Need Internet-Scale Complexity](https://tailscale.com/blog/10000-times-faster)
