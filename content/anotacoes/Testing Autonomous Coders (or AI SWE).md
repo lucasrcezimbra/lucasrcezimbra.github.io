@@ -1,7 +1,7 @@
 ---
 title: Testing Autonomous Coders (or AI SWE)
 date: 2024-12-26
-lastmod: 2025-05-20
+lastmod: 2025-05-21
 ---
 
 
@@ -52,6 +52,12 @@ Issue: [Update psycopg from 2 to 3 · Issue #509 · lucasrcezimbra/django-templa
 
    Version 2.0.0 was released April 2023 and there is no mention of psycopg3.
 1. ✅ It pushed everything; the tests passed on CI.
+1. 🧑 I asked it to update psycopg to the latest version. I purposely didn't
+   say what is the latest, because I wanted to see if it would find out
+   ([PR Comment](https://github.com/lucasrcezimbra/django-template/pull/524#discussion_r2099079481))
+1. ✅ It tried to install and use `pip-search` twice and didn't work, then it
+   ran `pip index versions psycopg`, found out the latest version, update the
+   `pyproject.toml` and pushed the change.
 
 
 
