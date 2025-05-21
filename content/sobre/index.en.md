@@ -37,6 +37,11 @@ Technical decisions and collaboration with stakeholders to prioritize new featur
 Translated business requirements into user stories, bridging the gap between technical and non-technical stakeholders.
 Involved in the due diligence process, contributing to the successful acquisition of the company by Prometric.
 Responsible for conducting technical interviews.
+
+Inventor on patent
+[17/809,217](https://patentcenter.uspto.gov/applications/17809217) "Interface
+to natural language generator for generation of knowledge assessment items."
+[Google Patents](https://patents.google.com/patent/US20220415203A1/)
 {{% /timeline-event %}}
 
 {{% timeline-event type="work" title="Freelancer Developer" date="Mar 2018 - Current" %}}

@@ -32,7 +32,18 @@ date: 2022-09-13T20:49:12-03:00
 {{< timeline >}}
 
 {{% timeline-event type="work" title="Líder Técnico na Finetune" date="março/2022 - atual" %}}
-Liderança da equipe na tomada de decisões técnicas; negociação com os stakeholders para definir prioridades e estimar o esforço de novas funcionalidades e/ou correções; tradução dos requisitos de negócio para histórias de usuário; auxílio na *due diligence* que levou a aquisição da empresa pela Prometric; expansão das equipes após aquisição - responsável pelas entrevistas técnicas de candidatos.
+Liderança da equipe na tomada de decisões técnicas; negociação com os
+stakeholders para definir prioridades e estimar o esforço de novas
+funcionalidades e/ou correções; tradução dos requisitos de negócio para
+histórias de usuário; auxílio na *due diligence* que levou a aquisição da
+empresa pela Prometric; responsável pelas entrevistas técnicas de candidatos.
+
+Inventor na patente
+[17/809,217](https://patentcenter.uspto.gov/applications/17809217) "Interface
+to natural language generator for generation of knowledge assessment items"
+(tradução livre: Interface com gerador de linguagem natural para geração de
+itens de avaliação de conhecimento).
+[Google Patents](https://patents.google.com/patent/US20220415203A1/)
 {{% /timeline-event %}}
 
 {{% timeline-event type="work" title="Desenvolvedor Freelancer" date="março/2018 - atual" %}}
