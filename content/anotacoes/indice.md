@@ -1,7 +1,7 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-05-21
+lastmod: 2025-05-22
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
@@ -9,6 +9,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2025-05-18 - 2025-05-24]({{< ref "Weeknotes/2025-05-18 - 2025-05-24" >}})
+- [Comparing Python package managers]({{< ref "Comparing Python package managers" >}})
 - [Testing Autonomous Coders (or AI SWE)]({{< ref "Testing Autonomous Coders (or AI SWE)" >}})
 - [My principles for building software]({{< ref "My principles for building software" >}})
 - [Toolbox]({{< ref "Toolbox" >}})
@@ -54,7 +55,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2024-12-29 - 2025-01-04]({{< ref "Weeknotes/2024-12-29 - 2025-01-04" >}})
 - [Livros]({{< ref "Livros" >}})
 - [Migrating pyproject.toml from Poetry to uv]({{< ref "Migrating pyproject.toml from Poetry to uv" >}})
-- [Comparing Python package managers]({{< ref "Comparing Python package managers" >}})
 - [Creating a WhatsApp bot]({{< ref "Creating a WhatsApp bot" >}})
 - [Weeknotes/2024-12-22 - 2024-12-28]({{< ref "Weeknotes/2024-12-22 - 2024-12-28" >}})
 - [Weeknotes/2024-12-15 - 2024-12-21]({{< ref "Weeknotes/2024-12-15 - 2024-12-21" >}})
