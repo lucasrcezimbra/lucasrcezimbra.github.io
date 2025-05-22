@@ -5,6 +5,13 @@ slug: "projects"
 ---
 
 {{< project
+    name="Missas.com.br"
+    description="Website to find times and locations for Catholic masses and confessions. A bot communicates with parishes via WhatsApp and makes the times publicly available."
+    github="lucasrcezimbra/missas.com.br"
+    website="https://missas.com.br"
+>}}
+
+{{< project
     name="toolbox"
     description="Toolbox is where I keep the libraries, frameworks, tools, languages, etc. that I know"
     github="lucasrcezimbra/toolbox"
@@ -19,6 +26,13 @@ slug: "projects"
 >}}
 
 {{< project
+    name="dj-storage-url"
+    description="Configure Django storage from a URL. Inspired by jazzband/dj-database-url"
+    github="lucasrcezimbra/dj-storage-url"
+    pypi="dj-storage-url"
+>}}
+
+{{< project
     name="llm-jupyter"
     description="LLM plugin to run an IPython interpreter or notebook in the LLM virtual environment and use the LLM from within the interpreter or notebook as a magic function."
     github="lucasrcezimbra/llm-jupyter"
@@ -26,10 +40,15 @@ slug: "projects"
 >}}
 
 {{< project
-    name="Missas.com.br"
-    description="Website with Catholic mass times."
-    github="lucasrcezimbra/missas.com.br"
-    website="https://missas.com.br"
+    name="Django Template"
+    description="An opinionated Django start project template."
+    github="lucasrcezimbra/django-template"
+>}}
+
+{{< project
+    name="Cookiecutter PyPackage"
+    description="My Cookiecutter PyPackage fork."
+    github="lucasrcezimbra/cookiecutter-pypackage"
 >}}
 
 {{< project
@@ -52,18 +71,6 @@ slug: "projects"
     github="lucasrcezimbra/pyitau"
     pypi="pyitau"
     readthedocs="pyitau"
->}}
-
-{{< project
-    name="Django Template"
-    description="An opinionated Django start project template."
-    github="lucasrcezimbra/django-template"
->}}
-
-{{< project
-    name="Cookiecutter PyPackage"
-    description="My Cookiecutter PyPackage fork."
-    github="lucasrcezimbra/cookiecutter-pypackage"
 >}}
 
 {{< project

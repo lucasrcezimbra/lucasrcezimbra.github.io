@@ -4,6 +4,21 @@ date: 2022-04-08T20:08:54-03:00
 ---
 
 {{< project
+    name="Missas.com.br"
+    description="Um serviço para encontrar horários e locais de missas e confissões. Um bot conversa com as paróquias pelo WhatsApp e disponibiliza os horários publicamente."
+    github="lucasrcezimbra/missas.com.br"
+    website="https://missas.com.br"
+>}}
+
+{{< project
+    name="Banco Inter"
+    description="Cliente para consumir a API do banco Inter para contas PJ"
+    github="lucasrcezimbra/bancointer"
+    pypi="bancointer"
+    readthedocs="bancointer"
+>}}
+
+{{< project
     name="toolbox"
     description="Toolbox é a biblioteca das libraries, frameworks, ferramentas, linguagens, etc. que eu conheço."
     github="lucasrcezimbra/toolbox"
@@ -18,39 +33,17 @@ date: 2022-04-08T20:08:54-03:00
 >}}
 
 {{< project
+    name="dj-storage-url"
+    description="Configure Django storage a partir de uma URL. Inspirado no jazzband/dj-database-url"
+    github="lucasrcezimbra/dj-storage-url"
+    pypi="dj-storage-url"
+>}}
+
+{{< project
     name="llm-jupyter"
     description="Plug-in LLM para executar um interpretador ou notebook IPython no ambiente virtual do LLM e usar o LLM de dentro do interpretador or notebook como uma magic function."
     github="lucasrcezimbra/llm-jupyter"
     pypi="llm-jupyter"
->}}
-
-{{< project
-    name="Missas.com.br"
-    description="Site com horário das missas e confissões."
-    github="lucasrcezimbra/missas.com.br"
-    website="https://missas.com.br"
->}}
-
-{{< project
-    name="hugo-coder-htmx"
-    description="Tema de blog para Hugo. Single-page application usando HTMX."
-    github="lucasrcezimbra/hugo-coder-htmx"
->}}
-
-{{< project
-    name="Banco Inter"
-    description="Cliente para consumir a API do banco Inter para contas PJ"
-    github="lucasrcezimbra/bancointer"
-    pypi="bancointer"
-    readthedocs="bancointer"
->}}
-
-{{< project
-    name="PyItau"
-    description="Scraper para acessar suas contas bancárias do Itaú."
-    github="lucasrcezimbra/pyitau"
-    pypi="pyitau"
-    readthedocs="pyitau"
 >}}
 
 {{< project
@@ -63,6 +56,20 @@ date: 2022-04-08T20:08:54-03:00
     name="Cookiecutter PyPackage"
     description="Fork customizado do Cookiecutter PyPackage."
     github="lucasrcezimbra/cookiecutter-pypackage"
+>}}
+
+{{< project
+    name="hugo-coder-htmx"
+    description="Tema de blog para Hugo. Single-page application usando HTMX."
+    github="lucasrcezimbra/hugo-coder-htmx"
+>}}
+
+{{< project
+    name="PyItau"
+    description="Scraper para acessar suas contas bancárias do Itaú."
+    github="lucasrcezimbra/pyitau"
+    pypi="pyitau"
+    readthedocs="pyitau"
 >}}
 
 {{< project
