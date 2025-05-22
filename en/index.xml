@@ -95,6 +95,26 @@ Translated business requirements into user stories, bridging the gap between tec
 Involved in the due diligence process, contributing to the successful acquisition of the company by Prometric.
 Responsible for conducting technical interviews.&lt;/p></description></item><item><title>Projects</title><link>https://cezimbra.me/en/projects/</link><pubDate>Fri, 08 Apr 2022 20:08:54 -0300</pubDate><guid>https://cezimbra.me/en/projects/</guid><description>&lt;div class="card ">
  &lt;div class="container">
+ &lt;h3>&lt;b>Missas.com.br&lt;/b>&lt;/h3>
+ &lt;span>Website to find times and locations for Catholic masses and confessions. A bot communicates with parishes via WhatsApp and makes the times publicly available.&lt;/span>
+ &lt;div>
+ 
+ &lt;a href="https://missas.com.br" target="_blank">&lt;i class="fa fa-link">&lt;/i>&lt;/a>
+ 
+
+ 
+ &lt;a href="https://github.com/lucasrcezimbra/missas.com.br/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ 
+
+ 
+
+ 
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;div class="card ">
+ &lt;div class="container">
  &lt;h3>&lt;b>toolbox&lt;/b>&lt;/h3>
  &lt;span>Toolbox is where I keep the libraries, frameworks, tools, languages, etc. that I know&lt;/span>
  &lt;div>
@@ -135,6 +155,26 @@ Responsible for conducting technical interviews.&lt;/p></description></item><ite
 
 &lt;div class="card ">
  &lt;div class="container">
+ &lt;h3>&lt;b>dj-storage-url&lt;/b>&lt;/h3>
+ &lt;span>Configure Django storage from a URL. Inspired by jazzband/dj-database-url&lt;/span>
+ &lt;div>
+ 
+
+ 
+ &lt;a href="https://github.com/lucasrcezimbra/dj-storage-url/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ 
+
+ 
+ &lt;a href="https://pypi.org/project/dj-storage-url/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
+ 
+
+ 
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;div class="card ">
+ &lt;div class="container">
  &lt;h3>&lt;b>llm-jupyter&lt;/b>&lt;/h3>
  &lt;span>LLM plugin to run an IPython interpreter or notebook in the LLM virtual environment and use the LLM from within the interpreter or notebook as a magic function.&lt;/span>
  &lt;div>
@@ -155,15 +195,31 @@ Responsible for conducting technical interviews.&lt;/p></description></item><ite
 
 &lt;div class="card ">
  &lt;div class="container">
- &lt;h3>&lt;b>Missas.com.br&lt;/b>&lt;/h3>
- &lt;span>Website with Catholic mass times.&lt;/span>
+ &lt;h3>&lt;b>Django Template&lt;/b>&lt;/h3>
+ &lt;span>An opinionated Django start project template.&lt;/span>
  &lt;div>
- 
- &lt;a href="https://missas.com.br" target="_blank">&lt;i class="fa fa-link">&lt;/i>&lt;/a>
  
 
  
- &lt;a href="https://github.com/lucasrcezimbra/missas.com.br/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ &lt;a href="https://github.com/lucasrcezimbra/django-template/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ 
+
+ 
+
+ 
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;div class="card ">
+ &lt;div class="container">
+ &lt;h3>&lt;b>Cookiecutter PyPackage&lt;/b>&lt;/h3>
+ &lt;span>My Cookiecutter PyPackage fork.&lt;/span>
+ &lt;div>
+ 
+
+ 
+ &lt;a href="https://github.com/lucasrcezimbra/cookiecutter-pypackage/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
  
 
  
@@ -235,45 +291,9 @@ Responsible for conducting technical interviews.&lt;/p></description></item><ite
  &lt;/div>
 &lt;/div>
 
-&lt;div class="card ">
+&lt;div class="card archived">
  &lt;div class="container">
- &lt;h3>&lt;b>Django Template&lt;/b>&lt;/h3>
- &lt;span>An opinionated Django start project template.&lt;/span>
- &lt;div>
- 
-
- 
- &lt;a href="https://github.com/lucasrcezimbra/django-template/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
- 
-
- 
-
- 
- &lt;/div>
- &lt;/div>
-&lt;/div>
-
-&lt;div class="card ">
- &lt;div class="container">
- &lt;h3>&lt;b>Cookiecutter PyPackage&lt;/b>&lt;/h3>
- &lt;span>My Cookiecutter PyPackage fork.&lt;/span>
- &lt;div>
- 
-
- 
- &lt;a href="https://github.com/lucasrcezimbra/cookiecutter-pypackage/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
- 
-
- 
-
- 
- &lt;/div>
- &lt;/div>
-&lt;/div>
-
-&lt;div class="card ">
- &lt;div class="container">
- &lt;h3>&lt;b>dcache&lt;/b>&lt;/h3>
+ &lt;h3>&lt;b>dcache (Archived)&lt;/b>&lt;/h3>
  &lt;span>Distributed Cache for Humans.&lt;/span>
  &lt;div>
  
@@ -291,9 +311,9 @@ Responsible for conducting technical interviews.&lt;/p></description></item><ite
  &lt;/div>
 &lt;/div>
 
-&lt;div class="card ">
+&lt;div class="card archived">
  &lt;div class="container">
- &lt;h3>&lt;b>django-ultratenant&lt;/b>&lt;/h3>
+ &lt;h3>&lt;b>django-ultratenant (Archived)&lt;/b>&lt;/h3>
  &lt;span>Ultimate Django app for multi-tenant.&lt;/span>
  &lt;div>
  

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Wed, 21 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-05-18 - 2025-05-24</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-05-18---2025-05-24/</link><pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-05-18---2025-05-24/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-05-11---2025-05-17/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-05-18 - 2025-05-24</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-05-18---2025-05-24/</link><pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-05-18---2025-05-24/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-05-11---2025-05-17/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;h2 id="books-being-read">
@@ -54,6 +54,7 @@ Antônio de Macedo Costa&lt;/li>
 &lt;/li>
 &lt;li>&lt;a href="https://tailscale.com/blog/10000-times-faster" class="external-link" target="_blank" rel="noopener">10,000 Times Faster, 10,000 Times Simpler: Why Today’s Solutions Don’t Need Internet-Scale Complexity&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.seangoedecke.com/patience-too-cheap-to-meter" class="external-link" target="_blank" rel="noopener">For many, patience is the killer LLM feature | sean goedecke&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.llamaindex.ai/blog/python-tooling-at-scale-llamaindex-s-monorepo-overhaul" class="external-link" target="_blank" rel="noopener">Python Tooling at Scale: LlamaIndex’s Monorepo Overhaul&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -2877,6 +2878,7 @@ process, for example) will cause corrupted trees&lt;/li>
  &lt;thead>
  &lt;tr>
  &lt;th>Tool&lt;/th>
+ &lt;th>First release&lt;/th>
  &lt;th>Lock file&lt;/th>
  &lt;th>Manage Python versions&lt;/th>
  &lt;th>Global cache&lt;/th>
@@ -2887,6 +2889,7 @@ process, for example) will cause corrupted trees&lt;/li>
  &lt;tbody>
  &lt;tr>
  &lt;td>Hatch&lt;/td>
+ &lt;td>2022-01-03&lt;/td>
  &lt;td>❌&lt;/td>
  &lt;td>✅&lt;/td>
  &lt;td>&lt;/td>
@@ -2895,6 +2898,7 @@ process, for example) will cause corrupted trees&lt;/li>
  &lt;/tr>
  &lt;tr>
  &lt;td>pip&lt;/td>
+ &lt;td>2008-10-28&lt;/td>
  &lt;td>❌&lt;/td>
  &lt;td>❌&lt;/td>
  &lt;td>&lt;/td>
@@ -2903,6 +2907,7 @@ process, for example) will cause corrupted trees&lt;/li>
  &lt;/tr>
  &lt;tr>
  &lt;td>Pipenv&lt;/td>
+ &lt;td>2017-01-20&lt;/td>
  &lt;td>✅&lt;/td>
  &lt;td>❌&lt;/td>
  &lt;td>&lt;/td>
@@ -2911,6 +2916,7 @@ process, for example) will cause corrupted trees&lt;/li>
  &lt;/tr>
  &lt;tr>
  &lt;td>PDM&lt;/td>
+ &lt;td>2020-01-21&lt;/td>
  &lt;td>✅&lt;/td>
  &lt;td>✅&lt;/td>
  &lt;td>✅&lt;/td>
@@ -2919,6 +2925,7 @@ process, for example) will cause corrupted trees&lt;/li>
  &lt;/tr>
  &lt;tr>
  &lt;td>Poetry&lt;/td>
+ &lt;td>2018-02-28&lt;/td>
  &lt;td>✅&lt;/td>
  &lt;td>❌&lt;/td>
  &lt;td>&lt;/td>
@@ -2926,7 +2933,17 @@ process, for example) will cause corrupted trees&lt;/li>
  &lt;td>✔️ only using Poetry build backend&lt;/td>
  &lt;/tr>
  &lt;tr>
+ &lt;td>Pyflow&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
  &lt;td>uv&lt;/td>
+ &lt;td>2024-02-15&lt;/td>
  &lt;td>✅&lt;/td>
  &lt;td>✅&lt;/td>
  &lt;td>✅&lt;/td>
@@ -8416,6 +8433,7 @@ on your page can access;&lt;/li>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-05-18---2025-05-24/" >Weeknotes/2025-05-18 - 2025-05-24&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/comparing-python-package-managers/" >Comparing Python package managers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/testing-autonomous-coders-or-ai-swe/" >Testing Autonomous Coders (or AI SWE)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/my-principles-for-building-software/" >My principles for building software&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/toolbox/" >Toolbox&lt;/a>&lt;/li>
@@ -8461,7 +8479,6 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-29---2025-01-04/" >Weeknotes/2024-12-29 - 2025-01-04&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/livros/" >Livros&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/migrating-pyproject.toml-from-poetry-to-uv/" >Migrating pyproject.toml from Poetry to uv&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/comparing-python-package-managers/" >Comparing Python package managers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/creating-a-whatsapp-bot/" >Creating a WhatsApp bot&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/" >Weeknotes/2024-12-22 - 2024-12-28&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-15---2024-12-21/" >Weeknotes/2024-12-15 - 2024-12-21&lt;/a>&lt;/li>
@@ -13809,6 +13826,48 @@ empresa pela Prometric; responsável pelas entrevistas técnicas de candidatos.&
 &lt;p>O &lt;em>&lt;a href="https://docs.python.org/3/library/profile.html#module-cProfile" class="external-link" target="_blank" rel="noopener">cProfile&lt;/a>&lt;/em> é uma das ferramentas &lt;em>built-in&lt;/em> do &lt;em>Python&lt;/em> que serve para gerar estatísticas sobre o número de chamadas e o tempo de execução das funções de um programa, ou seja, para realizar aquilo que conhecemos por &lt;em>profiling&lt;/em>.&lt;/p>
 &lt;p>A ferramenta pode ser usada pela linha de comando para gerar uma saída em texto (conforme ilustrado na imagem abaixo) que pode ser usada para descobrir os gargalos de um sistema. Porém, para facilitar a interpretação da saída do &lt;em>cProfile&lt;/em>, podemos usar o &lt;em>&lt;a href="https://github.com/jiffyclub/snakeviz" class="external-link" target="_blank" rel="noopener">SnakeViz&lt;/a>&lt;/em>.&lt;/p></description></item><item><title>Projetos</title><link>https://cezimbra.me/projetos/</link><pubDate>Fri, 08 Apr 2022 20:08:54 -0300</pubDate><guid>https://cezimbra.me/projetos/</guid><description>&lt;div class="card ">
  &lt;div class="container">
+ &lt;h3>&lt;b>Missas.com.br&lt;/b>&lt;/h3>
+ &lt;span>Um serviço para encontrar horários e locais de missas e confissões. Um bot conversa com as paróquias pelo WhatsApp e disponibiliza os horários publicamente.&lt;/span>
+ &lt;div>
+ 
+ &lt;a href="https://missas.com.br" target="_blank">&lt;i class="fa fa-link">&lt;/i>&lt;/a>
+ 
+
+ 
+ &lt;a href="https://github.com/lucasrcezimbra/missas.com.br/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ 
+
+ 
+
+ 
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;div class="card ">
+ &lt;div class="container">
+ &lt;h3>&lt;b>Banco Inter&lt;/b>&lt;/h3>
+ &lt;span>Cliente para consumir a API do banco Inter para contas PJ&lt;/span>
+ &lt;div>
+ 
+
+ 
+ &lt;a href="https://github.com/lucasrcezimbra/bancointer/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ 
+
+ 
+ &lt;a href="https://pypi.org/project/bancointer/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
+ 
+
+ 
+ &lt;a href="https://bancointer.readthedocs.io/" target="_blank">&lt;img src="https://cezimbra.me/images/readthedocs.png" />&lt;/a>
+ 
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;div class="card ">
+ &lt;div class="container">
  &lt;h3>&lt;b>toolbox&lt;/b>&lt;/h3>
  &lt;span>Toolbox é a biblioteca das libraries, frameworks, ferramentas, linguagens, etc. que eu conheço.&lt;/span>
  &lt;div>
@@ -13849,6 +13908,26 @@ empresa pela Prometric; responsável pelas entrevistas técnicas de candidatos.&
 
 &lt;div class="card ">
  &lt;div class="container">
+ &lt;h3>&lt;b>dj-storage-url&lt;/b>&lt;/h3>
+ &lt;span>Configure Django storage a partir de uma URL. Inspirado no jazzband/dj-database-url&lt;/span>
+ &lt;div>
+ 
+
+ 
+ &lt;a href="https://github.com/lucasrcezimbra/dj-storage-url/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ 
+
+ 
+ &lt;a href="https://pypi.org/project/dj-storage-url/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
+ 
+
+ 
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;div class="card ">
+ &lt;div class="container">
  &lt;h3>&lt;b>llm-jupyter&lt;/b>&lt;/h3>
  &lt;span>Plug-in LLM para executar um interpretador ou notebook IPython no ambiente virtual do LLM e usar o LLM de dentro do interpretador or notebook como uma magic function.&lt;/span>
  &lt;div>
@@ -13862,88 +13941,6 @@ empresa pela Prometric; responsável pelas entrevistas técnicas de candidatos.&
  &lt;a href="https://pypi.org/project/llm-jupyter/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
  
 
- 
- &lt;/div>
- &lt;/div>
-&lt;/div>
-
-&lt;div class="card ">
- &lt;div class="container">
- &lt;h3>&lt;b>Missas.com.br&lt;/b>&lt;/h3>
- &lt;span>Site com horário das missas e confissões.&lt;/span>
- &lt;div>
- 
- &lt;a href="https://missas.com.br" target="_blank">&lt;i class="fa fa-link">&lt;/i>&lt;/a>
- 
-
- 
- &lt;a href="https://github.com/lucasrcezimbra/missas.com.br/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
- 
-
- 
-
- 
- &lt;/div>
- &lt;/div>
-&lt;/div>
-
-&lt;div class="card ">
- &lt;div class="container">
- &lt;h3>&lt;b>hugo-coder-htmx&lt;/b>&lt;/h3>
- &lt;span>Tema de blog para Hugo. Single-page application usando HTMX.&lt;/span>
- &lt;div>
- 
-
- 
- &lt;a href="https://github.com/lucasrcezimbra/hugo-coder-htmx/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
- 
-
- 
-
- 
- &lt;/div>
- &lt;/div>
-&lt;/div>
-
-&lt;div class="card ">
- &lt;div class="container">
- &lt;h3>&lt;b>Banco Inter&lt;/b>&lt;/h3>
- &lt;span>Cliente para consumir a API do banco Inter para contas PJ&lt;/span>
- &lt;div>
- 
-
- 
- &lt;a href="https://github.com/lucasrcezimbra/bancointer/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
- 
-
- 
- &lt;a href="https://pypi.org/project/bancointer/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
- 
-
- 
- &lt;a href="https://bancointer.readthedocs.io/" target="_blank">&lt;img src="https://cezimbra.me/images/readthedocs.png" />&lt;/a>
- 
- &lt;/div>
- &lt;/div>
-&lt;/div>
-
-&lt;div class="card ">
- &lt;div class="container">
- &lt;h3>&lt;b>PyItau&lt;/b>&lt;/h3>
- &lt;span>Scraper para acessar suas contas bancárias do Itaú.&lt;/span>
- &lt;div>
- 
-
- 
- &lt;a href="https://github.com/lucasrcezimbra/pyitau/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
- 
-
- 
- &lt;a href="https://pypi.org/project/pyitau/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
- 
-
- 
- &lt;a href="https://pyitau.readthedocs.io/" target="_blank">&lt;img src="https://cezimbra.me/images/readthedocs.png" />&lt;/a>
  
  &lt;/div>
  &lt;/div>
@@ -13987,7 +13984,47 @@ empresa pela Prometric; responsável pelas entrevistas técnicas de candidatos.&
 
 &lt;div class="card ">
  &lt;div class="container">
- &lt;h3>&lt;b>dcache&lt;/b>&lt;/h3>
+ &lt;h3>&lt;b>hugo-coder-htmx&lt;/b>&lt;/h3>
+ &lt;span>Tema de blog para Hugo. Single-page application usando HTMX.&lt;/span>
+ &lt;div>
+ 
+
+ 
+ &lt;a href="https://github.com/lucasrcezimbra/hugo-coder-htmx/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ 
+
+ 
+
+ 
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;div class="card ">
+ &lt;div class="container">
+ &lt;h3>&lt;b>PyItau&lt;/b>&lt;/h3>
+ &lt;span>Scraper para acessar suas contas bancárias do Itaú.&lt;/span>
+ &lt;div>
+ 
+
+ 
+ &lt;a href="https://github.com/lucasrcezimbra/pyitau/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ 
+
+ 
+ &lt;a href="https://pypi.org/project/pyitau/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
+ 
+
+ 
+ &lt;a href="https://pyitau.readthedocs.io/" target="_blank">&lt;img src="https://cezimbra.me/images/readthedocs.png" />&lt;/a>
+ 
+ &lt;/div>
+ &lt;/div>
+&lt;/div>
+
+&lt;div class="card archived">
+ &lt;div class="container">
+ &lt;h3>&lt;b>dcache (Arquivado)&lt;/b>&lt;/h3>
  &lt;span>Distributed Cache for Humans.&lt;/span>
  &lt;div>
  
@@ -14005,9 +14042,9 @@ empresa pela Prometric; responsável pelas entrevistas técnicas de candidatos.&
  &lt;/div>
 &lt;/div>
 
-&lt;div class="card ">
+&lt;div class="card archived">
  &lt;div class="container">
- &lt;h3>&lt;b>django-ultratenant&lt;/b>&lt;/h3>
+ &lt;h3>&lt;b>django-ultratenant (Arquivado)&lt;/b>&lt;/h3>
  &lt;span>Ultimate Django app for multi-tenant.&lt;/span>
  &lt;div>
  
