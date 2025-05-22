@@ -67,17 +67,19 @@ slug: "projects"
 >}}
 
 {{< project
-    name="dcache"
+    name="dcache (Archived)"
     description="Distributed Cache for Humans."
     github="HBN3tw0rk/dcache"
     pypi="dcache"
+    archived=true
 >}}
 
 {{< project
-    name="django-ultratenant"
+    name="django-ultratenant (Archived)"
     description="Ultimate Django app for multi-tenant."
     github="HBN3tw0rk/django-ultratenant"
     pypi="django-ultratenant"
+    archived=true
 >}}
 
 {{< project

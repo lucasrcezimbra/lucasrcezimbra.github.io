@@ -66,17 +66,19 @@ date: 2022-04-08T20:08:54-03:00
 >}}
 
 {{< project
-    name="dcache"
+    name="dcache (Arquivado)"
     description="Distributed Cache for Humans."
     github="HBN3tw0rk/dcache"
     pypi="dcache"
+    archived=true
 >}}
 
 {{< project
-    name="django-ultratenant"
+    name="django-ultratenant (Arquivado)"
     description="Ultimate Django app for multi-tenant."
     github="HBN3tw0rk/django-ultratenant"
     pypi="django-ultratenant"
+    archived=true
 >}}
 
 {{< project
