@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 22 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-05-18 - 2025-05-24</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-05-18---2025-05-24/</link><pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-05-18---2025-05-24/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-05-11---2025-05-17/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 23 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-05-18 - 2025-05-24</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-05-18---2025-05-24/</link><pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-05-18---2025-05-24/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-05-11---2025-05-17/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;h2 id="books-being-read">
@@ -34,7 +34,7 @@ Antônio de Macedo Costa&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>Linux command &lt;code>column&lt;/code> to columnate lists&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -55,6 +55,11 @@ Antônio de Macedo Costa&lt;/li>
 &lt;li>&lt;a href="https://tailscale.com/blog/10000-times-faster" class="external-link" target="_blank" rel="noopener">10,000 Times Faster, 10,000 Times Simpler: Why Today’s Solutions Don’t Need Internet-Scale Complexity&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.seangoedecke.com/patience-too-cheap-to-meter" class="external-link" target="_blank" rel="noopener">For many, patience is the killer LLM feature | sean goedecke&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.llamaindex.ai/blog/python-tooling-at-scale-llamaindex-s-monorepo-overhaul" class="external-link" target="_blank" rel="noopener">Python Tooling at Scale: LlamaIndex’s Monorepo Overhaul&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://heitorpb.github.io/bla/format-tables-in-vim" class="external-link" target="_blank" rel="noopener">Formatting tables in Vim/NeoVim | Heitor&amp;rsquo;s log&lt;/a>
+&lt;ul>
+&lt;li>&lt;code>:!column -t -s '|' -o '|'&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -104,6 +109,7 @@ voz suave no coração do homem;&lt;/li>
 &lt;/li>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=M4j2d4LBvc8" class="external-link" target="_blank" rel="noopener">Homilia Diária | A verdadeira Paz vem da comunhão com Deus (Terça-feira da 5.ª Semana da Páscoa)&lt;/a>&lt;/li>
 &lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=f1VVnorrj1w" class="external-link" target="_blank" rel="noopener">Homilia Diária | O que realmente nos une a Cristo? (Quarta-feira da 5.ª Semana da Páscoa)&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=zAq-e_3FHoQ" class="external-link" target="_blank" rel="noopener">Homilia Diária | O que é realmente a amizade? (Sexta-feira da 5.ª Semana da Páscoa)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
@@ -7007,6 +7013,7 @@ líder, torna-se através de treino e prática. Todos podem crescer nas virtudes
 &lt;/li>
 &lt;li>&lt;a href="https://openapi-generator.tech/" class="external-link" target="_blank" rel="noopener">openapi-generator&lt;/a> - &lt;a href="https://github.com/OpenAPITools/openapi-generator" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> - #OpenSource&lt;/li>
 &lt;li>&lt;a href="https://github.com/openapi-json-schema-tools/openapi-json-schema-generator" class="external-link" target="_blank" rel="noopener">openapi-json-schema-generator&lt;/a> - &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a> - #OpenSource&lt;/li>
+&lt;li>&amp;ldquo;archived on Dec 24, 2024&amp;rdquo;&lt;/li>
 &lt;li>&lt;a href="https://www.stainlessapi.com/" class="external-link" target="_blank" rel="noopener">Stainless&lt;/a> - TypeScript, &lt;a href="https://cezimbra.me/anotacoes/python/" >Python&lt;/a>, Go, Java, and Kotlin - &lt;a href="https://github.com/stainless-api/stl-api" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> - #OpenSource&lt;/li>
 &lt;li>&lt;a href="https://docs.aws.amazon.com/apigateway/latest/developerguide/how-to-generate-sdk-console.html" class="external-link" target="_blank" rel="noopener">API Gateway&lt;/a> - Java, JavaScript, Ruby&lt;/li>
 &lt;/ul>
@@ -7866,14 +7873,12 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
  &lt;th>&lt;a href="https://www.linkace.org" class="external-link" target="_blank" rel="noopener">LinkAce&lt;/a>&lt;/th>
  &lt;th>&lt;a href="https://www.instapaper.com/" class="external-link" target="_blank" rel="noopener">Instapaper&lt;/a>&lt;/th>
  &lt;th>&lt;a href="https://readwise.io/read" class="external-link" target="_blank" rel="noopener">Readwise&lt;/a>&lt;/th>
- &lt;th>&lt;a href="https://getpocket.com/" class="external-link" target="_blank" rel="noopener">Pocket&lt;/a>&lt;/th>
  &lt;/tr>
  &lt;/thead>
  &lt;tbody>
  &lt;tr>
  &lt;td>&lt;strong>Notes&lt;/strong>&lt;/td>
  &lt;td>Not a bookmark manager, but can be used for it.&lt;/td>
- &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
@@ -7886,7 +7891,6 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
  &lt;td>Self-hosted&lt;/td>
  &lt;td>Cloud&lt;/td>
  &lt;td>Cloud&lt;/td>
- &lt;td>Cloud&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>&lt;strong>Open source&lt;/strong>&lt;/td>
@@ -7895,14 +7899,12 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
  &lt;td>✅&lt;/td>
  &lt;td>❌&lt;/td>
  &lt;td>❌&lt;/td>
- &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>&lt;strong>Saves pages content&lt;/strong>&lt;/td>
  &lt;td>&lt;a href="https://github.com/AndyTheFactory/newspaper4k" class="external-link" target="_blank" rel="noopener">Can be implemented&lt;/a>&lt;/td>
  &lt;td>Paid version only&lt;/td>
  &lt;td>Internet Archive&lt;/td>
- &lt;td>Paid version only&lt;/td>
  &lt;td>Paid version only&lt;/td>
  &lt;td>Paid version only&lt;/td>
  &lt;/tr>
@@ -7913,7 +7915,6 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
  &lt;td>CSV and HTML&lt;/td>
  &lt;td>✅&lt;/td>
  &lt;td>CSV&lt;/td>
- &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>&lt;strong>Publishable&lt;/strong>&lt;/td>
@@ -7922,7 +7923,6 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
  &lt;td>✅&lt;/td>
  &lt;td>✅&lt;/td>
  &lt;td>Paid version only&lt;/td>
- &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>&lt;strong>Pricing&lt;/strong>&lt;/td>
@@ -7931,14 +7931,12 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
  &lt;td>Free&lt;/td>
  &lt;td>Free, $5.99/month or $59.99/year&lt;/td>
  &lt;td>$12.99/month or $119.88/year&lt;/td>
- &lt;td>Free, $4.99/month or $44.99/year&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>&lt;strong>Search page content&lt;/strong>&lt;/td>
  &lt;td>Can be implemented&lt;/td>
  &lt;td>Paid version only&lt;/td>
  &lt;td>❌&lt;/td>
- &lt;td>Paid version only&lt;/td>
  &lt;td>Paid version only&lt;/td>
  &lt;td>Paid version only&lt;/td>
  &lt;/tr>
@@ -7949,14 +7947,12 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
  &lt;td>❌&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>❌&lt;/td>
- &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
  &lt;td>&lt;strong>Clustering content&lt;/strong>&lt;/td>
  &lt;td>&lt;a href="https://github.com/simonw/llm-cluster" class="external-link" target="_blank" rel="noopener">Can be implemented&lt;/a>&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>❌&lt;/td>
- &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
@@ -7967,20 +7963,286 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
  &lt;td>❌&lt;/td>
  &lt;td>❌&lt;/td>
  &lt;td>Paid version only&lt;/td>
- &lt;td>&lt;/td>
  &lt;/tr>
  &lt;tr>
- &lt;td>&lt;strong>E-mail to subscribe to newsletters&lt;/strong>&lt;/td>
+ &lt;td>&lt;strong>Subscribe to newsletters&lt;/strong>&lt;/td>
  &lt;td>Can be implemented&lt;/td>
  &lt;td>Can be implemented&lt;/td>
  &lt;td>Can be implemented&lt;/td>
  &lt;td>✅&lt;/td>
  &lt;td>Paid version only&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Others:&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
 &lt;/table>
-&lt;p>Others:&lt;/p></description></item><item><title>Project Management</title><link>https://cezimbra.me/anotacoes/project-management/</link><pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/project-management/</guid><description>&lt;ul>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/astralapp/astral" class="external-link" target="_blank" rel="noopener">Astral&lt;/a> - specific for GitHub stars&lt;/li>
+&lt;li>&lt;a href="https://briefkastenhq.com" class="external-link" target="_blank" rel="noopener">Briefkasten&lt;/a> - didn&amp;rsquo;t work&lt;/li>
+&lt;li>Firefox Pocket - discontinued&lt;/li>
+&lt;li>&lt;a href="https://karakeep.app" class="external-link" target="_blank" rel="noopener">Karakeep&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/sissbruecker/linkding" class="external-link" target="_blank" rel="noopener">linkding&lt;/a> - didn&amp;rsquo;t test&lt;/li>
+&lt;li>&lt;a href="https://www.lynkmark.com/" class="external-link" target="_blank" rel="noopener">Lynkmark&lt;/a> - doesn&amp;rsquo;t save pages content&lt;/li>
+&lt;li>&lt;a href="https://linkwarden.app" class="external-link" target="_blank" rel="noopener">Linkwarden&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/usememos/memos" class="external-link" target="_blank" rel="noopener">memos&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mymind.com" class="external-link" target="_blank" rel="noopener">mymind is the extension for your mind.&lt;/a> - not open source&lt;/li>
+&lt;li>&lt;a href="https://github.com/omnivore-app/omnivore" class="external-link" target="_blank" rel="noopener">omnivore-app/omnivore&lt;/a> - hard to
+self-host because depends on Google Cloud&lt;/li>
+&lt;li>&lt;a href="https://github.com/go-shiori/shiori" class="external-link" target="_blank" rel="noopener">Shiori&lt;/a> - didn&amp;rsquo;t test&lt;/li>
+&lt;li>&lt;a href="https://www.dotoast.com/" class="external-link" target="_blank" rel="noopener">Toast&lt;/a> - browser extension only&lt;/li>
+&lt;li>&lt;a href="https://www.wallabag.it/en" class="external-link" target="_blank" rel="noopener">wallabag.it&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://webcrate.app/" class="external-link" target="_blank" rel="noopener">WebCrate&lt;/a> - needs to be deployed in a specific cloud&lt;/li>
+&lt;/ul>
+&lt;h2 id="coverage">
+ Coverage
+ &lt;a class="heading-link" href="#coverage">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://about.codecov.io/" class="external-link" target="_blank" rel="noopener">Codecov&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://codeclimate.com/" class="external-link" target="_blank" rel="noopener">Code Climate&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://coveralls.io/" class="external-link" target="_blank" rel="noopener">Coveralls&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="crm">
+ CRM
+ &lt;a class="heading-link" href="#crm">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.bitrix24.com.br/" class="external-link" target="_blank" rel="noopener">Bitrix24&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.pipedrive.com/" class="external-link" target="_blank" rel="noopener">Pipedrive&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="importers">
+ Importers
+ &lt;a class="heading-link" href="#importers">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://tableflow.com/" class="external-link" target="_blank" rel="noopener">TableFlow&lt;/a> - CSV importer #OpenSource&lt;/li>
+&lt;li>&lt;a href="https://flatfile.com/" class="external-link" target="_blank" rel="noopener">Flatfile&lt;/a> - Data file import&lt;/li>
+&lt;/ul>
+&lt;h2 id="hosting">
+ Hosting
+ &lt;a class="heading-link" href="#hosting">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="platform-as-a-service">
+ Platform as a Service
+ &lt;a class="heading-link" href="#platform-as-a-service">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://dokploy.com/" class="external-link" target="_blank" rel="noopener">Dokploy&lt;/a> - #OpenSource - &lt;a href="https://github.com/Dokploy/dokploy" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://easypanel.io/" class="external-link" target="_blank" rel="noopener">Easypanel&lt;/a> - Server Control Panel - deploy Docker containers of any type of applications, manage databases, and provision SSL certificates.&lt;/li>
+&lt;li>&lt;a href="https://encore.dev/" class="external-link" target="_blank" rel="noopener">Encore&lt;/a> - Backend Development Platform that automates infrastructure&lt;/li>
+&lt;li>&lt;a href="https://www.heroku.com/" class="external-link" target="_blank" rel="noopener">Heroku&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hop.io/" class="external-link" target="_blank" rel="noopener">Hop&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.porter.run/" class="external-link" target="_blank" rel="noopener">Porter&lt;/a> - manages infrastructure in your own AWS, GCP, or Azure account.&lt;/li>
+&lt;li>&lt;a href="https://railway.app/" class="external-link" target="_blank" rel="noopener">Railway&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://render.com/" class="external-link" target="_blank" rel="noopener">Render&lt;/a> - a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.&lt;/li>
+&lt;/ul>
+&lt;h3 id="storage">
+ Storage
+ &lt;a class="heading-link" href="#storage">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.backblaze.com/cloud-storage" class="external-link" target="_blank" rel="noopener">Backblaze - B2 Cloud Storage&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="integrations">
+ Integrations
+ &lt;a class="heading-link" href="#integrations">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="open-source">
+ Open Source
+ &lt;a class="heading-link" href="#open-source">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>
+&lt;ul>
+&lt;li>&lt;a href="https://www.activepieces.com/" class="external-link" target="_blank" rel="noopener">Activepieces&lt;/a> - &lt;a href="https://github.com/activepieces/activepieces" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> - &lt;a href="https://community.activepieces.com/" class="external-link" target="_blank" rel="noopener">Forum&lt;/a> #OpenSource
+&lt;ul>
+&lt;li>&lt;a href="https://www.activepieces.com/blog/open-source-alternatives-to-zapier" class="external-link" target="_blank" rel="noopener">vs others&lt;/a>&lt;/li>
+&lt;li>doesn&amp;rsquo;t support Python scripts&lt;/li>
+&lt;li>supports whitelabel&lt;/li>
+&lt;li>supports self-host&lt;/li>
+&lt;li>secrets security?&lt;/li>
+&lt;li>&lt;img src="https://img.shields.io/github/stars/activepieces/activepieces" alt="GitHub Repo stars">&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.activeworkflow.org/" class="external-link" target="_blank" rel="noopener">ActiveWorkflow&lt;/a> - &lt;a href="https://github.com/automaticmode/active_workflow" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> #OpenSource
+&lt;ul>
+&lt;li>forked from huginn&lt;/li>
+&lt;li>supports other languages using agents running in separate processes - communication is using HTTP.&lt;/li>
+&lt;li>hard to use&lt;/li>
+&lt;li>encryption only in the enterprise version&lt;/li>
+&lt;li>just a few pre-defined agents&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://nifi.apache.org/" class="external-link" target="_blank" rel="noopener">Apache NiFi&lt;/a> - #OpenSource&lt;/li>
+&lt;li>&lt;a href="https://www.automa.site/" class="external-link" target="_blank" rel="noopener">Automa&lt;/a> - extension for automating your browser by connecting blocks - &lt;a href="https://github.com/AutomaApp/automa" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> #OpenSource&lt;/li>
+&lt;li>
+&lt;ul>
+&lt;li>&lt;a href="https://automatisch.io/" class="external-link" target="_blank" rel="noopener">Automatisch&lt;/a> - &lt;a href="https://github.com/automatisch/automatisch" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> #OpenSource
+&lt;ul>
+&lt;li>doesn&amp;rsquo;t support scripts&lt;/li>
+&lt;li>supports whitelabel&lt;/li>
+&lt;li>&lt;img src="https://img.shields.io/github/stars/automatisch/automatisch" alt="GitHub Repo stars">&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://github.com/huginn/huginn" class="external-link" target="_blank" rel="noopener">huginn&lt;/a> - #OpenSource&lt;/li>
+&lt;li>&lt;a href="https://nodered.org/" class="external-link" target="_blank" rel="noopener">Node-RED&lt;/a> - #OpenSource
+&lt;ul>
+&lt;li>runs on Raspberry PI&lt;/li>
+&lt;li>Very technical&lt;/li>
+&lt;li>&lt;img src="https://img.shields.io/github/stars/node-red/node-red" alt="GitHub Repo stars">&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;ul>
+&lt;li>&lt;a href="https://n8n.io/" class="external-link" target="_blank" rel="noopener">n8n&lt;/a> - &lt;a href="https://github.com/n8n-io/n8n" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> #OpenSource
+&lt;ul>
+&lt;li>(beta) supports Python scripts&lt;/li>
+&lt;li>supports whitelabel&lt;/li>
+&lt;li>supports self-host&lt;/li>
+&lt;li>Custom variables are available just on the Enterprise plan - &lt;a href="https://docs.n8n.io/code/variables/" class="external-link" target="_blank" rel="noopener">Docs&lt;/a>&lt;/li>
+&lt;li>doesn&amp;rsquo;t run on Raspberry PI&lt;/li>
+&lt;li>&lt;img src="https://img.shields.io/github/stars/n8n-io/n8n" alt="GitHub Repo stars">&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://pipedream.com/" class="external-link" target="_blank" rel="noopener">Pipedream&lt;/a> - &lt;a href="https://github.com/PipedreamHQ/pipedream" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> #OpenSource
+&lt;ul>
+&lt;li>supports Python scripts&lt;/li>
+&lt;li>doesn&amp;rsquo;t support self-hosting - &lt;a href="https://github.com/PipedreamHQ/pipedream/issues/954" class="external-link" target="_blank" rel="noopener">issue&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://temporal.io/" class="external-link" target="_blank" rel="noopener">Temporal&lt;/a> - &lt;a href="https://github.com/temporalio/temporal" class="external-link" target="_blank" rel="noopener">GitHub&lt;/a> #OpenSource&lt;/li>
+&lt;/ul>
+&lt;h3 id="others">
+ Others
+ &lt;a class="heading-link" href="#others">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://ifttt.com/" class="external-link" target="_blank" rel="noopener">IFTTT&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://integrately.com/" class="external-link" target="_blank" rel="noopener">Integrately&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.make.com/" class="external-link" target="_blank" rel="noopener">Make (Integromat)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pluga.co/" class="external-link" target="_blank" rel="noopener">Pluga&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://tray.io/" class="external-link" target="_blank" rel="noopener">Tray.io&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.workato.com/" class="external-link" target="_blank" rel="noopener">Workato&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://zapier.com/" class="external-link" target="_blank" rel="noopener">Zapier&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="newsletter">
+ Newsletter
+ &lt;a class="heading-link" href="#newsletter">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.beehiiv.com/" class="external-link" target="_blank" rel="noopener">beehiiv&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://buttondown.email/" class="external-link" target="_blank" rel="noopener">Buttondown&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://pingback.com" class="external-link" target="_blank" rel="noopener">Pingback&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://substack.com/" class="external-link" target="_blank" rel="noopener">Substack&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="pentesting">
+ Pentesting
+ &lt;a class="heading-link" href="#pentesting">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/s0md3v/Arjun" class="external-link" target="_blank" rel="noopener">Arjun&lt;/a> - HTTP parameter discovery suite - enumerate any hidden parameters&lt;/li>
+&lt;li>&lt;a href="https://github.com/nmap/nmap" class="external-link" target="_blank" rel="noopener">Nmap&lt;/a> - Network Mapper&lt;/li>
+&lt;li>&lt;a href="https://github.com/owasp-amass/amass" class="external-link" target="_blank" rel="noopener">OWASP Amass&lt;/a> - In-depth attack surface mapping and asset discovery&lt;/li>
+&lt;li>&lt;a href="https://github.com/jobertabma/relative-url-extractor" class="external-link" target="_blank" rel="noopener">relative-url-extractor&lt;/a> - extracts relative URLs from a file&lt;/li>
+&lt;/ul>
+&lt;h2 id="qr-code">
+ QR Code
+ &lt;a class="heading-link" href="#qr-code">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://qrcode.show/" class="external-link" target="_blank" rel="noopener">QRcode.show&lt;/a> - Free QR code generator&lt;/li>
+&lt;/ul>
+&lt;h2 id="testing">
+ Testing
+ &lt;a class="heading-link" href="#testing">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="api">
+ API
+ &lt;a class="heading-link" href="#api">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://hurl.dev/" class="external-link" target="_blank" rel="noopener">Hurl&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="twitter">
+ Twitter
+ &lt;a class="heading-link" href="#twitter">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://typefully.com/" class="external-link" target="_blank" rel="noopener">Typefully&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://tweethunter.io/" class="external-link" target="_blank" rel="noopener">Tweet Hunter&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="search">
+ Search
+ &lt;a class="heading-link" href="#search">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="client-side">
+ Client-side
+ &lt;a class="heading-link" href="#client-side">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;p>Moved to My Toolbox - &lt;a href="https://toolbox.cezimbra.me/lists/full-text-search-in-the-browser/" class="external-link" target="_blank" rel="noopener">Full-text search in the browser&lt;/a>&lt;/p></description></item><item><title>Project Management</title><link>https://cezimbra.me/anotacoes/project-management/</link><pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/project-management/</guid><description>&lt;ul>
 &lt;li>&lt;a href="https://signalvnoise.com/posts/3676-everyone-on-support" class="external-link" target="_blank" rel="noopener">Everyone on Support&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="tools">
@@ -8433,10 +8695,11 @@ on your page can access;&lt;/li>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-05-18---2025-05-24/" >Weeknotes/2025-05-18 - 2025-05-24&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/api-client-sdk/" >API client SDK&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/toolbox/" >Toolbox&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/comparing-python-package-managers/" >Comparing Python package managers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/testing-autonomous-coders-or-ai-swe/" >Testing Autonomous Coders (or AI SWE)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/my-principles-for-building-software/" >My principles for building software&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/toolbox/" >Toolbox&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-05-11---2025-05-17/" >Weeknotes/2025-05-11 - 2025-05-17&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/aposente-se-em-8-anos/" >Aposente-se em 8 anos&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/culin%C3%A1ria/" >Culinária&lt;/a>&lt;/li>
@@ -8558,7 +8821,6 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/conta-azul/" >Conta Azul&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/team-topologies/" >Team Topologies&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/pesca/" >Pesca&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/api-client-sdk/" >API client SDK&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/vendas-1a1/" >Vendas 1a1&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/tech-leadership-conference/" >Tech Leadership Conference&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/micro-saas/" >Micro-SaaS&lt;/a>&lt;/li>
