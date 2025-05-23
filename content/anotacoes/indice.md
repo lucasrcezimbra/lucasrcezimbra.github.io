@@ -1,7 +1,7 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-05-22
+lastmod: 2025-05-23
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
@@ -9,10 +9,11 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2025-05-18 - 2025-05-24]({{< ref "Weeknotes/2025-05-18 - 2025-05-24" >}})
+- [API client SDK]({{< ref "API client SDK" >}})
+- [Toolbox]({{< ref "Toolbox" >}})
 - [Comparing Python package managers]({{< ref "Comparing Python package managers" >}})
 - [Testing Autonomous Coders (or AI SWE)]({{< ref "Testing Autonomous Coders (or AI SWE)" >}})
 - [My principles for building software]({{< ref "My principles for building software" >}})
-- [Toolbox]({{< ref "Toolbox" >}})
 - [Weeknotes/2025-05-11 - 2025-05-17]({{< ref "Weeknotes/2025-05-11 - 2025-05-17" >}})
 - [Aposente-se em 8 anos]({{< ref "Aposente-se em 8 anos" >}})
 - [Culinária]({{< ref "Culinária" >}})
@@ -134,7 +135,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Conta Azul]({{< ref "Conta Azul" >}})
 - [Team Topologies]({{< ref "Team Topologies" >}})
 - [Pesca]({{< ref "Pesca" >}})
-- [API client SDK]({{< ref "API client SDK" >}})
 - [Vendas 1a1]({{< ref "Vendas 1a1" >}})
 - [Tech Leadership Conference]({{< ref "Tech Leadership Conference" >}})
 - [Micro-SaaS]({{< ref "Micro-SaaS" >}})
