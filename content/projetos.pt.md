@@ -134,6 +134,13 @@ date: 2022-04-08T20:08:54-03:00
 
 {{< contribution
     status="open"
+    url="https://github.com/vitalik/django-ninja/pull/1467"
+    project="django-ninja"
+    title="[WIP] fix: OpenAPI schema with duplicated payload name"
+    date="2025-05-23"
+>}}
+{{< contribution
+    status="merged"
     url="https://gitlab.com/dalibo/dramatiq-pg/-/merge_requests/74"
     project="dramatiq-pg"
     title="fix: emit before enqueue before serializing message"
