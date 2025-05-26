@@ -1,13 +1,14 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-05-23
+lastmod: 2025-05-26
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2025-05-25 - 2025-05-31]({{< ref "Weeknotes/2025-05-25 - 2025-05-31" >}})
 - [Weeknotes/2025-05-18 - 2025-05-24]({{< ref "Weeknotes/2025-05-18 - 2025-05-24" >}})
 - [API client SDK]({{< ref "API client SDK" >}})
 - [Toolbox]({{< ref "Toolbox" >}})
