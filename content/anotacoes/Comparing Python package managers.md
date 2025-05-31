@@ -1,21 +1,21 @@
 ---
 title: Comparing Python package managers
 date: 2024-10-02
-lastmod: 2025-05-22
+lastmod: 2025-05-30
 ---
 
 {{< datatables >}}
 
 ## Comparison
-| Tool   | First release | Lock file | Manage Python versions | Global cache | PEP compliant | Packaging/PyPI distribution         |
-| ------ | --------------| --------- | ---------------------- | ------------ | ------------- | ----------------------------------- |
-| Hatch  | 2022-01-03    | ❌        | ✅                     |              | ✅            | ✔️ only using Hatch build backend   |
-| pip    | 2008-10-28    | ❌        | ❌                     |              | ✅            |                                     |
-| Pipenv | 2017-01-20    | ✅        | ❌                     |              |               | ❌                                  |
-| PDM    | 2020-01-21    | ✅        | ✅                     | ✅           | ✅            | ✅                                  |
-| Poetry | 2018-02-28    | ✅        | ❌                     |              | ❌            | ✔️ only using Poetry build backend  |
-| Pyflow |               |           |                        |              |               |                                     |
-| uv     | 2024-02-15    | ✅        | ✅                     | ✅           | ✅            | ✅                                  |
+| Tool      | First release | Lock file | Manage Python versions | Global cache | PEP compliant | Packaging/PyPI distribution         |
+| --------- | --------------| --------- | ---------------------- | ------------ | ------------- | ----------------------------------- |
+| pip       | 2008-10-28    | ❌        | ❌                     |              | ✅            |                                     |
+| pip-tools | 2012-09-26    |           |                        |              |               |                                     |
+| Pipenv    | 2017-01-20    | ✅        | ❌                     |              |               | ❌                                  |
+| Poetry    | 2018-02-28    | ✅        | ❌                     |              | ❌            | ✔️ only using Poetry build backend  |
+| PDM       | 2020-01-21    | ✅        | ✅                     | ✅           | ✅            | ✅                                  |
+| Hatch     | 2022-01-03    | ❌        | ✅                     |              | ✅            | ✔️ only using Hatch build backend   |
+| uv        | 2024-02-15    | ✅        | ✅                     | ✅           | ✅            | ✅                                  |
 
 
 ### uv

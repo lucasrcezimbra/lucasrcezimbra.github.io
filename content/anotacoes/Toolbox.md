@@ -1,7 +1,7 @@
 ---
 title: Toolbox
 date: 2023-10-09
-lastmod: 2025-05-23
+lastmod: 2025-05-30
 aliases:
   - /anotacoes/integrations-platforms/
   - /anotacoes/vpn/
@@ -61,6 +61,10 @@ aliases:
 - [Plausible](https://plausible.io/) - No free plans #OpenSource
 - [unami](https://umami.is/) - free plan (10K events/month) #OpenSource
 - [Wide Angle](https://wideangle.co/) - No free plans
+
+## API Marketplace
+- [Apify: Full-stack web scraping and data extraction platform](https://apify.com)
+- [Rapid API Marketplace & Management Tools](https://rapidapi.com)
 
 ## Bookmark manager
 
