@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-05-25 - 2025-05-31</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-05-25---2025-05-31/</link><pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-05-25---2025-05-31/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-05-18---2025-05-24/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Tue, 03 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-01 - 2025-06-07</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-06-01---2025-06-07/</link><pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-06-01---2025-06-07/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-05-25---2025-05-31/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;h2 id="books-being-read">
@@ -22,10 +22,8 @@ Antônio de Macedo Costa&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://apify.com" class="external-link" target="_blank" rel="noopener">Apify: Full-stack web scraping and data extraction platform&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://mcp-server-list.com" class="external-link" target="_blank" rel="noopener">Best MCP Servers and Clients List&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://mcpservers.org" class="external-link" target="_blank" rel="noopener">Awesome MCP Servers&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://gorilla.cs.berkeley.edu/leaderboard.html" class="external-link" target="_blank" rel="noopener">Berkeley Function Calling Leaderboard V3 (aka Berkeley Tool Calling Leaderboard V3)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://turbopuffer.com" class="external-link" target="_blank" rel="noopener">turbopuffer&lt;/a> - serverless vector and full-text
+search&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -38,6 +36,73 @@ Antônio de Macedo Costa&lt;/li>
 &lt;/h2>
 &lt;ul>
 &lt;li>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="read-articles">
+ Read articles
+ &lt;a class="heading-link" href="#read-articles">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://turbopuffer.com/blog/turbopuffer" class="external-link" target="_blank" rel="noopener">turbopuffer: fast search on object storage&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://world.hey.com/dhh/omarchy-bottling-that-inspiration-before-it-spoils-cd75e26b" class="external-link" target="_blank" rel="noopener">Omarchy: Bottling that inspiration before it spoils&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="read-news">
+ Read news
+ &lt;a class="heading-link" href="#read-news">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="watched">
+ Watched
+ &lt;a class="heading-link" href="#watched">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(pt-BR) &lt;a href="https://www.youtube.com/watch?v=lBuDUuU1jJs" class="external-link" target="_blank" rel="noopener">o que que o Airbnb fez no aplicativo (DEV criou algo bizarro)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="listened">
+ Listened
+ &lt;a class="heading-link" href="#listened">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=2e8h1tygQw4" class="external-link" target="_blank" rel="noopener">Homilia Diária | Deram a vida para manter a pureza (Mem. de São Carlos Lwanga e comp. mártires)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-05-25---2025-05-31/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2025-05-25 - 2025-05-31</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-05-25---2025-05-31/</link><pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-05-25---2025-05-31/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-05-18---2025-05-24/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-01---2025-06-07/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;h2 id="discovered-tools">
+ Discovered tools
+ &lt;a class="heading-link" href="#discovered-tools">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://apify.com" class="external-link" target="_blank" rel="noopener">Apify: Full-stack web scraping and data extraction platform&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mcp-server-list.com" class="external-link" target="_blank" rel="noopener">Best MCP Servers and Clients List&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mcpservers.org" class="external-link" target="_blank" rel="noopener">Awesome MCP Servers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://gorilla.cs.berkeley.edu/leaderboard.html" class="external-link" target="_blank" rel="noopener">Berkeley Function Calling Leaderboard V3 (aka Berkeley Tool Calling Leaderboard V3)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -286,7 +351,21 @@ para o outro.&lt;/li>
 &lt;li>Salgue a carne com sal fino.&lt;/li>
 &lt;li>Coloque a carne sobre as batatas.&lt;/li>
 &lt;li>Leve ao fono.&lt;/li>
-&lt;/ol></description></item><item><title>Sono Bebê 0-3 Meses</title><link>https://cezimbra.me/anotacoes/sono-beb%C3%AA-0-3-meses/</link><pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/sono-beb%C3%AA-0-3-meses/</guid><description>&lt;p>Curso: &lt;a href="https://hotmart.com/pt-br/marketplace/produtos/aulao-sono-bebe-zero-a-tres-meses-na-pratica/C95316431H" class="external-link" target="_blank" rel="noopener">Aulão Sono bebê zero a três meses na prática&lt;/a>&lt;/p>
+&lt;/ol>
+&lt;hr>
+&lt;h2 id="batida-de-abacate">
+ Batida de abacate
+ &lt;a class="heading-link" href="#batida-de-abacate">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>200g de abacate&lt;/li>
+&lt;li>15g de açucar&lt;/li>
+&lt;li>dose de whey&lt;/li>
+&lt;li>250g de leite de castanha&lt;/li>
+&lt;/ul></description></item><item><title>Sono Bebê 0-3 Meses</title><link>https://cezimbra.me/anotacoes/sono-beb%C3%AA-0-3-meses/</link><pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/sono-beb%C3%AA-0-3-meses/</guid><description>&lt;p>Curso: &lt;a href="https://hotmart.com/pt-br/marketplace/produtos/aulao-sono-bebe-zero-a-tres-meses-na-pratica/C95316431H" class="external-link" target="_blank" rel="noopener">Aulão Sono bebê zero a três meses na prática&lt;/a>&lt;/p>
 &lt;ul>
 &lt;li>Baseado em &lt;a href="https://en.wikipedia.org/wiki/Donald_Winnicott" class="external-link" target="_blank" rel="noopener">Donald Winnicott&lt;/a>
 (&lt;a href="https://pt.wikipedia.org/wiki/Donald_Woods_Winnicott" class="external-link" target="_blank" rel="noopener">pt-BR&lt;/a>)&lt;/li>
@@ -8737,6 +8816,8 @@ on your page can access;&lt;/li>
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-01---2025-06-07/" >Weeknotes/2025-06-01 - 2025-06-07&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/culin%C3%A1ria/" >Culinária&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-05-25---2025-05-31/" >Weeknotes/2025-05-25 - 2025-05-31&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/comparing-python-package-managers/" >Comparing Python package managers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/api-client-sdk/" >API client SDK&lt;/a>&lt;/li>
@@ -8746,7 +8827,6 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/my-principles-for-building-software/" >My principles for building software&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-05-11---2025-05-17/" >Weeknotes/2025-05-11 - 2025-05-17&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/aposente-se-em-8-anos/" >Aposente-se em 8 anos&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/culin%C3%A1ria/" >Culinária&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/sono-beb%C3%AA-0-3-meses/" >Sono bebê 0-3 meses&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/parir-feliz/" >Parir Feliz&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-05-04---2025-05-10/" >Weeknotes/2025-05-04 - 2025-05-10&lt;/a>&lt;/li>
