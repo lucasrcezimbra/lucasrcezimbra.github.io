@@ -1,7 +1,7 @@
 ---
 title: "Culinária"
 date: 2025-05-11
-lastmod: 2025-05-16
+lastmod: 2025-06-03
 ---
 
 ## Coxa e sobrecoxa desossada temperadas com cerveja e mel
@@ -38,3 +38,11 @@ lastmod: 2025-05-16
 2. Salgue a carne com sal fino.
 3. Coloque a carne sobre as batatas.
 4. Leve ao fono.
+
+---
+
+## Batida de abacate
+- 200g de abacate
+- 15g de açucar
+- dose de whey
+- 250g de leite de castanha
