@@ -1,13 +1,15 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-06-10
+lastmod: 2025-06-16
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2025-06-15 - 2025-06-21]({{< ref "Weeknotes/2025-06-15 - 2025-06-21" >}})
+- [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2025-06-08 - 2025-06-14]({{< ref "Weeknotes/2025-06-08 - 2025-06-14" >}})
 - [Weeknotes/2025-06-01 - 2025-06-07]({{< ref "Weeknotes/2025-06-01 - 2025-06-07" >}})
 - [Culinária]({{< ref "Culinária" >}})
@@ -25,7 +27,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2025-05-04 - 2025-05-10]({{< ref "Weeknotes/2025-05-04 - 2025-05-10" >}})
 - [Weeknotes/2025-04-27 - 2025-05-03]({{< ref "Weeknotes/2025-04-27 - 2025-05-03" >}})
 - [Weeknotes/2025-04-20 - 2025-04-26]({{< ref "Weeknotes/2025-04-20 - 2025-04-26" >}})
-- [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2025-04-13 - 2025-04-19]({{< ref "Weeknotes/2025-04-13 - 2025-04-19" >}})
 - [Weeknotes/2025-04-06 - 2025-04-12]({{< ref "Weeknotes/2025-04-06 - 2025-04-12" >}})
 - [Javascript]({{< ref "Javascript" >}})

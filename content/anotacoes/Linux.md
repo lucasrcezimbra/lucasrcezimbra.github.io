@@ -1,7 +1,7 @@
 ---
 title: Linux
 date: 2023-08-15
-lastmod: 2025-04-23
+lastmod: 2025-06-16
 aliases:
   - /anotacoes/linux/
   - /dicas-rapidas-linux/
@@ -212,3 +212,9 @@ aliases:
 	- Examples of `<property>`: `'/commands/custom/<Super>d'`, `'/commands/custom/Print'`, `'/xfwm4/custom/<Primary><Shift><Alt>Left'`
 	- Example of `<command>`: `'thunar'`, `'xfce4-screenshooter --fullscreen'`, `'move_window_left_workspace_key'`
 	- More examples on https://github.com/lucasrcezimbra/dotfiles/blob/master/install.sh
+- Reload panel configs without logging out
+  ```shell
+  vim ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-panel.xml  # edit configs and save
+  pkill xfconfd
+  xfce4-panel -r
+  ```
