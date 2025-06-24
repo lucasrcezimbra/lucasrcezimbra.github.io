@@ -1,7 +1,7 @@
 ---
 title: Linux
 date: 2023-08-15
-lastmod: 2025-06-16
+lastmod: 2025-06-24
 aliases:
   - /anotacoes/linux/
   - /dicas-rapidas-linux/
@@ -131,6 +131,10 @@ aliases:
   ```shell
   sudo apt install trash-cli
   trash-empty
+  ```
+- Headset Bluetooth failing to connect as A2DP profile - "Failed to change profile to a2dp_sink"
+  ```shell
+  sudo apt remove bluez-alsa-utils
   ```
 
 
