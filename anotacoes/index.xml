@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Wed, 25 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-22 - 2025-06-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/</link><pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-15---2025-06-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-22 - 2025-06-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/</link><pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-15---2025-06-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;h2 id="books-being-read">
@@ -34,7 +34,12 @@
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>&lt;code>/tmp&lt;/code> is mounted or not in RAM depending on the Linux distribution and configs.
+&lt;ul>
+&lt;li>In Debian 12, it mounted in disk by default.&lt;/li>
+&lt;li>&lt;code>/dev/shm&lt;/code> is always in RAM.&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -47,6 +52,9 @@
 &lt;/h2>
 &lt;ul>
 &lt;li>(pt-BR) &lt;a href="https://moacirmoda.substack.com/p/eu-nao-acredito-em-micro-saas" class="external-link" target="_blank" rel="noopener">Eu não acredito em Micro-SaaS - by Moacir Moda&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://theorangeone.net/posts/replacing-cloudflare" class="external-link" target="_blank" rel="noopener"> Replacing Cloudflare: My domain move :: TheOrangeOne &lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://theorangeone.net/posts/wireguard-haproxy-gateway" class="external-link" target="_blank" rel="noopener"> WireGuard HAProxy Gateway :: TheOrangeOne &lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://hiandrewquinn.github.io/til-site/posts/save-your-disk-write-files-directly-into-ram-with-dev-shm" class="external-link" target="_blank" rel="noopener">Save your disk, write files directly into RAM with /dev/shmAndrew Quinn&amp;rsquo;s TILs&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -60,6 +68,7 @@
 &lt;ul>
 &lt;li>(pt-BR) &lt;a href="https://mabreu.substack.com/p/semana-40-distribuicao-distribuicao" class="external-link" target="_blank" rel="noopener">Semana #40 | Distribuição, Distribuição, Distribuição&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://koaning.io/posts/giving-mojo-a-spin" class="external-link" target="_blank" rel="noopener">Python can run Mojo now | Vincent D. Warmerdam&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://world.hey.com/dhh/omarchy-is-out-4666dd31" class="external-link" target="_blank" rel="noopener">Omarchy is out&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -1450,6 +1459,12 @@ I did it through the AWS console.&lt;/p>
  &lt;td>Napoleon&lt;/td>
  &lt;td>&lt;a href="https://napoleon.com.br" class="external-link" target="_blank" rel="noopener">https://napoleon.com.br&lt;/a>&lt;/td>
  &lt;td>✅&lt;/td>
+ &lt;td>&lt;/td>
+ &lt;/tr>
+ &lt;tr>
+ &lt;td>Vultr&lt;/td>
+ &lt;td>&lt;a href="https://www.vultr.com/" class="external-link" target="_blank" rel="noopener">https://www.vultr.com/&lt;/a>&lt;/td>
+ &lt;td>&lt;/td>
  &lt;td>&lt;/td>
  &lt;/tr>
  &lt;/tbody>
@@ -8344,7 +8359,7 @@ R$ 11,66 a cada R$ 1.000 ($6)&lt;/p></description></item><item><title>Micro-SaaS
 self-host because depends on Google Cloud&lt;/li>
 &lt;li>&lt;a href="https://github.com/go-shiori/shiori" class="external-link" target="_blank" rel="noopener">Shiori&lt;/a> - didn&amp;rsquo;t test&lt;/li>
 &lt;li>&lt;a href="https://www.dotoast.com/" class="external-link" target="_blank" rel="noopener">Toast&lt;/a> - browser extension only&lt;/li>
-&lt;li>&lt;a href="https://www.wallabag.it/en" class="external-link" target="_blank" rel="noopener">wallabag.it&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.wallabag.it/en" class="external-link" target="_blank" rel="noopener">wallabag.it&lt;/a> / &lt;a href="https://wallabag.org" class="external-link" target="_blank" rel="noopener">Save the web, freely | wallabag: a self hostable application for saving web pages&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://webcrate.app/" class="external-link" target="_blank" rel="noopener">WebCrate&lt;/a> - needs to be deployed in a specific cloud&lt;/li>
 &lt;/ul>
 &lt;h2 id="coverage">
@@ -9043,6 +9058,9 @@ on your page can access;&lt;/li>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/" >Weeknotes/2025-06-22 - 2025-06-28&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/vps-providers/" >VPS providers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/toolbox/" >Toolbox&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/nfse/" >NFSe&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/linux/" >Linux&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-15---2025-06-21/" >Weeknotes/2025-06-15 - 2025-06-21&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-08---2025-06-14/" >Weeknotes/2025-06-08 - 2025-06-14&lt;/a>&lt;/li>
@@ -9051,7 +9069,6 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-05-25---2025-05-31/" >Weeknotes/2025-05-25 - 2025-05-31&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/comparing-python-package-managers/" >Comparing Python package managers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/api-client-sdk/" >API client SDK&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/toolbox/" >Toolbox&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-05-18---2025-05-24/" >Weeknotes/2025-05-18 - 2025-05-24&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/testing-autonomous-coders-or-ai-swe/" >Testing Autonomous Coders (or AI SWE)&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/my-principles-for-building-software/" >My principles for building software&lt;/a>&lt;/li>
@@ -9080,7 +9097,6 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/trying-django-ui-components-libraries/" >Trying Django UI Components libraries&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/deploying-django-with-kamal/" >Deploying Django with Kamal&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-23---2025-03-01/" >Weeknotes/2025-02-23 - 2025-03-01&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/vps-providers/" >VPS providers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-16---2025-02-22/" >Weeknotes/2025-02-16 - 2025-02-22&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-02-09---2025-02-15/" >Weeknotes/2025-02-09 - 2025-02-15&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/software-zen---a-arte-da-gest%C3%A3o-de-software/" >Software Zen - A Arte da Gestão de Software&lt;/a>&lt;/li>
@@ -9227,7 +9243,6 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/jupyter/" >Jupyter&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/data-science-na-pr%C3%A1tica-3/" >Data Science na Prática 3&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/entregabilidade-de-e-mails/" >Entregabilidade de E-mails&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/nfse/" >NFSe&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/o-valor-do-dinheiro/" >O Valor do Dinheiro&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/tornando-se-um-estudante-serio/" >Tornando-se um Estudante Serio&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/como-criar-um-senso-de-urgencia/" >Como criar um senso de urgencia&lt;/a>&lt;/li>
@@ -13102,40 +13117,53 @@ manage relays&lt;/li>
  &lt;/a>
 &lt;/h5>
 &lt;p>Moved to &lt;a href="https://toolbox.cezimbra.me/" class="external-link" target="_blank" rel="noopener">My Toolbox&lt;/a> - list &lt;a href="https://toolbox.cezimbra.me/lists/nostr-clients/" class="external-link" target="_blank" rel="noopener">nostr - clients&lt;/a>&lt;/p></description></item><item><title>NFSe</title><link>https://cezimbra.me/anotacoes/nfse/</link><pubDate>Tue, 02 May 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/nfse/</guid><description>&lt;ul>
+&lt;li>Bling
+&lt;ul>
+&lt;li>&lt;a href="https://www.bling.com.br/" class="external-link" target="_blank" rel="noopener">https://www.bling.com.br/&lt;/a>&lt;/li>
+&lt;li>R$ 55/mês (com acesso a API)&lt;/li>
+&lt;li>consultado em 2025-06-27&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;li>Spedy
 &lt;ul>
 &lt;li>&lt;a href="https://spedy.com.br/" class="external-link" target="_blank" rel="noopener">https://spedy.com.br/&lt;/a>&lt;/li>
-&lt;li>Grátis (sem acesso a API); R$169/mês (para ter acesso a API)&lt;/li>
+&lt;li>R$ 89/mês (sem acesso a API); R$189/mês (com acesso a API)&lt;/li>
+&lt;li>consultado em 2025-06-27&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>eNotas
 &lt;ul>
 &lt;li>&lt;a href="https://enotas.com.br/" class="external-link" target="_blank" rel="noopener">https://enotas.com.br/&lt;/a>&lt;/li>
-&lt;li>R$ 137/mês (sem acesso a API); R$ 257 (com acesso a API)&lt;/li>
+&lt;li>R$ 137/mês (sem acesso a API); R$ 737 (com acesso a API)&lt;/li>
+&lt;li>consultado em 2025-06-27&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>NFE.io
 &lt;ul>
 &lt;li>&lt;a href="https://nfe.io/" class="external-link" target="_blank" rel="noopener">https://nfe.io/&lt;/a>&lt;/li>
-&lt;li>mandei contato pedindo orçamento&lt;/li>
+&lt;li>Plano Base: R$ 200/mês (com acesso a API)&lt;/li>
+&lt;li>consultado em 2025-06-27&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>PlugNotas
 &lt;ul>
 &lt;li>&lt;a href="https://plugnotas.com.br/" class="external-link" target="_blank" rel="noopener">https://plugnotas.com.br/&lt;/a>&lt;/li>
 &lt;li>mandei contato pedindo orçamento&lt;/li>
+&lt;li>consultado em 2023-05-02&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Tiny by Olist
 &lt;ul>
 &lt;li>&lt;a href="https://tiny.com.br/" class="external-link" target="_blank" rel="noopener">https://tiny.com.br/&lt;/a>&lt;/li>
-&lt;li>R$ 29/mês (sem acesso a API); R$ 99 (com acesso a API)&lt;/li>
+&lt;li>R$ 55,90/mês (sem acesso a API); R$ 149,90 (com acesso a API)&lt;/li>
+&lt;li>consultado em 2025-06-27&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>Asaas
 &lt;ul>
 &lt;li>&lt;a href="https://www.asaas.com/config/index?tab=documentation" class="external-link" target="_blank" rel="noopener">https://www.asaas.com/config/index?tab=documentation&lt;/a>&lt;/li>
 &lt;li>Nunca consegui terminar o onboarding pq fica dando erro&lt;/li>
+&lt;li>consultado em 2023-05-02&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul></description></item><item><title>Parir Feliz</title><link>https://cezimbra.me/anotacoes/parir-feliz/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/parir-feliz/</guid><description>&lt;p>Curso: &lt;a href="https://hotmart.com/pt-br/marketplace/produtos/parir-feliz-2/S17261421H" class="external-link" target="_blank" rel="noopener">Comunidade Parir Feliz&lt;/a>&lt;/p>
