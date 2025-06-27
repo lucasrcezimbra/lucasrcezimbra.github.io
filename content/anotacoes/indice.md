@@ -1,7 +1,7 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-06-25
+lastmod: 2025-06-27
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
@@ -9,6 +9,9 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2025-06-22 - 2025-06-28]({{< ref "Weeknotes/2025-06-22 - 2025-06-28" >}})
+- [VPS providers]({{< ref "VPS providers" >}})
+- [Toolbox]({{< ref "Toolbox" >}})
+- [NFSe]({{< ref "NFSe" >}})
 - [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2025-06-15 - 2025-06-21]({{< ref "Weeknotes/2025-06-15 - 2025-06-21" >}})
 - [Weeknotes/2025-06-08 - 2025-06-14]({{< ref "Weeknotes/2025-06-08 - 2025-06-14" >}})
@@ -17,7 +20,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2025-05-25 - 2025-05-31]({{< ref "Weeknotes/2025-05-25 - 2025-05-31" >}})
 - [Comparing Python package managers]({{< ref "Comparing Python package managers" >}})
 - [API client SDK]({{< ref "API client SDK" >}})
-- [Toolbox]({{< ref "Toolbox" >}})
 - [Weeknotes/2025-05-18 - 2025-05-24]({{< ref "Weeknotes/2025-05-18 - 2025-05-24" >}})
 - [Testing Autonomous Coders (or AI SWE)]({{< ref "Testing Autonomous Coders (or AI SWE)" >}})
 - [My principles for building software]({{< ref "My principles for building software" >}})
@@ -46,7 +48,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Trying Django UI Components libraries]({{< ref "Trying Django UI Components libraries" >}})
 - [Deploying Django with Kamal]({{< ref "Deploying Django with Kamal" >}})
 - [Weeknotes/2025-02-23 - 2025-03-01]({{< ref "Weeknotes/2025-02-23 - 2025-03-01" >}})
-- [VPS providers]({{< ref "VPS providers" >}})
 - [Weeknotes/2025-02-16 - 2025-02-22]({{< ref "Weeknotes/2025-02-16 - 2025-02-22" >}})
 - [Weeknotes/2025-02-09 - 2025-02-15]({{< ref "Weeknotes/2025-02-09 - 2025-02-15" >}})
 - [Software Zen - A Arte da Gestão de Software]({{< ref "Software Zen - A Arte da Gestão de Software" >}})
@@ -193,7 +194,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Jupyter]({{< ref "Jupyter" >}})
 - [Data Science na Prática 3]({{< ref "Data Science na Prática 3" >}})
 - [Entregabilidade de E-mails]({{< ref "Entregabilidade de E-mails" >}})
-- [NFSe]({{< ref "NFSe" >}})
 - [O Valor do Dinheiro]({{< ref "O Valor do Dinheiro" >}})
 - [Tornando-se um Estudante Serio]({{< ref "Tornando-se um Estudante Serio" >}})
 - [Como criar um senso de urgencia]({{< ref "Como criar um senso de urgencia" >}})

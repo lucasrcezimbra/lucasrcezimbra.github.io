@@ -1,7 +1,7 @@
 ---
 title: VPS providers
 date: 2025-02-24
-lastmod: 2025-02-25
+lastmod: 2025-06-27
 ---
 
 
@@ -15,3 +15,4 @@ lastmod: 2025-02-25
 | KingHost      | https://king.host            | ✅                  | R$ 29,90  1 vCPU, 1 GB RAM, 50 GB SSD, unlimited bandwidth   |
 | Locaweb       | https://www.locaweb.com.br   | ✅                  | R$ 15,90  1 vCPU, 512 MB RAM, 20 GB SSD, unlimited bandwidth |
 | Napoleon      | https://napoleon.com.br      | ✅                  | |
+| Vultr         | https://www.vultr.com/ |     | |

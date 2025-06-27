@@ -1,7 +1,7 @@
 ---
 title: Toolbox
 date: 2023-10-09
-lastmod: 2025-05-30
+lastmod: 2025-06-27
 aliases:
   - /anotacoes/integrations-platforms/
   - /anotacoes/vpn/
@@ -96,7 +96,7 @@ Others:
   self-host because depends on Google Cloud
 - [Shiori](https://github.com/go-shiori/shiori) - didn't test
 - [Toast](https://www.dotoast.com/) - browser extension only
-- [wallabag.it](https://www.wallabag.it/en)
+- [wallabag.it](https://www.wallabag.it/en) / [Save the web, freely | wallabag: a self hostable application for saving web pages](https://wallabag.org)
 - [WebCrate](https://webcrate.app/) - needs to be deployed in a specific cloud
 
 ## Coverage
