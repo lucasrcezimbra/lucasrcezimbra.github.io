@@ -1,4 +1,57 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 27 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-06-22 - 2025-06-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/</link><pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-15---2025-06-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>Personal Backups</title><link>https://cezimbra.me/anotacoes/personal-backups/</link><pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/personal-backups/</guid><description>&lt;h2 id="tools">
+ Tools
+ &lt;a class="heading-link" href="#tools">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="clis">
+ CLIs
+ &lt;a class="heading-link" href="#clis">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://borgbackup.readthedocs.io/en/stable" class="external-link" target="_blank" rel="noopener">Borg Documentation - Borg - Deduplicating Archiver 1.4.1 documentation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://duplicacy.com" class="external-link" target="_blank" rel="noopener">Duplicacy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://duplicity.gitlab.io" class="external-link" target="_blank" rel="noopener">duplicity: Encrypted bandwidth-efficient backup&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://kopia.io" class="external-link" target="_blank" rel="noopener">Kopia&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://rclone.org" class="external-link" target="_blank" rel="noopener">Rclone&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://restic.net" class="external-link" target="_blank" rel="noopener">restic - Backups done right!&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="drivers">
+ Drivers
+ &lt;a class="heading-link" href="#drivers">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://nextcloud.com" class="external-link" target="_blank" rel="noopener">Nextcloud - Open source content collaboration platform&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://syncthing.net" class="external-link" target="_blank" rel="noopener">Syncthing&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="photos">
+ Photos
+ &lt;a class="heading-link" href="#photos">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/immich-app/immich" class="external-link" target="_blank" rel="noopener">GitHub - immich-app/immich: High performance self-hosted photo and video management solution.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.photoprism.app" class="external-link" target="_blank" rel="noopener">Browse Your Life in Pictures - PhotoPrism&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="vendors">
+ Vendors
+ &lt;a class="heading-link" href="#vendors">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="https://www.rsync.net" class="external-link" target="_blank" rel="noopener">Cloud Storage for Offsite Backup&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>2025-06-29 - 2025-07-05</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-06-29---2025-07-05/</link><pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-06-29---2025-07-05/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;h2 id="books-being-read">
@@ -11,6 +64,10 @@
 &lt;ul>
 &lt;li>(pt-BR) Conversas Cruciais - Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan
 &amp;amp; Al Switzler &amp;amp; Emily Gregory&lt;/li>
+&lt;li>(pt-BR) História da Igreja: marcas da presença de Cristo no mundo - Angela
+Pellicciari&lt;/li>
+&lt;li>(pt-BR) História bíblica: narrativas do Antigo e do Novo Testamento - Dom
+Antônio de Macedo Costa&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -22,7 +79,85 @@
  &lt;/a>
 &lt;/h2>
 &lt;ul>
+&lt;li>&lt;a href="https://ahrefs.com" class="external-link" target="_blank" rel="noopener">Ahrefs—Marketing Intelligence Tools Powered by Big Data.&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="learned">
+ Learned
+ &lt;a class="heading-link" href="#learned">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
 &lt;li>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="read-articles">
+ Read articles
+ &lt;a class="heading-link" href="#read-articles">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(pt-BR) &lt;a href="https://www.productgurus.com.br/p/parte-2-produto-sem-pm-como-o-meli" class="external-link" target="_blank" rel="noopener">Parte 2: Como o Mercado Livre sustenta autonomia técnica em escala&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://stability.ai/customer-stories/mercado-libre-achieves-growth-through-stable-diffusion-ai" class="external-link" target="_blank" rel="noopener">Mercado Libre Scales Ads with Stability AI’s Stable Diffusion &amp;amp; AWS AI Tools — Stability AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin" class="external-link" target="_blank" rel="noopener">MCP: An (Accidentally) Universal Plugin System&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="read-news">
+ Read news
+ &lt;a class="heading-link" href="#read-news">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://mabreu.substack.com/p/semana-41-figma-to-pdf" class="external-link" target="_blank" rel="noopener">Semana #41 | Figma to PDF? 👀&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="watched">
+ Watched
+ &lt;a class="heading-link" href="#watched">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="listened">
+ Listened
+ &lt;a class="heading-link" href="#listened">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2025-06-22 - 2025-06-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/</link><pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-15---2025-06-21/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-29---2025-07-05/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;h2 id="books-being-read">
+ Books being read
+ &lt;a class="heading-link" href="#books-being-read">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>(pt-BR) Conversas Cruciais - Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan
+&amp;amp; Al Switzler &amp;amp; Emily Gregory&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -55,6 +190,7 @@
 &lt;li>&lt;a href="https://theorangeone.net/posts/replacing-cloudflare" class="external-link" target="_blank" rel="noopener"> Replacing Cloudflare: My domain move :: TheOrangeOne &lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://theorangeone.net/posts/wireguard-haproxy-gateway" class="external-link" target="_blank" rel="noopener"> WireGuard HAProxy Gateway :: TheOrangeOne &lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://hiandrewquinn.github.io/til-site/posts/save-your-disk-write-files-directly-into-ram-with-dev-shm" class="external-link" target="_blank" rel="noopener">Save your disk, write files directly into RAM with /dev/shmAndrew Quinn&amp;rsquo;s TILs&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://www.productgurus.com.br/p/komea-e-a-reinvencao-do-e-commerce" class="external-link" target="_blank" rel="noopener">Komea e a reinvenção do e-commerce - by Paulo Chiodi&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -104,7 +240,7 @@ você pedir justiça, lembre-se, você é o primeiro da fila.&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-15---2025-06-21/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2025-06-15 - 2025-06-21</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-06-15---2025-06-21/</link><pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-06-15---2025-06-21/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-08---2025-06-14/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-15---2025-06-21/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-29---2025-07-05/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>2025-06-15 - 2025-06-21</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-06-15---2025-06-21/</link><pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-06-15---2025-06-21/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-08---2025-06-14/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;h2 id="books-being-read">
@@ -9057,6 +9193,8 @@ on your page can access;&lt;/li>
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/personal-backups/" >Personal Backups&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-29---2025-07-05/" >Weeknotes/2025-06-29 - 2025-07-05&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/" >Weeknotes/2025-06-22 - 2025-06-28&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/vps-providers/" >VPS providers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/toolbox/" >Toolbox&lt;/a>&lt;/li>
