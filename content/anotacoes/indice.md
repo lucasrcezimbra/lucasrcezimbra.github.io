@@ -14,7 +14,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [VPS providers]({{< ref "VPS providers" >}})
 - [Toolbox]({{< ref "Toolbox" >}})
 - [NFSe]({{< ref "NFSe" >}})
-- [Diário de Paternidade]({{< ref "Diário de Paternidade" >}})
 - [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2025-06-15 - 2025-06-21]({{< ref "Weeknotes/2025-06-15 - 2025-06-21" >}})
 - [Weeknotes/2025-06-08 - 2025-06-14]({{< ref "Weeknotes/2025-06-08 - 2025-06-14" >}})
