@@ -1,15 +1,16 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-07-01
+lastmod: 2025-07-02
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
-- [Personal Backups]({{< ref "Personal Backups" >}})
 - [Weeknotes/2025-06-29 - 2025-07-05]({{< ref "Weeknotes/2025-06-29 - 2025-07-05" >}})
+- [Diário de Paternidade]({{< ref "Diário de Paternidade" >}})
+- [Personal Backups]({{< ref "Personal Backups" >}})
 - [Weeknotes/2025-06-22 - 2025-06-28]({{< ref "Weeknotes/2025-06-22 - 2025-06-28" >}})
 - [VPS providers]({{< ref "VPS providers" >}})
 - [Toolbox]({{< ref "Toolbox" >}})
