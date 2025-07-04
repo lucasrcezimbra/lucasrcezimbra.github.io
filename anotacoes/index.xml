@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Wed, 02 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>Personal Backups</title><link>https://cezimbra.me/anotacoes/personal-backups/</link><pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/personal-backups/</guid><description>&lt;h2 id="tools">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>Personal Backups</title><link>https://cezimbra.me/anotacoes/personal-backups/</link><pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/personal-backups/</guid><description>&lt;h2 id="tools">
  Tools
  &lt;a class="heading-link" href="#tools">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -80,6 +80,8 @@ Antônio de Macedo Costa&lt;/li>
 &lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://ahrefs.com" class="external-link" target="_blank" rel="noopener">Ahrefs—Marketing Intelligence Tools Powered by Big Data.&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://context7.com" class="external-link" target="_blank" rel="noopener">Context7 - Up-to-date documentation for LLMs and AI code editors&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://llm.codes" class="external-link" target="_blank" rel="noopener">Web Documentation to llms.txt Generator | LLM.codes&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -106,6 +108,8 @@ Antônio de Macedo Costa&lt;/li>
 &lt;li>(pt-BR) &lt;a href="https://www.productgurus.com.br/p/parte-2-produto-sem-pm-como-o-meli" class="external-link" target="_blank" rel="noopener">Parte 2: Como o Mercado Livre sustenta autonomia técnica em escala&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://stability.ai/customer-stories/mercado-libre-achieves-growth-through-stable-diffusion-ai" class="external-link" target="_blank" rel="noopener">Mercado Libre Scales Ads with Stability AI’s Stable Diffusion &amp;amp; AWS AI Tools — Stability AI&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://worksonmymachine.substack.com/p/mcp-an-accidentally-universal-plugin" class="external-link" target="_blank" rel="noopener">MCP: An (Accidentally) Universal Plugin System&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.indragie.com/blog/i-shipped-a-macos-app-built-entirely-by-claude-code" class="external-link" target="_blank" rel="noopener">I Shipped a macOS App Built Entirely by Claude Code | Indragie Karunaratne&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://simonwillison.net/2025/Jun/27/context-engineering" class="external-link" target="_blank" rel="noopener">Context engineering&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -129,7 +133,25 @@ Antônio de Macedo Costa&lt;/li>
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=dZs-xPKD2vM" class="external-link" target="_blank" rel="noopener">5 things you didn't know you could do with Tailscale | Recorded for PlatformCon NYC 2025 - YouTube&lt;/a>
+&lt;ol>
+&lt;li>Runs everywhere.&lt;/li>
+&lt;li>MCP server: &lt;a href="https://github.com/HexSleeves/tailscale-mcp" class="external-link" target="_blank" rel="noopener">HexSleeves/tailscale-mcp&lt;/a>&lt;/li>
+&lt;li>It can be used in GitHub Actions as a ephemeral connection to deploy stuff.&lt;/li>
+&lt;li>SSH&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Use tags to manage access permissions&lt;/li>
+&lt;li>SSH without password/key&lt;/li>
+&lt;li>SSH through the browser&lt;/li>
+&lt;/ul>
+&lt;ol>
+&lt;li>Serve exposes any ports to your Tailnet&lt;/li>
+&lt;/ol>
+&lt;ul>
+&lt;li>Generates a TLS certificate for the domain using Let&amp;rsquo;s Encrypt&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -152,6 +174,8 @@ Ela, dentro do barca.&lt;/li>
 manifeste a virtude dos bons e a vileza dos maus.&lt;/li>
 &lt;/ul>
 &lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=gWLnJ7i02h8" class="external-link" target="_blank" rel="noopener">Homilia Diária | Duas lições do exorcismo dos gadarenos (Quarta-feira da 13ª Semana do Tempo Comum) - YouTube&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=-hNCXPZCJy8" class="external-link" target="_blank" rel="noopener">Homilia Diária | Um ato de fé a ser imitado (Festa de São Tomé, Apóstolo) - YouTube&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
