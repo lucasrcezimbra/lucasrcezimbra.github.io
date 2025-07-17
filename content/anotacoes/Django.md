@@ -1,7 +1,7 @@
 ---
 title: "Django"
 date: 2024-04-16
-lastmod: 2024-11-15
+lastmod: 2025-07-17
 ---
 
 - [Snippet - Django password hashers time comparison](https://gist.github.com/lucasrcezimbra/69286c9f1cbdb355e242990d2bc85e02)
@@ -22,7 +22,11 @@ lastmod: 2024-11-15
 	- Rename `<App>Config.name` from `<app>` to `<project>.<app>`
 - [How to Switch to a Custom Django User Model Mid-Project](https://www.caktusgroup.com/blog/2019/04/26/how-switch-custom-django-user-model-mid-project/)
   and [Document how to migrate from a built-in User model to a custom User model](https://code.djangoproject.com/ticket/25313#comment:24)
-
+- [`ForeignKey.on_delete`](https://docs.djangoproject.com/en/5.2/ref/models/fields/#django.db.models.ForeignKey.on_delete)
+  is enforced by the ORM not by the database. There is a
+  [ticket](https://code.djangoproject.com/ticket/21961) since 2014 to support
+  database-level cascading. Related PR:
+  [Refs #21961 : Added support for database-level cascading options](https://github.com/django/django/pull/16851)
 
 
 ## Natural Key example

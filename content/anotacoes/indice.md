@@ -1,15 +1,18 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-07-04
+lastmod: 2025-07-17
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
-- [Weeknotes/2025-06-29 - 2025-07-05]({{< ref "Weeknotes/2025-06-29 - 2025-07-05" >}})
+- [Weeknotes/2025-07-13 - 2025-07-19]({{< ref "Weeknotes/2025-07-13 - 2025-07-19" >}})
 - [Diário de Paternidade]({{< ref "Diário de Paternidade" >}})
+- [Django]({{< ref "Django" >}})
+- [Weeknotes/2025-07-06 - 2025-07-12]({{< ref "Weeknotes/2025-07-06 - 2025-07-12" >}})
+- [Weeknotes/2025-06-29 - 2025-07-05]({{< ref "Weeknotes/2025-06-29 - 2025-07-05" >}})
 - [Personal Backups]({{< ref "Personal Backups" >}})
 - [Weeknotes/2025-06-22 - 2025-06-28]({{< ref "Weeknotes/2025-06-22 - 2025-06-28" >}})
 - [VPS providers]({{< ref "VPS providers" >}})
@@ -74,7 +77,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2024-11-17 - 2024-11-23]({{< ref "Weeknotes/2024-11-17 - 2024-11-23" >}})
 - [Frontend]({{< ref "Frontend" >}})
 - [Weeknotes/2024-11-10 - 2024-11-16]({{< ref "Weeknotes/2024-11-10 - 2024-11-16" >}})
-- [Django]({{< ref "Django" >}})
 - [Git]({{< ref "Git" >}})
 - [Designing a multi-tenant Django app]({{< ref "Designing a multi-tenant Django app" >}})
 - [Weeknotes/2024-11-03 - 2024-11-09]({{< ref "Weeknotes/2024-11-03 - 2024-11-09" >}})
