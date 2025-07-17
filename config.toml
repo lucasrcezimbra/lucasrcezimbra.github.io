@@ -139,3 +139,10 @@ url = "https://twitter.com/lucasrcezimbra/"
 
 [params.twitter]
 username = "lucasrcezimbra"
+
+
+
+[privacy]
+  [privacy.youTube]
+    disable = false
+    privacyEnhanced = true
