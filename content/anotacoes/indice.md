@@ -1,15 +1,17 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-07-17
+lastmod: 2025-07-22
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
-- [Weeknotes/2025-07-13 - 2025-07-19]({{< ref "Weeknotes/2025-07-13 - 2025-07-19" >}})
+- [Weeknotes/2025-07-20 - 2025-07-26]({{< ref "Weeknotes/2025-07-20 - 2025-07-26" >}})
 - [Diário de Paternidade]({{< ref "Diário de Paternidade" >}})
+- [Bash]({{< ref "Bash" >}})
+- [Weeknotes/2025-07-13 - 2025-07-19]({{< ref "Weeknotes/2025-07-13 - 2025-07-19" >}})
 - [Django]({{< ref "Django" >}})
 - [Weeknotes/2025-07-06 - 2025-07-12]({{< ref "Weeknotes/2025-07-06 - 2025-07-12" >}})
 - [Weeknotes/2025-06-29 - 2025-07-05]({{< ref "Weeknotes/2025-06-29 - 2025-07-05" >}})
@@ -57,7 +59,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2025-02-16 - 2025-02-22]({{< ref "Weeknotes/2025-02-16 - 2025-02-22" >}})
 - [Weeknotes/2025-02-09 - 2025-02-15]({{< ref "Weeknotes/2025-02-09 - 2025-02-15" >}})
 - [Software Zen - A Arte da Gestão de Software]({{< ref "Software Zen - A Arte da Gestão de Software" >}})
-- [Bash]({{< ref "Bash" >}})
 - [Weeknotes/2025-02-02 - 2025-02-08]({{< ref "Weeknotes/2025-02-02 - 2025-02-08" >}})
 - [EdTech]({{< ref "EdTech" >}})
 - [Weeknotes/2025-01-26 - 2025-02-01]({{< ref "Weeknotes/2025-01-26 - 2025-02-01" >}})

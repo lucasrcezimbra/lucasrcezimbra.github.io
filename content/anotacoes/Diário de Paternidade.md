@@ -1,8 +1,12 @@
 ---
 title: Diário de Paternidade
 date: 2025-06-26
-lastmod: 2025-07-17
+lastmod: 2025-07-22
 ---
+
+
+## 2025-07-04
+Pela 2ª vez na vida, Maria Helena não chorou pra tomar banho e se arrumar.
 
 
 ## 2025-06-26

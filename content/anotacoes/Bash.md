@@ -1,7 +1,7 @@
 ---
 title: Bash
 date: 2024-09-30
-lastmod: 2025-02-10
+lastmod: 2025-07-22
 ---
 
 - command or error
@@ -75,6 +75,12 @@ fruits=("apple" "banana" "cherry")
 for f in "${fruits[@]}"; do
     echo "$f"
 done
+
+for n in {1..100}; do
+    echo "$n"
+done
+
+for n in {1..100}; do echo "$n"; done
 ```
 
 ## sed
