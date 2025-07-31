@@ -1,13 +1,15 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-07-22
+lastmod: 2025-07-31
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2025-07-27 - 2025-08-02]({{< ref "Weeknotes/2025-07-27 - 2025-08-02" >}})
+- [Culinária]({{< ref "Culinária" >}})
 - [Weeknotes/2025-07-20 - 2025-07-26]({{< ref "Weeknotes/2025-07-20 - 2025-07-26" >}})
 - [Diário de Paternidade]({{< ref "Diário de Paternidade" >}})
 - [Bash]({{< ref "Bash" >}})
@@ -24,7 +26,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2025-06-15 - 2025-06-21]({{< ref "Weeknotes/2025-06-15 - 2025-06-21" >}})
 - [Weeknotes/2025-06-08 - 2025-06-14]({{< ref "Weeknotes/2025-06-08 - 2025-06-14" >}})
 - [Weeknotes/2025-06-01 - 2025-06-07]({{< ref "Weeknotes/2025-06-01 - 2025-06-07" >}})
-- [Culinária]({{< ref "Culinária" >}})
 - [Weeknotes/2025-05-25 - 2025-05-31]({{< ref "Weeknotes/2025-05-25 - 2025-05-31" >}})
 - [Comparing Python package managers]({{< ref "Comparing Python package managers" >}})
 - [API client SDK]({{< ref "API client SDK" >}})

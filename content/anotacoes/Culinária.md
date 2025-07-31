@@ -1,7 +1,49 @@
 ---
 title: "Culinária"
 date: 2025-05-11
-lastmod: 2025-06-03
+lastmod: 2025-07-31
+---
+
+## Costela de porco na brasa
+### Informações
+- 1kg de costela do porco
+- 1 colher de sopa (ou 5 g) de páprica defumada
+- Pimenta-do-reino a gosto
+- 1 colher de sopa (ou 1 g) de alecrim
+- 2 ou 3 folhas de louro quebradas em pedacinhos
+- 1 colher de sopa (ou 2 g) de manjericão
+- 1 colher de sopa (ou 2 g) de orégano
+- 1 colher de sopa (ou 2 g) de salsa desidratada
+- 4 colheres de sopa de azeite
+- 4 colheres de sopa de vinho branco
+- 1 colher de sopa de sal
+
+### Prepaoo
+1. Mistura tudo
+1. Espalha nos dois lados da costela
+1. Deixa descansar na geladeira de um dia pro outro.
+4. Espeta e coloca na brasa em fogo baixo.
+
+---
+## Tulipa de Frango na brasa
+### Ingredientes
+- 1kg de tulipa (meio da asa)
+- duas folhas de louro trituradas
+- 1 colher de sopa (5g) de páprica defumada
+- 1 colher de chá de curry
+- uma pitada de pimenta branca
+- 1 colher de chá de manjericão
+- 1 colher de chá de orégano
+- 1 colher de chá de salsa desidratada
+- 4 colheres de sopa de azeite
+- 1 colher de cha de sal (ficou pouco sal, melhor colocar mais)
+
+### Preparo
+1. Mistura tudo os temperos.
+1. Espalha nas tulipas.
+1. Deixa descansar na geladeira de um dia pro outro.
+4. Espeta e coloca na brasa em fogo baixo.
+
 ---
 
 ## Coxa e sobrecoxa desossada temperadas com cerveja e mel
