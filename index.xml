@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Tue, 22 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-20 - 2025-07-26</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/</link><pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-13---2025-07-19/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-27 - 2025-08-02</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-07-27---2025-08-02/</link><pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-07-27---2025-08-02/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;h2 id="books-being-read">
@@ -45,7 +45,7 @@
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://devenv.sh/blog/2025/07/21/announcing-secretspec-declarative-secrets-management" class="external-link" target="_blank" rel="noopener">Announcing SecretSpec: Declarative Secrets Management - devenv&lt;/a>&lt;/li>
+&lt;li>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -81,12 +81,43 @@
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://www.youtube.com/watch?v=BW2zzX4kN5w" class="external-link" target="_blank" rel="noopener">Homilia Diária | O que a festa de Santa Maria Madalena nos ensina? (Festa de Santa Maria Madalena) - YouTube&lt;/a>&lt;/li>
 &lt;li>(in progress) &lt;a href="https://www.youtube.com/watch?v=vagyIcmIGOQ" class="external-link" target="_blank" rel="noopener">DHH: Future of Programming, AI, Ruby on Rails, Productivity &amp;amp; Parenting | Lex Fridman Podcast #474 - YouTube&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-13---2025-07-19/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2025-07-13 - 2025-07-19</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-07-13---2025-07-19/</link><pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-07-13---2025-07-19/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-06---2025-07-12/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2025-07-20 - 2025-07-26</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/</link><pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-13---2025-07-19/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-27---2025-08-02/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;h2 id="read-articles">
+ Read articles
+ &lt;a class="heading-link" href="#read-articles">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://devenv.sh/blog/2025/07/21/announcing-secretspec-declarative-secrets-management" class="external-link" target="_blank" rel="noopener">Announcing SecretSpec: Declarative Secrets Management - devenv&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://adamj.eu/tech/2025/07/20/git-find-largest-commits" class="external-link" target="_blank" rel="noopener">Git: find the largest commits - Adam Johnson&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://world.hey.com/dhh/building-competency-is-better-than-therapy-4622c6b7" class="external-link" target="_blank" rel="noopener">Building competency is better than therapy&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://world.hey.com/dhh/the-responsibility-is-the-reward-69e5b73f" class="external-link" target="_blank" rel="noopener">The responsibility is the reward&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://moacirmoda.substack.com/p/forma-pratica-de-contratar-pessoas" class="external-link" target="_blank" rel="noopener">Forma prática de contratar pessoas alinhadas com seus valores&lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://moacirmoda.substack.com/p/os-valores-de-uma-empresa-importam" class="external-link" target="_blank" rel="noopener">Os valores de uma empresa importam de verdade?&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="listened">
+ Listened
+ &lt;a class="heading-link" href="#listened">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=BW2zzX4kN5w" class="external-link" target="_blank" rel="noopener">Homilia Diária | O que a festa de Santa Maria Madalena nos ensina? (Festa de Santa Maria Madalena) - YouTube&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-13---2025-07-19/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-27---2025-08-02/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>2025-07-13 - 2025-07-19</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-07-13---2025-07-19/</link><pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-07-13---2025-07-19/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-06---2025-07-12/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;h2 id="read-articles">
@@ -868,9 +899,50 @@ forma que o risco não obtivesse nenhuma recompensa. Essa condição é
 insustentável. As ações provavelmente continuarão a ser &amp;ldquo;o melhor investimento
 para todos aqueles que estão em busca de ganhos contínuos e de longo prazo&amp;rdquo;,
 porque, do contrário, nosso sistema se extinguirá - e com um estrondo, não com
-um gemido&lt;/p></description></item><item><title>Culinária</title><link>https://cezimbra.me/anotacoes/culin%C3%A1ria/</link><pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/culin%C3%A1ria/</guid><description>&lt;h2 id="coxa-e-sobrecoxa-desossada-temperadas-com-cerveja-e-mel">
- Coxa e sobrecoxa desossada temperadas com cerveja e mel
- &lt;a class="heading-link" href="#coxa-e-sobrecoxa-desossada-temperadas-com-cerveja-e-mel">
+um gemido&lt;/p></description></item><item><title>Culinária</title><link>https://cezimbra.me/anotacoes/culin%C3%A1ria/</link><pubDate>Sun, 11 May 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/culin%C3%A1ria/</guid><description>&lt;h2 id="costela-de-porco-na-brasa">
+ Costela de porco na brasa
+ &lt;a class="heading-link" href="#costela-de-porco-na-brasa">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="informações">
+ Informações
+ &lt;a class="heading-link" href="#informa%c3%a7%c3%b5es">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>1kg de costela do porco&lt;/li>
+&lt;li>1 colher de sopa (ou 5 g) de páprica defumada&lt;/li>
+&lt;li>Pimenta-do-reino a gosto&lt;/li>
+&lt;li>1 colher de sopa (ou 1 g) de alecrim&lt;/li>
+&lt;li>2 ou 3 folhas de louro quebradas em pedacinhos&lt;/li>
+&lt;li>1 colher de sopa (ou 2 g) de manjericão&lt;/li>
+&lt;li>1 colher de sopa (ou 2 g) de orégano&lt;/li>
+&lt;li>1 colher de sopa (ou 2 g) de salsa desidratada&lt;/li>
+&lt;li>4 colheres de sopa de azeite&lt;/li>
+&lt;li>4 colheres de sopa de vinho branco&lt;/li>
+&lt;li>1 colher de sopa de sal&lt;/li>
+&lt;/ul>
+&lt;h3 id="prepaoo">
+ Prepaoo
+ &lt;a class="heading-link" href="#prepaoo">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ol>
+&lt;li>Mistura tudo&lt;/li>
+&lt;li>Espalha nos dois lados da costela&lt;/li>
+&lt;li>Deixa descansar na geladeira de um dia pro outro.&lt;/li>
+&lt;li>Espeta e coloca na brasa em fogo baixo.&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h2 id="tulipa-de-frango-na-brasa">
+ Tulipa de Frango na brasa
+ &lt;a class="heading-link" href="#tulipa-de-frango-na-brasa">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -878,6 +950,46 @@ um gemido&lt;/p></description></item><item><title>Culinária</title><link>https:
 &lt;h3 id="ingredientes">
  Ingredientes
  &lt;a class="heading-link" href="#ingredientes">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>1kg de tulipa (meio da asa)&lt;/li>
+&lt;li>duas folhas de louro trituradas&lt;/li>
+&lt;li>1 colher de sopa (5g) de páprica defumada&lt;/li>
+&lt;li>1 colher de chá de curry&lt;/li>
+&lt;li>uma pitada de pimenta branca&lt;/li>
+&lt;li>1 colher de chá de manjericão&lt;/li>
+&lt;li>1 colher de chá de orégano&lt;/li>
+&lt;li>1 colher de chá de salsa desidratada&lt;/li>
+&lt;li>4 colheres de sopa de azeite&lt;/li>
+&lt;li>1 colher de cha de sal (ficou pouco sal, melhor colocar mais)&lt;/li>
+&lt;/ul>
+&lt;h3 id="preparo">
+ Preparo
+ &lt;a class="heading-link" href="#preparo">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ol>
+&lt;li>Mistura tudo os temperos.&lt;/li>
+&lt;li>Espalha nas tulipas.&lt;/li>
+&lt;li>Deixa descansar na geladeira de um dia pro outro.&lt;/li>
+&lt;li>Espeta e coloca na brasa em fogo baixo.&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;h2 id="coxa-e-sobrecoxa-desossada-temperadas-com-cerveja-e-mel">
+ Coxa e sobrecoxa desossada temperadas com cerveja e mel
+ &lt;a class="heading-link" href="#coxa-e-sobrecoxa-desossada-temperadas-com-cerveja-e-mel">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;h3 id="ingredientes-1">
+ Ingredientes
+ &lt;a class="heading-link" href="#ingredientes-1">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -895,9 +1007,9 @@ um gemido&lt;/p></description></item><item><title>Culinária</title><link>https:
 &lt;li>suco de 1 limão pequeno&lt;/li>
 &lt;li>meia xicara de cerveja&lt;/li>
 &lt;/ul>
-&lt;h3 id="preparo">
+&lt;h3 id="preparo-1">
  Preparo
- &lt;a class="heading-link" href="#preparo">
+ &lt;a class="heading-link" href="#preparo-1">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -915,9 +1027,9 @@ para o outro.&lt;/li>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h2>
-&lt;h3 id="ingredientes-1">
+&lt;h3 id="ingredientes-2">
  Ingredientes
- &lt;a class="heading-link" href="#ingredientes-1">
+ &lt;a class="heading-link" href="#ingredientes-2">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -929,9 +1041,9 @@ para o outro.&lt;/li>
 &lt;li>alecrim&lt;/li>
 &lt;li>um fio de azeite de oliva&lt;/li>
 &lt;/ul>
-&lt;h3 id="preparo-1">
+&lt;h3 id="preparo-2">
  Preparo
- &lt;a class="heading-link" href="#preparo-1">
+ &lt;a class="heading-link" href="#preparo-2">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
@@ -9423,6 +9535,8 @@ on your page can access;&lt;/li>
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-27---2025-08-02/" >Weeknotes/2025-07-27 - 2025-08-02&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/culin%C3%A1ria/" >Culinária&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/" >Weeknotes/2025-07-20 - 2025-07-26&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/di%C3%A1rio-de-paternidade/" >Diário de Paternidade&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/bash/" >Bash&lt;/a>&lt;/li>
@@ -9439,7 +9553,6 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-15---2025-06-21/" >Weeknotes/2025-06-15 - 2025-06-21&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-08---2025-06-14/" >Weeknotes/2025-06-08 - 2025-06-14&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-01---2025-06-07/" >Weeknotes/2025-06-01 - 2025-06-07&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/culin%C3%A1ria/" >Culinária&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-05-25---2025-05-31/" >Weeknotes/2025-05-25 - 2025-05-31&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/comparing-python-package-managers/" >Comparing Python package managers&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/api-client-sdk/" >API client SDK&lt;/a>&lt;/li>
