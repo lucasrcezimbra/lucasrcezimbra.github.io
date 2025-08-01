@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-27 - 2025-08-02</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-07-27---2025-08-02/</link><pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-07-27---2025-08-02/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Anotacoes on Lucas Cezimbra</title><link>https://cezimbra.me/anotacoes/</link><description>Recent content in Anotacoes on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/anotacoes/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-07-27 - 2025-08-02</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-07-27---2025-08-02/</link><pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-07-27---2025-08-02/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;h2 id="books-being-read">
@@ -45,7 +45,15 @@
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>&lt;a href="https://world.hey.com/dhh/executives-should-be-the-least-busy-people-bb94fb18" class="external-link" target="_blank" rel="noopener">Executives should be the least busy people&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.jonoalderson.com/conjecture/its-time-for-modern-css-to-kill-the-spa" class="external-link" target="_blank" rel="noopener">It&amp;rsquo;s time for modern CSS to kill the SPA - Jono Alderson&lt;/a>
+&lt;ul>
+&lt;li>&lt;a href="https://developer.chrome.com/docs/web-platform/view-transitions" class="external-link" target="_blank" rel="noopener">Smooth transitions with the View Transition API  |  View Transitions  |  Chrome for Developers&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://developer.chrome.com/docs/web-platform/implementing-speculation-rules" class="external-link" target="_blank" rel="noopener">Guide to implementing speculation rules for more complex sites  |  Web Platform  |  Chrome for Developers&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;a href="https://www.jonoalderson.com/conjecture/why-semantic-html-still-matters" class="external-link" target="_blank" rel="noopener">Why Semantic HTML Still Matters - Jono Alderson&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.jonoalderson.com/conjecture/javascript-broke-the-web-and-called-it-progress" class="external-link" target="_blank" rel="noopener">JavaScript broke the web (and called it progress) - Jono Alderson&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -57,7 +65,7 @@
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;/li>
+&lt;li>&lt;a href="https://www.androidauthority.com/android-linux-terminal-future-plans-3581752" class="external-link" target="_blank" rel="noopener">Google&amp;rsquo;s Linux Terminal plays a big part in turning Android into a true desktop OS - Android Authority&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -9536,6 +9544,7 @@ on your page can access;&lt;/li>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-27---2025-08-02/" >Weeknotes/2025-07-27 - 2025-08-02&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/github/" >GitHub&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/culin%C3%A1ria/" >Culinária&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/" >Weeknotes/2025-07-20 - 2025-07-26&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/di%C3%A1rio-de-paternidade/" >Diário de Paternidade&lt;/a>&lt;/li>
@@ -9710,7 +9719,6 @@ on your page can access;&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/iot/" >IoT&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/raspberry/" >Raspberry&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/chatgpt---decimal-approximation-in-python/" >ChatGPT - Decimal approximation in Python&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/github/" >GitHub&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/clojure/" >Clojure&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/cloud/" >Cloud&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/catequese-para-adultos/" >Catequese para Adultos&lt;/a>&lt;/li>
@@ -10682,7 +10690,17 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p></d
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>Default environment variables: &lt;a href="https://docs.github.com/en/actions/learn-github-actions/variables#default-environment-variables" class="external-link" target="_blank" rel="noopener">https://docs.github.com/en/actions/learn-github-actions/variables#default-environment-variables&lt;/a>&lt;/li>
+&lt;li>
+&lt;p>Default environment variables: &lt;a href="https://docs.github.com/en/actions/learn-github-actions/variables#default-environment-variables" class="external-link" target="_blank" rel="noopener">https://docs.github.com/en/actions/learn-github-actions/variables#default-environment-variables&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Error &lt;code>refusing to allow a GitHub App to create or update workflow .github/workflows/&amp;lt;workflow.yml&amp;gt; without workflows permission&lt;/code>&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://github.com/orgs/community/discussions/35410#discussioncomment-7645702" class="external-link" target="_blank" rel="noopener">https://github.com/orgs/community/discussions/35410#discussioncomment-7645702&lt;/a>&lt;/li>
+&lt;li>&lt;code>GITHUB_TOKEN&lt;/code> can&amp;rsquo;t be given permissions to modify workflow files.&lt;/li>
+&lt;li>Use &lt;a href="https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token" class="external-link" target="_blank" rel="noopener">PAT&lt;/a> or &lt;a href="https://github.com/peter-evans/create-pull-request/blob/main/docs/concepts-guidelines.md#authenticating-with-github-app-generated-tokens" class="external-link" target="_blank" rel="noopener">GitHub App&lt;/a> instead.&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul></description></item><item><title>GraphQL</title><link>https://cezimbra.me/anotacoes/graphql/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/graphql/</guid><description>&lt;h2 id="cons">
  Cons
  &lt;a class="heading-link" href="#cons">
