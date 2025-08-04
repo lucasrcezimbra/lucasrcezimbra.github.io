@@ -1,13 +1,14 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-08-01
+lastmod: 2025-08-04
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2025-08-03 - 2025-08-09]({{< ref "Weeknotes/2025-08-03 - 2025-08-09" >}})
 - [Weeknotes/2025-07-27 - 2025-08-02]({{< ref "Weeknotes/2025-07-27 - 2025-08-02" >}})
 - [GitHub]({{< ref "GitHub" >}})
 - [Culinária]({{< ref "Culinária" >}})
