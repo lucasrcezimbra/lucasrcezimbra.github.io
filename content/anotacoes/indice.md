@@ -1,19 +1,21 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-08-08
+lastmod: 2025-08-11
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Português]({{< ref "Português" >}})
+- [Weeknotes/2025-08-10 - 2025-08-16]({{< ref "Weeknotes/2025-08-10 - 2025-08-16" >}})
 - [Weeknotes/2025-08-03 - 2025-08-09]({{< ref "Weeknotes/2025-08-03 - 2025-08-09" >}})
+- [Diário de Paternidade]({{< ref "Diário de Paternidade" >}})
 - [Weeknotes/2025-07-27 - 2025-08-02]({{< ref "Weeknotes/2025-07-27 - 2025-08-02" >}})
 - [GitHub]({{< ref "GitHub" >}})
 - [Culinária]({{< ref "Culinária" >}})
 - [Weeknotes/2025-07-20 - 2025-07-26]({{< ref "Weeknotes/2025-07-20 - 2025-07-26" >}})
-- [Diário de Paternidade]({{< ref "Diário de Paternidade" >}})
 - [Bash]({{< ref "Bash" >}})
 - [Weeknotes/2025-07-13 - 2025-07-19]({{< ref "Weeknotes/2025-07-13 - 2025-07-19" >}})
 - [Django]({{< ref "Django" >}})

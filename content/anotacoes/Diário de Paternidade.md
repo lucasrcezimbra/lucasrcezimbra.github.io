@@ -1,8 +1,21 @@
 ---
 title: Diário de Paternidade
 date: 2025-06-26
-lastmod: 2025-07-22
+lastmod: 2025-08-11
 ---
+
+## 2025-08-11
+Maria Helena rolou sozinha pela primeira vez enquanto fazia tummy time com a
+mãe.
+
+
+## 2025-08-09
+Primeira viagem de carro da Maria Helena. Ela não costuma dormir no carro.
+Foram 180km e felizmente ela não chorou no caminho.
+
+
+## 2025-07-08
+Batizado Maria Helena.
 
 
 ## 2025-07-04
