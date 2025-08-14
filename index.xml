@@ -1,4 +1,95 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 08 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-08-03 - 2025-08-09</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-08-03---2025-08-09/</link><pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-08-03---2025-08-09/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>Armas de fogo</title><link>https://cezimbra.me/anotacoes/armas-de-fogo/</link><pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/armas-de-fogo/</guid><description>&lt;h2 id="pistola-ou-revólver-para-primeira-arma">
+ Pistola ou revólver para primeira arma
+ &lt;a class="heading-link" href="#pistola-ou-rev%c3%b3lver-para-primeira-arma">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Na maioria das vezes, o simples disparo, mesmo sem precisão, já o
+suficiente para cessar uma agressão.&lt;/li>
+&lt;li>Quem vai usar essa arma? Em primeiro e segundo casos?&lt;/li>
+&lt;li>Arma no Sinarm (PF) é dificil de treinar&lt;/li>
+&lt;/ul>
+&lt;h3 id="revólver">
+ Revólver
+ &lt;a class="heading-link" href="#rev%c3%b3lver">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>é mais simples; em, literalmente, 5 minutos você aprende a usar.&lt;/li>
+&lt;li>uma pessoa destreinada consegue instintivamente atirar (sem precisão), se
+estiver carregado.&lt;/li>
+&lt;li>todo o funcionamento é por força muscular.&lt;/li>
+&lt;li>em caso de nega (falha da munição), basta puxar o gatilho de novo.&lt;/li>
+&lt;li>mais barato que pistolas.&lt;/li>
+&lt;li>a balística terminal do .38 SPL (com ponta de 158 grains) é bem melhor
+que o .380; está mais próxima do 9mm do que do .380.&lt;/li>
+&lt;li>munição:
+&lt;ul>
+&lt;li>mais confiavel: ogival, 158 grains, de chumbo;&lt;/li>
+&lt;li>não recomendada: Gold da CBC;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>tamanhos de cano:
+&lt;ul>
+&lt;li>(24:15)&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Software Architecture for AI</title><link>https://cezimbra.me/anotacoes/software-architecture-for-ai/</link><pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/software-architecture-for-ai/</guid><description>&lt;p>By O&amp;rsquo;Reilly: &lt;a href="https://learning.oreilly.com/live-events/software-architecture-superstream-architecture-patterns-and-antipatterns-for-ai/0642572184209/0642572184193/" class="external-link" target="_blank" rel="noopener">Software Architecture Superstream: Architecture Patterns and Antipatterns for AI - O’Reilly Live Events&lt;/a>&lt;/p>
+&lt;h2 id="emerging-patterns-in-agentic-ai">
+ Emerging Patterns in Agentic AI
+ &lt;a class="heading-link" href="#emerging-patterns-in-agentic-ai">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>by Bharani Subramaniam&lt;/p>
+&lt;h3 id="append-only-context">
+ Append only context
+ &lt;a class="heading-link" href="#append-only-context">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>If you change the context after sending to the LLM, it will miss the cache
+and be slow and expensive.&lt;/li>
+&lt;/ul>
+&lt;h3 id="constrain-tool-selection">
+ Constrain tool selection
+ &lt;a class="heading-link" href="#constrain-tool-selection">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h3>
+&lt;ul>
+&lt;li>Too many tools can be overwhelming for the LLM.&lt;/li>
+&lt;li>Constraint tool selection to the specific subset by using a prefix in each
+tool name to help the LLM; e.g. search_&lt;em>, code_&lt;/em>, etc.&lt;/li>
+&lt;/ul>
+&lt;h2 id="mind-your-language-models-an-approach-to-architecting-intelligent-systems">
+ Mind Your Language Models: An Approach to Architecting Intelligent Systems
+ &lt;a class="heading-link" href="#mind-your-language-models-an-approach-to-architecting-intelligent-systems">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>by Nischal HP&lt;/p></description></item><item><title>Português</title><link>https://cezimbra.me/anotacoes/portugu%C3%AAs/</link><pubDate>Mon, 11 Aug 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/portugu%C3%AAs/</guid><description>&lt;h2 id="deixar-claro">
+ Deixar claro(?)
+ &lt;a class="heading-link" href="#deixar-claro">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>O adjetivo &amp;ldquo;claro&amp;rdquo; deve se referir a e concordar com um substantivo. Exemplos:&lt;/p>
+&lt;blockquote>
+&lt;p>Quero deixar clarA a situação.&lt;/p>&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Quero deixar clarAS duas coisas.&lt;/p>&lt;/blockquote>
+&lt;p>Referência: &lt;a href="https://portais.ufma.br/PortalUfma/paginas/noticias/noticia.jsf?id=57764" class="external-link" target="_blank" rel="noopener">Segunda do Português: &amp;ldquo;Deixar claro&amp;rdquo;&lt;/a>&lt;/p></description></item><item><title>2025-08-10 - 2025-08-16</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-08-10---2025-08-16/</link><pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-08-10---2025-08-16/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-03---2025-08-09/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;h2 id="books-being-read">
@@ -21,7 +112,8 @@
  &lt;/a>
 &lt;/h2>
 &lt;ul>
-&lt;li>&lt;a href="https://artificialanalysis.ai" class="external-link" target="_blank" rel="noopener">AI Model &amp;amp; API Providers Analysis | Artificial Analysis&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://huggingface.co/spaces/mteb/leaderboard" class="external-link" target="_blank" rel="noopener">MTEB Leaderboard - a Hugging Face Space by mteb&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.d-id.com/" class="external-link" target="_blank" rel="noopener">D-ID | The #1 Choice for AI Generated Video Creation Platform&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -45,12 +137,95 @@
  &lt;/a>
 &lt;/h2>
 &lt;ul>
+&lt;li>&lt;a href="https://sinclairtarget.com/blog/2025/03/who-will-maintain-vim-a-demo-of-git-who/" class="external-link" target="_blank" rel="noopener"> Who Will Maintain Vim? A Demo of Git Who | Sinclair Target &lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="read-news">
+ Read news
+ &lt;a class="heading-link" href="#read-news">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.theregister.com/2025/08/11/google_fixing_gemini_self_flagellation/" class="external-link" target="_blank" rel="noopener">Google fixing Gemini to stop it self-flagellating • The Register&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://news.itsfoss.com/debian-13-release/" class="external-link" target="_blank" rel="noopener">Debian 13 &amp;ldquo;Trixie&amp;rdquo; Released: What’s New in the Latest Version?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://itsfoss.com/nala/" class="external-link" target="_blank" rel="noopener">Apt++? Nala is Like Apt in Ubuntu but Better&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://astral.sh/blog/introducing-pyx" class="external-link" target="_blank" rel="noopener">pyx: a Python-native package registry, now in Beta&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="watched">
+ Watched
+ &lt;a class="heading-link" href="#watched">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=GpV5geC2WSM" class="external-link" target="_blank" rel="noopener">I built a site that can get data from anywhere - YouTube&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=lxYFOM3UJzo" class="external-link" target="_blank" rel="noopener">Elixir: The Documentary - YouTube&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=8tx2viHpgA8" class="external-link" target="_blank" rel="noopener">GPT-5 is here&amp;hellip; Can it win back programmers? - YouTube&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.youtube.com/watch?v=ZEFYTdzYxQM" class="external-link" target="_blank" rel="noopener">Omarchy (micro) forks Chromium! - YouTube&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="listened">
+ Listened
+ &lt;a class="heading-link" href="#listened">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-03---2025-08-09/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2025-08-03 - 2025-08-09</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-08-03---2025-08-09/</link><pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-08-03---2025-08-09/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-10---2025-08-16/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;h2 id="discovered-tools">
+ Discovered tools
+ &lt;a class="heading-link" href="#discovered-tools">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://artificialanalysis.ai" class="external-link" target="_blank" rel="noopener">AI Model &amp;amp; API Providers Analysis | Artificial Analysis&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="learned">
+ Learned
+ &lt;a class="heading-link" href="#learned">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>How to load CSS asynchronously
+&lt;code>&amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;&amp;lt;/path/to/my.css&amp;gt;&amp;quot; media=&amp;quot;print&amp;quot; onload=&amp;quot;this.media='all'&amp;quot;&amp;gt;&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="read-articles">
+ Read articles
+ &lt;a class="heading-link" href="#read-articles">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
 &lt;li>&lt;a href="https://www.spacebar.news/servo-undercover-web-browser-engine" class="external-link" target="_blank" rel="noopener">I tried Servo, the undercover web browser engine made with Rust&lt;/a>&lt;/li>
 &lt;li>(pt-BR) &lt;a href="https://open.substack.com/pub/productgurus/p/por-dentro-da-openai-o-que-realmente" class="external-link" target="_blank" rel="noopener">Por dentro da OpenAI: o que realmente faz essa empresa funcionar&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://world.hey.com/dhh/youtube-has-earned-its-crown-48f12ccc" class="external-link" target="_blank" rel="noopener">YouTube has earned its crown&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://bytemash.net/posts/i-went-down-the-linear-rabbit-hole" class="external-link" target="_blank" rel="noopener">Linear sent me down a local-first rabbit hole | Bytemash&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://elijahm.com/posts/local_first_htmx/" class="external-link" target="_blank" rel="noopener">Local First HTMX | Technical and Personal Blog&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://elijahm.com/posts/local_first_htmx_part2/" class="external-link" target="_blank" rel="noopener">Local First HTMX pt2 | Technical and Personal Blog&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.filamentgroup.com/lab/load-css-simpler/" class="external-link" target="_blank" rel="noopener">The Simplest Way to Load CSS Asynchronously | Filament Group, Inc.&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -64,18 +239,9 @@
 &lt;ul>
 &lt;li>&lt;a href="https://openai.com/index/introducing-gpt-oss/" class="external-link" target="_blank" rel="noopener">Introducing gpt-oss&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://world.hey.com/dhh/the-framework-desktop-is-a-beast-636fb4ff" class="external-link" target="_blank" rel="noopener">The Framework Desktop is a beast&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
-&lt;h2 id="watched">
- Watched
- &lt;a class="heading-link" href="#watched">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;/li>
+&lt;li>&lt;a href="https://world.hey.com/dhh/all-in-on-omarchy-at-37signals-68162450" class="external-link" target="_blank" rel="noopener">All-in on Omarchy at 37signals&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://news.itsfoss.com/flameshot-13-0-release/" class="external-link" target="_blank" rel="noopener">Linux&amp;rsquo;s Favorite Screenshot Tool Flameshot 13.0 Arrives After 3-Year Hiatus&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://news.itsfoss.com/arch-linux-spark-rat/" class="external-link" target="_blank" rel="noopener">Arch Linux Users at Risk Again as AUR Hit by Another RAT&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -92,7 +258,7 @@
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>Otimizando deduplicação no PostgreSQL</title><link>https://cezimbra.me/posts/otimizando-deduplicacao-no-postgresql/</link><pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/posts/otimizando-deduplicacao-no-postgresql/</guid><description>&lt;p>Esse post foi originalmente publicado como uma newsletter no Substack. Inscreva-se para receber novos posts diretamente no seu e-mail.&lt;/p>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-10---2025-08-16/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>Otimizando deduplicação no PostgreSQL</title><link>https://cezimbra.me/posts/otimizando-deduplicacao-no-postgresql/</link><pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/posts/otimizando-deduplicacao-no-postgresql/</guid><description>&lt;p>Esse post foi originalmente publicado como uma newsletter no Substack. Inscreva-se para receber novos posts diretamente no seu e-mail.&lt;/p>
 &lt;iframe src="https://lucasrcezimbra.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">&lt;/iframe>
 &lt;hr>
 &lt;p>Gosto de ler como outras pessoas resolveram problemas porque isso aumenta meu repertório para quando encontrar problemas semelhantes. Espero que esse texto faça o mesmo por você.&lt;/p>
@@ -519,26 +685,40 @@ desafiá-la para a grandeza, para a santidade.&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-06---2025-07-12/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>Diário de Paternidade</title><link>https://cezimbra.me/anotacoes/di%C3%A1rio-de-paternidade/</link><pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/di%C3%A1rio-de-paternidade/</guid><description>&lt;h2 id="2025-07-04">
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-06---2025-07-12/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>Diário de Paternidade</title><link>https://cezimbra.me/anotacoes/di%C3%A1rio-de-paternidade/</link><pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/di%C3%A1rio-de-paternidade/</guid><description>&lt;h2 id="2025-08-11">
+ 2025-08-11
+ &lt;a class="heading-link" href="#2025-08-11">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Maria Helena rolou sozinha pela primeira vez enquanto fazia tummy time com a
+mãe.&lt;/p>
+&lt;h2 id="2025-08-09">
+ 2025-08-09
+ &lt;a class="heading-link" href="#2025-08-09">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Primeira viagem de carro da Maria Helena. Ela não costuma dormir no carro.
+Foram 180km e felizmente ela não chorou no caminho.&lt;/p>
+&lt;h2 id="2025-07-08">
+ 2025-07-08
+ &lt;a class="heading-link" href="#2025-07-08">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;p>Batizado Maria Helena.&lt;/p>
+&lt;h2 id="2025-07-04">
  2025-07-04
  &lt;a class="heading-link" href="#2025-07-04">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h2>
-&lt;p>Pela 2ª vez na vida, Maria Helena não chorou pra tomar banho e se arrumar.&lt;/p>
-&lt;h2 id="2025-06-26">
- 2025-06-26
- &lt;a class="heading-link" href="#2025-06-26">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;p>Estamos nós saindo do pediatra. Iane foi pagar o estacionamento enquanto eu
-fico segurando a Maria Helena.&lt;/p>
-&lt;p>Uma senhora se aproxima de nós, sorrindo, e diz:&lt;/p>
-&lt;p>— Ooh, bem pequenininha. É um boneco ou uma boneca?&lt;/p>
-&lt;p>— É de verdade — respondo eu, sorrindo.&lt;/p></description></item><item><title>2025-06-22 - 2025-06-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/</link><pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-15---2025-06-21/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-29---2025-07-05/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;p>Pela 2ª vez na vida, Maria Helena não chorou pra tomar banho e se arrumar.&lt;/p></description></item><item><title>2025-06-22 - 2025-06-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/</link><pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-06-22---2025-06-28/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-15---2025-06-21/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-06-29---2025-07-05/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;h2 id="books-being-read">
@@ -9678,12 +9858,16 @@ on your page can access;&lt;/li>
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/armas-de-fogo/" >Armas de Fogo&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/software-architecture-for-ai/" >Software Architecture for AI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-10---2025-08-16/" >Weeknotes/2025-08-10 - 2025-08-16&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/portugu%C3%AAs/" >Português&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-03---2025-08-09/" >Weeknotes/2025-08-03 - 2025-08-09&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/di%C3%A1rio-de-paternidade/" >Diário de Paternidade&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-27---2025-08-02/" >Weeknotes/2025-07-27 - 2025-08-02&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/github/" >GitHub&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/culin%C3%A1ria/" >Culinária&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/" >Weeknotes/2025-07-20 - 2025-07-26&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/di%C3%A1rio-de-paternidade/" >Diário de Paternidade&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/bash/" >Bash&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-13---2025-07-19/" >Weeknotes/2025-07-13 - 2025-07-19&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/django/" >Django&lt;/a>&lt;/li>
