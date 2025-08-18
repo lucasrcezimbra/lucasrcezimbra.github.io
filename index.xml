@@ -1,4 +1,107 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>Armas de fogo</title><link>https://cezimbra.me/anotacoes/armas-de-fogo/</link><pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/armas-de-fogo/</guid><description>&lt;h2 id="pistola-ou-revólver-para-primeira-arma">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Mon, 18 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-08-17 - 2025-08-23</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-08-17---2025-08-23/</link><pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-08-17---2025-08-23/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-10---2025-08-16/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;h2 id="books-being-read">
+ Books being read
+ &lt;a class="heading-link" href="#books-being-read">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="discovered-tools">
+ Discovered tools
+ &lt;a class="heading-link" href="#discovered-tools">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="learned">
+ Learned
+ &lt;a class="heading-link" href="#learned">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;code>git clone --filter='blob:limit=100k' &amp;lt;repo&amp;gt;&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="read-articles">
+ Read articles
+ &lt;a class="heading-link" href="#read-articles">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://tylercipriani.com/blog/2025/08/15/git-lfs/" class="external-link" target="_blank" rel="noopener">The future of large files in Git is Git - Tyler Cipriani&lt;/a>
+&lt;ul>
+&lt;li>&lt;code>git clone --filter='blobs:size=100k' &amp;lt;repo&amp;gt;&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://moacirmoda.substack.com/p/como-ficar-rico-com-saas" class="external-link" target="_blank" rel="noopener">Como ficar rico com SaaS - by Moacir Moda&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="read-news">
+ Read news
+ &lt;a class="heading-link" href="#read-news">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://words.filippo.io/last-resort/" class="external-link" target="_blank" rel="noopener">Maintainers of Last Resort&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="watched">
+ Watched
+ &lt;a class="heading-link" href="#watched">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;h2 id="listened">
+ Listened
+ &lt;a class="heading-link" href="#listened">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-10---2025-08-16/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>Armas de fogo</title><link>https://cezimbra.me/anotacoes/armas-de-fogo/</link><pubDate>Wed, 13 Aug 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/armas-de-fogo/</guid><description>&lt;h2 id="regra-dos-3">
+ Regra dos 3
+ &lt;a class="heading-link" href="#regra-dos-3">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>70% dos confrontos ocorrem numa distância de 3 metros, com 3 disparos e
+acabam em 3 segundos.&lt;/li>
+&lt;/ul>
+&lt;h2 id="pistola-ou-revólver-para-primeira-arma">
  Pistola ou revólver para primeira arma
  &lt;a class="heading-link" href="#pistola-ou-rev%c3%b3lver-para-primeira-arma">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
@@ -35,7 +138,26 @@ que o .380; está mais próxima do 9mm do que do .380.&lt;/li>
 &lt;/li>
 &lt;li>tamanhos de cano:
 &lt;ul>
-&lt;li>(24:15)&lt;/li>
+&lt;li>o que afeta a precisão é a distância entre a maça e a alça; quanto
+menor a distância, mais difícil de fazer a visada&lt;/li>
+&lt;li>cano mais curto tem mais recuo e demora mais a recuperar a visada após o
+disparo&lt;/li>
+&lt;li>quanto menor o cano, menos velocidade de projétil e, por consequência,
+menos penetração do projétil&lt;/li>
+&lt;li>quanto menor o revólver, normalmente o gatilho é mais duro&lt;/li>
+&lt;li>2 polegadas, pequeno, fácil de portar, mas com os malefícios acima dos
+itens acima&lt;/li>
+&lt;li>4 polegadas, ideal, meio termo&lt;/li>
+&lt;li>6 polegadas, difícil de portar; boa como segunda arma, para manter em
+algum lugar acessível (mas escondido) da casa&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;ul>
+&lt;li>Desvantagens dos revólveres
+&lt;ul>
+&lt;li>menor capacidade, porém, segundo estatísticas, confrontos para defender
+residência são resolvidos média com 3 tiros; regra dos 3&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul></description></item><item><title>Software Architecture for AI</title><link>https://cezimbra.me/anotacoes/software-architecture-for-ai/</link><pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/software-architecture-for-ai/</guid><description>&lt;p>By O&amp;rsquo;Reilly: &lt;a href="https://learning.oreilly.com/live-events/software-architecture-superstream-architecture-patterns-and-antipatterns-for-ai/0642572184209/0642572184193/" class="external-link" target="_blank" rel="noopener">Software Architecture Superstream: Architecture Patterns and Antipatterns for AI - O’Reilly Live Events&lt;/a>&lt;/p>
@@ -89,20 +211,8 @@ tool name to help the LLM; e.g. search_&lt;em>, code_&lt;/em>, etc.&lt;/li>
 &lt;p>Quero deixar clarA a situação.&lt;/p>&lt;/blockquote>
 &lt;blockquote>
 &lt;p>Quero deixar clarAS duas coisas.&lt;/p>&lt;/blockquote>
-&lt;p>Referência: &lt;a href="https://portais.ufma.br/PortalUfma/paginas/noticias/noticia.jsf?id=57764" class="external-link" target="_blank" rel="noopener">Segunda do Português: &amp;ldquo;Deixar claro&amp;rdquo;&lt;/a>&lt;/p></description></item><item><title>2025-08-10 - 2025-08-16</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-08-10---2025-08-16/</link><pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-08-10---2025-08-16/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-03---2025-08-09/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p>
+&lt;p>Referência: &lt;a href="https://portais.ufma.br/PortalUfma/paginas/noticias/noticia.jsf?id=57764" class="external-link" target="_blank" rel="noopener">Segunda do Português: &amp;ldquo;Deixar claro&amp;rdquo;&lt;/a>&lt;/p></description></item><item><title>2025-08-10 - 2025-08-16</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-08-10---2025-08-16/</link><pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-08-10---2025-08-16/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-03---2025-08-09/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-17---2025-08-23/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;ul>
-&lt;li>
-&lt;h2 id="books-being-read">
- Books being read
- &lt;a class="heading-link" href="#books-being-read">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;/li>
-&lt;/ul>
-&lt;/li>
 &lt;li>
 &lt;h2 id="discovered-tools">
  Discovered tools
@@ -117,18 +227,6 @@ tool name to help the LLM; e.g. search_&lt;em>, code_&lt;/em>, etc.&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
-&lt;h2 id="learned">
- Learned
- &lt;a class="heading-link" href="#learned">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>
 &lt;h2 id="read-articles">
  Read articles
  &lt;a class="heading-link" href="#read-articles">
@@ -138,6 +236,7 @@ tool name to help the LLM; e.g. search_&lt;em>, code_&lt;/em>, etc.&lt;/li>
 &lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://sinclairtarget.com/blog/2025/03/who-will-maintain-vim-a-demo-of-git-who/" class="external-link" target="_blank" rel="noopener"> Who Will Maintain Vim? A Demo of Git Who | Sinclair Target &lt;/a>&lt;/li>
+&lt;li>(pt-BR) &lt;a href="https://newsletter.nagringa.dev/p/migrei-do-cursor-para-o-claude-code" class="external-link" target="_blank" rel="noopener">Do Cursor ao Claude Code: o que aprendi e onde errei&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;li>
@@ -170,20 +269,8 @@ tool name to help the LLM; e.g. search_&lt;em>, code_&lt;/em>, etc.&lt;/li>
 &lt;li>&lt;a href="https://www.youtube.com/watch?v=ZEFYTdzYxQM" class="external-link" target="_blank" rel="noopener">Omarchy (micro) forks Chromium! - YouTube&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
-&lt;li>
-&lt;h2 id="listened">
- Listened
- &lt;a class="heading-link" href="#listened">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>&lt;/li>
 &lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-03---2025-08-09/" >&amp;laquo; Previous&lt;/a> | Next &amp;raquo;&lt;/p></description></item><item><title>2025-08-03 - 2025-08-09</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-08-03---2025-08-09/</link><pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-08-03---2025-08-09/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-10---2025-08-16/" >Next &amp;raquo;&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-03---2025-08-09/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-17---2025-08-23/" >Next &amp;raquo;&lt;/a>&lt;/p></description></item><item><title>2025-08-03 - 2025-08-09</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-08-03---2025-08-09/</link><pubDate>Sun, 03 Aug 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-08-03---2025-08-09/</guid><description>&lt;p>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-07-20---2025-07-26/" >&amp;laquo; Previous&lt;/a> | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-10---2025-08-16/" >Next &amp;raquo;&lt;/a>&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;h2 id="discovered-tools">
@@ -9858,9 +9945,10 @@ on your page can access;&lt;/li>
 &lt;/ul></description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p>Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p>
 &lt;p>Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p>
 &lt;ul>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-17---2025-08-23/" >Weeknotes/2025-08-17 - 2025-08-23&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/armas-de-fogo/" >Armas de Fogo&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://cezimbra.me/anotacoes/software-architecture-for-ai/" >Software Architecture for AI&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-10---2025-08-16/" >Weeknotes/2025-08-10 - 2025-08-16&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://cezimbra.me/anotacoes/software-architecture-for-ai/" >Software Architecture for AI&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/portugu%C3%AAs/" >Português&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-03---2025-08-09/" >Weeknotes/2025-08-03 - 2025-08-09&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://cezimbra.me/anotacoes/di%C3%A1rio-de-paternidade/" >Diário de Paternidade&lt;/a>&lt;/li>
