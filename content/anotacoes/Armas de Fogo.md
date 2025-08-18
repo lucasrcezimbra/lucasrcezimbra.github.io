@@ -1,8 +1,12 @@
 ---
 title: Armas de fogo
 date: 2025-08-13
-lastmod: 2025-08-14
+lastmod: 2025-08-18
 ---
+
+## Regra dos 3
+- 70% dos confrontos ocorrem numa distância de 3 metros, com 3 disparos e
+  acabam em 3 segundos.
 
 ## Pistola ou revólver para primeira arma
 - Na maioria das vezes, o simples disparo, mesmo sem precisão, já o
@@ -23,4 +27,18 @@ lastmod: 2025-08-14
   * mais confiavel: ogival, 158 grains, de chumbo;
   * não recomendada: Gold da CBC;
 * tamanhos de cano:
-  * (24:15)
+  - o que afeta a precisão é a distância entre a maça e a alça; quanto
+    menor a distância, mais difícil de fazer a visada
+  - cano mais curto tem mais recuo e demora mais a recuperar a visada após o
+    disparo
+  - quanto menor o cano, menos velocidade de projétil e, por consequência,
+    menos penetração do projétil
+  - quanto menor o revólver, normalmente o gatilho é mais duro
+  - 2 polegadas, pequeno, fácil de portar, mas com os malefícios acima dos
+    itens acima
+  - 4 polegadas, ideal, meio termo
+  - 6 polegadas, difícil de portar; boa como segunda arma, para manter em
+    algum lugar acessível (mas escondido) da casa
+- Desvantagens dos revólveres
+  - menor capacidade, porém, segundo estatísticas, confrontos para defender
+    residência são resolvidos média com 3 tiros; regra dos 3

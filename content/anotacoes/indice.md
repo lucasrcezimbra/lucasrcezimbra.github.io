@@ -9,8 +9,8 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2025-08-17 - 2025-08-23]({{< ref "Weeknotes/2025-08-17 - 2025-08-23" >}})
-- [Weeknotes/2025-08-10 - 2025-08-16]({{< ref "Weeknotes/2025-08-10 - 2025-08-16" >}})
 - [Armas de Fogo]({{< ref "Armas de Fogo" >}})
+- [Weeknotes/2025-08-10 - 2025-08-16]({{< ref "Weeknotes/2025-08-10 - 2025-08-16" >}})
 - [Software Architecture for AI]({{< ref "Software Architecture for AI" >}})
 - [Português]({{< ref "Português" >}})
 - [Weeknotes/2025-08-03 - 2025-08-09]({{< ref "Weeknotes/2025-08-03 - 2025-08-09" >}})
