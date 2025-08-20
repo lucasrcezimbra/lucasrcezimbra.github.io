@@ -1,7 +1,7 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-08-18
+lastmod: 2025-08-20
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
