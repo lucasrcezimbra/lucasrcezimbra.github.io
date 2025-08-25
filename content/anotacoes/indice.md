@@ -1,13 +1,14 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-08-20
+lastmod: 2025-08-25
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2025-08-24 - 2025-08-30]({{< ref "Weeknotes/2025-08-24 - 2025-08-30" >}})
 - [Weeknotes/2025-08-17 - 2025-08-23]({{< ref "Weeknotes/2025-08-17 - 2025-08-23" >}})
 - [Armas de Fogo]({{< ref "Armas de Fogo" >}})
 - [Weeknotes/2025-08-10 - 2025-08-16]({{< ref "Weeknotes/2025-08-10 - 2025-08-16" >}})
