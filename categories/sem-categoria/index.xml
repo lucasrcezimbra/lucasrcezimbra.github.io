@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sem Categoria on Lucas Cezimbra</title><link>https://cezimbra.me/categories/sem-categoria/</link><description>Recent content in Sem Categoria on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 25 Jan 2019 00:50:28 +0000</lastBuildDate><atom:link href="https://cezimbra.me/categories/sem-categoria/index.xml" rel="self" type="application/rss+xml"/><item><title>Pontos a considerar em uma revisão de código</title><link>https://cezimbra.me/pontos-a-considerar-em-uma-revisao-de-codigo/</link><pubDate>Fri, 25 Jan 2019 00:50:28 +0000</pubDate><guid>https://cezimbra.me/pontos-a-considerar-em-uma-revisao-de-codigo/</guid><description>&lt;p>A revisão de código é um processo importante do desenvolvimento de software. Outras pessoas olhando para o código ajudam a identificar falhas que passaram desapercebidas ou melhorias que poderiam ser implementadas.&lt;/p>
-&lt;figure>&lt;img src="https://cezimbra.me/pontos-a-considerar-em-uma-revisao-de-codigo/code-review.png"
- alt="Code review do GitHub">&lt;figcaption>
- &lt;p>Code review do GitHub&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sem Categoria on Lucas Cezimbra</title><link>https://cezimbra.me/categories/sem-categoria/</link><description>Recent content in Sem Categoria on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 25 Jan 2019 00:50:28 +0000</lastBuildDate><atom:link href="https://cezimbra.me/categories/sem-categoria/index.xml" rel="self" type="application/rss+xml"/><item><title>Pontos a considerar em uma revisão de código</title><link>https://cezimbra.me/pontos-a-considerar-em-uma-revisao-de-codigo/</link><pubDate>Fri, 25 Jan 2019 00:50:28 +0000</pubDate><guid>https://cezimbra.me/pontos-a-considerar-em-uma-revisao-de-codigo/</guid><description>&lt;p&gt;A revisão de código é um processo importante do desenvolvimento de software. Outras pessoas olhando para o código ajudam a identificar falhas que passaram desapercebidas ou melhorias que poderiam ser implementadas.&lt;/p&gt;
+&lt;figure&gt;&lt;img src="https://cezimbra.me/pontos-a-considerar-em-uma-revisao-de-codigo/code-review.png"
+ alt="Code review do GitHub"&gt;&lt;figcaption&gt;
+ &lt;p&gt;Code review do GitHub&lt;/p&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p>Segue uma lista de itens que considero importantes e me guio ao fazer uma revisão de código:&lt;/p>
-&lt;h2 id="testes">
+&lt;p&gt;Segue uma lista de itens que considero importantes e me guio ao fazer uma revisão de código:&lt;/p&gt;
+&lt;h2 id="testes"&gt;
  Testes
- &lt;a class="heading-link" href="#testes">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>Todos os testes estão passando? (O ideal é que os testes rodem automaticamente via alguma ferramenta de automação)&lt;/li>
-&lt;li>Foram adicionados testes referente ao código modificado?&lt;/li>
-&lt;li>A cobertura de testes está satisfatória?&lt;/li>
-&lt;/ul>
-&lt;h2 id="simplicidade-e-legibilidade">
+ &lt;a class="heading-link" href="#testes"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Todos os testes estão passando? (O ideal é que os testes rodem automaticamente via alguma ferramenta de automação)&lt;/li&gt;
+&lt;li&gt;Foram adicionados testes referente ao código modificado?&lt;/li&gt;
+&lt;li&gt;A cobertura de testes está satisfatória?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="simplicidade-e-legibilidade"&gt;
  Simplicidade e Legibilidade
- &lt;a class="heading-link" href="#simplicidade-e-legibilidade">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>O código está simples e fácil de entender?&lt;/li>
-&lt;li>O código está organizado?&lt;/li>
-&lt;/ul>
-&lt;h2 id="alteração-nos-modelos">
+ &lt;a class="heading-link" href="#simplicidade-e-legibilidade"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;O código está simples e fácil de entender?&lt;/li&gt;
+&lt;li&gt;O código está organizado?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="alteração-nos-modelos"&gt;
  Alteração nos modelos
- &lt;a class="heading-link" href="#altera%c3%a7%c3%a3o-nos-modelos">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;p>Se o projeto possui modelos que se comunicam com um banco de dados:&lt;/p></description></item></channel></rss>
+ &lt;a class="heading-link" href="#altera%c3%a7%c3%a3o-nos-modelos"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Se o projeto possui modelos que se comunicam com um banco de dados:&lt;/p&gt;</description></item></channel></rss>

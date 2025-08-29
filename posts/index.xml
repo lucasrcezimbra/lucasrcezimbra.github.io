@@ -1,214 +1,214 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Lucas Cezimbra</title><link>https://cezimbra.me/posts/</link><description>Recent content in Posts on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Otimizando deduplicação no PostgreSQL</title><link>https://cezimbra.me/posts/otimizando-deduplicacao-no-postgresql/</link><pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/posts/otimizando-deduplicacao-no-postgresql/</guid><description>&lt;p>Esse post foi originalmente publicado como uma newsletter no Substack. Inscreva-se para receber novos posts diretamente no seu e-mail.&lt;/p>
-&lt;iframe src="https://lucasrcezimbra.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no">&lt;/iframe>
-&lt;hr>
-&lt;p>Gosto de ler como outras pessoas resolveram problemas porque isso aumenta meu repertório para quando encontrar problemas semelhantes. Espero que esse texto faça o mesmo por você.&lt;/p>
-&lt;p>Na edição de hoje, vou contar como uma troca simples no modelo de dados pode economizar quase 90% do armazenamento, sem aumentar a complexidade da aplicação.&lt;/p></description></item><item><title>Como instalar o Raspberry Pi OS com SSH</title><link>https://cezimbra.me/posts/como-instalar-o-raspberry-pi-os-com-ssh/</link><pubDate>Sun, 04 Sep 2022 17:54:17 -0300</pubDate><guid>https://cezimbra.me/posts/como-instalar-o-raspberry-pi-os-com-ssh/</guid><description>&lt;p>Resposta curta:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>wget https://downloads.raspberrypi.org/imager/imager_latest_amd64.deb
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo dpkg -i imager_latest_amd64.deb
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>rpi-imager
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#000080"># no Raspberry, após criar o usuário&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo su -
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>apt update
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>apt upgrade
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>systemctl &lt;span style="color:#cd00cd">enable&lt;/span> ssh
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>systemctl restart ssh
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>raspi-config &lt;span style="color:#000080"># 1 &amp;gt; S5 &amp;gt; B1 &amp;gt; Finish&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>raspi-config &lt;span style="color:#000080"># 5 &amp;gt; L2 &amp;gt; America &amp;gt; São Paulo &amp;gt; Finish&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>shutdown -r now
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="montando-cartão-sd-bootável">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Lucas Cezimbra</title><link>https://cezimbra.me/posts/</link><description>Recent content in Posts on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 31 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Otimizando deduplicação no PostgreSQL</title><link>https://cezimbra.me/posts/otimizando-deduplicacao-no-postgresql/</link><pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/posts/otimizando-deduplicacao-no-postgresql/</guid><description>&lt;p&gt;Esse post foi originalmente publicado como uma newsletter no Substack. Inscreva-se para receber novos posts diretamente no seu e-mail.&lt;/p&gt;
+&lt;iframe src="https://lucasrcezimbra.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"&gt;&lt;/iframe&gt;
+&lt;hr&gt;
+&lt;p&gt;Gosto de ler como outras pessoas resolveram problemas porque isso aumenta meu repertório para quando encontrar problemas semelhantes. Espero que esse texto faça o mesmo por você.&lt;/p&gt;
+&lt;p&gt;Na edição de hoje, vou contar como uma troca simples no modelo de dados pode economizar quase 90% do armazenamento, sem aumentar a complexidade da aplicação.&lt;/p&gt;</description></item><item><title>Como instalar o Raspberry Pi OS com SSH</title><link>https://cezimbra.me/posts/como-instalar-o-raspberry-pi-os-com-ssh/</link><pubDate>Sun, 04 Sep 2022 17:54:17 -0300</pubDate><guid>https://cezimbra.me/posts/como-instalar-o-raspberry-pi-os-com-ssh/</guid><description>&lt;p&gt;Resposta curta:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;wget https://downloads.raspberrypi.org/imager/imager_latest_amd64.deb
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo dpkg -i imager_latest_amd64.deb
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;rpi-imager
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# no Raspberry, após criar o usuário&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo su -
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;apt update
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;apt upgrade
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;systemctl &lt;span style="color:#cd00cd"&gt;enable&lt;/span&gt; ssh
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;systemctl restart ssh
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;raspi-config &lt;span style="color:#000080"&gt;# 1 &amp;gt; S5 &amp;gt; B1 &amp;gt; Finish&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;raspi-config &lt;span style="color:#000080"&gt;# 5 &amp;gt; L2 &amp;gt; America &amp;gt; São Paulo &amp;gt; Finish&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;shutdown -r now
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="montando-cartão-sd-bootável"&gt;
  Montando Cartão SD bootável
- &lt;a class="heading-link" href="#montando-cart%c3%a3o-sd-boot%c3%a1vel">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ol>
-&lt;li>
-&lt;p>Baixe o Raspberry Pi Imager: &lt;a href="https://www.raspberrypi.com/software/" class="external-link" target="_blank" rel="noopener">https://www.raspberrypi.com/software/&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Instale o Imager&lt;/p></description></item><item><title>Como instalar o Zeal no Debian Bullseye</title><link>https://cezimbra.me/posts/como-instalar-o-zeal-no-debian-bullseye/</link><pubDate>Thu, 01 Sep 2022 09:42:56 -0300</pubDate><guid>https://cezimbra.me/posts/como-instalar-o-zeal-no-debian-bullseye/</guid><description>&lt;p>Resposta curta:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>sudo &lt;span style="color:#cd00cd">echo&lt;/span> &lt;span style="color:#cd0000">&amp;#39;deb http://deb.debian.org/debian bullseye-backports main contrib non-free&amp;#39;&lt;/span> &amp;gt;&amp;gt; /etc/apt/sources.list
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt update
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo apt install zeal
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>O &lt;a href="https://zealdocs.org/" class="external-link" target="_blank" rel="noopener">Zeal&lt;/a> é um app para Linux, Mac e Windows que serve para acessar diversas documentações offline.&lt;/p>
-&lt;figure>&lt;img src="https://cezimbra.me/posts/como-instalar-o-zeal-no-debian-bullseye/zeal.png"
- alt="Zeal is an offline documentation browser for software developers.">
-&lt;/figure>
+ &lt;a class="heading-link" href="#montando-cart%c3%a3o-sd-boot%c3%a1vel"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Baixe o Raspberry Pi Imager: &lt;a href="https://www.raspberrypi.com/software/" class="external-link" target="_blank" rel="noopener"&gt;https://www.raspberrypi.com/software/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Instale o Imager&lt;/p&gt;</description></item><item><title>Como instalar o Zeal no Debian Bullseye</title><link>https://cezimbra.me/posts/como-instalar-o-zeal-no-debian-bullseye/</link><pubDate>Thu, 01 Sep 2022 09:42:56 -0300</pubDate><guid>https://cezimbra.me/posts/como-instalar-o-zeal-no-debian-bullseye/</guid><description>&lt;p&gt;Resposta curta:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo &lt;span style="color:#cd00cd"&gt;echo&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#39;deb http://deb.debian.org/debian bullseye-backports main contrib non-free&amp;#39;&lt;/span&gt; &amp;gt;&amp;gt; /etc/apt/sources.list
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt update
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt install zeal
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;O &lt;a href="https://zealdocs.org/" class="external-link" target="_blank" rel="noopener"&gt;Zeal&lt;/a&gt; é um app para Linux, Mac e Windows que serve para acessar diversas documentações offline.&lt;/p&gt;
+&lt;figure&gt;&lt;img src="https://cezimbra.me/posts/como-instalar-o-zeal-no-debian-bullseye/zeal.png"
+ alt="Zeal is an offline documentation browser for software developers."&gt;
+&lt;/figure&gt;
 
-&lt;p>Eu estava com problemas para instala-lo no Debian Bullseye, pois não estava disponível no source padrão do Debian. Recebia o seguinte erro:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>$ sudo apt install zeal
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Reading package lists... Done
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Building dependency tree... Done
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>Reading state information... Done
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>E: Unable to locate package zeal
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;a href="https://packages.debian.org/search?suite=all&amp;amp;searchon=names&amp;amp;keywords=zeal" class="external-link" target="_blank" rel="noopener">Pesquisando nos pacotes do Debian&lt;/a> vi que o Zeal só estava disponível no source &lt;code>bullseye-backports&lt;/code>.&lt;/p></description></item><item><title>Aprendizados sobre multi-tenant no Django com o PDS</title><link>https://cezimbra.me/posts/aprendizados-sobre-multi-tenant-no-django-com-o-pds/</link><pubDate>Sat, 30 Jul 2022 09:41:01 -0300</pubDate><guid>https://cezimbra.me/posts/aprendizados-sobre-multi-tenant-no-django-com-o-pds/</guid><description>&lt;p>Leia &amp;ldquo;&lt;a href="https://henriquebastos.net/artigos/aprendizados-sobre-multi-tenant-no-django-com-o-pds/" class="external-link" target="_blank" rel="noopener">Aprendizados sobre multi-tenant no Django com o PDS&lt;/a>&amp;rdquo; na &lt;a href="https://henriquebastos.net/revista/" class="external-link" target="_blank" rel="noopener">Revista HBNetwork&lt;/a>.&lt;/p></description></item><item><title>Como utilizar o cProfile e o SnakeViz para encontrar gargalos na sua aplicação Python</title><link>https://cezimbra.me/posts/como-utilizar-o-cprofile-e-o-snakeviz-para-encontrar-gargalos-na-sua-aplicacao-python/</link><pubDate>Wed, 20 Apr 2022 15:30:00 -0300</pubDate><guid>https://cezimbra.me/posts/como-utilizar-o-cprofile-e-o-snakeviz-para-encontrar-gargalos-na-sua-aplicacao-python/</guid><description>&lt;p>Publicado originalmente na 1ª edição da &lt;a href="https://sites.google.com/view/revista-hbnetwork" class="external-link" target="_blank" rel="noopener">Revista HBNetwork&lt;/a>.&lt;/p>
-&lt;h2 id="o-cprofile-e-o-snakeviz">
+&lt;p&gt;Eu estava com problemas para instala-lo no Debian Bullseye, pois não estava disponível no source padrão do Debian. Recebia o seguinte erro:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;$ sudo apt install zeal
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Reading package lists... Done
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Building dependency tree... Done
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Reading state information... Done
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;E: Unable to locate package zeal
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;a href="https://packages.debian.org/search?suite=all&amp;amp;searchon=names&amp;amp;keywords=zeal" class="external-link" target="_blank" rel="noopener"&gt;Pesquisando nos pacotes do Debian&lt;/a&gt; vi que o Zeal só estava disponível no source &lt;code&gt;bullseye-backports&lt;/code&gt;.&lt;/p&gt;</description></item><item><title>Aprendizados sobre multi-tenant no Django com o PDS</title><link>https://cezimbra.me/posts/aprendizados-sobre-multi-tenant-no-django-com-o-pds/</link><pubDate>Sat, 30 Jul 2022 09:41:01 -0300</pubDate><guid>https://cezimbra.me/posts/aprendizados-sobre-multi-tenant-no-django-com-o-pds/</guid><description>&lt;p&gt;Leia &amp;ldquo;&lt;a href="https://henriquebastos.net/artigos/aprendizados-sobre-multi-tenant-no-django-com-o-pds/" class="external-link" target="_blank" rel="noopener"&gt;Aprendizados sobre multi-tenant no Django com o PDS&lt;/a&gt;&amp;rdquo; na &lt;a href="https://henriquebastos.net/revista/" class="external-link" target="_blank" rel="noopener"&gt;Revista HBNetwork&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Como utilizar o cProfile e o SnakeViz para encontrar gargalos na sua aplicação Python</title><link>https://cezimbra.me/posts/como-utilizar-o-cprofile-e-o-snakeviz-para-encontrar-gargalos-na-sua-aplicacao-python/</link><pubDate>Wed, 20 Apr 2022 15:30:00 -0300</pubDate><guid>https://cezimbra.me/posts/como-utilizar-o-cprofile-e-o-snakeviz-para-encontrar-gargalos-na-sua-aplicacao-python/</guid><description>&lt;p&gt;Publicado originalmente na 1ª edição da &lt;a href="https://sites.google.com/view/revista-hbnetwork" class="external-link" target="_blank" rel="noopener"&gt;Revista HBNetwork&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id="o-cprofile-e-o-snakeviz"&gt;
  O cProfile e o SnakeViz
- &lt;a class="heading-link" href="#o-cprofile-e-o-snakeviz">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;p>O &lt;em>&lt;a href="https://docs.python.org/3/library/profile.html#module-cProfile" class="external-link" target="_blank" rel="noopener">cProfile&lt;/a>&lt;/em> é uma das ferramentas &lt;em>built-in&lt;/em> do &lt;em>Python&lt;/em> que serve para gerar estatísticas sobre o número de chamadas e o tempo de execução das funções de um programa, ou seja, para realizar aquilo que conhecemos por &lt;em>profiling&lt;/em>.&lt;/p>
-&lt;p>A ferramenta pode ser usada pela linha de comando para gerar uma saída em texto (conforme ilustrado na imagem abaixo) que pode ser usada para descobrir os gargalos de um sistema. Porém, para facilitar a interpretação da saída do &lt;em>cProfile&lt;/em>, podemos usar o &lt;em>&lt;a href="https://github.com/jiffyclub/snakeviz" class="external-link" target="_blank" rel="noopener">SnakeViz&lt;/a>&lt;/em>.&lt;/p></description></item><item><title>Solução: Instalação Debian não identificando HD</title><link>https://cezimbra.me/solucao-instalacao-debian-nao-identificando-hd/</link><pubDate>Tue, 12 Nov 2019 00:35:07 +0000</pubDate><guid>https://cezimbra.me/solucao-instalacao-debian-nao-identificando-hd/</guid><description>&lt;p>Resposta curta:&lt;/p>
-&lt;p>&lt;code>BIOS -&amp;gt; System Configuration -&amp;gt; SATA Operation -&amp;gt; mudar &amp;quot;RAID On&amp;quot; para &amp;quot;AHCI&amp;quot;.&lt;/code>&lt;/p>
-&lt;figure>&lt;img src="https://cezimbra.me/solucao-instalacao-debian-nao-identificando-hd/Debian_graphical_installer.png"
- alt="Debian 9 instalação completa">&lt;figcaption>
- &lt;p>Debian 9 instalação completa. Fonte: &lt;a href="https://commons.wikimedia.org/wiki/File:Debian_Graphical_Installer_Finish-install_reboot_in_progress_0.png" class="external-link" target="_blank" rel="noopener">https://commons.wikimedia.org/wiki/File:Debian_Graphical_Installer_Finish-install_reboot_in_progress_0.png&lt;/a>&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
+ &lt;a class="heading-link" href="#o-cprofile-e-o-snakeviz"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;O &lt;em&gt;&lt;a href="https://docs.python.org/3/library/profile.html#module-cProfile" class="external-link" target="_blank" rel="noopener"&gt;cProfile&lt;/a&gt;&lt;/em&gt; é uma das ferramentas &lt;em&gt;built-in&lt;/em&gt; do &lt;em&gt;Python&lt;/em&gt; que serve para gerar estatísticas sobre o número de chamadas e o tempo de execução das funções de um programa, ou seja, para realizar aquilo que conhecemos por &lt;em&gt;profiling&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;A ferramenta pode ser usada pela linha de comando para gerar uma saída em texto (conforme ilustrado na imagem abaixo) que pode ser usada para descobrir os gargalos de um sistema. Porém, para facilitar a interpretação da saída do &lt;em&gt;cProfile&lt;/em&gt;, podemos usar o &lt;em&gt;&lt;a href="https://github.com/jiffyclub/snakeviz" class="external-link" target="_blank" rel="noopener"&gt;SnakeViz&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;</description></item><item><title>Solução: Instalação Debian não identificando HD</title><link>https://cezimbra.me/solucao-instalacao-debian-nao-identificando-hd/</link><pubDate>Tue, 12 Nov 2019 00:35:07 +0000</pubDate><guid>https://cezimbra.me/solucao-instalacao-debian-nao-identificando-hd/</guid><description>&lt;p&gt;Resposta curta:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;BIOS -&amp;gt; System Configuration -&amp;gt; SATA Operation -&amp;gt; mudar &amp;quot;RAID On&amp;quot; para &amp;quot;AHCI&amp;quot;.&lt;/code&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src="https://cezimbra.me/solucao-instalacao-debian-nao-identificando-hd/Debian_graphical_installer.png"
+ alt="Debian 9 instalação completa"&gt;&lt;figcaption&gt;
+ &lt;p&gt;Debian 9 instalação completa. Fonte: &lt;a href="https://commons.wikimedia.org/wiki/File:Debian_Graphical_Installer_Finish-install_reboot_in_progress_0.png" class="external-link" target="_blank" rel="noopener"&gt;https://commons.wikimedia.org/wiki/File:Debian_Graphical_Installer_Finish-install_reboot_in_progress_0.png&lt;/a&gt;&lt;/p&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p>Estava eu tentando formatar e instalar o Debian ❤ num notebook novo Dell Latitude 5400 que estava com Windows.&lt;/p>
-&lt;p>Porém estava tendo um problema que a instalação do Debian não reconhecia o HD da máquina. Primeiramente pensei que fosse devido ao BitLocker que estava instalado, então desativei-o pelo Windows, mas continuou não funcionando.&lt;/p></description></item><item><title>Python: Como injetar código num processo em execução</title><link>https://cezimbra.me/python-como-injetar-codigo-num-processo-em-execucao/</link><pubDate>Thu, 13 Jun 2019 01:59:02 +0000</pubDate><guid>https://cezimbra.me/python-como-injetar-codigo-num-processo-em-execucao/</guid><description>&lt;p>Resposta curta: &lt;a href="https://pyrasite.readthedocs.io/en/latest/" class="external-link" target="_blank" rel="noopener">pyrasite&lt;/a>&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>pip install pyrasite
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd00cd">echo&lt;/span> &lt;span style="color:#cd00cd">0&lt;/span> | sudo tee /proc/sys/kernel/yama/ptrace_scope
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>pyrasite &lt;span style="color:#00cdcd">$PID&lt;/span> dump_stacks.py
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>pyrasite-shell &amp;amp;lt;pid&amp;gt;
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;figure>&lt;img src="https://cezimbra.me/python-como-injetar-codigo-num-processo-em-execucao/pyrasite.png"
- alt="Utilizando pyrasite para injetar código num console Python">&lt;figcaption>
- &lt;p>Utilizando pyrasite para injetar código num console Python&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
+&lt;p&gt;Estava eu tentando formatar e instalar o Debian ❤ num notebook novo Dell Latitude 5400 que estava com Windows.&lt;/p&gt;
+&lt;p&gt;Porém estava tendo um problema que a instalação do Debian não reconhecia o HD da máquina. Primeiramente pensei que fosse devido ao BitLocker que estava instalado, então desativei-o pelo Windows, mas continuou não funcionando.&lt;/p&gt;</description></item><item><title>Python: Como injetar código num processo em execução</title><link>https://cezimbra.me/python-como-injetar-codigo-num-processo-em-execucao/</link><pubDate>Thu, 13 Jun 2019 01:59:02 +0000</pubDate><guid>https://cezimbra.me/python-como-injetar-codigo-num-processo-em-execucao/</guid><description>&lt;p&gt;Resposta curta: &lt;a href="https://pyrasite.readthedocs.io/en/latest/" class="external-link" target="_blank" rel="noopener"&gt;pyrasite&lt;/a&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pip install pyrasite
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;echo&lt;/span&gt; &lt;span style="color:#cd00cd"&gt;0&lt;/span&gt; | sudo tee /proc/sys/kernel/yama/ptrace_scope
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pyrasite &lt;span style="color:#00cdcd"&gt;$PID&lt;/span&gt; dump_stacks.py
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pyrasite-shell &amp;amp;lt;pid&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;figure&gt;&lt;img src="https://cezimbra.me/python-como-injetar-codigo-num-processo-em-execucao/pyrasite.png"
+ alt="Utilizando pyrasite para injetar código num console Python"&gt;&lt;figcaption&gt;
+ &lt;p&gt;Utilizando pyrasite para injetar código num console Python&lt;/p&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;h2 id="contexto">
+&lt;h2 id="contexto"&gt;
  Contexto
- &lt;a class="heading-link" href="#contexto">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;p>Esses dias estava com um bug intermitente que só ocorria no servidor de desenvolvimento, então não estava conseguindo reproduzir localmente.&lt;/p>
-&lt;p>Tentando descobrir o problema, dei SSH para o servidor e vi que num processo estava justamente acontecendo o que eu queria corrigir.&lt;/p></description></item><item><title>Como colocar um timeout numa função Python</title><link>https://cezimbra.me/como-colocar-um-timeout-numa-funcao-python/</link><pubDate>Fri, 31 May 2019 03:03:11 +0000</pubDate><guid>https://cezimbra.me/como-colocar-um-timeout-numa-funcao-python/</guid><description>&lt;p>Resposta curta: &lt;a href="https://github.com/pnpnpn/timeout-decorator" class="external-link" target="_blank" rel="noopener">timeout-decorator&lt;/a>&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>pip install timeout&lt;span style="color:#39c">-&lt;/span>decorator
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cd00cd">from&lt;/span> timeout_decorator &lt;span style="color:#cd00cd">import&lt;/span> timeout
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>@timeout(&lt;span style="color:#cd00cd">5&lt;/span>) &lt;span style="color:#000080"># tempo em segundos&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#cdcd00">def&lt;/span> my_slow_function():
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#39c">...&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="contexto">
+ &lt;a class="heading-link" href="#contexto"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Esses dias estava com um bug intermitente que só ocorria no servidor de desenvolvimento, então não estava conseguindo reproduzir localmente.&lt;/p&gt;
+&lt;p&gt;Tentando descobrir o problema, dei SSH para o servidor e vi que num processo estava justamente acontecendo o que eu queria corrigir.&lt;/p&gt;</description></item><item><title>Como colocar um timeout numa função Python</title><link>https://cezimbra.me/como-colocar-um-timeout-numa-funcao-python/</link><pubDate>Fri, 31 May 2019 03:03:11 +0000</pubDate><guid>https://cezimbra.me/como-colocar-um-timeout-numa-funcao-python/</guid><description>&lt;p&gt;Resposta curta: &lt;a href="https://github.com/pnpnpn/timeout-decorator" class="external-link" target="_blank" rel="noopener"&gt;timeout-decorator&lt;/a&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pip install timeout&lt;span style="color:#39c"&gt;-&lt;/span&gt;decorator
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; timeout_decorator &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; timeout
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;@timeout(&lt;span style="color:#cd00cd"&gt;5&lt;/span&gt;) &lt;span style="color:#000080"&gt;# tempo em segundos&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;def&lt;/span&gt; my_slow_function():
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#39c"&gt;...&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="contexto"&gt;
  Contexto
- &lt;a class="heading-link" href="#contexto">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;p>Esses dias estava dando manutenção num serviço que lê mensagens de uma fila SQS, processa e apaga a mensagem da fila. Só que estava tendo um problema que às vezes o processamento demorava mais do que o tempo máximo definido no SQS. A mensagem acabava voltando para fila, era lida por outro processo e gerava duplicação desnecessária.&lt;/p></description></item><item><title>Como criar um ranking de commiters no bash</title><link>https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/</link><pubDate>Fri, 01 Mar 2019 01:55:23 +0000</pubDate><guid>https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/</guid><description>&lt;p>Resposta curta:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>git log | grep Author | sort | uniq -c | sort -n -r | head -n &lt;span style="color:#cd00cd">20&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;figure>&lt;img src="https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/git-log-grep-author-sort-uniq-sort-head.png"
- alt="20 maiores commiters do projeto git">&lt;figcaption>
- &lt;p>20 maiores commiters do projeto git&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
+ &lt;a class="heading-link" href="#contexto"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Esses dias estava dando manutenção num serviço que lê mensagens de uma fila SQS, processa e apaga a mensagem da fila. Só que estava tendo um problema que às vezes o processamento demorava mais do que o tempo máximo definido no SQS. A mensagem acabava voltando para fila, era lida por outro processo e gerava duplicação desnecessária.&lt;/p&gt;</description></item><item><title>Como criar um ranking de commiters no bash</title><link>https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/</link><pubDate>Fri, 01 Mar 2019 01:55:23 +0000</pubDate><guid>https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/</guid><description>&lt;p&gt;Resposta curta:&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;git log | grep Author | sort | uniq -c | sort -n -r | head -n &lt;span style="color:#cd00cd"&gt;20&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;figure&gt;&lt;img src="https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/git-log-grep-author-sort-uniq-sort-head.png"
+ alt="20 maiores commiters do projeto git"&gt;&lt;figcaption&gt;
+ &lt;p&gt;20 maiores commiters do projeto git&lt;/p&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;h2 id="o-que-fazem-esses-comandos">
+&lt;h2 id="o-que-fazem-esses-comandos"&gt;
  O que fazem esses comandos?
- &lt;a class="heading-link" href="#o-que-fazem-esses-comandos">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;h3 id="git-log">
+ &lt;a class="heading-link" href="#o-que-fazem-esses-comandos"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id="git-log"&gt;
  git log
- &lt;a class="heading-link" href="#git-log">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;p>Mostra o log da branch atual do git
-&lt;figure>&lt;img src="https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/git-log-git.png"
- alt="Resultado do git log na branch master do projeto git">&lt;figcaption>
- &lt;p>Resultado do git log na branch master do projeto git&lt;/p></description></item><item><title>Pontos a considerar em uma revisão de código</title><link>https://cezimbra.me/pontos-a-considerar-em-uma-revisao-de-codigo/</link><pubDate>Fri, 25 Jan 2019 00:50:28 +0000</pubDate><guid>https://cezimbra.me/pontos-a-considerar-em-uma-revisao-de-codigo/</guid><description>&lt;p>A revisão de código é um processo importante do desenvolvimento de software. Outras pessoas olhando para o código ajudam a identificar falhas que passaram desapercebidas ou melhorias que poderiam ser implementadas.&lt;/p>
-&lt;figure>&lt;img src="https://cezimbra.me/pontos-a-considerar-em-uma-revisao-de-codigo/code-review.png"
- alt="Code review do GitHub">&lt;figcaption>
- &lt;p>Code review do GitHub&lt;/p>
- &lt;/figcaption>
-&lt;/figure>
+ &lt;a class="heading-link" href="#git-log"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Mostra o log da branch atual do git
+&lt;figure&gt;&lt;img src="https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/git-log-git.png"
+ alt="Resultado do git log na branch master do projeto git"&gt;&lt;figcaption&gt;
+ &lt;p&gt;Resultado do git log na branch master do projeto git&lt;/p&gt;</description></item><item><title>Pontos a considerar em uma revisão de código</title><link>https://cezimbra.me/pontos-a-considerar-em-uma-revisao-de-codigo/</link><pubDate>Fri, 25 Jan 2019 00:50:28 +0000</pubDate><guid>https://cezimbra.me/pontos-a-considerar-em-uma-revisao-de-codigo/</guid><description>&lt;p&gt;A revisão de código é um processo importante do desenvolvimento de software. Outras pessoas olhando para o código ajudam a identificar falhas que passaram desapercebidas ou melhorias que poderiam ser implementadas.&lt;/p&gt;
+&lt;figure&gt;&lt;img src="https://cezimbra.me/pontos-a-considerar-em-uma-revisao-de-codigo/code-review.png"
+ alt="Code review do GitHub"&gt;&lt;figcaption&gt;
+ &lt;p&gt;Code review do GitHub&lt;/p&gt;
+ &lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p>Segue uma lista de itens que considero importantes e me guio ao fazer uma revisão de código:&lt;/p>
-&lt;h2 id="testes">
+&lt;p&gt;Segue uma lista de itens que considero importantes e me guio ao fazer uma revisão de código:&lt;/p&gt;
+&lt;h2 id="testes"&gt;
  Testes
- &lt;a class="heading-link" href="#testes">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>Todos os testes estão passando? (O ideal é que os testes rodem automaticamente via alguma ferramenta de automação)&lt;/li>
-&lt;li>Foram adicionados testes referente ao código modificado?&lt;/li>
-&lt;li>A cobertura de testes está satisfatória?&lt;/li>
-&lt;/ul>
-&lt;h2 id="simplicidade-e-legibilidade">
+ &lt;a class="heading-link" href="#testes"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Todos os testes estão passando? (O ideal é que os testes rodem automaticamente via alguma ferramenta de automação)&lt;/li&gt;
+&lt;li&gt;Foram adicionados testes referente ao código modificado?&lt;/li&gt;
+&lt;li&gt;A cobertura de testes está satisfatória?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="simplicidade-e-legibilidade"&gt;
  Simplicidade e Legibilidade
- &lt;a class="heading-link" href="#simplicidade-e-legibilidade">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>O código está simples e fácil de entender?&lt;/li>
-&lt;li>O código está organizado?&lt;/li>
-&lt;/ul>
-&lt;h2 id="alteração-nos-modelos">
+ &lt;a class="heading-link" href="#simplicidade-e-legibilidade"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;O código está simples e fácil de entender?&lt;/li&gt;
+&lt;li&gt;O código está organizado?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="alteração-nos-modelos"&gt;
  Alteração nos modelos
- &lt;a class="heading-link" href="#altera%c3%a7%c3%a3o-nos-modelos">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;p>Se o projeto possui modelos que se comunicam com um banco de dados:&lt;/p></description></item><item><title>Como extrair arquivos tar</title><link>https://cezimbra.me/como-extrair-arquivos-tar/</link><pubDate>Thu, 15 Nov 2018 20:02:24 +0000</pubDate><guid>https://cezimbra.me/como-extrair-arquivos-tar/</guid><description>&lt;h2 id="como-extrair">
+ &lt;a class="heading-link" href="#altera%c3%a7%c3%a3o-nos-modelos"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Se o projeto possui modelos que se comunicam com um banco de dados:&lt;/p&gt;</description></item><item><title>Como extrair arquivos tar</title><link>https://cezimbra.me/como-extrair-arquivos-tar/</link><pubDate>Thu, 15 Nov 2018 20:02:24 +0000</pubDate><guid>https://cezimbra.me/como-extrair-arquivos-tar/</guid><description>&lt;h2 id="como-extrair"&gt;
  Como extrair
- &lt;a class="heading-link" href="#como-extrair">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;h3 id="targz-ou-tgz">
- &lt;strong>.tar.gz ou .tgz&lt;/strong>
- &lt;a class="heading-link" href="#targz-ou-tgz">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>tar -zxvf arquivo.&lt;span style="color:#39c">(&lt;/span>tar.gz|tgz&lt;span style="color:#39c">)&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="tarbz2">
+ &lt;a class="heading-link" href="#como-extrair"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id="targz-ou-tgz"&gt;
+ &lt;strong&gt;.tar.gz ou .tgz&lt;/strong&gt;
+ &lt;a class="heading-link" href="#targz-ou-tgz"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;tar -zxvf arquivo.&lt;span style="color:#39c"&gt;(&lt;/span&gt;tar.gz|tgz&lt;span style="color:#39c"&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="tarbz2"&gt;
  .tar.bz2
- &lt;a class="heading-link" href="#tarbz2">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>tar -jxvf arquivo.tar.bz2
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h3 id="tarxz">
+ &lt;a class="heading-link" href="#tarbz2"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;tar -jxvf arquivo.tar.bz2
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="tarxz"&gt;
  .tar.xz
- &lt;a class="heading-link" href="#tarxz">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>tar -Jxvf arquivo.tar.xz
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="o-que-é-cada-opção">
+ &lt;a class="heading-link" href="#tarxz"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;tar -Jxvf arquivo.tar.xz
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="o-que-é-cada-opção"&gt;
  O que é cada opção
- &lt;a class="heading-link" href="#o-que-%c3%a9-cada-op%c3%a7%c3%a3o">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>-x, --extract, --get
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> extrai arquivos
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-v, --verbose
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> verboso
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-f, --file
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> arquivo
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-z, --gzip, --gunzip --ungzip
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> para arquivos gzip .gz
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-J, --xz
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> para arquivos .xz
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>-j, --bzip2
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> para arquivos bzip2 .bz2
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>
+ &lt;a class="heading-link" href="#o-que-%c3%a9-cada-op%c3%a7%c3%a3o"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;-x, --extract, --get
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; extrai arquivos
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;-v, --verbose
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; verboso
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;-f, --file
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; arquivo
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;-z, --gzip, --gunzip --ungzip
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; para arquivos gzip .gz
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;-J, --xz
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; para arquivos .xz
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;-j, --bzip2
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; para arquivos bzip2 .bz2
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item></channel></rss>

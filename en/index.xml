@@ -1,815 +1,815 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/en/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 13 Sep 2022 20:51:46 -0300</lastBuildDate><atom:link href="https://cezimbra.me/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Talks</title><link>https://cezimbra.me/en/talks/</link><pubDate>Tue, 13 Sep 2022 20:51:46 -0300</pubDate><guid>https://cezimbra.me/en/talks/</guid><description>&lt;h2 id="automating-financial-control-with-python-portuguese">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/en/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 13 Sep 2022 20:51:46 -0300</lastBuildDate><atom:link href="https://cezimbra.me/en/index.xml" rel="self" type="application/rss+xml"/><item><title>Talks</title><link>https://cezimbra.me/en/talks/</link><pubDate>Tue, 13 Sep 2022 20:51:46 -0300</pubDate><guid>https://cezimbra.me/en/talks/</guid><description>&lt;h2 id="automating-financial-control-with-python-portuguese"&gt;
  Automating financial control with Python (Portuguese)
- &lt;a class="heading-link" href="#automating-financial-control-with-python-portuguese">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>Date: 2022-09-10&lt;/li>
-&lt;li>Event: &lt;a href="https://pythonsul.dev/" class="external-link" target="_blank" rel="noopener">Python Sul&lt;/a>&lt;/li>
-&lt;/ul>
+ &lt;a class="heading-link" href="#automating-financial-control-with-python-portuguese"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Date: 2022-09-10&lt;/li&gt;
+&lt;li&gt;Event: &lt;a href="https://pythonsul.dev/" class="external-link" target="_blank" rel="noopener"&gt;Python Sul&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;script async class="speakerdeck-embed" data-id="4d6c3786c49b46f3a44a21944de5ea5f" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js">&lt;/script>
+&lt;script async class="speakerdeck-embed" data-id="4d6c3786c49b46f3a44a21944de5ea5f" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"&gt;&lt;/script&gt;
 
-&lt;hr>
-&lt;h2 id="python-to-automate-financial-control-portuguese">
+&lt;hr&gt;
+&lt;h2 id="python-to-automate-financial-control-portuguese"&gt;
  Python to Automate Financial Control (Portuguese)
- &lt;a class="heading-link" href="#python-to-automate-financial-control-portuguese">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>Date: 2019-08-17&lt;/li>
-&lt;li>Event: &lt;a href="https://pycaxias.org/" class="external-link" target="_blank" rel="noopener">PyCaxias&lt;/a>&lt;/li>
-&lt;li>Description: In this talk I showed how we can use Python and its tools to automate the extraction of your bank data and create a financial control system that is filled automatically. So you can spend time on the most important thing, which is to analyze your finances instead of spending time filling spreadsheets and/or systems. In addition, you can take control of your data to use it as you wish.&lt;/li>
-&lt;/ul>
+ &lt;a class="heading-link" href="#python-to-automate-financial-control-portuguese"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Date: 2019-08-17&lt;/li&gt;
+&lt;li&gt;Event: &lt;a href="https://pycaxias.org/" class="external-link" target="_blank" rel="noopener"&gt;PyCaxias&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Description: In this talk I showed how we can use Python and its tools to automate the extraction of your bank data and create a financial control system that is filled automatically. So you can spend time on the most important thing, which is to analyze your finances instead of spending time filling spreadsheets and/or systems. In addition, you can take control of your data to use it as you wish.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;script async class="speakerdeck-embed" data-id="a386b5182bcc4c0abe4c86d630c34a0b" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js">&lt;/script></description></item><item><title>About</title><link>https://cezimbra.me/en/about/</link><pubDate>Tue, 13 Sep 2022 20:49:12 -0300</pubDate><guid>https://cezimbra.me/en/about/</guid><description>&lt;h2 id="setup">
+&lt;script async class="speakerdeck-embed" data-id="a386b5182bcc4c0abe4c86d630c34a0b" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"&gt;&lt;/script&gt;</description></item><item><title>About</title><link>https://cezimbra.me/en/about/</link><pubDate>Tue, 13 Sep 2022 20:49:12 -0300</pubDate><guid>https://cezimbra.me/en/about/</guid><description>&lt;h2 id="setup"&gt;
  Setup
- &lt;a class="heading-link" href="#setup">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
+ &lt;a class="heading-link" href="#setup"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
 
 
-&lt;style>
+&lt;style&gt;
  @media screen and (min-width: 1024px) {
  div.columns {
  display: flex;
  }
  }
-&lt;/style>
+&lt;/style&gt;
 
-&lt;div class="columns">
+&lt;div class="columns"&gt;
  
- &lt;div style="flex: 1 1 0;">
- &lt;!-- begin columns block -->
-&lt;p>&lt;img src="https://cezimbra.me/sobre/setup.jpg" alt="Setup">&lt;/p>
- &lt;/div>
+ &lt;div style="flex: 1 1 0;"&gt;
+ &lt;!-- begin columns block --&gt;
+&lt;p&gt;&lt;img src="https://cezimbra.me/sobre/setup.jpg" alt="Setup"&gt;&lt;/p&gt;
+ &lt;/div&gt;
  
- &lt;div style="flex: 1 1 0;">
- &lt;!-- column separator -->
-&lt;ul>
-&lt;li>Notebook Thinkpad T480
-&lt;ul>
-&lt;li>Intel Core i5&lt;/li>
-&lt;li>32 GB RAM&lt;/li>
-&lt;li>SSD HP S700 250GB&lt;/li>
-&lt;li>&lt;a href="https://www.debian.org/releases/bullseye/" class="external-link" target="_blank" rel="noopener">Debian Bullseye&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;a href="https://www.amazon.com.br/dp/B098ZLDFG7" class="external-link" target="_blank" rel="noopener">Samsung T350 24&amp;quot; Monitor&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://a.co/d/jgwzInX" class="external-link" target="_blank" rel="noopener">Webcam Logitech C920s&lt;/a> + &lt;a href="https://produto.mercadolivre.com.br/MLB-1794696234-anel-de-luz-ring-light-clip-celular-mesa-14-cm-articulado-_JM" class="external-link" target="_blank" rel="noopener">Ring Light&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://edifier.com.br/headphone-w800bt-plus-bluetooth-5-1-over-ear-edifier-preto.html" class="external-link" target="_blank" rel="noopener">Edifier W800BT Headphone&lt;/a> + &lt;a href="https://www.logitechg.com/en-us/products/streaming-gear/yeti-nano-usb-microphone.html" class="external-link" target="_blank" rel="noopener">Blue Yeti Nano Microphone&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.logitech.com/en-us/shop/p/lift-vertical-ergonomic-mouse.910-006469" class="external-link" target="_blank" rel="noopener">Logitech Lift vertical ergonomic mouse&lt;/a> + &lt;a href="https://dantecapelli.com.br/loja/acessorios/mouse-pad-de-couro-marrom/" class="external-link" target="_blank" rel="noopener">Dante Capelli Mousepad&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://produto.mercadolivre.com.br/MLB-2027205008-hub-6-em-1-type-c-hdmi-4k-rj45-macbook-m1-_JM" class="external-link" target="_blank" rel="noopener">Baseus 6 in 1 Hub&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://loja.elements.com.br/products/cadeira-ergonomica-elements-vertta-pro" class="external-link" target="_blank" rel="noopener">Elements Vertta Pro Chair&lt;/a>&lt;/li>
-&lt;/ul>
+ &lt;div style="flex: 1 1 0;"&gt;
+ &lt;!-- column separator --&gt;
+&lt;ul&gt;
+&lt;li&gt;Notebook Thinkpad T480
+&lt;ul&gt;
+&lt;li&gt;Intel Core i5&lt;/li&gt;
+&lt;li&gt;32 GB RAM&lt;/li&gt;
+&lt;li&gt;SSD HP S700 250GB&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.debian.org/releases/bullseye/" class="external-link" target="_blank" rel="noopener"&gt;Debian Bullseye&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.amazon.com.br/dp/B098ZLDFG7" class="external-link" target="_blank" rel="noopener"&gt;Samsung T350 24&amp;quot; Monitor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://a.co/d/jgwzInX" class="external-link" target="_blank" rel="noopener"&gt;Webcam Logitech C920s&lt;/a&gt; + &lt;a href="https://produto.mercadolivre.com.br/MLB-1794696234-anel-de-luz-ring-light-clip-celular-mesa-14-cm-articulado-_JM" class="external-link" target="_blank" rel="noopener"&gt;Ring Light&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://edifier.com.br/headphone-w800bt-plus-bluetooth-5-1-over-ear-edifier-preto.html" class="external-link" target="_blank" rel="noopener"&gt;Edifier W800BT Headphone&lt;/a&gt; + &lt;a href="https://www.logitechg.com/en-us/products/streaming-gear/yeti-nano-usb-microphone.html" class="external-link" target="_blank" rel="noopener"&gt;Blue Yeti Nano Microphone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.logitech.com/en-us/shop/p/lift-vertical-ergonomic-mouse.910-006469" class="external-link" target="_blank" rel="noopener"&gt;Logitech Lift vertical ergonomic mouse&lt;/a&gt; + &lt;a href="https://dantecapelli.com.br/loja/acessorios/mouse-pad-de-couro-marrom/" class="external-link" target="_blank" rel="noopener"&gt;Dante Capelli Mousepad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://produto.mercadolivre.com.br/MLB-2027205008-hub-6-em-1-type-c-hdmi-4k-rj45-macbook-m1-_JM" class="external-link" target="_blank" rel="noopener"&gt;Baseus 6 in 1 Hub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://loja.elements.com.br/products/cadeira-ergonomica-elements-vertta-pro" class="external-link" target="_blank" rel="noopener"&gt;Elements Vertta Pro Chair&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
- &lt;/div>
+ &lt;/div&gt;
  
-&lt;/div>
+&lt;/div&gt;
 
-&lt;h2 id="experiences">
+&lt;h2 id="experiences"&gt;
  Experiences
- &lt;a class="heading-link" href="#experiences">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
+ &lt;a class="heading-link" href="#experiences"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
 
-&lt;div>
+&lt;div&gt;
 
 
-&lt;div class="timeline-item" date-is='Mar 2022 - Current'>
- &lt;h3>
- &lt;i class="fa fa-solid fa-briefcase">&lt;/i>
+&lt;div class="timeline-item" date-is='Mar 2022 - Current'&gt;
+ &lt;h3&gt;
+ &lt;i class="fa fa-solid fa-briefcase"&gt;&lt;/i&gt;
  
  Tech Lead at Finetune
- &lt;/h3>
- &lt;p>&lt;p>Technical decisions and collaboration with stakeholders to prioritize new features and fixes.
+ &lt;/h3&gt;
+ &lt;p&gt;&lt;p&gt;Technical decisions and collaboration with stakeholders to prioritize new features and fixes.
 Translated business requirements into user stories, bridging the gap between technical and non-technical stakeholders.
 Involved in the due diligence process, contributing to the successful acquisition of the company by Prometric.
-Responsible for conducting technical interviews.&lt;/p></description></item><item><title>Projects</title><link>https://cezimbra.me/en/projects/</link><pubDate>Fri, 08 Apr 2022 20:08:54 -0300</pubDate><guid>https://cezimbra.me/en/projects/</guid><description>&lt;div class="card ">
- &lt;div class="container">
- &lt;h3>&lt;b>Missas.com.br&lt;/b>&lt;/h3>
- &lt;span>Website to find times and locations for Catholic masses and confessions. A bot communicates with parishes via WhatsApp and makes the times publicly available.&lt;/span>
- &lt;div>
+Responsible for conducting technical interviews.&lt;/p&gt;</description></item><item><title>Projects</title><link>https://cezimbra.me/en/projects/</link><pubDate>Fri, 08 Apr 2022 20:08:54 -0300</pubDate><guid>https://cezimbra.me/en/projects/</guid><description>&lt;div class="card "&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;Missas.com.br&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;Website to find times and locations for Catholic masses and confessions. A bot communicates with parishes via WhatsApp and makes the times publicly available.&lt;/span&gt;
+ &lt;div&gt;
  
- &lt;a href="https://missas.com.br" target="_blank">&lt;i class="fa fa-link">&lt;/i>&lt;/a>
+ &lt;a href="https://missas.com.br" target="_blank"&gt;&lt;i class="fa fa-link"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
- &lt;a href="https://github.com/lucasrcezimbra/missas.com.br/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ &lt;a href="https://github.com/lucasrcezimbra/missas.com.br/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
 
  
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;div class="card ">
- &lt;div class="container">
- &lt;h3>&lt;b>toolbox&lt;/b>&lt;/h3>
- &lt;span>Toolbox is where I keep the libraries, frameworks, tools, languages, etc. that I know&lt;/span>
- &lt;div>
+&lt;div class="card "&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;toolbox&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;Toolbox is where I keep the libraries, frameworks, tools, languages, etc. that I know&lt;/span&gt;
+ &lt;div&gt;
  
- &lt;a href="https://toolbox.cezimbra.me" target="_blank">&lt;i class="fa fa-link">&lt;/i>&lt;/a>
+ &lt;a href="https://toolbox.cezimbra.me" target="_blank"&gt;&lt;i class="fa fa-link"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
- &lt;a href="https://github.com/lucasrcezimbra/toolbox/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ &lt;a href="https://github.com/lucasrcezimbra/toolbox/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
 
  
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;div class="card ">
- &lt;div class="container">
- &lt;h3>&lt;b>ninja-api-key&lt;/b>&lt;/h3>
- &lt;span>API Key authentication for Django Ninja&lt;/span>
- &lt;div>
+&lt;div class="card "&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;ninja-api-key&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;API Key authentication for Django Ninja&lt;/span&gt;
+ &lt;div&gt;
  
 
  
- &lt;a href="https://github.com/lucasrcezimbra/ninja-api-key/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ &lt;a href="https://github.com/lucasrcezimbra/ninja-api-key/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
- &lt;a href="https://pypi.org/project/ninja-api-key/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
+ &lt;a href="https://pypi.org/project/ninja-api-key/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
  
 
  
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;div class="card ">
- &lt;div class="container">
- &lt;h3>&lt;b>dj-storage-url&lt;/b>&lt;/h3>
- &lt;span>Configure Django storage from a URL. Inspired by jazzband/dj-database-url&lt;/span>
- &lt;div>
+&lt;div class="card "&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;dj-storage-url&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;Configure Django storage from a URL. Inspired by jazzband/dj-database-url&lt;/span&gt;
+ &lt;div&gt;
  
 
  
- &lt;a href="https://github.com/lucasrcezimbra/dj-storage-url/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ &lt;a href="https://github.com/lucasrcezimbra/dj-storage-url/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
- &lt;a href="https://pypi.org/project/dj-storage-url/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
+ &lt;a href="https://pypi.org/project/dj-storage-url/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
  
 
  
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;div class="card ">
- &lt;div class="container">
- &lt;h3>&lt;b>llm-jupyter&lt;/b>&lt;/h3>
- &lt;span>LLM plugin to run an IPython interpreter or notebook in the LLM virtual environment and use the LLM from within the interpreter or notebook as a magic function.&lt;/span>
- &lt;div>
+&lt;div class="card "&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;llm-jupyter&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;LLM plugin to run an IPython interpreter or notebook in the LLM virtual environment and use the LLM from within the interpreter or notebook as a magic function.&lt;/span&gt;
+ &lt;div&gt;
  
 
  
- &lt;a href="https://github.com/lucasrcezimbra/llm-jupyter/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ &lt;a href="https://github.com/lucasrcezimbra/llm-jupyter/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
- &lt;a href="https://pypi.org/project/llm-jupyter/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
+ &lt;a href="https://pypi.org/project/llm-jupyter/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
  
 
  
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;div class="card ">
- &lt;div class="container">
- &lt;h3>&lt;b>Django Template&lt;/b>&lt;/h3>
- &lt;span>An opinionated Django start project template.&lt;/span>
- &lt;div>
+&lt;div class="card "&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;Django Template&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;An opinionated Django start project template.&lt;/span&gt;
+ &lt;div&gt;
  
 
  
- &lt;a href="https://github.com/lucasrcezimbra/django-template/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ &lt;a href="https://github.com/lucasrcezimbra/django-template/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
 
  
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;div class="card ">
- &lt;div class="container">
- &lt;h3>&lt;b>Cookiecutter PyPackage&lt;/b>&lt;/h3>
- &lt;span>My Cookiecutter PyPackage fork.&lt;/span>
- &lt;div>
+&lt;div class="card "&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;Cookiecutter PyPackage&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;My Cookiecutter PyPackage fork.&lt;/span&gt;
+ &lt;div&gt;
  
 
  
- &lt;a href="https://github.com/lucasrcezimbra/cookiecutter-pypackage/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ &lt;a href="https://github.com/lucasrcezimbra/cookiecutter-pypackage/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
 
  
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;div class="card ">
- &lt;div class="container">
- &lt;h3>&lt;b>hugo-coder-htmx&lt;/b>&lt;/h3>
- &lt;span>A minimalist Single-page application blog theme for Hugo using HTMX.&lt;/span>
- &lt;div>
+&lt;div class="card "&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;hugo-coder-htmx&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;A minimalist Single-page application blog theme for Hugo using HTMX.&lt;/span&gt;
+ &lt;div&gt;
  
 
  
- &lt;a href="https://github.com/lucasrcezimbra/hugo-coder-htmx/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ &lt;a href="https://github.com/lucasrcezimbra/hugo-coder-htmx/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
 
  
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;div class="card ">
- &lt;div class="container">
- &lt;h3>&lt;b>Banco Inter&lt;/b>&lt;/h3>
- &lt;span>Client to consume Inter (Brazilian Bank) APIs for legal person accounts.&lt;/span>
- &lt;div>
+&lt;div class="card "&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;Banco Inter&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;Client to consume Inter (Brazilian Bank) APIs for legal person accounts.&lt;/span&gt;
+ &lt;div&gt;
  
 
  
- &lt;a href="https://github.com/lucasrcezimbra/bancointer/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ &lt;a href="https://github.com/lucasrcezimbra/bancointer/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
- &lt;a href="https://pypi.org/project/bancointer/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
+ &lt;a href="https://pypi.org/project/bancointer/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
  
 
  
- &lt;a href="https://bancointer.readthedocs.io/" target="_blank">&lt;img src="https://cezimbra.me/images/readthedocs.png" />&lt;/a>
+ &lt;a href="https://bancointer.readthedocs.io/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/readthedocs.png" /&gt;&lt;/a&gt;
  
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;div class="card ">
- &lt;div class="container">
- &lt;h3>&lt;b>PyItau&lt;/b>&lt;/h3>
- &lt;span>Scraper to access your Itaú (Brazilian) bank data.&lt;/span>
- &lt;div>
+&lt;div class="card "&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;PyItau&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;Scraper to access your Itaú (Brazilian) bank data.&lt;/span&gt;
+ &lt;div&gt;
  
 
  
- &lt;a href="https://github.com/lucasrcezimbra/pyitau/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ &lt;a href="https://github.com/lucasrcezimbra/pyitau/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
- &lt;a href="https://pypi.org/project/pyitau/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
+ &lt;a href="https://pypi.org/project/pyitau/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
  
 
  
- &lt;a href="https://pyitau.readthedocs.io/" target="_blank">&lt;img src="https://cezimbra.me/images/readthedocs.png" />&lt;/a>
+ &lt;a href="https://pyitau.readthedocs.io/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/readthedocs.png" /&gt;&lt;/a&gt;
  
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;div class="card archived">
- &lt;div class="container">
- &lt;h3>&lt;b>dcache (Archived)&lt;/b>&lt;/h3>
- &lt;span>Distributed Cache for Humans.&lt;/span>
- &lt;div>
+&lt;div class="card archived"&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;dcache (Archived)&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;Distributed Cache for Humans.&lt;/span&gt;
+ &lt;div&gt;
  
 
  
- &lt;a href="https://github.com/HBN3tw0rk/dcache/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ &lt;a href="https://github.com/HBN3tw0rk/dcache/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
- &lt;a href="https://pypi.org/project/dcache/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
+ &lt;a href="https://pypi.org/project/dcache/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
  
 
  
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;div class="card archived">
- &lt;div class="container">
- &lt;h3>&lt;b>django-ultratenant (Archived)&lt;/b>&lt;/h3>
- &lt;span>Ultimate Django app for multi-tenant.&lt;/span>
- &lt;div>
+&lt;div class="card archived"&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;django-ultratenant (Archived)&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;Ultimate Django app for multi-tenant.&lt;/span&gt;
+ &lt;div&gt;
  
 
  
- &lt;a href="https://github.com/HBN3tw0rk/django-ultratenant/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ &lt;a href="https://github.com/HBN3tw0rk/django-ultratenant/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
- &lt;a href="https://pypi.org/project/django-ultratenant/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
+ &lt;a href="https://pypi.org/project/django-ultratenant/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
  
 
  
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;div class="card archived">
- &lt;div class="container">
- &lt;h3>&lt;b>Agilize (Archived)&lt;/b>&lt;/h3>
- &lt;span>Client to access Agilize (Brazilian accouting company).&lt;/span>
- &lt;div>
+&lt;div class="card archived"&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;Agilize (Archived)&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;Client to access Agilize (Brazilian accouting company).&lt;/span&gt;
+ &lt;div&gt;
  
 
  
- &lt;a href="https://github.com/lucasrcezimbra/agilize/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ &lt;a href="https://github.com/lucasrcezimbra/agilize/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
- &lt;a href="https://pypi.org/project/agilize/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
+ &lt;a href="https://pypi.org/project/agilize/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
  
 
  
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;div class="card archived">
- &lt;div class="container">
- &lt;h3>&lt;b>Consul Decouple (Archived)&lt;/b>&lt;/h3>
- &lt;span>python-decouple plug-in to read configs from Consul.&lt;/span>
- &lt;div>
+&lt;div class="card archived"&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;Consul Decouple (Archived)&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;python-decouple plug-in to read configs from Consul.&lt;/span&gt;
+ &lt;div&gt;
  
 
  
- &lt;a href="https://github.com/lucasrcezimbra/consul-decouple/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ &lt;a href="https://github.com/lucasrcezimbra/consul-decouple/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
- &lt;a href="https://pypi.org/project/consul-decouple/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
+ &lt;a href="https://pypi.org/project/consul-decouple/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
  
 
  
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;div class="card archived">
- &lt;div class="container">
- &lt;h3>&lt;b>PySympla (Archived)&lt;/b>&lt;/h3>
- &lt;span>Scraper to access Sympla (Brazilian event management and ticketing website).&lt;/span>
- &lt;div>
+&lt;div class="card archived"&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;PySympla (Archived)&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;Scraper to access Sympla (Brazilian event management and ticketing website).&lt;/span&gt;
+ &lt;div&gt;
  
 
  
- &lt;a href="https://github.com/lucasrcezimbra/pysympla/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ &lt;a href="https://github.com/lucasrcezimbra/pysympla/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
- &lt;a href="https://pypi.org/project/pysympla/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
+ &lt;a href="https://pypi.org/project/pysympla/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
  
 
  
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;div class="card archived">
- &lt;div class="container">
- &lt;h3>&lt;b>Senior HCM (Archived)&lt;/b>&lt;/h3>
- &lt;span>Client to consume Senior HCM API.&lt;/span>
- &lt;div>
+&lt;div class="card archived"&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;Senior HCM (Archived)&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;Client to consume Senior HCM API.&lt;/span&gt;
+ &lt;div&gt;
  
 
  
- &lt;a href="https://github.com/lucasrcezimbra/senior-hcm/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ &lt;a href="https://github.com/lucasrcezimbra/senior-hcm/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
- &lt;a href="https://pypi.org/project/senior-hcm/" target="_blank">&lt;img src="https://cezimbra.me/images/pypi.svg" />&lt;/a>
+ &lt;a href="https://pypi.org/project/senior-hcm/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
  
 
  
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;div class="card archived">
- &lt;div class="container">
- &lt;h3>&lt;b>AleloScraper (Archived)&lt;/b>&lt;/h3>
- &lt;span>Scraper to get Alelo&amp;#39;s (Brazilian meal ticket) balance.&lt;/span>
- &lt;div>
+&lt;div class="card archived"&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;AleloScraper (Archived)&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;Scraper to get Alelo&amp;#39;s (Brazilian meal ticket) balance.&lt;/span&gt;
+ &lt;div&gt;
  
 
  
- &lt;a href="https://github.com/lucasrcezimbra/aleloscraper/" target="_blank">&lt;i class="fa fa-github">&lt;/i>&lt;/a>
+ &lt;a href="https://github.com/lucasrcezimbra/aleloscraper/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
  
 
  
- &lt;/div>
- &lt;/div>
-&lt;/div>
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;h2 id="open-source-contributions">
+&lt;h2 id="open-source-contributions"&gt;
  Open-source contributions
- &lt;a class="heading-link" href="#open-source-contributions">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;h3 id="code">
+ &lt;a class="heading-link" href="#open-source-contributions"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id="code"&gt;
  Code
- &lt;a class="heading-link" href="#code">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h3>
-&lt;p>&lt;div class="contribution">
- &lt;span>2025-05-23 -&lt;/span>
+ &lt;a class="heading-link" href="#code"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;div class="contribution"&gt;
+ &lt;span&gt;2025-05-23 -&lt;/span&gt;
  
  
- &lt;img src="https://cezimbra.me/images/code-pr-open.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-open.svg"&gt;
  
  
- &lt;a class="external-link" href="https://github.com/vitalik/django-ninja/pull/1467" target="_blank">django-ninja: [WIP] fix: OpenAPI schema with duplicated payload name&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/vitalik/django-ninja/pull/1467" target="_blank"&gt;django-ninja: [WIP] fix: OpenAPI schema with duplicated payload name&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2024-12-12 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2024-12-12 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://gitlab.com/dalibo/dramatiq-pg/-/merge_requests/74" target="_blank">dramatiq-pg: fix: emit before enqueue before serializing message&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://gitlab.com/dalibo/dramatiq-pg/-/merge_requests/74" target="_blank"&gt;dramatiq-pg: fix: emit before enqueue before serializing message&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2024-10-31 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2024-10-31 -&lt;/span&gt;
  
  
- &lt;img src="https://cezimbra.me/images/code-pr-open.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-open.svg"&gt;
  
  
- &lt;a class="external-link" href="https://github.com/jazzband/django-model-utils/pull/635" target="_blank">django-model-utils: Add FieldTracker.diff&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/jazzband/django-model-utils/pull/635" target="_blank"&gt;django-model-utils: Add FieldTracker.diff&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2024-06-20 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2024-06-20 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/model-bakers/model_bakery/pull/480" target="_blank">model_bakery: Fix make_recipe to work with _quantity&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/model-bakers/model_bakery/pull/480" target="_blank"&gt;model_bakery: Fix make_recipe to work with _quantity&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2023-11-22 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2023-11-22 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/bloomberg/attrs-strict/pull/108" target="_blank">attrs-strict: fix: support types without args&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/bloomberg/attrs-strict/pull/108" target="_blank"&gt;attrs-strict: fix: support types without args&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2023-11-17 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2023-11-17 -&lt;/span&gt;
  
  
  
- &lt;img src="https://cezimbra.me/images/code-pr-closed.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-closed.svg"&gt;
  
- &lt;a class="external-link" href="https://github.com/luizdepra/hugo-coder/pull/857" target="_blank">hugo-coder: SPA using HTMX&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/luizdepra/hugo-coder/pull/857" target="_blank"&gt;hugo-coder: SPA using HTMX&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2023-10-11 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2023-10-11 -&lt;/span&gt;
  
  
- &lt;img src="https://cezimbra.me/images/code-pr-open.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-open.svg"&gt;
  
  
- &lt;a class="external-link" href="https://github.com/vitalik/django-ninja/pull/873" target="_blank">django-ninja: Improves create_schema to get types from custom_fields&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/vitalik/django-ninja/pull/873" target="_blank"&gt;django-ninja: Improves create_schema to get types from custom_fields&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2023-10-05 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2023-10-05 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/pypyr/pypyr/pull/338" target="_blank">pypyr: Classify - Fix string loader tests&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/pypyr/pypyr/pull/338" target="_blank"&gt;pypyr: Classify - Fix string loader tests&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2023-10-05 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2023-10-05 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/pypyr/pypyr/pull/337" target="_blank">pypyr: Classify - Fix file loader tests&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/pypyr/pypyr/pull/337" target="_blank"&gt;pypyr: Classify - Fix file loader tests&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2023-10-04 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2023-10-04 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/pypyr/pypyr/pull/334" target="_blank">pypyr: Classify - Fix dsl tests&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/pypyr/pypyr/pull/334" target="_blank"&gt;pypyr: Classify - Fix dsl tests&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2023-09-25 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2023-09-25 -&lt;/span&gt;
  
  
  
- &lt;img src="https://cezimbra.me/images/code-pr-closed.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-closed.svg"&gt;
  
- &lt;a class="external-link" href="https://github.com/pypyr/pypyr/pull/332" target="_blank">pypyr: Models and loader&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/pypyr/pypyr/pull/332" target="_blank"&gt;pypyr: Models and loader&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2023-09-19 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2023-09-19 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/pypyr/pypyr/pull/326" target="_blank">pypyr: String Loader&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/pypyr/pypyr/pull/326" target="_blank"&gt;pypyr: String Loader&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2023-07-28 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2023-07-28 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/hbakri/django-ninja-crud/pull/93" target="_blank">Django Ninja CRUD: feat: introduce router_kwargs to customize django-ninja&amp;#39;s Router attributes&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/hbakri/django-ninja-crud/pull/93" target="_blank"&gt;Django Ninja CRUD: feat: introduce router_kwargs to customize django-ninja&amp;#39;s Router attributes&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2022-03-27 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2022-03-27 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/geovanisouza92/irpf-docker/pull/4" target="_blank">irpf-docker: Atualizando IRPF 2022 de 1.0 para 1.2&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/geovanisouza92/irpf-docker/pull/4" target="_blank"&gt;irpf-docker: Atualizando IRPF 2022 de 1.0 para 1.2&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2021-09-17 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2021-09-17 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/andreroggeri/pynubank/pull/277" target="_blank">pynubank: feat: Add get_card_statement_details&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/andreroggeri/pynubank/pull/277" target="_blank"&gt;pynubank: feat: Add get_card_statement_details&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2020-02-19 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2020-02-19 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/mongomock/mongomock/pull/596" target="_blank">Mongomock: Implements $setEquals operator&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/mongomock/mongomock/pull/596" target="_blank"&gt;Mongomock: Implements $setEquals operator&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2019-11-11 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2019-11-11 -&lt;/span&gt;
  
  
  
- &lt;img src="https://cezimbra.me/images/code-pr-closed.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-closed.svg"&gt;
  
- &lt;a class="external-link" href="https://github.com/agronholm/sqlacodegen/pull/105" target="_blank">sqlacodegen: Fix KeyError when column was upper case&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/agronholm/sqlacodegen/pull/105" target="_blank"&gt;sqlacodegen: Fix KeyError when column was upper case&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2019-10-10 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2019-10-10 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/rougeth/pythonnobrasil/pull/38" target="_blank">Eventos Python no Brasil: Change YAML to TOML&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/rougeth/pythonnobrasil/pull/38" target="_blank"&gt;Eventos Python no Brasil: Change YAML to TOML&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2019-10-10 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2019-10-10 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/rougeth/pythonnobrasil/pull/37" target="_blank">Eventos Python no Brasil: Improve travis: run test for YAML&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/rougeth/pythonnobrasil/pull/37" target="_blank"&gt;Eventos Python no Brasil: Improve travis: run test for YAML&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2019-09-19 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2019-09-19 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/pyupio/pyup/pull/362" target="_blank">pyup: Add option to ignore SSL certificate&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/pyupio/pyup/pull/362" target="_blank"&gt;pyup: Add option to ignore SSL certificate&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2019-09-19 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2019-09-19 -&lt;/span&gt;
  
  
- &lt;img src="https://cezimbra.me/images/code-pr-open.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-open.svg"&gt;
  
  
- &lt;a class="external-link" href="https://github.com/gsr-zug/influxdb_logging/pull/2/" target="_blank">InfluxDB logging: Move pytest to requirements-dev&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/gsr-zug/influxdb_logging/pull/2/" target="_blank"&gt;InfluxDB logging: Move pytest to requirements-dev&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2019-06-30 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2019-06-30 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/andreroggeri/pynubank/pull/65" target="_blank">pynubank: Fix GraphQL query to get debit amount&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/andreroggeri/pynubank/pull/65" target="_blank"&gt;pynubank: Fix GraphQL query to get debit amount&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2019-06-30 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2019-06-30 -&lt;/span&gt;
  
  
  
- &lt;img src="https://cezimbra.me/images/code-pr-closed.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-closed.svg"&gt;
  
- &lt;a class="external-link" href="https://github.com/andreroggeri/pynubank/pull/64" target="_blank">pynubank: Save refresh_token only if it&amp;#39;s in authenticate response&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/andreroggeri/pynubank/pull/64" target="_blank"&gt;pynubank: Save refresh_token only if it&amp;#39;s in authenticate response&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2019-06-30 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2019-06-30 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/andreroggeri/pynubank/pull/62" target="_blank">pynubank: Fix account statements&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/andreroggeri/pynubank/pull/62" target="_blank"&gt;pynubank: Fix account statements&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2019-06-03 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2019-06-03 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/klen/mixer/pull/117" target="_blank">Mixer: Fix MongoEngine to generate EmbeddedDocumentListField&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/klen/mixer/pull/117" target="_blank"&gt;Mixer: Fix MongoEngine to generate EmbeddedDocumentListField&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2019-06-03 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2019-06-03 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/klen/mixer/pull/116" target="_blank">Mixer: Fix MongoEngine DecimalField min_value and max_value&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/klen/mixer/pull/116" target="_blank"&gt;Mixer: Fix MongoEngine DecimalField min_value and max_value&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2019-03-15 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2019-03-15 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/okfn-brasil/serenata-de-amor/pull/466/" target="_blank">Serenata de Amor: Fix link to the deputies profile on Jarbas&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/okfn-brasil/serenata-de-amor/pull/466/" target="_blank"&gt;Serenata de Amor: Fix link to the deputies profile on Jarbas&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2019-03-12 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2019-03-12 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/joke2k/faker/pull/924/" target="_blank">Faker: Add min and max values for pyfloat and pydecimal&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/joke2k/faker/pull/924/" target="_blank"&gt;Faker: Add min and max values for pyfloat and pydecimal&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2018-06-13 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2018-06-13 -&lt;/span&gt;
  
  
  
- &lt;img src="https://cezimbra.me/images/code-pr-closed.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-closed.svg"&gt;
  
- &lt;a class="external-link" href="https://github.com/okfn-brasil/querido-diario/pull/91" target="_blank">Querido Diário: Add crawler for Canoas/RS&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/okfn-brasil/querido-diario/pull/91" target="_blank"&gt;Querido Diário: Add crawler for Canoas/RS&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2018-04-09 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2018-04-09 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/rougeth/bottery/pull/134/" target="_blank">bottery: Fix KeyError when Telegram message has no text&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/rougeth/bottery/pull/134/" target="_blank"&gt;bottery: Fix KeyError when Telegram message has no text&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2017-11-02 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2017-11-02 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/mukulhase/WebWhatsapp-Wrapper/pull/31/" target="_blank">Web Whats API: Use Python 3 print function instead of Python 2&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/mukulhase/WebWhatsapp-Wrapper/pull/31/" target="_blank"&gt;Web Whats API: Use Python 3 print function instead of Python 2&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2017-11-02 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2017-11-02 -&lt;/span&gt;
  
  
  
- &lt;img src="https://cezimbra.me/images/code-pr-closed.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-closed.svg"&gt;
  
- &lt;a class="external-link" href="https://github.com/turicas/rows/pull/262/" target="_blank">rows: Adds end_row and end_column to import_from_xlsx&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/turicas/rows/pull/262/" target="_blank"&gt;rows: Adds end_row and end_column to import_from_xlsx&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2017-11-02 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2017-11-02 -&lt;/span&gt;
  
  
  
- &lt;img src="https://cezimbra.me/images/code-pr-closed.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-closed.svg"&gt;
  
- &lt;a class="external-link" href="https://github.com/jschneier/django-storages/pull/420/" target="_blank">django storages: Dropbox: Add support to timeout&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/jschneier/django-storages/pull/420/" target="_blank"&gt;django storages: Dropbox: Add support to timeout&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2017-08-09 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2017-08-09 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/django-extensions/django-extensions/pull/1085" target="_blank">Django Extension: Fix print_settings to receive positional args&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/django-extensions/django-extensions/pull/1085" target="_blank"&gt;Django Extension: Fix print_settings to receive positional args&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2017-06-21 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2017-06-21 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/andreroggeri/pynubank/pull/3" target="_blank">pynubank: Altera o href usado para obter as transações&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/andreroggeri/pynubank/pull/3" target="_blank"&gt;pynubank: Altera o href usado para obter as transações&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2016-11-02 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2016-11-02 -&lt;/span&gt;
  
  
  
- &lt;img src="https://cezimbra.me/images/code-pr-closed.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-closed.svg"&gt;
  
- &lt;a class="external-link" href="https://github.com/okfn-brasil/serenata-de-amor/pull/100" target="_blank">Serenata de Amor: Collect real estates rental prices&lt;/a>
-&lt;/div>
+ &lt;a class="external-link" href="https://github.com/okfn-brasil/serenata-de-amor/pull/100" target="_blank"&gt;Serenata de Amor: Collect real estates rental prices&lt;/a&gt;
+&lt;/div&gt;
 
-&lt;div class="contribution">
- &lt;span>2015-05-14 -&lt;/span>
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2015-05-14 -&lt;/span&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-merged.svg">
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
  
  
- &lt;a class="external-link" href="https://github.com/pagseguro/pagseguro-sdk-ruby/pull/101" target="_blank">pagseguro-sdk-ruby: Added description to the PaymentStatus&lt;/a>
-&lt;/div>
-&lt;/p></description></item></channel></rss>
+ &lt;a class="external-link" href="https://github.com/pagseguro/pagseguro-sdk-ruby/pull/101" target="_blank"&gt;pagseguro-sdk-ruby: Added description to the PaymentStatus&lt;/a&gt;
+&lt;/div&gt;
+&lt;/p&gt;</description></item></channel></rss>
