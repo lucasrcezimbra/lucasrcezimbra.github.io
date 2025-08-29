@@ -1,7 +1,7 @@
 ---
 title: Linux
 date: 2023-08-15
-lastmod: 2025-06-24
+lastmod: 2025-08-29
 aliases:
   - /anotacoes/linux/
   - /dicas-rapidas-linux/
@@ -169,9 +169,15 @@ aliases:
 
 ## Network
 - List used ports
-	```bash
+  ```bash
+  nmap -p- --open localhost
+  # or
 	sudo netstat -tulpn | grep LISTEN
 	```
+- Lists all processes listening a specific port
+  ```bash
+  sudo lsof -nP -iTCP:<port> -sTCP:LISTEN
+  ```
 - How to see the WiFi network name (SSID): `iwgetid`
 - How to test speed between two devices in a private network
 	1. Install `iperf` on both devices: `sudo apt install iperf3`
