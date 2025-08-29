@@ -8,6 +8,7 @@ lastmod: 2025-08-29
 Esses dias eu perguntei pra Maria Helena "quem é a princesa do papai?", tenho
 certeza que ela respondeu "éé, eeeeeeeu".
 
+
 ## 2025-08-24
 Maria Helena riu alto pela primeira vez. Estávamos na Casa de Evangelização
 Monsenhor Aloísio Catão, em João Pessoa. Foi logo após a missa. Coloquei ela na
@@ -15,11 +16,12 @@ cadeirinha e brinquei com ela dando um sustinho. Ela quase sempre ri. Hoje ela
 riu alto. Chamei minha esposa pra ver. Continuei fazendo e continuou rindo.
 Melhor som do mundo.
 
+
 ## 2025-08-22
 Primeira viagem inter-estadual. Levamos a Maria Helena para João Pessoa/PB.
 
 ## 2025-08-16
-Hoje Maria Helena estava "conversadeira", balbuciando várias "falas". É
+Maria Helena estava "conversadeira", balbuciando várias "falas". É
 engraçado quando a gente fala/pergunta algo pra ela e ela responde no _timing_
 perfeito: "né, Maria Helena?" "ééééh".
 
@@ -35,7 +37,7 @@ Foram 180km e felizmente ela não chorou no caminho.
 
 
 ## 2025-07-28
-Hoje furamos a orelha da Maria Helena para colocar brincos.
+Furamos a orelha da Maria Helena para colocar brincos.
 
 
 ## 2025-07-08
