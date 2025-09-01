@@ -1,21 +1,22 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-08-29
+lastmod: 2025-09-01
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2025-08-31 - 2025-09-06]({{< ref "Weeknotes/2025-08-31 - 2025-09-06" >}})
 - [Weeknotes/2025-08-24 - 2025-08-30]({{< ref "Weeknotes/2025-08-24 - 2025-08-30" >}})
+- [Português]({{< ref "Português" >}})
 - [Diário de Paternidade]({{< ref "Diário de Paternidade" >}})
 - [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2025-08-17 - 2025-08-23]({{< ref "Weeknotes/2025-08-17 - 2025-08-23" >}})
 - [Armas de Fogo]({{< ref "Armas de Fogo" >}})
 - [Weeknotes/2025-08-10 - 2025-08-16]({{< ref "Weeknotes/2025-08-10 - 2025-08-16" >}})
 - [Software Architecture for AI]({{< ref "Software Architecture for AI" >}})
-- [Português]({{< ref "Português" >}})
 - [Weeknotes/2025-08-03 - 2025-08-09]({{< ref "Weeknotes/2025-08-03 - 2025-08-09" >}})
 - [Weeknotes/2025-07-27 - 2025-08-02]({{< ref "Weeknotes/2025-07-27 - 2025-08-02" >}})
 - [GitHub]({{< ref "GitHub" >}})
