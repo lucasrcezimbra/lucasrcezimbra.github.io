@@ -1,7 +1,8 @@
 ---
 title: "Otimizando deduplicação no PostgreSQL"
+description: "Como uma simples mudança pode reduzir o tamanho de uma tabela em quase 90%"
 date: 2025-07-29
-lastmod: 2025-07-31
+lastmod: 2025-09-02
 ---
 
 Esse post foi originalmente publicado como uma newsletter no Substack. Inscreva-se para receber novos posts diretamente no seu e-mail.
@@ -159,7 +160,7 @@ Essa foi a proposta que eu cheguei olhando o projeto de fora, tendo somente o co
 
 E aí, o que achou da solução? Resolveria de alguma outra forma? [Deixe um comentário no Substack](https://lucasrcezimbra.substack.com/p/otimizando-deduplicacao-no-postgresql/comments) e vamos conversar.
 
-Você está com algum problema desse tipo no seu projeto? Às vezes, alguém vendo o problema de fora pode nos ajudar. Me mande um mensagem contando um problema técnico que você está enfrentando e quem sabe a próxima newsletter é contando como eu te ajudei.
+Você está com algum problema desse tipo no seu projeto? Às vezes, alguém vendo o problema de fora pode nos ajudar. Me mande uma mensagem contando um problema técnico que você está enfrentando e quem sabe a próxima newsletter é contando como eu te ajudei.
 
 ## Referências
 -   [https://www.postgresql.org/docs/current/datatype-boolean.html](https://www.postgresql.org/docs/current/datatype-boolean.html)
