@@ -10,6 +10,7 @@ lastmod: 2025-09-13
 ## ThinkPad
 - [ ] Keyboard layout
 - [ ] Trackpad
+- [ ] Webcam
 
 ## Devices
 - [ ] Webcam
