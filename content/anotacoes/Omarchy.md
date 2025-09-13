@@ -20,6 +20,8 @@ lastmod: 2025-09-13
 
 ## Software
 - [x] gitconfig - https://github.com/lucasrcezimbra/dotfiles/commit/2a6b3ac1ab14ed47e28ef8b96499077e88b48cfc
+- [x] mise tools - https://github.com/lucasrcezimbra/dotfiles/commit/62912985a59d698cfb7f67faf4cadf264f691237
+  - I removed the Omarchy default mise.toml config which was install Ruby. I hope it doesn't break anything
 - [ ] Custom NeoVim configs
 - [ ] Zsh + Oh-my-zsh
 - [ ] Wezterm - I can't live without [Quick Select Mode](https://wezterm.org/quickselect.html) anymore
@@ -39,3 +41,5 @@ lastmod: 2025-09-13
   - [ ] Share screen
 
 
+## dotfiles
+- [ ] Clean up mise.toml. Most tools are there because Debian didn't have the latest version. Now, with Arch, they can be removed and installed using Arch packages.
