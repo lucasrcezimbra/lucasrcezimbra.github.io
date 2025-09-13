@@ -14,7 +14,8 @@ lastmod: 2025-09-13
   - [ ] Fix Slash, question mark key (keycode 97)
 - [ ] Trackpad
   - [ ] Fix upper right and left buttons
-- [ ] Webcam
+- [x] Webcam
+- [x] Mic
 - [ ] Fingerprint
 
 
@@ -22,8 +23,8 @@ lastmod: 2025-09-13
 - [x] gitconfig - https://github.com/lucasrcezimbra/dotfiles/commit/2a6b3ac1ab14ed47e28ef8b96499077e88b48cfc
 - [x] mise tools - https://github.com/lucasrcezimbra/dotfiles/commit/62912985a59d698cfb7f67faf4cadf264f691237
   - I removed the Omarchy default mise.toml config which was installing Ruby. I hope it doesn't break anything
-- [ ] Custom NeoVim configs
 - [ ] Zsh + Oh-my-zsh
+- [ ] Custom NeoVim configs
 - [ ] Wezterm - I can't live without [Quick Select Mode](https://wezterm.org/quickselect.html) anymore
 - [ ] Is there a way to hide and unhide a window instead of closing it?
 - [ ] Remove non-used stuff (Basecamp, Hey, etc.)
