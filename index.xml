@@ -16,9 +16,33 @@
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Keyboard layout&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Trackpad&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Keyboard
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Brazillian layout - &lt;a href="https://github.com/lucasrcezimbra/dotfiles/commit/86784468c22382f63f848014f1fe2e587c2e50da" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/lucasrcezimbra/dotfiles/commit/86784468c22382f63f848014f1fe2e587c2e50da&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Fix Slash, question mark key (keycode 97)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Trackpad
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Fix upper right and left buttons&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Webcam&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Fingerprint&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="software"&gt;
+ Software
+ &lt;a class="heading-link" href="#software"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; gitconfig - &lt;a href="https://github.com/lucasrcezimbra/dotfiles/commit/2a6b3ac1ab14ed47e28ef8b96499077e88b48cfc" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/lucasrcezimbra/dotfiles/commit/2a6b3ac1ab14ed47e28ef8b96499077e88b48cfc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Custom NeoVim configs&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Zsh + Oh-my-zsh&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Wezterm - I can&amp;rsquo;t live without &lt;a href="https://wezterm.org/quickselect.html" class="external-link" target="_blank" rel="noopener"&gt;Quick Select Mode&lt;/a&gt; anymore&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Is there a way to hide and unhide a window instead of closing it?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="devices"&gt;
  Devices
