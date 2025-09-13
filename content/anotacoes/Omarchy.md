@@ -24,6 +24,7 @@ lastmod: 2025-09-13
 - [ ] Zsh + Oh-my-zsh
 - [ ] Wezterm - I can't live without [Quick Select Mode](https://wezterm.org/quickselect.html) anymore
 - [ ] Is there a way to hide and unhide a window instead of closing it?
+- [ ] Remove non-used stuff (Basecamp, Hey, etc.)
 
 
 ## Devices
