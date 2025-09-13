@@ -41,7 +41,7 @@
 &lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; gitconfig - &lt;a href="https://github.com/lucasrcezimbra/dotfiles/commit/2a6b3ac1ab14ed47e28ef8b96499077e88b48cfc" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/lucasrcezimbra/dotfiles/commit/2a6b3ac1ab14ed47e28ef8b96499077e88b48cfc&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; mise tools - &lt;a href="https://github.com/lucasrcezimbra/dotfiles/commit/62912985a59d698cfb7f67faf4cadf264f691237" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/lucasrcezimbra/dotfiles/commit/62912985a59d698cfb7f67faf4cadf264f691237&lt;/a&gt;
 &lt;ul&gt;
-&lt;li&gt;I removed the Omarchy default mise.toml config which was install Ruby. I hope it doesn&amp;rsquo;t break anything&lt;/li&gt;
+&lt;li&gt;I removed the Omarchy default mise.toml config which was installing Ruby. I hope it doesn&amp;rsquo;t break anything&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Custom NeoVim configs&lt;/li&gt;
