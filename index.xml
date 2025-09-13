@@ -39,10 +39,16 @@
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; gitconfig - &lt;a href="https://github.com/lucasrcezimbra/dotfiles/commit/2a6b3ac1ab14ed47e28ef8b96499077e88b48cfc" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/lucasrcezimbra/dotfiles/commit/2a6b3ac1ab14ed47e28ef8b96499077e88b48cfc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; mise tools - &lt;a href="https://github.com/lucasrcezimbra/dotfiles/commit/62912985a59d698cfb7f67faf4cadf264f691237" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/lucasrcezimbra/dotfiles/commit/62912985a59d698cfb7f67faf4cadf264f691237&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;I removed the Omarchy default mise.toml config which was install Ruby. I hope it doesn&amp;rsquo;t break anything&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Custom NeoVim configs&lt;/li&gt;
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Zsh + Oh-my-zsh&lt;/li&gt;
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Wezterm - I can&amp;rsquo;t live without &lt;a href="https://wezterm.org/quickselect.html" class="external-link" target="_blank" rel="noopener"&gt;Quick Select Mode&lt;/a&gt; anymore&lt;/li&gt;
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Is there a way to hide and unhide a window instead of closing it?&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Remove non-used stuff (Basecamp, Hey, etc.)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="devices"&gt;
  Devices
@@ -70,6 +76,16 @@
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Share screen&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="dotfiles"&gt;
+ dotfiles
+ &lt;a class="heading-link" href="#dotfiles"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Clean up mise.toml. Most tools are there because Debian didn&amp;rsquo;t have the latest version. Now, with Arch, they can be removed and installed using Arch packages.&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>2025-09-07 - 2025-09-13</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-09-07---2025-09-13/</link><pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-09-07---2025-09-13/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-31---2025-09-06/" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
