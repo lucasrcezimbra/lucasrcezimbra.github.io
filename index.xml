@@ -1,4 +1,52 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Wed, 10 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-09-07 - 2025-09-13</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-09-07---2025-09-13/</link><pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-09-07---2025-09-13/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-31---2025-09-06/" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Sat, 13 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>Omarchy</title><link>https://cezimbra.me/anotacoes/omarchy/</link><pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/omarchy/</guid><description>&lt;h2 id="installation"&gt;
+ Installation
+ &lt;a class="heading-link" href="#installation"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Install Omarchy - used 2.11 Offline&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="thinkpad"&gt;
+ ThinkPad
+ &lt;a class="heading-link" href="#thinkpad"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Keyboard layout&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Trackpad&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Webcam&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="devices"&gt;
+ Devices
+ &lt;a class="heading-link" href="#devices"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Webcam&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Mic Blue Yeti&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Headset bluetooth Edifier&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Mouse Logitech&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="work"&gt;
+ Work
+ &lt;a class="heading-link" href="#work"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Zoom
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Share screen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>2025-09-07 - 2025-09-13</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-09-07---2025-09-13/</link><pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-09-07---2025-09-13/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-31---2025-09-06/" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h2 id="books-being-read"&gt;
@@ -10117,6 +10165,7 @@ on your page can access;&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p&gt;Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p&gt;
 &lt;p&gt;Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/omarchy/" &gt;Omarchy&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-07---2025-09-13/" &gt;Weeknotes/2025-09-07 - 2025-09-13&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-31---2025-09-06/" &gt;Weeknotes/2025-08-31 - 2025-09-06&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-24---2025-08-30/" &gt;Weeknotes/2025-08-24 - 2025-08-30&lt;/a&gt;&lt;/li&gt;
