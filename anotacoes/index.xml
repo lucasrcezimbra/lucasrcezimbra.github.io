@@ -27,6 +27,11 @@
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Fix upper right and left buttons&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; External monitor
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; I disable my laptop monitor. How to auto-enable it when I disconnect the HDMI cable?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Webcam&lt;/li&gt;
 &lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Mic&lt;/li&gt;
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Fingerprint&lt;/li&gt;
@@ -45,11 +50,11 @@
 &lt;li&gt;I removed the Omarchy default mise.toml config which was installing Ruby. I hope it doesn&amp;rsquo;t break anything&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Remove non-used stuff (Basecamp, Hey, etc.) - &lt;a href="https://github.com/lucasrcezimbra/dotfiles/commit/8e485c9c324d0faf255da5fa4a75c7e2c16d9ff5" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/lucasrcezimbra/dotfiles/commit/8e485c9c324d0faf255da5fa4a75c7e2c16d9ff5&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Zsh + Oh-my-zsh&lt;/li&gt;
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Custom NeoVim configs&lt;/li&gt;
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Wezterm - I can&amp;rsquo;t live without &lt;a href="https://wezterm.org/quickselect.html" class="external-link" target="_blank" rel="noopener"&gt;Quick Select Mode&lt;/a&gt; anymore&lt;/li&gt;
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Is there a way to hide and unhide a window instead of closing it?&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Remove non-used stuff (Basecamp, Hey, etc.)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="devices"&gt;
  Devices
