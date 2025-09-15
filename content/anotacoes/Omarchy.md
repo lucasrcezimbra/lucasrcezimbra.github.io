@@ -1,7 +1,7 @@
 ---
 title: "Omarchy"
 date: 2025-09-13
-lastmod: 2025-09-13
+lastmod: 2025-09-15
 ---
 
 ## Installation
@@ -12,8 +12,8 @@ lastmod: 2025-09-13
 - [ ] Keyboard
   - [x] Brazillian layout - https://github.com/lucasrcezimbra/dotfiles/commit/86784468c22382f63f848014f1fe2e587c2e50da
   - [ ] Fix Slash, question mark key (keycode 97)
-- [ ] Trackpad
-  - [ ] Fix upper right and left buttons
+- [x] Trackpad
+  - [ ] Fix upper right button
 - [x] External monitor
   - [ ] I disable my laptop monitor. How to auto-enable it when I disconnect the HDMI cable?
 - [x] Webcam
@@ -40,6 +40,8 @@ lastmod: 2025-09-13
 
 
 ## Work
+- [x] Google Meet
+  - [ ] Share screen
 - [ ] Zoom
   - [ ] Share screen
 

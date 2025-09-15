@@ -1,8 +1,20 @@
 ---
 title: Diário de Paternidade
 date: 2025-06-26
-lastmod: 2025-08-29
+lastmod: 2025-09-15
 ---
+
+## 2025-09-13
+Eu estou com uma tosse horrível há uns dias, já com raiva porque não passa
+nunca. Hoje eu tossi uma hora e a Maria Helena gargalhou. Ela gargalhou poucas
+vezes depois da primeira vez no dia [2025-08-24](#2025-08-24). Eu que estava
+com raiva da tosse, comecei a tossir por gosto pra fazer ela rir mais.
+
+
+## 2025-09-05
+Essa semana a Maria Helena investou uma tosse falsa. Dá onde ela tira essas
+coisas?
+
 
 ## 2025-08-29
 Esses dias eu perguntei pra Maria Helena "quem é a princesa do papai?", tenho
