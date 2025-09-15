@@ -127,6 +127,8 @@ Antônio de Macedo Costa&lt;/li&gt;
 &lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; External monitor&lt;/li&gt;
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; disable the internal monitor somehow (I just use the external one when I&amp;rsquo;m in my workstation)&lt;/li&gt;
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; auto-enable the internal monitor when external is disconnected&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/erans/hyprmon" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/erans/hyprmon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/basecamp/omarchy/discussions/994" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/basecamp/omarchy/discussions/994&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Keyboard
