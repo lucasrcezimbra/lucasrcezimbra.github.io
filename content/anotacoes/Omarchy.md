@@ -14,6 +14,8 @@ lastmod: 2025-09-15
   - [x] External monitor
   - [ ] disable the internal monitor somehow (I just use the external one when I'm in my workstation)
   - [ ] auto-enable the internal monitor when external is disconnected
+  - https://github.com/erans/hyprmon
+  - https://github.com/basecamp/omarchy/discussions/994
 - [ ] Keyboard
   - [x] Brazillian layout - https://github.com/lucasrcezimbra/dotfiles/commit/86784468c22382f63f848014f1fe2e587c2e50da
   - [ ] Fix Slash, question mark key (keycode 97)
