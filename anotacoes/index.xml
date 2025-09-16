@@ -131,10 +131,10 @@ Antônio de Macedo Costa&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/basecamp/omarchy/discussions/994" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/basecamp/omarchy/discussions/994&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Keyboard
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Keyboard
 &lt;ul&gt;
 &lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Brazillian layout - &lt;a href="https://github.com/lucasrcezimbra/dotfiles/commit/86784468c22382f63f848014f1fe2e587c2e50da" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/lucasrcezimbra/dotfiles/commit/86784468c22382f63f848014f1fe2e587c2e50da&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Fix Slash, question mark key (keycode 97)&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Fix Slash, question mark key (keycode 97) - &lt;a href="https://github.com/lucasrcezimbra/dotfiles/commit/94276b4a8496bb756bd3a2deda12eccd392d1c08" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/lucasrcezimbra/dotfiles/commit/94276b4a8496bb756bd3a2deda12eccd392d1c08&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Trackpad
@@ -165,7 +165,10 @@ Antônio de Macedo Costa&lt;/li&gt;
 &lt;li&gt;I removed the Omarchy default mise.toml config which was installing Ruby. I hope it doesn&amp;rsquo;t break anything&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Remove non-used stuff (Basecamp, Hey, etc.) - &lt;a href="https://github.com/lucasrcezimbra/dotfiles/commit/8e485c9c324d0faf255da5fa4a75c7e2c16d9ff5" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/lucasrcezimbra/dotfiles/commit/8e485c9c324d0faf255da5fa4a75c7e2c16d9ff5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Remove non-used webapps (Basecamp, Hey, etc.) - &lt;a href="https://github.com/lucasrcezimbra/dotfiles/commit/8e485c9c324d0faf255da5fa4a75c7e2c16d9ff5" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/lucasrcezimbra/dotfiles/commit/8e485c9c324d0faf255da5fa4a75c7e2c16d9ff5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Remove non-used packages (1password, signal, localsend, typora, etc.) - &lt;a href="https://github.com/lucasrcezimbra/dotfiles/commit/abd6135b38d547398410cb576cf88da0e4be9f1c" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/lucasrcezimbra/dotfiles/commit/abd6135b38d547398410cb576cf88da0e4be9f1c&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Install Bitwarden and set as default password - &lt;a href="https://github.com/lucasrcezimbra/dotfiles/commit/4e5a45982888d3434db34fdc57d823a6cc821bb1" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/lucasrcezimbra/dotfiles/commit/4e5a45982888d3434db34fdc57d823a6cc821bb1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Install tailscale - &lt;a href="https://github.com/lucasrcezimbra/dotfiles/commit/4e5a45982888d3434db34fdc57d823a6cc821bb1" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/lucasrcezimbra/dotfiles/commit/4e5a45982888d3434db34fdc57d823a6cc821bb1&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Zsh + Oh-my-zsh&lt;/li&gt;
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Custom NeoVim configs&lt;/li&gt;
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Wezterm - I can&amp;rsquo;t live without &lt;a href="https://wezterm.org/quickselect.html" class="external-link" target="_blank" rel="noopener"&gt;Quick Select Mode&lt;/a&gt; anymore&lt;/li&gt;
