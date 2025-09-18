@@ -1,15 +1,15 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-09-15
+lastmod: 2025-09-18
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
-- [Weeknotes/2025-09-14 - 2025-09-20]({{< ref "Weeknotes/2025-09-14 - 2025-09-20" >}})
 - [Omarchy]({{< ref "Omarchy" >}})
+- [Weeknotes/2025-09-14 - 2025-09-20]({{< ref "Weeknotes/2025-09-14 - 2025-09-20" >}})
 - [Diário de Paternidade]({{< ref "Diário de Paternidade" >}})
 - [Weeknotes/2025-09-07 - 2025-09-13]({{< ref "Weeknotes/2025-09-07 - 2025-09-13" >}})
 - [Weeknotes/2025-08-31 - 2025-09-06]({{< ref "Weeknotes/2025-08-31 - 2025-09-06" >}})
