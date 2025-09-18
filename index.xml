@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-09-14 - 2025-09-20</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-09-14---2025-09-20/</link><pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-09-14---2025-09-20/</guid><description>&lt;p&gt;&lt;a href="" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-09-14 - 2025-09-20</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-09-14---2025-09-20/</link><pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-09-14---2025-09-20/</guid><description>&lt;p&gt;&lt;a href="" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h2 id="books-being-read"&gt;
@@ -103,7 +103,8 @@ Antônio de Macedo Costa&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href="" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;</description></item><item><title>Omarchy</title><link>https://cezimbra.me/anotacoes/omarchy/</link><pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/omarchy/</guid><description>&lt;h2 id="installation"&gt;
+&lt;p&gt;&lt;a href="" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;</description></item><item><title>Omarchy</title><link>https://cezimbra.me/anotacoes/omarchy/</link><pubDate>Sat, 13 Sep 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/omarchy/</guid><description>&lt;p&gt;🔽 = lower priority&lt;/p&gt;
+&lt;h2 id="installation"&gt;
  Installation
  &lt;a class="heading-link" href="#installation"&gt;
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
@@ -125,8 +126,9 @@ Antônio de Macedo Costa&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Internal monitor&lt;/li&gt;
 &lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; External monitor&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; disable the internal monitor somehow (I just use the external one when I&amp;rsquo;m in my workstation)&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; auto-enable the internal monitor when external is disconnected&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 🔽 disable the internal monitor somehow (I just use the external one when I&amp;rsquo;m in my workstation)&lt;/li&gt;
+&lt;li&gt;🔽 [ ] auto-enable the internal monitor when external is disconnected&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://wiki.archlinux.org/title/Kanshi" class="external-link" target="_blank" rel="noopener"&gt;https://wiki.archlinux.org/title/Kanshi&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/erans/hyprmon" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/erans/hyprmon&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/basecamp/omarchy/discussions/994" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/basecamp/omarchy/discussions/994&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -139,17 +141,16 @@ Antônio de Macedo Costa&lt;/li&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Trackpad
 &lt;ul&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Fix upper right button&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; External monitor
-&lt;ul&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; I disable my laptop monitor. How to auto-enable it when I disconnect the HDMI cable?&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 🔽 Fix upper right button&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Webcam&lt;/li&gt;
 &lt;li&gt;&lt;input checked="" disabled="" type="checkbox"&gt; Mic&lt;/li&gt;
-&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Fingerprint&lt;/li&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; 🔽 Fingerprint - In my current setup (Debian + XFCE), I have two
+passwords: one for the disk encryption (longer/harder one, only need to type
+once), another for the user (easier one, type after every screen lock). Given
+Omarchy uses the same password (the longer/harder one) for both, I want to
+configure the fingerprint, so I will have to type the password only once.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="software"&gt;
  Software
@@ -215,6 +216,18 @@ Antônio de Macedo Costa&lt;/li&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;input disabled="" type="checkbox"&gt; Clean up mise.toml. Most tools are there because Debian didn&amp;rsquo;t have the latest version. Now, with Arch, they can be removed and installed using Arch packages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="other"&gt;
+ Other
+ &lt;a class="heading-link" href="#other"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled="" type="checkbox"&gt; In my current setup (Debian + XFCE), I use two users, one for my personal
+stuff and another for work stuff. I used it to separate environment
+variables (API Keys, etc.) and other configs. I need to figure out how to do the same in&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>2025-09-07 - 2025-09-13</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-09-07---2025-09-13/</link><pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-09-07---2025-09-13/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-31---2025-09-06/" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -10333,8 +10346,8 @@ on your page can access;&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p&gt;Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p&gt;
 &lt;p&gt;Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-14---2025-09-20/" &gt;Weeknotes/2025-09-14 - 2025-09-20&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/omarchy/" &gt;Omarchy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-14---2025-09-20/" &gt;Weeknotes/2025-09-14 - 2025-09-20&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/di%C3%A1rio-de-paternidade/" &gt;Diário de Paternidade&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-07---2025-09-13/" &gt;Weeknotes/2025-09-07 - 2025-09-13&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-31---2025-09-06/" &gt;Weeknotes/2025-08-31 - 2025-09-06&lt;/a&gt;&lt;/li&gt;
