@@ -40,12 +40,14 @@ lastmod: 2025-09-18
   - I removed the Omarchy default mise.toml config which was installing Ruby. I hope it doesn't break anything
 - [x] Remove non-used webapps (Basecamp, Hey, etc.) - https://github.com/lucasrcezimbra/dotfiles/commit/8e485c9c324d0faf255da5fa4a75c7e2c16d9ff5
 - [x] Remove non-used packages (1password, signal, localsend, typora, etc.) - https://github.com/lucasrcezimbra/dotfiles/commit/abd6135b38d547398410cb576cf88da0e4be9f1c
-- [x] Install Bitwarden and set as default password - https://github.com/lucasrcezimbra/dotfiles/commit/4e5a45982888d3434db34fdc57d823a6cc821bb1
+- [x] Install Bitwarden - https://github.com/lucasrcezimbra/dotfiles/commit/4e5a45982888d3434db34fdc57d823a6cc821bb1
 - [x] Install tailscale - https://github.com/lucasrcezimbra/dotfiles/commit/4e5a45982888d3434db34fdc57d823a6cc821bb1
+- [x] Set Bitwarden as default password - https://github.com/lucasrcezimbra/dotfiles/commit/a4eff39405076fe7502836a43e1f4d8c855770db
 - [ ] Zsh + Oh-my-zsh
 - [ ] Custom NeoVim configs
 - [ ] Wezterm - I can't live without [Quick Select Mode](https://wezterm.org/quickselect.html) anymore
 - [ ] Is there a way to hide and unhide a window instead of closing it?
+- [x] WhatsApp as default messenger - https://github.com/lucasrcezimbra/dotfiles/commit/e088a6159e91bcc00980d566cc84207c12aae391
 
 
 ## Devices
