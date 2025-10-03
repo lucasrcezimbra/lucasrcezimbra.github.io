@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 25 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-09-21 - 2025-09-27</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-09-21---2025-09-27/</link><pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-09-21---2025-09-27/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-14---2025-09-20/" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 03 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-09-28 - 2025-10-04</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-09-28---2025-10-04/</link><pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-09-28---2025-10-04/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-21---2025-09-27/" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h2 id="books-being-read"&gt;
@@ -11,6 +11,10 @@
 &lt;ul&gt;
 &lt;li&gt;(pt-BR) Conversas Cruciais - Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan
 &amp;amp; Al Switzler &amp;amp; Emily Gregory&lt;/li&gt;
+&lt;li&gt;(pt-BR) História da Igreja: marcas da presença de Cristo no mundo - Angela
+Pellicciari&lt;/li&gt;
+&lt;li&gt;(pt-BR) História bíblica: narrativas do Antigo e do Novo Testamento - Dom
+Antônio de Macedo Costa&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -22,7 +26,7 @@
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://getdeploying.com/" class="external-link" target="_blank" rel="noopener"&gt;GetDeploying | Compare cloud providers for your next project&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -46,9 +50,7 @@
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;(pt-BR) &lt;a href="https://www.tabnews.com.br/microsaas/saas-com-100-assinantes-saiba-o-lucro" class="external-link" target="_blank" rel="noopener"&gt;SaaS com 100 assinantes: saiba o lucro · microsaas · TabNews&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://world.hey.com/dhh/words-are-not-violence-c751f14f" class="external-link" target="_blank" rel="noopener"&gt;Words are not violence&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://world.hey.com/dhh/the-great-falls-of-boeing-intel-and-apple-4c18ca39" class="external-link" target="_blank" rel="noopener"&gt;The great falls of Boeing, Intel, and Apple&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -60,7 +62,60 @@
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.anthropic.com/news/claude-sonnet-4-5" class="external-link" target="_blank" rel="noopener"&gt;Introducing Claude Sonnet 4.5 \ Anthropic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id="skimmed"&gt;
+ Skimmed
+ &lt;a class="heading-link" href="#skimmed"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://vite.dev/guide/rolldown.html-integration" class="external-link" target="_blank" rel="noopener"&gt;Rolldown Integration | Vite&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id="watched"&gt;
+ Watched
+ &lt;a class="heading-link" href="#watched"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=1PaoWKvcJP0" class="external-link" target="_blank" rel="noopener"&gt;Sound on for Sora 2. - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id="listened"&gt;
+ Listened
+ &lt;a class="heading-link" href="#listened"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-21---2025-09-27/" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;</description></item><item><title>2025-09-21 - 2025-09-27</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-09-21---2025-09-27/</link><pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-09-21---2025-09-27/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-14---2025-09-20/" &gt;&amp;laquo; Previous&lt;/a&gt; | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-28---2025-10-04/" &gt;Next &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h2 id="read-articles"&gt;
+ Read articles
+ &lt;a class="heading-link" href="#read-articles"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;(pt-BR) &lt;a href="https://www.tabnews.com.br/microsaas/saas-com-100-assinantes-saiba-o-lucro" class="external-link" target="_blank" rel="noopener"&gt;SaaS com 100 assinantes: saiba o lucro · microsaas · TabNews&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://world.hey.com/dhh/words-are-not-violence-c751f14f" class="external-link" target="_blank" rel="noopener"&gt;Words are not violence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://world.hey.com/dhh/the-great-falls-of-boeing-intel-and-apple-4c18ca39" class="external-link" target="_blank" rel="noopener"&gt;The great falls of Boeing, Intel, and Apple&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -103,7 +158,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-14---2025-09-20/" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;</description></item><item><title>2025-09-14 - 2025-09-20</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-09-14---2025-09-20/</link><pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-09-14---2025-09-20/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-07---2025-09-13/" &gt;&amp;laquo; Previous&lt;/a&gt; | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-21---2025-09-27/" &gt;Next &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-14---2025-09-20/" &gt;&amp;laquo; Previous&lt;/a&gt; | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-28---2025-10-04/" &gt;Next &amp;raquo;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>2025-09-14 - 2025-09-20</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-09-14---2025-09-20/</link><pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-09-14---2025-09-20/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-07---2025-09-13/" &gt;&amp;laquo; Previous&lt;/a&gt; | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-21---2025-09-27/" &gt;Next &amp;raquo;&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h2 id="books-being-read"&gt;
@@ -10402,6 +10457,8 @@ on your page can access;&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p&gt;Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p&gt;
 &lt;p&gt;Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-28---2025-10-04/" &gt;Weeknotes/2025-09-28 - 2025-10-04&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/linux/" &gt;Linux&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-21---2025-09-27/" &gt;Weeknotes/2025-09-21 - 2025-09-27&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-14---2025-09-20/" &gt;Weeknotes/2025-09-14 - 2025-09-20&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/omarchy/" &gt;Omarchy&lt;/a&gt;&lt;/li&gt;
@@ -10410,7 +10467,6 @@ on your page can access;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-31---2025-09-06/" &gt;Weeknotes/2025-08-31 - 2025-09-06&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-24---2025-08-30/" &gt;Weeknotes/2025-08-24 - 2025-08-30&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/portugu%C3%AAs/" &gt;Português&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/linux/" &gt;Linux&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-17---2025-08-23/" &gt;Weeknotes/2025-08-17 - 2025-08-23&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/armas-de-fogo/" &gt;Armas de Fogo&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-08-10---2025-08-16/" &gt;Weeknotes/2025-08-10 - 2025-08-16&lt;/a&gt;&lt;/li&gt;
@@ -11841,6 +11897,10 @@ exists.&lt;/li&gt;
 &lt;/li&gt;
 &lt;li&gt;Inverter o teclado - Símbolos serem primários e os números secundários (créditos ao &lt;a href="https://elmord.org/" class="external-link" target="_blank" rel="noopener"&gt;Vítor&lt;/a&gt;)
 &lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;xmodmap -pke | sed -nre &lt;span style="color:#cd0000"&gt;&amp;#39;s/keycode (1[0-9]) = ([^ ]*) ([^ ]*)/keycode \1 = \3 \2/p&amp;#39;&lt;/span&gt; | xmodmap -
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;Ignoring lines in sed
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# Ignore lines containing &amp;#39;# noqa&amp;#39;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sed -i &lt;span style="color:#cd0000"&gt;&amp;#39;/# noqa/! s|@pytest.mark.django_db(transaction=True)|@pytest.mark.django_db|&amp;#39;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="debian"&gt;
