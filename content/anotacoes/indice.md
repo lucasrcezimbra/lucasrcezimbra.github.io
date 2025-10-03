@@ -1,13 +1,15 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-09-25
+lastmod: 2025-10-03
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2025-09-28 - 2025-10-04]({{< ref "Weeknotes/2025-09-28 - 2025-10-04" >}})
+- [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2025-09-21 - 2025-09-27]({{< ref "Weeknotes/2025-09-21 - 2025-09-27" >}})
 - [Weeknotes/2025-09-14 - 2025-09-20]({{< ref "Weeknotes/2025-09-14 - 2025-09-20" >}})
 - [Omarchy]({{< ref "Omarchy" >}})
@@ -16,7 +18,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2025-08-31 - 2025-09-06]({{< ref "Weeknotes/2025-08-31 - 2025-09-06" >}})
 - [Weeknotes/2025-08-24 - 2025-08-30]({{< ref "Weeknotes/2025-08-24 - 2025-08-30" >}})
 - [Português]({{< ref "Português" >}})
-- [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2025-08-17 - 2025-08-23]({{< ref "Weeknotes/2025-08-17 - 2025-08-23" >}})
 - [Armas de Fogo]({{< ref "Armas de Fogo" >}})
 - [Weeknotes/2025-08-10 - 2025-08-16]({{< ref "Weeknotes/2025-08-10 - 2025-08-16" >}})
