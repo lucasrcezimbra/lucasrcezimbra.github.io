@@ -9,6 +9,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2025-10-26 - 2025-11-01]({{< ref "Weeknotes/2025-10-26 - 2025-11-01" >}})
+- [Culinária]({{< ref "Culinária" >}})
 - [Weeknotes/2025-10-19 - 2025-10-25]({{< ref "Weeknotes/2025-10-19 - 2025-10-25" >}})
 - [Weeknotes/2025-10-12 - 2025-10-18]({{< ref "Weeknotes/2025-10-12 - 2025-10-18" >}})
 - [Weeknotes/2025-10-05 - 2025-10-11]({{< ref "Weeknotes/2025-10-05 - 2025-10-11" >}})
@@ -29,7 +30,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2025-08-03 - 2025-08-09]({{< ref "Weeknotes/2025-08-03 - 2025-08-09" >}})
 - [Weeknotes/2025-07-27 - 2025-08-02]({{< ref "Weeknotes/2025-07-27 - 2025-08-02" >}})
 - [GitHub]({{< ref "GitHub" >}})
-- [Culinária]({{< ref "Culinária" >}})
 - [Weeknotes/2025-07-20 - 2025-07-26]({{< ref "Weeknotes/2025-07-20 - 2025-07-26" >}})
 - [Bash]({{< ref "Bash" >}})
 - [Weeknotes/2025-07-13 - 2025-07-19]({{< ref "Weeknotes/2025-07-13 - 2025-07-19" >}})

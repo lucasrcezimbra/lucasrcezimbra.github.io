@@ -1,7 +1,7 @@
 ---
 title: "Culinária"
 date: 2025-05-11
-lastmod: 2025-07-31
+lastmod: 2025-10-28
 ---
 
 ## Costela de porco na brasa
@@ -15,11 +15,13 @@ lastmod: 2025-07-31
 - 1 colher de sopa (ou 2 g) de orégano
 - 1 colher de sopa (ou 2 g) de salsa desidratada
 - 4 colheres de sopa de azeite
-- 4 colheres de sopa de vinho branco
+- 4 colheres de sopa de vinho branco (ou meio limão espremido)
+- 2 colheres de cebola picada
 - 1 colher de sopa de sal
 
 ### Prepaoo
-1. Mistura tudo
+1. Mistura tudo (pode ser usando aqueles trituradores de tempero).
+1. Prove a mistura e ajuste o sal e outros conforme o gosto.
 1. Espalha nos dois lados da costela
 1. Deixa descansar na geladeira de um dia pro outro.
 4. Espeta e coloca na brasa em fogo baixo.
