@@ -11,6 +11,13 @@ date: 2022-04-08T20:08:54-03:00
 >}}
 
 {{< project
+    name="claude-code-easyhooks"
+    description="Micro-framework para escrever hooks para o Claude Code."
+    github="lucasrcezimbra/claude-code-easyhooks"
+    pypi="claude-code-easyhooks"
+>}}
+
+{{< project
     name="Banco Inter"
     description="Cliente para consumir a API do banco Inter para contas PJ"
     github="lucasrcezimbra/bancointer"
@@ -132,6 +139,20 @@ date: 2022-04-08T20:08:54-03:00
 
 ### Código
 
+{{< contribution
+    status="closed"
+    url="https://github.com/boidolr/ast-grep-pre-commit/pull/43"
+    project="ast-grep-pre-commit"
+    title="feat: hook to fix all"
+    date="2025-10-06"
+>}}
+{{< contribution
+    status="open"
+    url="https://github.com/boidolr/ast-grep-pre-commit/pull/42"
+    project="ast-grep-pre-commit"
+    title="fix: use --color=never"
+    date="2025-10-06"
+>}}
 {{< contribution
     status="open"
     url="https://github.com/vitalik/django-ninja/pull/1467"

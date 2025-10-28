@@ -1,13 +1,17 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-10-03
+lastmod: 2025-10-28
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2025-10-26 - 2025-11-01]({{< ref "Weeknotes/2025-10-26 - 2025-11-01" >}})
+- [Weeknotes/2025-10-19 - 2025-10-25]({{< ref "Weeknotes/2025-10-19 - 2025-10-25" >}})
+- [Weeknotes/2025-10-12 - 2025-10-18]({{< ref "Weeknotes/2025-10-12 - 2025-10-18" >}})
+- [Weeknotes/2025-10-05 - 2025-10-11]({{< ref "Weeknotes/2025-10-05 - 2025-10-11" >}})
 - [Weeknotes/2025-09-28 - 2025-10-04]({{< ref "Weeknotes/2025-09-28 - 2025-10-04" >}})
 - [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2025-09-21 - 2025-09-27]({{< ref "Weeknotes/2025-09-21 - 2025-09-27" >}})
