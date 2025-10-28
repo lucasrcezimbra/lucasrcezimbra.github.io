@@ -115,6 +115,26 @@ Responsible for conducting technical interviews.&lt;/p&gt;</description></item><
 
 &lt;div class="card "&gt;
  &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;claude-code-easyhooks&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;Micro-framework to create hooks for Claude Code.&lt;/span&gt;
+ &lt;div&gt;
+ 
+
+ 
+ &lt;a href="https://github.com/lucasrcezimbra/claude-code-easyhooks/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+
+ 
+ &lt;a href="https://pypi.org/project/claude-code-easyhooks/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
+ 
+
+ 
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card "&gt;
+ &lt;div class="container"&gt;
  &lt;h3&gt;&lt;b&gt;toolbox&lt;/b&gt;&lt;/h3&gt;
  &lt;span&gt;Toolbox is where I keep the libraries, frameworks, tools, languages, etc. that I know&lt;/span&gt;
  &lt;div&gt;
@@ -444,6 +464,26 @@ Responsible for conducting technical interviews.&lt;/p&gt;</description></item><
  &lt;/a&gt;
 &lt;/h3&gt;
 &lt;p&gt;&lt;div class="contribution"&gt;
+ &lt;span&gt;2025-10-06 -&lt;/span&gt;
+ 
+ 
+ 
+ &lt;img src="https://cezimbra.me/images/code-pr-closed.svg"&gt;
+ 
+ &lt;a class="external-link" href="https://github.com/boidolr/ast-grep-pre-commit/pull/43" target="_blank"&gt;ast-grep-pre-commit: feat: hook to fix all&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2025-10-06 -&lt;/span&gt;
+ 
+ 
+ &lt;img src="https://cezimbra.me/images/code-pr-open.svg"&gt;
+ 
+ 
+ &lt;a class="external-link" href="https://github.com/boidolr/ast-grep-pre-commit/pull/42" target="_blank"&gt;ast-grep-pre-commit: fix: use --color=never&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class="contribution"&gt;
  &lt;span&gt;2025-05-23 -&lt;/span&gt;
  
  

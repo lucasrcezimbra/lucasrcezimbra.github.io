@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 03 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-09-28 - 2025-10-04</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-09-28---2025-10-04/</link><pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-09-28---2025-10-04/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-21---2025-09-27/" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2025-10-26 - 2025-11-01</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-10-26---2025-11-01/</link><pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-10-26---2025-11-01/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-10-12---2025-10-18/" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h2 id="books-being-read"&gt;
@@ -9,12 +9,7 @@
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;(pt-BR) Conversas Cruciais - Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan
-&amp;amp; Al Switzler &amp;amp; Emily Gregory&lt;/li&gt;
-&lt;li&gt;(pt-BR) História da Igreja: marcas da presença de Cristo no mundo - Angela
-Pellicciari&lt;/li&gt;
-&lt;li&gt;(pt-BR) História bíblica: narrativas do Antigo e do Novo Testamento - Dom
-Antônio de Macedo Costa&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -26,7 +21,7 @@ Antônio de Macedo Costa&lt;/li&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://getdeploying.com/" class="external-link" target="_blank" rel="noopener"&gt;GetDeploying | Compare cloud providers for your next project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -50,7 +45,193 @@ Antônio de Macedo Costa&lt;/li&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.recall.ai/blog/how-websockets-cost-us-1m-on-our-aws-bill" class="external-link" target="_blank" rel="noopener"&gt;How WebSockets cost us $1M on our AWS bill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/" class="external-link" target="_blank" rel="noopener"&gt;Why &amp;ldquo;alias&amp;rdquo; is my last resort for aliases&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ludic.mataroa.blog/blog/i-am-out-of-data-hell/" class="external-link" target="_blank" rel="noopener"&gt;I Am Out Of Data Hell — Ludicity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://world.hey.com/dhh/success-always-spawns-haters-75edaede" class="external-link" target="_blank" rel="noopener"&gt;Success always spawns haters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id="read-news"&gt;
+ Read news
+ &lt;a class="heading-link" href="#read-news"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.theregister.com/2025/10/23/amazon_outage_postmortem/" class="external-link" target="_blank" rel="noopener"&gt;A single DNS race condition brought AWS to its knees • The Register&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id="skimmed"&gt;
+ Skimmed
+ &lt;a class="heading-link" href="#skimmed"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://arjun.md/little-guys" class="external-link" target="_blank" rel="noopener"&gt;Let the little guys in: Towards a context sharing runtime for the personalised web | Arjun Khoosal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id="watched"&gt;
+ Watched
+ &lt;a class="heading-link" href="#watched"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id="listened"&gt;
+ Listened
+ &lt;a class="heading-link" href="#listened"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-10-12---2025-10-18/" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;</description></item><item><title>2025-10-19 - 2025-10-25</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-10-19---2025-10-25/</link><pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-10-19---2025-10-25/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-10-12---2025-10-18/" &gt;&amp;laquo; Previous&lt;/a&gt; | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-10-26---2025-11-01/" &gt;Next &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h2 id="read-articles"&gt;
+ Read articles
+ &lt;a class="heading-link" href="#read-articles"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.recall.ai/blog/how-websockets-cost-us-1m-on-our-aws-bill" class="external-link" target="_blank" rel="noopener"&gt;How WebSockets cost us $1M on our AWS bill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/" class="external-link" target="_blank" rel="noopener"&gt;Why &amp;ldquo;alias&amp;rdquo; is my last resort for aliases&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ludic.mataroa.blog/blog/i-am-out-of-data-hell/" class="external-link" target="_blank" rel="noopener"&gt;I Am Out Of Data Hell — Ludicity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://world.hey.com/dhh/success-always-spawns-haters-75edaede" class="external-link" target="_blank" rel="noopener"&gt;Success always spawns haters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://steipete.me/posts/just-talk-to-it" class="external-link" target="_blank" rel="noopener"&gt;Just Talk To It - the no-bs Way of Agentic Engineering | Peter Steinberger&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id="read-news"&gt;
+ Read news
+ &lt;a class="heading-link" href="#read-news"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.theregister.com/2025/10/23/amazon_outage_postmortem/" class="external-link" target="_blank" rel="noopener"&gt;A single DNS race condition brought AWS to its knees • The Register&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id="skimmed"&gt;
+ Skimmed
+ &lt;a class="heading-link" href="#skimmed"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://notes.mtb.xyz/p/your-data-model-is-your-destiny" class="external-link" target="_blank" rel="noopener"&gt;Your data model is your destiny - Matt Brown's Notes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://simonwillison.net/2025/Oct/5/parallel-coding-agents/" class="external-link" target="_blank" rel="noopener"&gt;Embracing the parallel coding agent lifestyle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.notcheckmark.com/2025/07/rethinking-cli-interfaces-for-ai/" class="external-link" target="_blank" rel="noopener"&gt;Rethinking CLI interfaces for AI — ⍻&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://simonwillison.net/2025/Oct/22/living-dangerously-with-claude/" class="external-link" target="_blank" rel="noopener"&gt;Living dangerously with Claude&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-10-12---2025-10-18/" &gt;&amp;laquo; Previous&lt;/a&gt; | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-10-26---2025-11-01/" &gt;Next &amp;raquo;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>2025-10-12 - 2025-10-18</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-10-12---2025-10-18/</link><pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-10-12---2025-10-18/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-10-05---2025-10-11/" &gt;&amp;laquo; Previous&lt;/a&gt; | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-10-26---2025-11-01/" &gt;Next &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h2 id="read-articles"&gt;
+ Read articles
+ &lt;a class="heading-link" href="#read-articles"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://itsfoss.com/btrfs/" class="external-link" target="_blank" rel="noopener"&gt;What is Btrfs in Linux? What are its Advantages Over Ext4?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hiddencap.com/stories/sora" class="external-link" target="_blank" rel="noopener"&gt;Sora: Clipping to Cloning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://snarky.ca/why-it-took-4-years-to-get-a-lock-files-specification/" class="external-link" target="_blank" rel="noopener"&gt;Why it took 4 years to get a lock files specification&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://simonwillison.net/2025/Oct/5/parallel-coding-agents/" class="external-link" target="_blank" rel="noopener"&gt;Embracing the parallel coding agent lifestyle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://sketch.dev/blog/seven-prompting-habits" class="external-link" target="_blank" rel="noopener"&gt;sketch blog: The 7 Prompting Habits of Highly Effective Engineers *&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://allvpv.org/haotic-journey-through-envvars/" class="external-link" target="_blank" rel="noopener"&gt;Environment variables are a legacy mess: Let's dive deep into them | allvpv’s space&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id="read-news"&gt;
+ Read news
+ &lt;a class="heading-link" href="#read-news"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://threadreaderapp.com/thread/1977755427569111362.html" class="external-link" target="_blank" rel="noopener"&gt;&amp;ldquo;Excited to release new repo: nanochat!&amp;rdquo; by @karpathy – Thread Reader App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://world.hey.com/dhh/a-petabyte-worth-of-omarchy-in-a-month-a1fc538e" class="external-link" target="_blank" rel="noopener"&gt;A petabyte worth of Omarchy in a month&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://adamj.eu/tech/2025/10/10/introducing-django-http-compression/" class="external-link" target="_blank" rel="noopener"&gt;Django: Introducing django-http-compression - Adam Johnson&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id="skimmed"&gt;
+ Skimmed
+ &lt;a class="heading-link" href="#skimmed"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;(pt-BR) &lt;a href="https://microsaas.substack.com/p/como-um-empreendedor-construiu-3" class="external-link" target="_blank" rel="noopener"&gt;Conheça o empreendedor que construiu 3 SaaS que faturam +700k todo mês&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-10-05---2025-10-11/" &gt;&amp;laquo; Previous&lt;/a&gt; | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-10-26---2025-11-01/" &gt;Next &amp;raquo;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>2025-10-05 - 2025-10-11</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-10-05---2025-10-11/</link><pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-10-05---2025-10-11/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-28---2025-10-04/" &gt;&amp;laquo; Previous&lt;/a&gt; | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-10-12---2025-10-18/" &gt;Next &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h2 id="read-articles"&gt;
+ Read articles
+ &lt;a class="heading-link" href="#read-articles"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://world.hey.com/dhh/pay-yourself-first-e86f8147" class="external-link" target="_blank" rel="noopener"&gt;Pay yourself first&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(pt-BR) &lt;a href="https://moacirmoda.substack.com/p/as-ferias-e-a-ansiedade" class="external-link" target="_blank" rel="noopener"&gt;As férias (e a ansiedade) - by Moacir Moda&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-28---2025-10-04/" &gt;&amp;laquo; Previous&lt;/a&gt; | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-10-12---2025-10-18/" &gt;Next &amp;raquo;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>2025-09-28 - 2025-10-04</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-09-28---2025-10-04/</link><pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-09-28---2025-10-04/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-21---2025-09-27/" &gt;&amp;laquo; Previous&lt;/a&gt; | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-10-05---2025-10-11/" &gt;Next &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h2 id="discovered-tools"&gt;
+ Discovered tools
+ &lt;a class="heading-link" href="#discovered-tools"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://getdeploying.com/" class="external-link" target="_blank" rel="noopener"&gt;GetDeploying | Compare cloud providers for your next project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id="read-articles"&gt;
+ Read articles
+ &lt;a class="heading-link" href="#read-articles"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;(pt-BR) &lt;a href="https://moacirmoda.substack.com/p/o-maior-erro-de-quem-quer-crescer" class="external-link" target="_blank" rel="noopener"&gt;O maior erro de quem quer crescer um SaaS - by Moacir Moda&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -75,6 +256,7 @@ Antônio de Macedo Costa&lt;/li&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://vite.dev/guide/rolldown.html-integration" class="external-link" target="_blank" rel="noopener"&gt;Rolldown Integration | Vite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(pt-BR) &lt;a href="https://microsaas.substack.com/p/os-6-piores-modelos-de-negocio-para" class="external-link" target="_blank" rel="noopener"&gt;Os 6 piores modelos de negócio para empreender em 2025&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -89,20 +271,8 @@ Antônio de Macedo Costa&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=1PaoWKvcJP0" class="external-link" target="_blank" rel="noopener"&gt;Sound on for Sora 2. - YouTube&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;h2 id="listened"&gt;
- Listened
- &lt;a class="heading-link" href="#listened"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-21---2025-09-27/" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;</description></item><item><title>2025-09-21 - 2025-09-27</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-09-21---2025-09-27/</link><pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-09-21---2025-09-27/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-14---2025-09-20/" &gt;&amp;laquo; Previous&lt;/a&gt; | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-28---2025-10-04/" &gt;Next &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-21---2025-09-27/" &gt;&amp;laquo; Previous&lt;/a&gt; | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-10-05---2025-10-11/" &gt;Next &amp;raquo;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>2025-09-21 - 2025-09-27</title><link>https://cezimbra.me/anotacoes/weeknotes/2025-09-21---2025-09-27/</link><pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2025-09-21---2025-09-27/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-14---2025-09-20/" &gt;&amp;laquo; Previous&lt;/a&gt; | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-28---2025-10-04/" &gt;Next &amp;raquo;&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h2 id="read-articles"&gt;
@@ -725,9 +895,11 @@ tool name to help the LLM; e.g. search_&lt;em&gt;, code_&lt;/em&gt;, etc.&lt;/li
 &lt;/h2&gt;
 &lt;p&gt;O adjetivo &amp;ldquo;claro&amp;rdquo; deve se referir a e concordar com um substantivo. Exemplos:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Quero deixar clarA a situação.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Quero deixar clarA a situação.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Quero deixar clarAS duas coisas.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Quero deixar clarAS duas coisas.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Referência: &lt;a href="https://portais.ufma.br/PortalUfma/paginas/noticias/noticia.jsf?id=57764" class="external-link" target="_blank" rel="noopener"&gt;Segunda do Português: &amp;ldquo;Deixar claro&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id="esse-vs-este"&gt;
  Esse vs. Este
@@ -2538,10 +2710,12 @@ Antônio de Macedo Costa&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://moacirmoda.substack.com/p/como-roubar-na-carreira-e-crescer" class="external-link" target="_blank" rel="noopener"&gt;Como roubar na carreira e crescer muito mais rápido - by Moacir Moda&lt;/a&gt; (pt-BR)&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;produzir conteúdo é &amp;ldquo;roubar&amp;rdquo; na carreira.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;produzir conteúdo é &amp;ldquo;roubar&amp;rdquo; na carreira.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;producing content is &amp;ldquo;hacking&amp;rdquo; your career&lt;/p&gt;
-&lt;p&gt;(my translation)&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;(my translation)&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href="https://open.substack.com/pub/moacirmoda/p/como-produzir-um-bom-conteudo" class="external-link" target="_blank" rel="noopener"&gt;Como produzir um BOM conteúdo em 2025 - by Moacir Moda&lt;/a&gt; (pt-BR)&lt;/p&gt;
@@ -9212,7 +9386,8 @@ Explicação GPT-4o:&lt;/p&gt;</description></item><item><title>Pesca</title><li
 &lt;blockquote&gt;
 &lt;p&gt;Monoliths are good enough for almost everything.&lt;/p&gt;
 &lt;p&gt;Microservices need justification.
-&lt;a href="https://x.com/milan_milanovic/status/1722252645438484810?s=46" class="external-link" target="_blank" rel="noopener"&gt;https://x.com/milan_milanovic/status/1722252645438484810?s=46&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;a href="https://x.com/milan_milanovic/status/1722252645438484810?s=46" class="external-link" target="_blank" rel="noopener"&gt;https://x.com/milan_milanovic/status/1722252645438484810?s=46&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;h2 id="references"&gt;
  References
  &lt;a class="heading-link" href="#references"&gt;
@@ -10457,6 +10632,10 @@ on your page can access;&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p&gt;Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p&gt;
 &lt;p&gt;Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-10-26---2025-11-01/" &gt;Weeknotes/2025-10-26 - 2025-11-01&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-10-19---2025-10-25/" &gt;Weeknotes/2025-10-19 - 2025-10-25&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-10-12---2025-10-18/" &gt;Weeknotes/2025-10-12 - 2025-10-18&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-10-05---2025-10-11/" &gt;Weeknotes/2025-10-05 - 2025-10-11&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-28---2025-10-04/" &gt;Weeknotes/2025-09-28 - 2025-10-04&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/linux/" &gt;Linux&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-09-21---2025-09-27/" &gt;Weeknotes/2025-09-21 - 2025-09-27&lt;/a&gt;&lt;/li&gt;
@@ -11259,18 +11438,26 @@ on your page can access;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Catolicismo</title><link>https://cezimbra.me/anotacoes/catolicismo/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/catolicismo/</guid><description>&lt;blockquote&gt;
-&lt;p&gt;Sê firme, amável e justo.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;Sê firme, amável e justo.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Vinde a mim vós todos que estais cansados e sobrecarregados e eu vos
-aliviarei. (Mateus 11, 28)&lt;/p&gt;&lt;/blockquote&gt;
+aliviarei. (Mateus 11, 28)&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;A autoridade existe para o bem daquele sobre que ela é estabelecida.
-(Diferença entre autoridade e autoritarismo)&lt;/p&gt;&lt;/blockquote&gt;
+(Diferença entre autoridade e autoritarismo)&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Os jovens não só devem ser amados, como devem saber que são amados&lt;/p&gt;
-&lt;p&gt;São João Bosco&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;São João Bosco&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;O cristianismo é a única religião que tem um Deus feito homem&lt;/p&gt;</description></item><item><title>ChatGPT - Decimal approximation in Python</title><link>https://cezimbra.me/anotacoes/chatgpt---decimal-approximation-in-python/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/chatgpt---decimal-approximation-in-python/</guid><description>&lt;h2 id="lucas"&gt;
+&lt;p&gt;O cristianismo é a única religião que tem um Deus feito homem&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Ó feliz culpa (do pecado original)!&amp;rdquo; - hino do sábado de aleluia - porque
+despertou a misericórdia de Deus&lt;/p&gt;</description></item><item><title>ChatGPT - Decimal approximation in Python</title><link>https://cezimbra.me/anotacoes/chatgpt---decimal-approximation-in-python/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/chatgpt---decimal-approximation-in-python/</guid><description>&lt;h2 id="lucas"&gt;
  Lucas
  &lt;a class="heading-link" href="#lucas"&gt;
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
@@ -11643,7 +11830,8 @@ Nenhuma cloud ganha dessa eficiência. Mas você tem que saber operar.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;blockquote&gt;
-&lt;p&gt;automatically apply Migrations/Metadata when the server starts&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;automatically apply Migrations/Metadata when the server starts&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href="https://hasura.io/docs/latest/migrations-metadata-seeds/legacy-configs/config-v2/advanced/auto-apply-migrations/#cli-migrations-image" class="external-link" target="_blank" rel="noopener"&gt;cli-migrations image&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -13978,7 +14166,8 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;li&gt;How to publish images?
 &lt;blockquote&gt;
 &lt;p&gt;need to publish the folder with the image files in it&lt;/p&gt;
-&lt;p&gt;from &lt;a href="https://forum.obsidian.md/t/images-in-publish/14665/4" class="external-link" target="_blank" rel="noopener"&gt;https://forum.obsidian.md/t/images-in-publish/14665/4&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;from &lt;a href="https://forum.obsidian.md/t/images-in-publish/14665/4" class="external-link" target="_blank" rel="noopener"&gt;https://forum.obsidian.md/t/images-in-publish/14665/4&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/devidw/obsidian-to-hugo" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/devidw/obsidian-to-hugo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>OpenTelemetry</title><link>https://cezimbra.me/anotacoes/opentelemetry/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/opentelemetry/</guid><description/></item><item><title>Padre Paulo Ricardo</title><link>https://cezimbra.me/anotacoes/padre-paulo-ricardo/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/padre-paulo-ricardo/</guid><description>&lt;ul&gt;
@@ -14432,7 +14621,8 @@ alternativa descentralizada ao GitHub:&lt;/strong&gt; para Jack Dorsey, esse nov
 para controle de versões seria idealmente baseado no Nostr, protocolo criado
 pelo desenvolvedor brasileiro “fiatjaf”. As informações são do perfil
 de Dorsey na rede Nostr.&lt;/p&gt;
-&lt;p&gt;from Filipe Deschamps Newsletter&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;from Filipe Deschamps Newsletter&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.arweave.org/" class="external-link" target="_blank" rel="noopener"&gt;https://www.arweave.org/&lt;/a&gt; - Arweave: Permanent information storage
 &lt;ul&gt;
@@ -15691,7 +15881,8 @@ solto na barriga é normal&lt;/li&gt;
 &lt;p&gt;&lt;strong&gt;Ctrl+M&lt;/strong&gt; + &lt;strong&gt;B&lt;/strong&gt; para criar uma célula nóva abaixo;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ctrl+M&lt;/strong&gt; + &lt;strong&gt;A&lt;/strong&gt; para criar uma célula nóva acima;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ctrl+M&lt;/strong&gt; + &lt;strong&gt;M&lt;/strong&gt; para definir a célula selecionada como tipo Texto;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ctrl+M&lt;/strong&gt; + &lt;strong&gt;Y&lt;/strong&gt; para definir a célula selecionada como tipo Código;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Ctrl+M&lt;/strong&gt; + &lt;strong&gt;Y&lt;/strong&gt; para definir a célula selecionada como tipo Código;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="google-colab"&gt;
@@ -15917,6 +16108,26 @@ empresa pela Prometric; responsável pelas entrevistas técnicas de candidatos.&
  &lt;a href="https://github.com/lucasrcezimbra/missas.com.br/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
  
 
+ 
+
+ 
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card "&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;claude-code-easyhooks&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;Micro-framework para escrever hooks para o Claude Code.&lt;/span&gt;
+ &lt;div&gt;
+ 
+
+ 
+ &lt;a href="https://github.com/lucasrcezimbra/claude-code-easyhooks/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+
+ 
+ &lt;a href="https://pypi.org/project/claude-code-easyhooks/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
  
 
  
@@ -16255,6 +16466,26 @@ empresa pela Prometric; responsável pelas entrevistas técnicas de candidatos.&
  &lt;/a&gt;
 &lt;/h3&gt;
 &lt;p&gt;&lt;div class="contribution"&gt;
+ &lt;span&gt;2025-10-06 -&lt;/span&gt;
+ 
+ 
+ 
+ &lt;img src="https://cezimbra.me/images/code-pr-closed.svg"&gt;
+ 
+ &lt;a class="external-link" href="https://github.com/boidolr/ast-grep-pre-commit/pull/43" target="_blank"&gt;ast-grep-pre-commit: feat: hook to fix all&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2025-10-06 -&lt;/span&gt;
+ 
+ 
+ &lt;img src="https://cezimbra.me/images/code-pr-open.svg"&gt;
+ 
+ 
+ &lt;a class="external-link" href="https://github.com/boidolr/ast-grep-pre-commit/pull/42" target="_blank"&gt;ast-grep-pre-commit: fix: use --color=never&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class="contribution"&gt;
  &lt;span&gt;2025-05-23 -&lt;/span&gt;
  
  
