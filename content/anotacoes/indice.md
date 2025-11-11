@@ -1,13 +1,16 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-10-28
+lastmod: 2025-11-11
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2025-11-09 - 2025-11-15]({{< ref "Weeknotes/2025-11-09 - 2025-11-15" >}})
+- [Git]({{< ref "Git" >}})
+- [Weeknotes/2025-11-02 - 2025-11-08]({{< ref "Weeknotes/2025-11-02 - 2025-11-08" >}})
 - [Weeknotes/2025-10-26 - 2025-11-01]({{< ref "Weeknotes/2025-10-26 - 2025-11-01" >}})
 - [Culinária]({{< ref "Culinária" >}})
 - [Weeknotes/2025-10-19 - 2025-10-25]({{< ref "Weeknotes/2025-10-19 - 2025-10-25" >}})
@@ -97,7 +100,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2024-11-17 - 2024-11-23]({{< ref "Weeknotes/2024-11-17 - 2024-11-23" >}})
 - [Frontend]({{< ref "Frontend" >}})
 - [Weeknotes/2024-11-10 - 2024-11-16]({{< ref "Weeknotes/2024-11-10 - 2024-11-16" >}})
-- [Git]({{< ref "Git" >}})
 - [Designing a multi-tenant Django app]({{< ref "Designing a multi-tenant Django app" >}})
 - [Weeknotes/2024-11-03 - 2024-11-09]({{< ref "Weeknotes/2024-11-03 - 2024-11-09" >}})
 - [Profilling Python tests]({{< ref "Profilling Python tests" >}})

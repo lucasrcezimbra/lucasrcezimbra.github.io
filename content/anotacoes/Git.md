@@ -1,16 +1,16 @@
 ---
 title: Git
 date: 2023-08-15
-lastmod: 2024-11-13
+lastmod: 2025-11-11
 aliases:
   - /git
 ---
 - Using bisect to find bugs
 	```shell
 	git bisect start
-	git bisect (good|bad) <sha1>  # mark commit as good or bad
-	git checkout <sha1>  # switch to the commit
-	git bisect run <cmd>  # run cmd automatically to find bad commit
+	git bisect bad <sha1>  # mark commit as bad
+	git bisect good <sha1>  # mark commit as good
+	git bisect run <cmd>  # run cmd automatically to find the first bad commit
 	git bisect reset  # clean up state and return to the original HEAD
 	```
 - (GitHub) How to recover the deleted branch of a PR?
