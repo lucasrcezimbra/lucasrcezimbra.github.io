@@ -1,13 +1,16 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-11-11
+lastmod: 2025-11-18
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2025-11-16 - 2025-11-22]({{< ref "Weeknotes/2025-11-16 - 2025-11-22" >}})
+- [Learning about Geocoding and Django]({{< ref "Learning about Geocoding and Django" >}})
+- [Natal]({{< ref "Natal" >}})
 - [Weeknotes/2025-11-09 - 2025-11-15]({{< ref "Weeknotes/2025-11-09 - 2025-11-15" >}})
 - [Git]({{< ref "Git" >}})
 - [Weeknotes/2025-11-02 - 2025-11-08]({{< ref "Weeknotes/2025-11-02 - 2025-11-08" >}})
@@ -66,7 +69,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Vim]({{< ref "Vim" >}})
 - [Weeknotes/2025-03-30 - 2025-04-05]({{< ref "Weeknotes/2025-03-30 - 2025-04-05" >}})
 - [Weeknotes/2025-03-23 - 2025-03-29]({{< ref "Weeknotes/2025-03-23 - 2025-03-29" >}})
-- [Natal]({{< ref "Natal" >}})
 - [Weeknotes/2025-03-16 - 2025-03-22]({{< ref "Weeknotes/2025-03-16 - 2025-03-22" >}})
 - [Weeknotes/2025-03-09 - 2025-03-15]({{< ref "Weeknotes/2025-03-09 - 2025-03-15" >}})
 - [Product Development]({{< ref "Product Development" >}})
