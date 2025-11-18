@@ -55,7 +55,7 @@ lastmod: 2025-11-18
 - como eu sei se o despertar é de fome? Se eu não der mama, a criança vai voltar a dormir? Se sim, é bem provável que não seja fome. 
 - desmame noturno aumenta o risco do desmame diurno não resolve os despertares se o motivo não era fome
 
-Motivos dos despertares
+#### Motivos dos despertares
 - fome
 - saltos de desenvolvimento
 - picos de crescimento. Bebê crescendo. "Estirão". O bebê pode acordar com fome
