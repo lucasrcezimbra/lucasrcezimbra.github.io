@@ -1,13 +1,16 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-11-18
+lastmod: 2025-11-27
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2025-11-23 - 2025-11-29]({{< ref "Weeknotes/2025-11-23 - 2025-11-29" >}})
+- [Linux]({{< ref "Linux" >}})
+- [Databases]({{< ref "Databases" >}})
 - [Weeknotes/2025-11-16 - 2025-11-22]({{< ref "Weeknotes/2025-11-16 - 2025-11-22" >}})
 - [Learning about Geocoding and Django]({{< ref "Learning about Geocoding and Django" >}})
 - [Natal]({{< ref "Natal" >}})
@@ -20,7 +23,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2025-10-12 - 2025-10-18]({{< ref "Weeknotes/2025-10-12 - 2025-10-18" >}})
 - [Weeknotes/2025-10-05 - 2025-10-11]({{< ref "Weeknotes/2025-10-05 - 2025-10-11" >}})
 - [Weeknotes/2025-09-28 - 2025-10-04]({{< ref "Weeknotes/2025-09-28 - 2025-10-04" >}})
-- [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2025-09-21 - 2025-09-27]({{< ref "Weeknotes/2025-09-21 - 2025-09-27" >}})
 - [Weeknotes/2025-09-14 - 2025-09-20]({{< ref "Weeknotes/2025-09-14 - 2025-09-20" >}})
 - [Omarchy]({{< ref "Omarchy" >}})
@@ -173,7 +175,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Vendas 1a1]({{< ref "Vendas 1a1" >}})
 - [Tech Leadership Conference]({{< ref "Tech Leadership Conference" >}})
 - [Micro-SaaS]({{< ref "Micro-SaaS" >}})
-- [Databases]({{< ref "Databases" >}})
 - [Passaporte Dev Senior]({{< ref "Passaporte Dev Senior" >}})
 - [HTTP]({{< ref "HTTP" >}})
 - [(Manifest) Microservices]({{< ref "(Manifest) Microservices" >}})

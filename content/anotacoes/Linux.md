@@ -1,7 +1,7 @@
 ---
 title: Linux
 date: 2023-08-15
-lastmod: 2025-10-03
+lastmod: 2025-11-27
 aliases:
   - /anotacoes/linux/
   - /dicas-rapidas-linux/
@@ -112,10 +112,15 @@ aliases:
 	```bash
 	xmodmap -pke | sed -nre 's/keycode  (1[0-9]) = ([^ ]*) ([^ ]*)/keycode \1 = \3 \2/p' | xmodmap -
 	```
-- Ignoring lines in sed
+- Ignoring lines in sed (doesn't work on MacOS)
   ```bash
   # Ignore lines containing '# noqa'
   sed -i '/# noqa/! s|@pytest.mark.django_db(transaction=True)|@pytest.mark.django_db|'
+  ```
+- cut first N characters of each line
+  ```bash
+  <command> | cut -c<N>-
+  <command> | cut -c5-  # to cut first 4 chars
   ```
 
 
