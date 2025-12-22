@@ -11395,6 +11395,7 @@ on your page can access;&lt;/li&gt;
 &lt;p&gt;Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-12-21---2025-12-27/" &gt;Weeknotes/2025-12-21 - 2025-12-27&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/livros/" &gt;Livros&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/postgresql/" &gt;PostgreSQL&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-12-14---2025-12-20/" &gt;Weeknotes/2025-12-14 - 2025-12-20&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-12-07---2025-12-13/" &gt;Weeknotes/2025-12-07 - 2025-12-13&lt;/a&gt;&lt;/li&gt;
@@ -11486,7 +11487,6 @@ on your page can access;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-01-05---2025-01-11/" &gt;Weeknotes/2025-01-05 - 2025-01-11&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/videos/simple-made-easy/" &gt;Videos/Simple Made Easy&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-29---2025-01-04/" &gt;Weeknotes/2024-12-29 - 2025-01-04&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/livros/" &gt;Livros&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/migrating-pyproject.toml-from-poetry-to-uv/" &gt;Migrating pyproject.toml from Poetry to uv&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/creating-a-whatsapp-bot/" &gt;Creating a WhatsApp bot&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2024-12-22---2024-12-28/" &gt;Weeknotes/2024-12-22 - 2024-12-28&lt;/a&gt;&lt;/li&gt;
@@ -13008,11 +13008,49 @@ exists.&lt;/li&gt;
  
  &lt;th&gt;Nota&lt;/th&gt;
  
+ &lt;th&gt;Finalizado em&lt;/th&gt;
+ 
  &lt;th&gt;Indicado por&lt;/th&gt;
  
  &lt;/tr&gt;
  &lt;/thead&gt;
  &lt;tbody&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Gabriel García Márquez&lt;/td&gt;
+ 
+ &lt;td&gt;Relatos de um Náufrago&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;19/12/2025&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Lev Tolstoi&lt;/td&gt;
+ 
+ &lt;td&gt;A Morte de Ivan Ilitch&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;17/12/2025&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
  
  &lt;tr&gt;
  
@@ -13025,6 +13063,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;📗&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13044,6 +13084,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13060,6 +13102,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13073,6 +13117,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;📗&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;Roger&lt;/td&gt;
  
@@ -13092,6 +13138,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13105,6 +13153,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;📗📱&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13124,6 +13174,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13137,6 +13189,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;📗📱&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13156,6 +13210,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13169,6 +13225,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13188,6 +13246,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13201,6 +13261,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;📗&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13220,6 +13282,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13233,6 +13297,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;📗&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13252,6 +13318,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13267,20 +13335,6 @@ exists.&lt;/li&gt;
  &lt;td&gt;⭐⭐⭐&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;George Orwell&lt;/td&gt;
- 
- &lt;td&gt;A revolução dos bichos&lt;/td&gt;
- 
- &lt;td&gt;✅&lt;/td&gt;
- 
- &lt;td&gt;📗📱&lt;/td&gt;
- 
- &lt;td&gt;⭐⭐⭐&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13300,6 +13354,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13313,6 +13369,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;📱&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13332,6 +13390,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13345,6 +13405,26 @@ exists.&lt;/li&gt;
  &lt;td&gt;🛒&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;George Orwell&lt;/td&gt;
+ 
+ &lt;td&gt;A revolução dos bichos&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗📱&lt;/td&gt;
+ 
+ &lt;td&gt;⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13364,6 +13444,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13377,6 +13459,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;📗&lt;/td&gt;
  
  &lt;td&gt;⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13396,6 +13480,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13411,36 +13497,6 @@ exists.&lt;/li&gt;
  &lt;td&gt;⭐⭐&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;Gustavo Cerbasi&lt;/td&gt;
- 
- &lt;td&gt;Casais Inteligentes Enriquecem Juntos&lt;/td&gt;
- 
- &lt;td&gt;✅&lt;/td&gt;
- 
- &lt;td&gt;📗&lt;/td&gt;
- 
- &lt;td&gt;⭐⭐&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;Jostein Gaarder&lt;/td&gt;
- 
- &lt;td&gt;O Mundo de Sofia&lt;/td&gt;
- 
- &lt;td&gt;✅&lt;/td&gt;
- 
- &lt;td&gt;📗📱&lt;/td&gt;
- 
- &lt;td&gt;⭐⭐&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13460,6 +13516,44 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Gustavo Cerbasi&lt;/td&gt;
+ 
+ &lt;td&gt;Casais Inteligentes Enriquecem Juntos&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Jostein Gaarder&lt;/td&gt;
+ 
+ &lt;td&gt;O Mundo de Sofia&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗📱&lt;/td&gt;
+ 
+ &lt;td&gt;⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13472,7 +13566,9 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
  
- &lt;td&gt;⭐️⭐️&lt;/td&gt;
+ &lt;td&gt;⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13492,20 +13588,6 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;J. D. Salinger&lt;/td&gt;
- 
- &lt;td&gt;O Apanhador no Campo de Centeio&lt;/td&gt;
- 
- &lt;td&gt;✅&lt;/td&gt;
- 
- &lt;td&gt;📗📱&lt;/td&gt;
- 
- &lt;td&gt;⭐&lt;/td&gt;
- 
  &lt;td&gt;&lt;/td&gt;
  
  &lt;/tr&gt;
@@ -13521,6 +13603,26 @@ exists.&lt;/li&gt;
  &lt;td&gt;📱&lt;/td&gt;
  
  &lt;td&gt;⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;J. D. Salinger&lt;/td&gt;
+ 
+ &lt;td&gt;O Apanhador no Campo de Centeio&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗📱&lt;/td&gt;
+ 
+ &lt;td&gt;⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13540,6 +13642,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13554,19 +13658,59 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;td&gt;Lance&lt;/td&gt;
  
  &lt;/tr&gt;
  
  &lt;tr&gt;
  
- &lt;td&gt;G.K. Chesterton&lt;/td&gt;
+ &lt;td&gt;Angela Pellicciari&lt;/td&gt;
  
- &lt;td&gt;O Clube dos Negócios Estranhos&lt;/td&gt;
+ &lt;td&gt;História da Igreja: marcas da presença de Cristo no mundo&lt;/td&gt;
  
- &lt;td&gt;✅&lt;/td&gt;
+ &lt;td&gt;👀&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Dom Antônio de Macedo Costa&lt;/td&gt;
+ 
+ &lt;td&gt;História bíblica: narrativas do Antigo e do Novo Testamento&lt;/td&gt;
+ 
+ &lt;td&gt;👀&lt;/td&gt;
+ 
+ &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Agatha Christie&lt;/td&gt;
+ 
+ &lt;td&gt;A Casa do Penhasco&lt;/td&gt;
+ 
+ &lt;td&gt;👀&lt;/td&gt;
+ 
+ &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13588,6 +13732,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13601,36 +13747,6 @@ exists.&lt;/li&gt;
  &lt;td&gt;📗&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;George R.R. Martin&lt;/td&gt;
- 
- &lt;td&gt;As Crônicas de Gelo e Fogo - A Dança dos Dragões&lt;/td&gt;
- 
- &lt;td&gt;❌&lt;/td&gt;
- 
- &lt;td&gt;📗&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;Tim Ferris&lt;/td&gt;
- 
- &lt;td&gt;Trabalhe 4 Horas por Semana&lt;/td&gt;
- 
- &lt;td&gt;❌&lt;/td&gt;
- 
- &lt;td&gt;📗📱&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13652,6 +13768,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13663,6 +13781,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;❌&lt;/td&gt;
  
  &lt;td&gt;📱&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13684,17 +13804,39 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
  
- &lt;td&gt;Gustavo Cerbasi&lt;/td&gt;
+ &lt;td&gt;George R.R. Martin&lt;/td&gt;
  
- &lt;td&gt;Dinheiro: Os Segredos de Quem Tem&lt;/td&gt;
+ &lt;td&gt;As Crônicas de Gelo e Fogo - A Dança dos Dragões&lt;/td&gt;
  
- &lt;td&gt;✅&lt;/td&gt;
+ &lt;td&gt;❌&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Tim Ferris&lt;/td&gt;
+ 
+ &lt;td&gt;Trabalhe 4 Horas por Semana&lt;/td&gt;
+ 
+ &lt;td&gt;❌&lt;/td&gt;
+ 
+ &lt;td&gt;📗📱&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13716,6 +13858,44 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;G.K. Chesterton&lt;/td&gt;
+ 
+ &lt;td&gt;O Clube dos Negócios Estranhos&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Gustavo Cerbasi&lt;/td&gt;
+ 
+ &lt;td&gt;Dinheiro: Os Segredos de Quem Tem&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13727,6 +13907,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13748,6 +13930,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13759,6 +13943,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13780,6 +13966,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13791,6 +13979,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13812,6 +14002,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13823,6 +14015,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13844,6 +14038,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13855,6 +14051,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13876,6 +14074,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13887,6 +14087,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13908,6 +14110,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13919,6 +14123,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13940,6 +14146,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13951,6 +14159,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -13972,6 +14182,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -13983,6 +14195,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -14004,6 +14218,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -14015,6 +14231,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -14036,6 +14254,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -14047,6 +14267,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -14068,6 +14290,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -14079,6 +14303,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -14100,6 +14326,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -14111,6 +14339,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -14132,6 +14362,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -14143,6 +14375,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -14162,6 +14396,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;td&gt;&lt;a href="https://www.youtube.com/watch?v=miLvpv-PKOY" class="external-link" target="_blank" rel="noopener"&gt;https://www.youtube.com/watch?v=miLvpv-PKOY&lt;/a&gt;&lt;/td&gt;
  
  &lt;/tr&gt;
@@ -14175,6 +14411,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -14196,6 +14434,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -14207,6 +14447,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -14228,6 +14470,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -14239,6 +14483,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -14255,6 +14501,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -14276,6 +14524,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -14287,6 +14537,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -14306,6 +14558,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;td&gt;&lt;a href="https://newsletter.techworld-with-milan.com/p/how-to-be-a-multiplier-as-a-leader" class="external-link" target="_blank" rel="noopener"&gt;https://newsletter.techworld-with-milan.com/p/how-to-be-a-multiplier-as-a-leader&lt;/a&gt;&lt;/td&gt;
  
  &lt;/tr&gt;
@@ -14319,6 +14573,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -14338,6 +14594,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;td&gt;Alexandre Havard no livro Virtudes &amp;amp; Liderança&lt;/td&gt;
  
  &lt;/tr&gt;
@@ -14351,6 +14609,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -14372,6 +14632,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -14383,6 +14645,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -14399,6 +14663,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -14420,6 +14686,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -14431,6 +14699,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -14452,6 +14722,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -14463,6 +14735,8 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -14482,6 +14756,8 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;td&gt;&lt;a href="https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc" class="external-link" target="_blank" rel="noopener"&gt;D&lt;/a&gt;&lt;a href="https://world.hey.com/dhh/for-what-it-ll-make-of-you-9469db5c" class="external-link" target="_blank" rel="noopener"&gt;H&lt;/a&gt;H&lt;/td&gt;
  
  &lt;/tr&gt;
@@ -14497,20 +14773,6 @@ exists.&lt;/li&gt;
  &lt;td&gt;🛒&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;Angela Pellicciari&lt;/td&gt;
- 
- &lt;td&gt;História da Igreja: marcas da presença de Cristo no mundo&lt;/td&gt;
- 
- &lt;td&gt;👀&lt;/td&gt;
- 
- &lt;td&gt;📗&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  

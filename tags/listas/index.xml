@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Listas on Lucas Cezimbra</title><link>https://cezimbra.me/tags/listas/</link><description>Recent content in Listas on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/tags/listas/index.xml" rel="self" type="application/rss+xml"/><item><title>Livros</title><link>https://cezimbra.me/anotacoes/livros/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/livros/</guid><description>&lt;p&gt;&lt;strong&gt;Legenda&lt;/strong&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Listas on Lucas Cezimbra</title><link>https://cezimbra.me/tags/listas/</link><description>Recent content in Listas on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Mon, 22 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/tags/listas/index.xml" rel="self" type="application/rss+xml"/><item><title>Livros</title><link>https://cezimbra.me/anotacoes/livros/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/livros/</guid><description>&lt;p&gt;&lt;strong&gt;Legenda&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Status: ✅=Lido; 👀=Lendo; ☑=Para ler; ❌=Abandonado;&lt;/p&gt;
 &lt;p&gt;Tipo: 🛒=Não tenho; 📗=Físico; 📱=Digital&lt;/p&gt;
 &lt;p&gt;Nota: ⭐=Não gostei; ⭐⭐=Gostei; ⭐⭐⭐=Gostei muito; ⭐⭐⭐⭐=Favoritos;&lt;/p&gt;
@@ -19,11 +19,49 @@
  
  &lt;th&gt;Nota&lt;/th&gt;
  
+ &lt;th&gt;Finalizado em&lt;/th&gt;
+ 
  &lt;th&gt;Indicado por&lt;/th&gt;
  
  &lt;/tr&gt;
  &lt;/thead&gt;
  &lt;tbody&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Gabriel García Márquez&lt;/td&gt;
+ 
+ &lt;td&gt;Relatos de um Náufrago&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;19/12/2025&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Lev Tolstoi&lt;/td&gt;
+ 
+ &lt;td&gt;A Morte de Ivan Ilitch&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;17/12/2025&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
  
  &lt;tr&gt;
  
@@ -36,6 +74,8 @@
  &lt;td&gt;📗&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -55,6 +95,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -71,6 +113,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -84,6 +128,8 @@
  &lt;td&gt;📗&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;Roger&lt;/td&gt;
  
@@ -103,6 +149,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -116,6 +164,8 @@
  &lt;td&gt;📗📱&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -135,6 +185,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -148,6 +200,8 @@
  &lt;td&gt;📗📱&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -167,6 +221,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -180,6 +236,8 @@
  &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -199,6 +257,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -212,6 +272,8 @@
  &lt;td&gt;📗&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -231,6 +293,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -244,6 +308,8 @@
  &lt;td&gt;📗&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -263,6 +329,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -278,20 +346,6 @@
  &lt;td&gt;⭐⭐⭐&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;George Orwell&lt;/td&gt;
- 
- &lt;td&gt;A revolução dos bichos&lt;/td&gt;
- 
- &lt;td&gt;✅&lt;/td&gt;
- 
- &lt;td&gt;📗📱&lt;/td&gt;
- 
- &lt;td&gt;⭐⭐⭐&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -311,6 +365,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -324,6 +380,8 @@
  &lt;td&gt;📱&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -343,6 +401,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -356,6 +416,26 @@
  &lt;td&gt;🛒&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;George Orwell&lt;/td&gt;
+ 
+ &lt;td&gt;A revolução dos bichos&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗📱&lt;/td&gt;
+ 
+ &lt;td&gt;⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -375,6 +455,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -388,6 +470,8 @@
  &lt;td&gt;📗&lt;/td&gt;
  
  &lt;td&gt;⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -407,6 +491,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -422,36 +508,6 @@
  &lt;td&gt;⭐⭐&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;Gustavo Cerbasi&lt;/td&gt;
- 
- &lt;td&gt;Casais Inteligentes Enriquecem Juntos&lt;/td&gt;
- 
- &lt;td&gt;✅&lt;/td&gt;
- 
- &lt;td&gt;📗&lt;/td&gt;
- 
- &lt;td&gt;⭐⭐&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;Jostein Gaarder&lt;/td&gt;
- 
- &lt;td&gt;O Mundo de Sofia&lt;/td&gt;
- 
- &lt;td&gt;✅&lt;/td&gt;
- 
- &lt;td&gt;📗📱&lt;/td&gt;
- 
- &lt;td&gt;⭐⭐&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -471,6 +527,44 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Gustavo Cerbasi&lt;/td&gt;
+ 
+ &lt;td&gt;Casais Inteligentes Enriquecem Juntos&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Jostein Gaarder&lt;/td&gt;
+ 
+ &lt;td&gt;O Mundo de Sofia&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗📱&lt;/td&gt;
+ 
+ &lt;td&gt;⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -483,7 +577,9 @@
  
  &lt;td&gt;📗&lt;/td&gt;
  
- &lt;td&gt;⭐️⭐️&lt;/td&gt;
+ &lt;td&gt;⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -503,20 +599,6 @@
  
  &lt;td&gt;&lt;/td&gt;
  
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;J. D. Salinger&lt;/td&gt;
- 
- &lt;td&gt;O Apanhador no Campo de Centeio&lt;/td&gt;
- 
- &lt;td&gt;✅&lt;/td&gt;
- 
- &lt;td&gt;📗📱&lt;/td&gt;
- 
- &lt;td&gt;⭐&lt;/td&gt;
- 
  &lt;td&gt;&lt;/td&gt;
  
  &lt;/tr&gt;
@@ -532,6 +614,26 @@
  &lt;td&gt;📱&lt;/td&gt;
  
  &lt;td&gt;⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;J. D. Salinger&lt;/td&gt;
+ 
+ &lt;td&gt;O Apanhador no Campo de Centeio&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗📱&lt;/td&gt;
+ 
+ &lt;td&gt;⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -551,6 +653,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -565,19 +669,59 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;td&gt;Lance&lt;/td&gt;
  
  &lt;/tr&gt;
  
  &lt;tr&gt;
  
- &lt;td&gt;G.K. Chesterton&lt;/td&gt;
+ &lt;td&gt;Angela Pellicciari&lt;/td&gt;
  
- &lt;td&gt;O Clube dos Negócios Estranhos&lt;/td&gt;
+ &lt;td&gt;História da Igreja: marcas da presença de Cristo no mundo&lt;/td&gt;
  
- &lt;td&gt;✅&lt;/td&gt;
+ &lt;td&gt;👀&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Dom Antônio de Macedo Costa&lt;/td&gt;
+ 
+ &lt;td&gt;História bíblica: narrativas do Antigo e do Novo Testamento&lt;/td&gt;
+ 
+ &lt;td&gt;👀&lt;/td&gt;
+ 
+ &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Agatha Christie&lt;/td&gt;
+ 
+ &lt;td&gt;A Casa do Penhasco&lt;/td&gt;
+ 
+ &lt;td&gt;👀&lt;/td&gt;
+ 
+ &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -599,6 +743,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -612,36 +758,6 @@
  &lt;td&gt;📗&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;George R.R. Martin&lt;/td&gt;
- 
- &lt;td&gt;As Crônicas de Gelo e Fogo - A Dança dos Dragões&lt;/td&gt;
- 
- &lt;td&gt;❌&lt;/td&gt;
- 
- &lt;td&gt;📗&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;Tim Ferris&lt;/td&gt;
- 
- &lt;td&gt;Trabalhe 4 Horas por Semana&lt;/td&gt;
- 
- &lt;td&gt;❌&lt;/td&gt;
- 
- &lt;td&gt;📗📱&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -663,6 +779,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -674,6 +792,8 @@
  &lt;td&gt;❌&lt;/td&gt;
  
  &lt;td&gt;📱&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -695,17 +815,39 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
  
- &lt;td&gt;Gustavo Cerbasi&lt;/td&gt;
+ &lt;td&gt;George R.R. Martin&lt;/td&gt;
  
- &lt;td&gt;Dinheiro: Os Segredos de Quem Tem&lt;/td&gt;
+ &lt;td&gt;As Crônicas de Gelo e Fogo - A Dança dos Dragões&lt;/td&gt;
  
- &lt;td&gt;✅&lt;/td&gt;
+ &lt;td&gt;❌&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Tim Ferris&lt;/td&gt;
+ 
+ &lt;td&gt;Trabalhe 4 Horas por Semana&lt;/td&gt;
+ 
+ &lt;td&gt;❌&lt;/td&gt;
+ 
+ &lt;td&gt;📗📱&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -727,6 +869,44 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;G.K. Chesterton&lt;/td&gt;
+ 
+ &lt;td&gt;O Clube dos Negócios Estranhos&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Gustavo Cerbasi&lt;/td&gt;
+ 
+ &lt;td&gt;Dinheiro: Os Segredos de Quem Tem&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -738,6 +918,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -759,6 +941,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -770,6 +954,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -791,6 +977,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -802,6 +990,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -823,6 +1013,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -834,6 +1026,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -855,6 +1049,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -866,6 +1062,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -887,6 +1085,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -898,6 +1098,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -919,6 +1121,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -930,6 +1134,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -951,6 +1157,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -962,6 +1170,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -983,6 +1193,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -994,6 +1206,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -1015,6 +1229,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -1026,6 +1242,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -1047,6 +1265,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -1058,6 +1278,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -1079,6 +1301,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -1090,6 +1314,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -1111,6 +1337,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -1122,6 +1350,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -1143,6 +1373,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -1154,6 +1386,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -1173,6 +1407,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;td&gt;&lt;a href="https://www.youtube.com/watch?v=miLvpv-PKOY" class="external-link" target="_blank" rel="noopener"&gt;https://www.youtube.com/watch?v=miLvpv-PKOY&lt;/a&gt;&lt;/td&gt;
  
  &lt;/tr&gt;
@@ -1186,6 +1422,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -1207,6 +1445,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -1218,6 +1458,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -1239,6 +1481,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -1250,6 +1494,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -1266,6 +1512,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -1287,6 +1535,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -1298,6 +1548,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -1317,6 +1569,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;td&gt;&lt;a href="https://newsletter.techworld-with-milan.com/p/how-to-be-a-multiplier-as-a-leader" class="external-link" target="_blank" rel="noopener"&gt;https://newsletter.techworld-with-milan.com/p/how-to-be-a-multiplier-as-a-leader&lt;/a&gt;&lt;/td&gt;
  
  &lt;/tr&gt;
@@ -1330,6 +1584,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -1349,6 +1605,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;td&gt;Alexandre Havard no livro Virtudes &amp;amp; Liderança&lt;/td&gt;
  
  &lt;/tr&gt;
@@ -1362,6 +1620,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -1383,6 +1643,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -1394,6 +1656,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -1410,6 +1674,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -1431,6 +1697,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -1442,6 +1710,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -1463,6 +1733,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;/tr&gt;
  
  &lt;tr&gt;
@@ -1474,6 +1746,8 @@
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -1493,6 +1767,8 @@
  
  &lt;td&gt;&lt;/td&gt;
  
+ &lt;td&gt;&lt;/td&gt;
+ 
  &lt;td&gt;&lt;a href="https://world.hey.com/dhh/how-to-recover-from-microservices-ce3803cc" class="external-link" target="_blank" rel="noopener"&gt;D&lt;/a&gt;&lt;a href="https://world.hey.com/dhh/for-what-it-ll-make-of-you-9469db5c" class="external-link" target="_blank" rel="noopener"&gt;H&lt;/a&gt;H&lt;/td&gt;
  
  &lt;/tr&gt;
@@ -1508,20 +1784,6 @@
  &lt;td&gt;🛒&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;Angela Pellicciari&lt;/td&gt;
- 
- &lt;td&gt;História da Igreja: marcas da presença de Cristo no mundo&lt;/td&gt;
- 
- &lt;td&gt;👀&lt;/td&gt;
- 
- &lt;td&gt;📗&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
