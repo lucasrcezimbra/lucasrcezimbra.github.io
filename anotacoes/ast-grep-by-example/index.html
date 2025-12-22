@@ -156,12 +156,12 @@ fix: 'my_new_func'
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span> class MyClass:
 </span></span><span style=display:flex><span><span style=color:#cd0000>-    def method1(self):
-</span></span></span><span style=display:flex><span><span style=color:#cd0000></span><span style=color:#00cd00>+    def method1(self, &lt;new_arg1&gt;, &lt;new_arg2&gt;,):
-</span></span></span><span style=display:flex><span><span style=color:#00cd00></span>         ...
+</span></span></span><span style=display:flex><span><span style=color:#00cd00>+    def method1(self, &lt;new_arg1&gt;, &lt;new_arg2&gt;,):
+</span></span></span><span style=display:flex><span>         ...
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:#cd0000>-    def method2(self, args):
-</span></span></span><span style=display:flex><span><span style=color:#cd0000></span><span style=color:#00cd00>+    def method2(self, &lt;new_arg1&gt;, &lt;new_arg2&gt;, args):
-</span></span></span><span style=display:flex><span><span style=color:#00cd00></span>         ...
+</span></span></span><span style=display:flex><span><span style=color:#00cd00>+    def method2(self, &lt;new_arg1&gt;, &lt;new_arg2&gt;, args):
+</span></span></span><span style=display:flex><span>         ...
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span>     @classmethod
 </span></span><span style=display:flex><span>     def cls_method(cls):
@@ -196,11 +196,11 @@ fix: 'my_new_func'
 </span></span><span style=display:flex><span>            kind: import_from_statement
 </span></span><span style=display:flex><span>fix: <span style=color:#cd0000>&#39;MyIdentifier as MyNewIdentifier&#39;</span>
 </span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-diff data-lang=diff><span style=display:flex><span><span style=color:#cd0000>-from x import MyIdentifier
-</span></span></span><span style=display:flex><span><span style=color:#cd0000></span><span style=color:#00cd00>+from x import MyIdentifier as MyNewIdentifier
-</span></span></span><span style=display:flex><span><span style=color:#00cd00></span>
+</span></span></span><span style=display:flex><span><span style=color:#00cd00>+from x import MyIdentifier as MyNewIdentifier
+</span></span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:#cd0000>-MyIdentifier.ABC
-</span></span></span><span style=display:flex><span><span style=color:#cd0000></span><span style=color:#00cd00>+MyNewIdentifier.ABC
-</span></span></span><span style=display:flex><span><span style=color:#00cd00></span>
+</span></span></span><span style=display:flex><span><span style=color:#00cd00>+MyNewIdentifier.ABC
+</span></span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span> s = &#39;The MyIdentifier inside strings will not be changed.&#39;
 </span></span></code></pre></div><h2 id=append-to-the-body-of-a-function>Append to the body of a function
 <a class=heading-link href=#append-to-the-body-of-a-function><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
@@ -234,9 +234,9 @@ fix: 'my_new_func'
 </span></span><span style=display:flex><span> s = &#39;my_func inside string will not be changed&#39;
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:#cd0000>-my_func()
-</span></span></span><span style=display:flex><span><span style=color:#cd0000></span><span style=color:#00cd00>+my_new_func()
+</span></span></span><span style=display:flex><span><span style=color:#00cd00>+my_new_func()
 </span></span></span></code></pre></div></article></section></div><footer class=footer><section class=container>©
 2025
 Lucas Cezimbra
 ·
-<a href=https://gohugo.io/ target=_blank rel=noopener>Hugo</a> & <a href=https://github.com/luizdepra/hugo-coder/ target=_blank rel=noopener>Coder</a>.</section></footer></main><script src=/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script><script src=/js/htmx.min.c4fce4dc5cc9c8c3c9bf1aa788d54bb2cb25cd27114eb06551494ff61c30d6fb.js integrity="sha256-xPzk3FzJyMPJvxqniNVLssslzScRTrBlUUlP9hww1vs="></script><script src=/jquery-3.6.1.min.min.8985a8985a8bab0c06c0f4036f1a7dcb928dc0822c1d50517a1c6538f25c87db.js integrity="sha256-iYWomFqLqwwGwPQDbxp9y5KNwIIsHVBRehxlOPJch9s="></script><script src=/jquery.dataTables.min.min.16697a3bc9cb9058c116bec9c264c212029776d1292883bfbb44570a207e15a2.js integrity="sha256-Fml6O8nLkFjBFr7JwmTCEgKXdtEpKIO/u0RXCiB+FaI="></script><script src=/vis-timeline-graph2d.min.min.b35e6f85cb6c6769e18381ca62d56c7c1b106968043ef80bba711d69a3ca5a79.js integrity="sha256-s15vhctsZ2nhg4HKYtVsfBsQaWgEPvgLunEdaaPKWnk="></script><script data-goatcounter=https://cezimbra.goatcounter.com/count async src=//gc.zgo.at/count.js></script></body></html>
+<a href=https://gohugo.io/ target=_blank rel=noopener>Hugo</a> & <a href=https://github.com/luizdepra/hugo-coder/ target=_blank rel=noopener>Coder</a>.</section></footer></main><script src=/js/coder.min.6ae284be93d2d19dad1f02b0039508d9aab3180a12a06dcc71b0b0ef7825a317.js integrity="sha256-auKEvpPS0Z2tHwKwA5UI2aqzGAoSoG3McbCw73gloxc="></script><script src=/js/htmx.min.c4fce4dc5cc9c8c3c9bf1aa788d54bb2cb25cd27114eb06551494ff61c30d6fb.js integrity="sha256-xPzk3FzJyMPJvxqniNVLssslzScRTrBlUUlP9hww1vs="></script><script src=/jquery-3.6.1.min.min.8985a8985a8bab0c06c0f4036f1a7dcb928dc0822c1d50517a1c6538f25c87db.js integrity="sha256-iYWomFqLqwwGwPQDbxp9y5KNwIIsHVBRehxlOPJch9s="></script><script src=/jquery.dataTables.min.min.91ecb48a0f76a338b289bdd8fbdb28c71ef115955c3c0bef49a142fa6cab11ec.js integrity="sha256-key0ig92oziyib3Y+9soxx7xFZVcPAvvSaFC+myrEew="></script><script src=/vis-timeline-graph2d.min.min.cad7d97613f14d1e7fa62ab9a305afdb860fe35e05d1eddae1c204b64ffb4910.js integrity="sha256-ytfZdhPxTR5/piq5owWv24YP414F0e3a4cIEtk/7SRA="></script><script data-goatcounter=https://cezimbra.goatcounter.com/count async src=//gc.zgo.at/count.js></script></body></html>
