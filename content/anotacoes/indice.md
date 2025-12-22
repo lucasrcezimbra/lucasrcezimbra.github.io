@@ -1,13 +1,16 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-12-08
+lastmod: 2025-12-22
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2025-12-21 - 2025-12-27]({{< ref "Weeknotes/2025-12-21 - 2025-12-27" >}})
+- [PostgreSQL]({{< ref "PostgreSQL" >}})
+- [Weeknotes/2025-12-14 - 2025-12-20]({{< ref "Weeknotes/2025-12-14 - 2025-12-20" >}})
 - [Weeknotes/2025-12-07 - 2025-12-13]({{< ref "Weeknotes/2025-12-07 - 2025-12-13" >}})
 - [Weeknotes/2025-11-30 - 2025-12-06]({{< ref "Weeknotes/2025-11-30 - 2025-12-06" >}})
 - [Design Patterns by Example]({{< ref "Design Patterns by Example" >}})
@@ -111,7 +114,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Designing a multi-tenant Django app]({{< ref "Designing a multi-tenant Django app" >}})
 - [Weeknotes/2024-11-03 - 2024-11-09]({{< ref "Weeknotes/2024-11-03 - 2024-11-09" >}})
 - [Profilling Python tests]({{< ref "Profilling Python tests" >}})
-- [PostgreSQL]({{< ref "PostgreSQL" >}})
 - [Weeknotes/2024-10-27 - 2024-11-02]({{< ref "Weeknotes/2024-10-27 - 2024-11-02" >}})
 - [Logging]({{< ref "Logging" >}})
 - [Scrapers]({{< ref "Scrapers" >}})

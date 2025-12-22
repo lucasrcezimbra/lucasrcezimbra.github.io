@@ -1,7 +1,7 @@
 ---
 title: 'PostgreSQL'
 date: 2020-11-02
-lastmod: 2024-11-04
+lastmod: 2025-12-22
 aliases: [
     "/anotacoes/banco-de-dados/postgresql/",
     "/anotacoes/psql/",
@@ -94,6 +94,23 @@ $function$
 ;
 
 SELECT even_odds(100);
+```
+
+## JSON functions
+### Count number of objects in a JSON array
+```sql
+jsonb_array_length(<json-array-field>)
+```
+
+### Count (and order by) number of keys in a JSON object
+```
+SELECT
+  (SELECT COUNT(*) FROM jsonb_object_keys(<json-field>) my_count
+FROM
+  content_version
+ORDER BY
+  my_count DESC
+;
 ```
 
 ## Row-level permission
