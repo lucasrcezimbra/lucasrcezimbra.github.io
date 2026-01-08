@@ -1,7 +1,7 @@
 ---
 title: Livros
 date: 2023-08-15
-lastmod: 2025-12-22
+lastmod: 2026-01-08
 tags:
   - listas
   - livros
