@@ -1,15 +1,16 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2025-12-22
+lastmod: 2026-01-08
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
-- [Weeknotes/2025-12-21 - 2025-12-27]({{< ref "Weeknotes/2025-12-21 - 2025-12-27" >}})
+- [Weeknotes/2026-01-04 - 2026-01-10]({{< ref "Weeknotes/2026-01-04 - 2026-01-10" >}})
 - [Livros]({{< ref "Livros" >}})
+- [Weeknotes/2025-12-21 - 2025-12-27]({{< ref "Weeknotes/2025-12-21 - 2025-12-27" >}})
 - [PostgreSQL]({{< ref "PostgreSQL" >}})
 - [Weeknotes/2025-12-14 - 2025-12-20]({{< ref "Weeknotes/2025-12-14 - 2025-12-20" >}})
 - [Weeknotes/2025-12-07 - 2025-12-13]({{< ref "Weeknotes/2025-12-07 - 2025-12-13" >}})
@@ -101,6 +102,7 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2025-01-05 - 2025-01-11]({{< ref "Weeknotes/2025-01-05 - 2025-01-11" >}})
 - [Videos/Simple Made Easy]({{< ref "Videos/Simple Made Easy" >}})
 - [Weeknotes/2024-12-29 - 2025-01-04]({{< ref "Weeknotes/2024-12-29 - 2025-01-04" >}})
+- [Weeknotes/2025-12-28 - 2026-01-03]({{< ref "Weeknotes/2025-12-28 - 2026-01-03" >}})
 - [Migrating pyproject.toml from Poetry to uv]({{< ref "Migrating pyproject.toml from Poetry to uv" >}})
 - [Creating a WhatsApp bot]({{< ref "Creating a WhatsApp bot" >}})
 - [Weeknotes/2024-12-22 - 2024-12-28]({{< ref "Weeknotes/2024-12-22 - 2024-12-28" >}})
