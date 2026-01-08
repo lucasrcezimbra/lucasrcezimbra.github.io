@@ -1,0 +1,74 @@
+#!/usr/bin/env bash
+#
+# weeknotes-format
+#
+# Transforms '<< Previous' and 'Next >>' navigation in weeknotes files
+# into proper markdown links pointing to adjacent weeknotes.
+#
+# Processes all files in content/anotacoes/Weeknotes/
+
+set -euo pipefail
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+REPO_ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+WEEKNOTES_DIR="$REPO_ROOT/content/anotacoes/Weeknotes"
+
+# Get all weeknote files sorted chronologically by start date
+mapfile -t files < <(
+    find "$WEEKNOTES_DIR" -maxdepth 1 -name "*.md" -type f -print0 |
+    xargs -0 -I{} basename {} .md |
+    sort |
+    while read -r name; do
+        echo "$WEEKNOTES_DIR/$name.md"
+    done
+)
+
+file_count=${#files[@]}
+
+for ((i = 0; i < file_count; i++)); do
+    file="${files[$i]}"
+    title="$(basename "$file" .md)"
+
+    # Determine previous and next titles
+    prev_title=""
+    next_title=""
+
+    if ((i > 0)); then
+        prev_title="$(basename "${files[$((i - 1))]}" .md)"
+    fi
+
+    if ((i < file_count - 1)); then
+        next_title="$(basename "${files[$((i + 1))]}" .md)"
+    fi
+
+    # Build replacement patterns
+    # For '<< Previous': match both plain text and existing links
+    if [[ -n "$prev_title" ]]; then
+        # Replace existing link or plain text with correct link
+        sed -i -E \
+            -e 's|\[<< Previous\]\(\{\{< ref "[^"]+" >\}\}\)|[<< Previous]({{< ref "'"$prev_title"'" >}})|g' \
+            -e 's|([^\[])<< Previous|\1[<< Previous]({{< ref "'"$prev_title"'" >}})|g' \
+            -e 's|^<< Previous|[<< Previous]({{< ref "'"$prev_title"'" >}})|g' \
+            "$file"
+    else
+        # No previous exists - remove any existing link, keep plain text
+        sed -i -E \
+            -e 's|\[<< Previous\]\(\{\{< ref "[^"]+" >\}\}\)|<< Previous|g' \
+            "$file"
+    fi
+
+    # For 'Next >>': match both plain text and existing links
+    if [[ -n "$next_title" ]]; then
+        # Replace existing link or plain text with correct link
+        sed -i -E \
+            -e 's|\[Next >>\]\(\{\{< ref "[^"]+" >\}\}\)|[Next >>]({{< ref "'"$next_title"'" >}})|g' \
+            -e 's|Next >>([^\]])|[Next >>]({{< ref "'"$next_title"'" >}})\1|g' \
+            -e 's|Next >>$|[Next >>]({{< ref "'"$next_title"'" >}})|g' \
+            "$file"
+    else
+        # No next exists - remove any existing link, keep plain text
+        sed -i -E \
+            -e 's|\[Next >>\]\(\{\{< ref "[^"]+" >\}\}\)|Next >>|g' \
+            "$file"
+    fi
+done
