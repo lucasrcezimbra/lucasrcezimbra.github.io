@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Thu, 08 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2026-01-04 - 2026-01-10</title><link>https://cezimbra.me/anotacoes/weeknotes/2026-01-04---2026-01-10/</link><pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2026-01-04---2026-01-10/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-12-28---2026-01-03/" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2026-01-04 - 2026-01-10</title><link>https://cezimbra.me/anotacoes/weeknotes/2026-01-04---2026-01-10/</link><pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2026-01-04---2026-01-10/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-12-28---2026-01-03/" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h2 id="books-being-read"&gt;
@@ -11458,6 +11458,7 @@ on your page can access;&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p&gt;Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p&gt;
 &lt;p&gt;Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/linux/" &gt;Linux&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-01-04---2026-01-10/" &gt;Weeknotes/2026-01-04 - 2026-01-10&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/livros/" &gt;Livros&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-12-21---2025-12-27/" &gt;Weeknotes/2025-12-21 - 2025-12-27&lt;/a&gt;&lt;/li&gt;
@@ -11467,7 +11468,6 @@ on your page can access;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-11-30---2025-12-06/" &gt;Weeknotes/2025-11-30 - 2025-12-06&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/design-patterns-by-example/" &gt;Design Patterns by Example&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-11-23---2025-11-29/" &gt;Weeknotes/2025-11-23 - 2025-11-29&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/linux/" &gt;Linux&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/databases/" &gt;Databases&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-11-16---2025-11-22/" &gt;Weeknotes/2025-11-16 - 2025-11-22&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/curso-sono/" &gt;Curso Sono&lt;/a&gt;&lt;/li&gt;
@@ -13005,6 +13005,9 @@ exists.&lt;/li&gt;
 &lt;li&gt;cut first N characters of each line
 &lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&amp;lt;command&amp;gt; | cut -c&amp;lt;N&amp;gt;-
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&amp;lt;command&amp;gt; | cut -c5- &lt;span style="color:#000080"&gt;# to cut first 4 chars&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
+&lt;li&gt;Flatpak apps not opening URLs #troubleshooting. Fixed by installing xdg-desktop-portal package
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt install xdg-desktop-portal xdg-desktop-portal-gtk
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="debian"&gt;
