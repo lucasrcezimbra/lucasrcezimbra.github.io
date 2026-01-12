@@ -1,7 +1,7 @@
 ---
 title: Linux
 date: 2023-08-15
-lastmod: 2025-11-27
+lastmod: 2026-01-12
 aliases:
   - /anotacoes/linux/
   - /dicas-rapidas-linux/
@@ -122,7 +122,10 @@ aliases:
   <command> | cut -c<N>-
   <command> | cut -c5-  # to cut first 4 chars
   ```
-
+- Flatpak apps not opening URLs #troubleshooting. Fixed by installing xdg-desktop-portal package
+  ```bash
+  sudo apt install xdg-desktop-portal xdg-desktop-portal-gtk
+  ```
 
 ## Debian
 - How to validate a .desktop file

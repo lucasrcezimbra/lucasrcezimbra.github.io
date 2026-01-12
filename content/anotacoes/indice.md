@@ -1,13 +1,14 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2026-01-08
+lastmod: 2026-01-12
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2026-01-04 - 2026-01-10]({{< ref "Weeknotes/2026-01-04 - 2026-01-10" >}})
 - [Livros]({{< ref "Livros" >}})
 - [Weeknotes/2025-12-21 - 2025-12-27]({{< ref "Weeknotes/2025-12-21 - 2025-12-27" >}})
@@ -17,7 +18,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2025-11-30 - 2025-12-06]({{< ref "Weeknotes/2025-11-30 - 2025-12-06" >}})
 - [Design Patterns by Example]({{< ref "Design Patterns by Example" >}})
 - [Weeknotes/2025-11-23 - 2025-11-29]({{< ref "Weeknotes/2025-11-23 - 2025-11-29" >}})
-- [Linux]({{< ref "Linux" >}})
 - [Databases]({{< ref "Databases" >}})
 - [Weeknotes/2025-11-16 - 2025-11-22]({{< ref "Weeknotes/2025-11-16 - 2025-11-22" >}})
 - [Curso Sono]({{< ref "Curso Sono" >}})
