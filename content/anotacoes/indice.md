@@ -1,16 +1,17 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2026-01-12
+lastmod: 2026-01-14
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2026-01-11 - 2026-01-17]({{< ref "Weeknotes/2026-01-11 - 2026-01-17" >}})
+- [Livros]({{< ref "Livros" >}})
 - [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2026-01-04 - 2026-01-10]({{< ref "Weeknotes/2026-01-04 - 2026-01-10" >}})
-- [Livros]({{< ref "Livros" >}})
 - [Weeknotes/2025-12-21 - 2025-12-27]({{< ref "Weeknotes/2025-12-21 - 2025-12-27" >}})
 - [PostgreSQL]({{< ref "PostgreSQL" >}})
 - [Weeknotes/2025-12-14 - 2025-12-20]({{< ref "Weeknotes/2025-12-14 - 2025-12-20" >}})
