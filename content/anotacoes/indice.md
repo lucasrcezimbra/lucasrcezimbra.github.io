@@ -9,6 +9,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2026-01-18 - 2026-01-24]({{< ref "Weeknotes/2026-01-18 - 2026-01-24" >}})
+- [Culinária]({{< ref "Culinária" >}})
 - [Weeknotes/2026-01-11 - 2026-01-17]({{< ref "Weeknotes/2026-01-11 - 2026-01-17" >}})
 - [Livros]({{< ref "Livros" >}})
 - [Linux]({{< ref "Linux" >}})
@@ -29,7 +30,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Git]({{< ref "Git" >}})
 - [Weeknotes/2025-11-02 - 2025-11-08]({{< ref "Weeknotes/2025-11-02 - 2025-11-08" >}})
 - [Weeknotes/2025-10-26 - 2025-11-01]({{< ref "Weeknotes/2025-10-26 - 2025-11-01" >}})
-- [Culinária]({{< ref "Culinária" >}})
 - [Weeknotes/2025-10-19 - 2025-10-25]({{< ref "Weeknotes/2025-10-19 - 2025-10-25" >}})
 - [Weeknotes/2025-10-12 - 2025-10-18]({{< ref "Weeknotes/2025-10-12 - 2025-10-18" >}})
 - [Weeknotes/2025-10-05 - 2025-10-11]({{< ref "Weeknotes/2025-10-05 - 2025-10-11" >}})

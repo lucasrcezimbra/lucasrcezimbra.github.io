@@ -1,7 +1,7 @@
 ---
 title: "Culinária"
 date: 2025-05-11
-lastmod: 2025-10-28
+lastmod: 2026-01-19
 ---
 
 ## Costela de porco na brasa
@@ -90,3 +90,11 @@ lastmod: 2025-10-28
 - 15g de açucar
 - dose de whey
 - 250g de leite de castanha
+
+---
+
+## Cappuccino
+1. "espumar" 50g de leite da castanha
+1. fazer um espresso pequeno
+1. Colocar 20g de leite quente (sem a espuma)
+1. Colocar 10g de espuma do leite
