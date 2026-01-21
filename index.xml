@@ -17868,6 +17868,16 @@ empresa pela Prometric; responsável pelas entrevistas técnicas de candidatos.&
  &lt;/a&gt;
 &lt;/h3&gt;
 &lt;p&gt;&lt;div class="contribution"&gt;
+ &lt;span&gt;2026-01-21 -&lt;/span&gt;
+ 
+ 
+ &lt;img src="https://cezimbra.me/images/code-pr-open.svg"&gt;
+ 
+ 
+ &lt;a class="external-link" href="https://github.com/anomalyco/opencode/pull/9841" target="_blank"&gt;opencode: feat(commands): support escaping $ in custom command templates&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class="contribution"&gt;
  &lt;span&gt;2025-10-06 -&lt;/span&gt;
  
  
