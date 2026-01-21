@@ -141,6 +141,13 @@ slug: "projects"
 ### Code
 
 {{< contribution
+    status="open"
+    url="https://github.com/anomalyco/opencode/pull/9841"
+    project="opencode"
+    title="feat(commands): support escaping $ in custom command templates"
+    date="2026-01-21"
+>}}
+{{< contribution
     status="closed"
     url="https://github.com/boidolr/ast-grep-pre-commit/pull/43"
     project="ast-grep-pre-commit"
