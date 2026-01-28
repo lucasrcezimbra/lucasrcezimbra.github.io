@@ -141,6 +141,13 @@ date: 2022-04-08T20:08:54-03:00
 
 {{< contribution
     status="open"
+    url="https://github.com/coderabbitai/git-worktree-runner/pull/91"
+    project="git-worktree-runner"
+    title="feat(new): add --no-verify flag to skip post-create hooks"
+    date="2026-01-28"
+>}}
+{{< contribution
+    status="open"
     url="https://github.com/anomalyco/opencode/pull/9841"
     project="opencode"
     title="feat(commands): support escaping $ in custom command templates"
