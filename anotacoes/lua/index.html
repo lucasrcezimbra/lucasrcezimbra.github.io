@@ -41,7 +41,7 @@ What is Busted? Link to heading busted is a unit testing framework with a focus 
 </a><input type=checkbox id=menu-toggle>
 <label class="menu-button float-right" for=menu-toggle><i class="fa-solid fa-bars fa-fw" aria-hidden=true></i></label><ul class=navigation-list><li class=navigation-item><a class=navigation-link href=/sobre/>Sobre</a></li><li class=navigation-item><a class=navigation-link href=/projetos/>Projetos</a></li><li class=navigation-item><a class=navigation-link href=/anotacoes/indice/>Anotações</a></li><li class=navigation-item><a class=navigation-link href=/palestras/>Palestras</a></li><li class=navigation-item><a class=navigation-link href=/posts/>Blog</a></li><li class=navigation-item><a class=navigation-link href=https://toolbox.cezimbra.me/>Toolbox ↗</a></li><li class="navigation-item menu-separator"><span>|</span></li><li class=navigation-item><a href=/en/>🇺🇸</a></li></ul></section></nav><div class=content><section class="container page"><article><header><h1 class=title><a class=title-link href=https://cezimbra.me/anotacoes/lua/>Lua</a></h1></header><ul><li>Homepage: <a href=https://www.lua.org/ class=external-link target=_blank rel=noopener>Lua</a></li><li>Package manager: <a href=https://luarocks.org/ class=external-link target=_blank rel=noopener>LuaRocks</a></li><li>Opinionated code formatter: <a href=https://github.com/JohnnyMorganz/StyLua class=external-link target=_blank rel=noopener>StyLua</a></li></ul><h2 id=installing>Installing
 <a class=heading-link href=#installing><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
-<span class=sr-only>Link to heading</span></a></h2><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-sh data-lang=sh><span style=display:flex><span>sudo apt update
+<span class=sr-only>Link to heading</span></a></h2><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-sh data-lang=sh><span style=display:flex><span>sudo apt update
 </span></span><span style=display:flex><span>sudo apt install lua5.4 luarocks
 </span></span></code></pre></div><h2 id=learning>Learning
 <a class=heading-link href=#learning><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
@@ -63,7 +63,7 @@ encapsulation and a clear structure for defining and exporting functionality.</p
 functions and variables that will be a part of the module&rsquo;s interface. <code>local</code>
 ensures that <code>M</code> is scoped to the module file, preventing it from being
 accessed globally. This is good practice to avoid polluting the global
-namespace and potential name conflicts.</p><p><code>M</code> table is returned at the end of the script.</p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-lua data-lang=lua><span style=display:flex><span><span style=color:navy>-- &lt;moduleName&gt;.lua</span>
+namespace and potential name conflicts.</p><p><code>M</code> table is returned at the end of the script.</p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-lua data-lang=lua><span style=display:flex><span><span style=color:navy>-- &lt;moduleName&gt;.lua</span>
 </span></span><span style=display:flex><span><span style=color:#00cd00>local</span> M <span style=color:#39c>=</span> {}
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:#cdcd00>function</span> <span style=color:#00cdcd>M</span>.sayHello()
@@ -75,7 +75,7 @@ namespace and potential name conflicts.</p><p><code>M</code> table is returned a
 </span></span><span style=display:flex><span><span style=color:#cdcd00>end</span>
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:#cdcd00>return</span> M
-</span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-lua data-lang=lua><span style=display:flex><span><span style=color:navy>-- main.lua</span>
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-lua data-lang=lua><span style=display:flex><span><span style=color:navy>-- main.lua</span>
 </span></span><span style=display:flex><span>require(<span style=color:#cd0000>&#39;&lt;moduleName&gt;&#39;</span>).sayHello()
 </span></span><span style=display:flex><span><span style=color:navy>-- Hello, world!</span>
 </span></span><span style=display:flex><span>require(<span style=color:#cd0000>&#39;&lt;moduleName&gt;&#39;</span>).privateFunction()

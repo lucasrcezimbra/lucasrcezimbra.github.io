@@ -49,6 +49,11 @@
 &lt;li&gt;(pt-BR) &lt;a href="https://moacirmoda.substack.com/p/por-que-eu-parei-de-gerenciar-meu" class="external-link" target="_blank" rel="noopener"&gt;Por que eu parei de gerenciar meu time no Tintim&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;(pt-BR) &lt;a href="https://moacirmoda.substack.com/p/o-melhor-caminho-para-comecar-a-ganhar" class="external-link" target="_blank" rel="noopener"&gt;O melhor caminho para começar a ganhar dinheiro na internet&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;(pt-BR) &lt;a href="https://microsaas.substack.com/p/maior-case-de-empreendedorismo-solo" class="external-link" target="_blank" rel="noopener"&gt;Maior case de empreendedorismo solo do Brasil. Conheça a Vencefy.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://simonwillison.net/2026/Jan/27/one-human-one-agent-one-browser/" class="external-link" target="_blank" rel="noopener"&gt;One Human + One Agent = One Browser From Scratch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://tn1ck.com/blog/claude-code-made-me-love-meetings-again" class="external-link" target="_blank" rel="noopener"&gt;Claude Code made me love meetings again&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://aphyr.com/posts/403-blocking-claude" class="external-link" target="_blank" rel="noopener"&gt;Blocking Claude&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://swizec.com/blog/the-future-of-software-engineering-is-sre/" class="external-link" target="_blank" rel="noopener"&gt;The future of software engineering is SRE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://every.to/source-code/how-i-use-claude-code-to-ship-like-a-team-of-five-6f23f136-52ab-455f-a997-101c071613aa" class="external-link" target="_blank" rel="noopener"&gt;How I Use Claude Code to Ship Like a Team of Five&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -971,14 +976,14 @@
  &lt;/a&gt;
 &lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Bad:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;class&lt;/span&gt; &lt;span style="color:#00cdcd"&gt;CsvExporter&lt;/span&gt;:
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;class&lt;/span&gt; &lt;span style="color:#00cdcd"&gt;CsvExporter&lt;/span&gt;:
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#cdcd00"&gt;def&lt;/span&gt; render(&lt;span style="color:#cd00cd"&gt;self&lt;/span&gt;):
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#39c"&gt;...&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#cdcd00"&gt;def&lt;/span&gt; upload(&lt;span style="color:#cd00cd"&gt;self&lt;/span&gt;):
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#39c"&gt;...&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Good:&lt;/strong&gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;class&lt;/span&gt; &lt;span style="color:#00cdcd"&gt;StorageUploader&lt;/span&gt;:
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;class&lt;/span&gt; &lt;span style="color:#00cdcd"&gt;StorageUploader&lt;/span&gt;:
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#cdcd00"&gt;def&lt;/span&gt; upload(&lt;span style="color:#cd00cd"&gt;self&lt;/span&gt;):
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#39c"&gt;...&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
@@ -2670,7 +2675,7 @@ você pedir justiça, lembre-se, você é o primeiro da fila.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;Notifies when a GitHub Workflow is done, so you don&amp;rsquo;t need to babysit the
 GitHub tab:
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;gh run watch &lt;span style="color:#39c"&gt;&amp;amp;&amp;amp;&lt;/span&gt; notify-send &lt;span style="color:#cd0000"&gt;&amp;#39;Workflow is done!!!11!!&amp;#39;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;gh run watch &lt;span style="color:#39c"&gt;&amp;amp;&amp;amp;&lt;/span&gt; notify-send &lt;span style="color:#cd0000"&gt;&amp;#39;Workflow is done!!!11!!&amp;#39;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -3987,7 +3992,7 @@ it was a Phoenix LiveView like lib.&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.com/xzya/django-web-components" class="external-link" target="_blank" rel="noopener"&gt;django-web-components&lt;/a&gt; last
 commit was in Feb 2024; requires to define a Python class for each component,
 which looks annoying:
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; django_web_components &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; component
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; django_web_components &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; component
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;@component.register(&lt;span style="color:#cd0000"&gt;&amp;#34;card&amp;#34;&lt;/span&gt;)
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;class&lt;/span&gt; &lt;span style="color:#00cdcd"&gt;Card&lt;/span&gt;(component&lt;span style="color:#39c"&gt;.&lt;/span&gt;Component):
@@ -4019,7 +4024,7 @@ into your project.&lt;/li&gt;
 &lt;a href="https://mise.jdx.dev/" class="external-link" target="_blank" rel="noopener"&gt;mise-en-place&lt;/a&gt; as my tool version manager. So, I
 installed Ruby:&lt;/li&gt;
 &lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;mise use ruby 3.4.2
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;mise use ruby 3.4.2
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start="2"&gt;
 &lt;li&gt;
 &lt;p&gt;Spin up a VPS. It could be any VPS. I used AWS EC2 because of the free tier.
@@ -4029,7 +4034,7 @@ I did it through the AWS console.&lt;/p&gt;
 &lt;p&gt;Install kamal&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;gem install kamal
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;gem install kamal
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>VPS providers</title><link>https://cezimbra.me/anotacoes/vps-providers/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/vps-providers/</guid><description>&lt;table&gt;
  &lt;thead&gt;
  &lt;tr&gt;
@@ -4653,7 +4658,7 @@ because it can&amp;rsquo;t be significantly different from what you already know
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pipx install uv
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pipx install uv
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;uvx pdm import pyproject.toml
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;uvx tomlq &lt;span style="color:#cd0000"&gt;&amp;#39;del(.tool.poetry)&amp;#39;&lt;/span&gt; -i -t pyproject.toml
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;uvx tomlq &lt;span style="color:#cd0000"&gt;&amp;#39;del(.&amp;#34;build-system&amp;#34;)&amp;#39;&lt;/span&gt; -i -t pyproject.toml
@@ -4669,16 +4674,16 @@ because it can&amp;rsquo;t be significantly different from what you already know
 &lt;ol start="0"&gt;
 &lt;li&gt;You will need uv installed&lt;/li&gt;
 &lt;li&gt;Run PDM import
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;uvx pdm import pyproject.toml
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;uvx pdm import pyproject.toml
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Remove all &lt;code&gt;[tool.poetry.*]&lt;/code&gt; sections from your &lt;code&gt;pyproject.toml&lt;/code&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;uvx tomlq &lt;span style="color:#cd0000"&gt;&amp;#39;del(.tool.poetry)&amp;#39;&lt;/span&gt; -i -t pyproject.toml
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;uvx tomlq &lt;span style="color:#cd0000"&gt;&amp;#39;del(.tool.poetry)&amp;#39;&lt;/span&gt; -i -t pyproject.toml
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Remove &lt;code&gt;build-system&lt;/code&gt; section from your &lt;code&gt;pyproject.toml&lt;/code&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;uvx tomlq &lt;span style="color:#cd0000"&gt;&amp;#39;del(.&amp;#34;build-system&amp;#34;)&amp;#39;&lt;/span&gt; -i -t pyproject.toml
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;uvx tomlq &lt;span style="color:#cd0000"&gt;&amp;#39;del(.&amp;#34;build-system&amp;#34;)&amp;#39;&lt;/span&gt; -i -t pyproject.toml
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Remove &lt;code&gt;tool.pdm&lt;/code&gt; sections from your &lt;code&gt;pyproject.toml&lt;/code&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;uvx tomlq &lt;span style="color:#cd0000"&gt;&amp;#39;del(.tool.pdm)&amp;#39;&lt;/span&gt; -i -t pyproject.toml
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;uvx tomlq &lt;span style="color:#cd0000"&gt;&amp;#39;del(.tool.pdm)&amp;#39;&lt;/span&gt; -i -t pyproject.toml
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id="another-tools"&gt;
@@ -4959,7 +4964,7 @@ multiple accounts for one to work.&lt;/li&gt;
 &lt;ol&gt;
 &lt;li&gt;Generate a 6-digit PIN (keep it safe). Use when you see &lt;code&gt;&amp;lt;PIN&amp;gt;&lt;/code&gt; in this tutorial.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;curl -X POST &lt;span style="color:#cd0000"&gt;\
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;curl -X POST &lt;span style="color:#cd0000"&gt;\
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#cd0000"&gt;&amp;#39;https://graph.facebook.com/v21.0/&amp;lt;PHONE_NUMBER_ID&amp;gt;&amp;#39;&lt;/span&gt; &lt;span style="color:#cd0000"&gt;\
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; -H &lt;span style="color:#cd0000"&gt;&amp;#39;Authorization: Bearer &amp;lt;ACCESS_TOKEN&amp;gt;&amp;#39;&lt;/span&gt; &lt;span style="color:#cd0000"&gt;\
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; -H &lt;span style="color:#cd0000"&gt;&amp;#39;Content-Type: application/json&amp;#39;&lt;/span&gt; &lt;span style="color:#cd0000"&gt;\
@@ -5174,7 +5179,7 @@ additional header: &lt;code&gt;Access-Control-Expose-Headers: &amp;lt;accessible
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.timescale.com/blog/vector-databases-are-the-wrong-abstraction" class="external-link" target="_blank" rel="noopener"&gt;Vector Databases Are the Wrong Abstraction&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.pixelstech.net/article/1731643884-The-Ultimate-Guide-to-Implement-Function-Overloading-in-Python" class="external-link" target="_blank" rel="noopener"&gt;The Ultimate Guide to Implement Function Overloading in Python | PixelsTech&lt;/a&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; functools &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; singledispatch
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; functools &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; singledispatch
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;@singledispatch
@@ -5257,7 +5262,7 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Django Template - Adding a char when the forloop has next element
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{&lt;span style="color:#39c"&gt;%&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;for&lt;/span&gt; x &lt;span style="color:#cdcd00"&gt;in&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;tool&lt;/span&gt;&lt;span style="color:#39c"&gt;.&lt;/span&gt;lists&lt;span style="color:#39c"&gt;.&lt;/span&gt;all &lt;span style="color:#39c"&gt;%&lt;/span&gt;}
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{&lt;span style="color:#39c"&gt;%&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;for&lt;/span&gt; x &lt;span style="color:#cdcd00"&gt;in&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;tool&lt;/span&gt;&lt;span style="color:#39c"&gt;.&lt;/span&gt;lists&lt;span style="color:#39c"&gt;.&lt;/span&gt;all &lt;span style="color:#39c"&gt;%&lt;/span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; {{ x }}{&lt;span style="color:#39c"&gt;%&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;if&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;not&lt;/span&gt; forloop&lt;span style="color:#39c"&gt;.&lt;/span&gt;last &lt;span style="color:#39c"&gt;%&lt;/span&gt;},{&lt;span style="color:#39c"&gt;%&lt;/span&gt; endif &lt;span style="color:#39c"&gt;%&lt;/span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{&lt;span style="color:#39c"&gt;%&lt;/span&gt; endfor &lt;span style="color:#39c"&gt;%&lt;/span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
@@ -5303,7 +5308,7 @@ porque isso é um chamado.&lt;/p&gt;</description></item><item><title>Designing 
 &lt;p&gt;&lt;a href="https://docs.python.org/3/library/threading.html#thread-local-data" class="external-link" target="_blank" rel="noopener"&gt;Thread-Local&lt;/a&gt;
 using &lt;a href="https://github.com/django/asgiref/" class="external-link" target="_blank" rel="noopener"&gt;asgiref&lt;/a&gt; that is a drop-in replacement for
 &lt;code&gt;threading.local&lt;/code&gt; with support to threads and asyncio.&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; asgiref.local &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; Local
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; asgiref.local &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; Local
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;local &lt;span style="color:#39c"&gt;=&lt;/span&gt; Local()
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
@@ -5952,7 +5957,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;--durations=&amp;lt;n&amp;gt;&lt;/code&gt; outputs the top &lt;n&gt; slowest tests/fixtures&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pytest --durations&lt;span style="color:#39c"&gt;=&lt;/span&gt;&amp;lt;n&amp;gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pytest --durations&lt;span style="color:#39c"&gt;=&lt;/span&gt;&amp;lt;n&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="pyinstrument"&gt;
  pyinstrument
  &lt;a class="heading-link" href="#pyinstrument"&gt;
@@ -5961,7 +5966,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://pypi.org/project/pyinstrument" class="external-link" target="_blank" rel="noopener"&gt;pyinstrument · PyPI&lt;/a&gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pip install pyinstrument
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pip install pyinstrument
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pyinstrument -m pytest
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="pytest-profiling"&gt;
  pytest-profiling
@@ -5971,7 +5976,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://pypi.org/project/pytest-profiling" class="external-link" target="_blank" rel="noopener"&gt;pytest-profiling · PyPI&lt;/a&gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pip install pytest-profiling
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pip install pytest-profiling
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="-snakeviz"&gt;
  + SnakeViz
  &lt;a class="heading-link" href="#-snakeviz"&gt;
@@ -5980,7 +5985,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
  &lt;/a&gt;
 &lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://pypi.org/project/snakeviz" class="external-link" target="_blank" rel="noopener"&gt;snakeviz · PyPI&lt;/a&gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pytest --profile
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pytest --profile
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pip install snakeviz
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;snakeviz prof/combined.prof
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="-svg"&gt;
@@ -5990,7 +5995,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pytest --profile-svg
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pytest --profile-svg
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# open prof/combined.svg&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="workaround-to-time-fixtures-teardown"&gt;
  Workaround to time fixtures teardown
@@ -6003,7 +6008,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
 &lt;li&gt;Edit file &lt;code&gt;&amp;lt;venv&amp;gt;/lib/python&amp;lt;version&amp;gt;/site-packages/_pytest/fixtures.py&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Search for &lt;code&gt;def _teardown_yield_fixture&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;Replace &lt;code&gt;next(it)&lt;/code&gt; with
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; time &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; time
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; time &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; time
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;t &lt;span style="color:#39c"&gt;=&lt;/span&gt; time()
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;next&lt;/span&gt;(it)
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;print&lt;/span&gt;(&lt;span style="color:#cd0000"&gt;f&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#34;#################################### fixture &lt;/span&gt;&lt;span style="color:#cd0000"&gt;{&lt;/span&gt;fixturefunc&lt;span style="color:#cd0000"&gt;}&lt;/span&gt;&lt;span style="color:#cd0000"&gt; teardown took &lt;/span&gt;&lt;span style="color:#cd0000"&gt;{&lt;/span&gt;d&lt;span style="color:#cd0000"&gt;}&lt;/span&gt;&lt;span style="color:#cd0000"&gt; seconds&amp;#34;&lt;/span&gt;)
@@ -6018,7 +6023,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;id: new-args-to-all-methods
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;id: new-args-to-all-methods
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;language: python
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;rule:
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; kind: parameters
@@ -6035,7 +6040,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; by: &lt;span style="color:#cd0000"&gt;&amp;#39;self, &amp;lt;new_arg1&amp;gt;, &amp;lt;new_arg2&amp;gt;,&amp;#39;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; source: $INNER_ARGS
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;fix: &lt;span style="color:#cd0000"&gt;&amp;#39;($NEW_INNER_ARGS)&amp;#39;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-diff" data-lang="diff"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; def func1():
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-diff" data-lang="diff"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; def func1():
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; ...
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; def func2(args):
@@ -6064,7 +6069,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;id: replace-non-import-identifiers
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;id: replace-non-import-identifiers
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;language: python
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;rule:
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; kind: identifier
@@ -6087,7 +6092,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; pattern: &lt;span style="color:#cd0000"&gt;&amp;#39;from x import $$$&amp;#39;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; kind: import_from_statement
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;fix: &lt;span style="color:#cd0000"&gt;&amp;#39;MyIdentifier as MyNewIdentifier&amp;#39;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-diff" data-lang="diff"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd0000"&gt;-from x import MyIdentifier
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-diff" data-lang="diff"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd0000"&gt;-from x import MyIdentifier
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#00cd00"&gt;+from x import MyIdentifier as MyNewIdentifier
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd0000"&gt;-MyIdentifier.ABC
@@ -6101,7 +6106,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;id: append-to-function-body
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;id: append-to-function-body
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;language: python
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;rule:
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; pattern: &amp;#39;def user($$$ARGS): $$$BODY&amp;#39;
@@ -6110,7 +6115,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd0000"&gt; $$$BODY
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd0000"&gt; yield
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd0000"&gt; tear_down()&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-diff" data-lang="diff"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; @pytest.fixture
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-diff" data-lang="diff"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; @pytest.fixture
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; def user():
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; create_user()
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#00cd00"&gt;+ yield
@@ -6122,7 +6127,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;id: change-function-calls
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-yaml" data-lang="yaml"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;id: change-function-calls
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;language: python
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;rule:
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; pattern: &lt;span style="color:#cd0000"&gt;&amp;#39;my_func&amp;#39;&lt;/span&gt;
@@ -6130,7 +6135,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; inside:
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; kind: call
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;fix: &lt;span style="color:#cd0000"&gt;&amp;#39;my_new_func&amp;#39;&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-diff" data-lang="diff"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; from x import my_func
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-diff" data-lang="diff"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; from x import my_func
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; my_func.X = &amp;#39;&amp;#39;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; s = &amp;#39;my_func inside string will not be changed&amp;#39;
@@ -6139,7 +6144,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#00cd00"&gt;+my_new_func()
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Bash</title><link>https://cezimbra.me/anotacoes/bash/</link><pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/bash/</guid><description>&lt;ul&gt;
 &lt;li&gt;command or error
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&amp;lt;command&amp;gt; &lt;span style="color:#39c"&gt;||&lt;/span&gt; &lt;span style="color:#39c"&gt;{&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&amp;lt;command&amp;gt; &lt;span style="color:#39c"&gt;||&lt;/span&gt; &lt;span style="color:#39c"&gt;{&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#cd00cd"&gt;echo&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#34;Please install &amp;lt;package&amp;gt;&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#cd00cd"&gt;exit&lt;/span&gt; &lt;span style="color:#cd00cd"&gt;1&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#39c"&gt;}&lt;/span&gt;
@@ -6161,7 +6166,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
 &lt;li&gt;appending: &lt;code&gt;fruits+=(&amp;quot;durian&amp;quot;)&lt;/code&gt;&lt;/li&gt;
 &lt;li&gt;appending multiple: &lt;code&gt;fruits+=(&amp;quot;durian&amp;quot; &amp;quot;elderberry&amp;quot;)&lt;/code&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#00cdcd"&gt;fruits&lt;/span&gt;&lt;span style="color:#39c"&gt;=(&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#34;apple&amp;#34;&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#34;banana&amp;#34;&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#34;cherry&amp;#34;&lt;/span&gt;&lt;span style="color:#39c"&gt;)&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#00cdcd"&gt;fruits&lt;/span&gt;&lt;span style="color:#39c"&gt;=(&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#34;apple&amp;#34;&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#34;banana&amp;#34;&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#34;cherry&amp;#34;&lt;/span&gt;&lt;span style="color:#39c"&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;echo&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#34;&lt;/span&gt;&lt;span style="color:#cd0000"&gt;${&lt;/span&gt;&lt;span style="color:#00cdcd"&gt;fruits&lt;/span&gt;[0]&lt;span style="color:#cd0000"&gt;}&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# apple&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
@@ -6188,7 +6193,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;if&lt;/span&gt; &lt;span style="color:#39c"&gt;[[&lt;/span&gt; &amp;lt;condition&amp;gt; &lt;span style="color:#39c"&gt;]]&lt;/span&gt;; &lt;span style="color:#cdcd00"&gt;then&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;if&lt;/span&gt; &lt;span style="color:#39c"&gt;[[&lt;/span&gt; &amp;lt;condition&amp;gt; &lt;span style="color:#39c"&gt;]]&lt;/span&gt;; &lt;span style="color:#cdcd00"&gt;then&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &amp;lt;command&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;elif&lt;/span&gt; &lt;span style="color:#39c"&gt;[[&lt;/span&gt; &amp;lt;condition&amp;gt; &lt;span style="color:#39c"&gt;]]&lt;/span&gt;; &lt;span style="color:#cdcd00"&gt;then&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &amp;lt;command&amp;gt;
@@ -6241,7 +6246,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#00cdcd"&gt;fruits&lt;/span&gt;&lt;span style="color:#39c"&gt;=(&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#34;apple&amp;#34;&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#34;banana&amp;#34;&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#34;cherry&amp;#34;&lt;/span&gt;&lt;span style="color:#39c"&gt;)&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#00cdcd"&gt;fruits&lt;/span&gt;&lt;span style="color:#39c"&gt;=(&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#34;apple&amp;#34;&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#34;banana&amp;#34;&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#34;cherry&amp;#34;&lt;/span&gt;&lt;span style="color:#39c"&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;for&lt;/span&gt; f in &lt;span style="color:#cd0000"&gt;&amp;#34;&lt;/span&gt;&lt;span style="color:#cd0000"&gt;${&lt;/span&gt;&lt;span style="color:#00cdcd"&gt;fruits&lt;/span&gt;[@]&lt;span style="color:#cd0000"&gt;}&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#34;&lt;/span&gt;; &lt;span style="color:#cdcd00"&gt;do&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#cd00cd"&gt;echo&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#34;&lt;/span&gt;&lt;span style="color:#00cdcd"&gt;$f&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;done&lt;/span&gt;
@@ -6260,10 +6265,10 @@ process, for example) will cause corrupted trees&lt;/li&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;insert a line at the beginning of a file
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sed -i &lt;span style="color:#cd0000"&gt;&amp;#39;1i\&amp;lt;lines&amp;gt;&amp;#39;&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#34;&amp;lt;file&amp;gt;&amp;#34;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sed -i &lt;span style="color:#cd0000"&gt;&amp;#39;1i\&amp;lt;lines&amp;gt;&amp;#39;&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#34;&amp;lt;file&amp;gt;&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;find and sed multiple files
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;find &lt;span style="color:#cd0000"&gt;&amp;#34;&amp;lt;dir&amp;gt;&amp;#34;&lt;/span&gt; -type f -exec sed -i &lt;span style="color:#cd0000"&gt;&amp;#34;s|&amp;lt;search&amp;gt;|&amp;lt;replace&amp;gt;|&amp;#34;&lt;/span&gt; &lt;span style="color:#39c"&gt;{}&lt;/span&gt; +
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;find &lt;span style="color:#cd0000"&gt;&amp;#34;&amp;lt;dir&amp;gt;&amp;#34;&lt;/span&gt; -type f -exec sed -i &lt;span style="color:#cd0000"&gt;&amp;#34;s|&amp;lt;search&amp;gt;|&amp;lt;replace&amp;gt;|&amp;#34;&lt;/span&gt; &lt;span style="color:#39c"&gt;{}&lt;/span&gt; +
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="substitution"&gt;
@@ -6278,7 +6283,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;same as &lt;code&gt;$variable&lt;/code&gt;, but useful when doing string manipulation&lt;/li&gt;
 &lt;li&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#00cdcd"&gt;text&lt;/span&gt;&lt;span style="color:#39c"&gt;=&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#34;hello&amp;#34;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#00cdcd"&gt;text&lt;/span&gt;&lt;span style="color:#39c"&gt;=&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#34;hello&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;echo&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#34;&lt;/span&gt;&lt;span style="color:#cd0000"&gt;${&lt;/span&gt;&lt;span style="color:#00cdcd"&gt;text&lt;/span&gt;:&lt;span style="color:#00cdcd"&gt;1&lt;/span&gt;:&lt;span style="color:#00cdcd"&gt;3&lt;/span&gt;&lt;span style="color:#cd0000"&gt;}&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# ell&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
@@ -6287,7 +6292,7 @@ process, for example) will cause corrupted trees&lt;/li&gt;
 &lt;li&gt;&lt;code&gt;$(&amp;lt;command&amp;gt;)&lt;/code&gt; = command substitution
 &lt;ul&gt;
 &lt;li&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;echo&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#34;Today is &lt;/span&gt;&lt;span style="color:#cdcd00"&gt;$(&lt;/span&gt;date +%Y-%m-%d&lt;span style="color:#cdcd00"&gt;)&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#34;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;echo&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#34;Today is &lt;/span&gt;&lt;span style="color:#cdcd00"&gt;$(&lt;/span&gt;date +%Y-%m-%d&lt;span style="color:#cdcd00"&gt;)&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd0000"&gt;``&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -6417,7 +6422,7 @@ Al Switzler &amp;amp; Emily Gregory&lt;/li&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/python/" &gt;Python&lt;/a&gt; format date using f-string
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#39c"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; datetime &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; datetime
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#39c"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; datetime &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; datetime
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#39c"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; d &lt;span style="color:#39c"&gt;=&lt;/span&gt; datetime&lt;span style="color:#39c"&gt;.&lt;/span&gt;now()
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#39c"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; &lt;span style="color:#cd0000"&gt;f&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#39;&lt;/span&gt;&lt;span style="color:#cd0000"&gt;{&lt;/span&gt;d&lt;span style="color:#cd0000"&gt;:&lt;/span&gt;&lt;span style="color:#cd0000"&gt;%Y-%m-%d&lt;/span&gt;&lt;span style="color:#cd0000"&gt;}&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#39;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd0000"&gt;&amp;#39;2024-09-27&amp;#39;&lt;/span&gt;
@@ -6550,7 +6555,7 @@ components that can connect directly to AWS&lt;/li&gt;
 &lt;a href="https://cezimbra.me/anotacoes/django/" &gt;Django&lt;/a&gt; diff between saved and non-saved objects
 &lt;ul&gt;
 &lt;li&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#39c"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; o &lt;span style="color:#39c"&gt;=&lt;/span&gt; MyModel&lt;span style="color:#39c"&gt;.&lt;/span&gt;objects&lt;span style="color:#39c"&gt;.&lt;/span&gt;create(f1&lt;span style="color:#39c"&gt;=&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#39;V 1&amp;#39;&lt;/span&gt;, f2&lt;span style="color:#39c"&gt;=&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#39;V 2&amp;#39;&lt;/span&gt;)
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#39c"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; o &lt;span style="color:#39c"&gt;=&lt;/span&gt; MyModel&lt;span style="color:#39c"&gt;.&lt;/span&gt;objects&lt;span style="color:#39c"&gt;.&lt;/span&gt;create(f1&lt;span style="color:#39c"&gt;=&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#39;V 1&amp;#39;&lt;/span&gt;, f2&lt;span style="color:#39c"&gt;=&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#39;V 2&amp;#39;&lt;/span&gt;)
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#39c"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; o&lt;span style="color:#39c"&gt;.&lt;/span&gt;f1 &lt;span style="color:#39c"&gt;=&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#39;V 1.1&amp;#39;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#39c"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; o&lt;span style="color:#39c"&gt;.&lt;/span&gt;f2 &lt;span style="color:#39c"&gt;=&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#39;V 2.1&amp;#39;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#39c"&gt;&amp;gt;&amp;gt;&amp;gt;&lt;/span&gt; o&lt;span style="color:#39c"&gt;.&lt;/span&gt;tracker&lt;span style="color:#39c"&gt;.&lt;/span&gt;changed()
@@ -6848,7 +6853,7 @@ SaaS; exemplos: workshop, ebook, planilha, mentoria.&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=OYxQ4Lvqn14" class="external-link" target="_blank" rel="noopener"&gt;Why You Need a Pocket Router: Hotels, Airports, Airplanes, Cruise Ships - Stay Connected Anywhere!&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=tSoFTD9Y8UU" class="external-link" target="_blank" rel="noopener"&gt;Making an HTTP request in Bash without &lt;code&gt;curl&lt;/code&gt; or &lt;code&gt;wget&lt;/code&gt; - on &lt;em&gt;any&lt;/em&gt; OS (Linux, Mac, illumos, etc.)&lt;/a&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;#!/usr/bin/env bash
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;#!/usr/bin/env bash
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# opens a bidirectional connection to the server on port&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;#&lt;/span&gt;
@@ -6902,7 +6907,7 @@ SaaS; exemplos: workshop, ebook, planilha, mentoria.&lt;/li&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-sh" data-lang="sh"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt update
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-sh" data-lang="sh"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt update
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt install lua5.4 luarocks
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="learning"&gt;
  Learning
@@ -7923,7 +7928,7 @@ CodeCommit&lt;/li&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;List active transactions in &lt;a href="https://cezimbra.me/anotacoes/postgresql/" &gt;PostgreSQL&lt;/a&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-sql" data-lang="sql"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;SELECT&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-sql" data-lang="sql"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;SELECT&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; datname &lt;span style="color:#cdcd00"&gt;AS&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;database&lt;/span&gt;,
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; usename &lt;span style="color:#cdcd00"&gt;AS&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;user&lt;/span&gt;,
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; pid,
@@ -7949,7 +7954,7 @@ CodeCommit&lt;/li&gt;
 &lt;p&gt;(4:30)
 &amp;ldquo;If you are explaining, even if you are write, you are losing.&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Inheritance approach:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;class&lt;/span&gt; &lt;span style="color:#00cdcd"&gt;MyAbstractBase&lt;/span&gt;:
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;class&lt;/span&gt; &lt;span style="color:#00cdcd"&gt;MyAbstractBase&lt;/span&gt;:
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#cdcd00"&gt;def&lt;/span&gt; OrangeMethod(&lt;span style="color:#cd00cd"&gt;self&lt;/span&gt;):
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#39c"&gt;...&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
@@ -7962,7 +7967,7 @@ CodeCommit&lt;/li&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#cdcd00"&gt;def&lt;/span&gt; BlueMethod(&lt;span style="color:#cd00cd"&gt;self&lt;/span&gt;):
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#39c"&gt;...&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;vs composition approach:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;class&lt;/span&gt; &lt;span style="color:#00cdcd"&gt;Green&lt;/span&gt;:
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;class&lt;/span&gt; &lt;span style="color:#00cdcd"&gt;Green&lt;/span&gt;:
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#cdcd00"&gt;def&lt;/span&gt; GreenMethod(&lt;span style="color:#cd00cd"&gt;self&lt;/span&gt;):
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#cdcd00"&gt;raise&lt;/span&gt; &lt;span style="color:#669;font-weight:bold"&gt;NotImplementedError&lt;/span&gt;()
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
@@ -8757,7 +8762,7 @@ drivers (fila, HTTP, CLI, etc.).&lt;/li&gt;
 &lt;li&gt;(pt-BR) &lt;a href="https://moacirmoda.substack.com/p/o-que-fizemos-para-alcancar-r-200k" class="external-link" target="_blank" rel="noopener"&gt;O que fizemos para alcançar R$ 200K de MRR em menos de 18 meses&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://words.filippo.io/dispatches/geomys/" class="external-link" target="_blank" rel="noopener"&gt;Geomys, a blueprint for a sustainable open source maintenance firm&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://architectelevator.com/cloud/iac-architecture-as-code/" class="external-link" target="_blank" rel="noopener"&gt;Application Architecture as Code&lt;/a&gt; - the idea is interesting, but I don&amp;rsquo;t think it&amp;rsquo;s viable currently, because of what he says in &lt;a href="https://architectelevator.com/cloud/iac-architecture-as-code/#better-together-" class="external-link" target="_blank" rel="noopener"&gt;&amp;ldquo;Better together ?&amp;rdquo; section&lt;/a&gt; &amp;ldquo;how to represent billing hierarchy, security boundary, or availability zones, etc.&amp;rdquo; - pseudo-code:
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;p = new pipeline()
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;p = new pipeline()
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;	.fromSource(...)
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;	.via(Filters.MessageFilter(...))
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;	.via(Filters.Translator(...))
@@ -9510,7 +9515,7 @@ of cooperation between software developers and operators.”&lt;/p&gt;</descript
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Send arguments into a generator in &lt;a href="https://cezimbra.me/anotacoes/python/" &gt;Python&lt;/a&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;In [&lt;span style="color:#cd00cd"&gt;1&lt;/span&gt;]: &lt;span style="color:#cdcd00"&gt;def&lt;/span&gt; generator():
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;In [&lt;span style="color:#cd00cd"&gt;1&lt;/span&gt;]: &lt;span style="color:#cdcd00"&gt;def&lt;/span&gt; generator():
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#39c"&gt;...&lt;/span&gt;: &lt;span style="color:#cdcd00"&gt;while&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;True&lt;/span&gt;:
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#39c"&gt;...&lt;/span&gt;: received &lt;span style="color:#39c"&gt;=&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;yield&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#39;DATA&amp;#39;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#39c"&gt;...&lt;/span&gt;: &lt;span style="color:#cd00cd"&gt;print&lt;/span&gt;(&lt;span style="color:#cd0000"&gt;&amp;#39;Received:&amp;#39;&lt;/span&gt;, received)
@@ -9796,7 +9801,7 @@ quiser, nós viveremos e faremos isto ou aquilo&amp;rsquo;&amp;rdquo; (Tg 4, 13-
 &lt;li&gt;Avoid overwriting Model.delete. For example, overwriting to ensure soft
 delete (idea from
 &lt;a href="https://github.com/Corvia/django-tenant-users/blob/933c87dbad920d2c75666429ef37a552b15e9ac6/tenant_users/tenants/models.py#L404C1-L411C1" class="external-link" target="_blank" rel="noopener"&gt;django-tenant-users&lt;/a&gt;):
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;def&lt;/span&gt; delete(&lt;span style="color:#cd00cd"&gt;self&lt;/span&gt;, &lt;span style="color:#39c"&gt;*&lt;/span&gt;args, hard&lt;span style="color:#39c"&gt;=&lt;/span&gt;&lt;span style="color:#cdcd00"&gt;False&lt;/span&gt;, &lt;span style="color:#39c"&gt;**&lt;/span&gt;kwargs):
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;def&lt;/span&gt; delete(&lt;span style="color:#cd00cd"&gt;self&lt;/span&gt;, &lt;span style="color:#39c"&gt;*&lt;/span&gt;args, hard&lt;span style="color:#39c"&gt;=&lt;/span&gt;&lt;span style="color:#cdcd00"&gt;False&lt;/span&gt;, &lt;span style="color:#39c"&gt;**&lt;/span&gt;kwargs):
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;	&lt;span style="color:#cdcd00"&gt;if&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;not&lt;/span&gt; hard:
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;		&lt;span style="color:#cdcd00"&gt;raise&lt;/span&gt; DeleteError(&lt;span style="color:#cd0000"&gt;&amp;#34;Use Model.soft_delete()&amp;#34;&lt;/span&gt;)
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;	&lt;span style="color:#cd00cd"&gt;super&lt;/span&gt;()&lt;span style="color:#39c"&gt;.&lt;/span&gt;delete(&lt;span style="color:#39c"&gt;*&lt;/span&gt;args, &lt;span style="color:#39c"&gt;**&lt;/span&gt;kwargs)ht
@@ -9821,7 +9826,7 @@ database-level cascading. Related PR:
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-diff" data-lang="diff"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#00cd00"&gt;+class MyModelManager(models.Manager):
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-diff" data-lang="diff"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#00cd00"&gt;+class MyModelManager(models.Manager):
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#00cd00"&gt;+ def get_by_natural_key(self, field1, field2):
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#00cd00"&gt;+ return self.get(field1=field1, field2=field2)
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#00cd00"&gt;+
@@ -9850,7 +9855,7 @@ database-level cascading. Related PR:
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{&lt;span style="color:#39c"&gt;%&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;for&lt;/span&gt; x &lt;span style="color:#cdcd00"&gt;in&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;tool&lt;/span&gt;&lt;span style="color:#39c"&gt;.&lt;/span&gt;lists&lt;span style="color:#39c"&gt;.&lt;/span&gt;all &lt;span style="color:#39c"&gt;%&lt;/span&gt;}
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-gdscript3" data-lang="gdscript3"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{&lt;span style="color:#39c"&gt;%&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;for&lt;/span&gt; x &lt;span style="color:#cdcd00"&gt;in&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;tool&lt;/span&gt;&lt;span style="color:#39c"&gt;.&lt;/span&gt;lists&lt;span style="color:#39c"&gt;.&lt;/span&gt;all &lt;span style="color:#39c"&gt;%&lt;/span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; {{ x }}{&lt;span style="color:#39c"&gt;%&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;if&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;not&lt;/span&gt; forloop&lt;span style="color:#39c"&gt;.&lt;/span&gt;last &lt;span style="color:#39c"&gt;%&lt;/span&gt;},{&lt;span style="color:#39c"&gt;%&lt;/span&gt; endif &lt;span style="color:#39c"&gt;%&lt;/span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;{&lt;span style="color:#39c"&gt;%&lt;/span&gt; endfor &lt;span style="color:#39c"&gt;%&lt;/span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="testing"&gt;
@@ -9870,7 +9875,7 @@ database-level cascading. Related PR:
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://stackoverflow.com/a/72593718" class="external-link" target="_blank" rel="noopener"&gt;Source&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# conftest.py&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# conftest.py&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;def&lt;/span&gt; pytest_sessionstart():
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; django.apps &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; apps
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
@@ -11368,7 +11373,7 @@ self-host because depends on Google Cloud&lt;/li&gt;
 &lt;li&gt;₀₁₂₃₄₅₆₇₈₉&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Hugo</title><link>https://cezimbra.me/anotacoes/hugo/</link><pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/hugo/</guid><description>&lt;ul&gt;
 &lt;li&gt;How to add icon for external links (&lt;a href="https://www.jayeless.net/2021/08/hugo-mark-external-links.html" class="external-link" target="_blank" rel="noopener"&gt;Source&lt;/a&gt;)
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-html" data-lang="html"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;&amp;lt;!-- layouts/_default/_markup/render-link.html --&amp;gt;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-html" data-lang="html"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;&amp;lt;!-- layouts/_default/_markup/render-link.html --&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&amp;lt;a href&lt;span style="color:#39c"&gt;=&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#34;{{ .Destination | safeURL }}&amp;#34;&lt;/span&gt;&lt;span style=""&gt;{{&lt;/span&gt; with &lt;span style=""&gt;.&lt;/span&gt;Title&lt;span style=""&gt;}}&lt;/span&gt; title&lt;span style="color:#39c"&gt;=&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#34;{{ . }}&amp;#34;&lt;/span&gt;&lt;span style=""&gt;{{&lt;/span&gt; end &lt;span style=""&gt;}}&lt;/span&gt;&amp;gt;{{ .Text | safeHTML }}{{ if strings.HasPrefix .Destination &amp;#34;http&amp;#34; }} &amp;lt;i class&lt;span style="color:#39c"&gt;=&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#34;fa fa-external-link&amp;#34;&lt;/span&gt; aria-hidden&lt;span style="color:#39c"&gt;=&lt;/span&gt;&lt;span style="color:#cd0000"&gt;&amp;#34;true&amp;#34;&lt;/span&gt;&amp;gt;&amp;lt;/i&amp;gt;{{ end }}&amp;lt;/a&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;How to override the theme (&lt;a href="https://gohugobrasil.netlify.app/themes/customizing/#override-template-files" class="external-link" target="_blank" rel="noopener"&gt;Source&lt;/a&gt;): &lt;code&gt;layouts/_default/single.html&lt;/code&gt; overwrites &lt;code&gt;/themes/&amp;lt;THEME&amp;gt;/layouts/_default/single.html&lt;/code&gt;&lt;/li&gt;
@@ -12544,7 +12549,7 @@ despertou a misericórdia de Deus&lt;/p&gt;</description></item><item><title>Cha
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;In [&lt;span style="color:#cd00cd"&gt;1&lt;/span&gt;]: &lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; decimal &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; Decimal
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;In [&lt;span style="color:#cd00cd"&gt;1&lt;/span&gt;]: &lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; decimal &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; Decimal
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;In [&lt;span style="color:#cd00cd"&gt;2&lt;/span&gt;]: Decimal(&lt;span style="color:#cd00cd"&gt;0.1&lt;/span&gt;)
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Out[&lt;span style="color:#cd00cd"&gt;2&lt;/span&gt;]: Decimal(&lt;span style="color:#cd0000"&gt;&amp;#39;0.1000000000000000055511151231257827021181583404541015625&amp;#39;&lt;/span&gt;)
@@ -12760,7 +12765,7 @@ database - &lt;a href="https://cezimbra.me/anotacoes/python/" &gt;Python&lt;/a&g
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Pull private image from AWS ECR
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin &amp;lt;aws-account&amp;gt;.dkr.ecr.us-east-1.amazonaws.com &lt;span style="color:#39c"&gt;&amp;amp;&amp;amp;&lt;/span&gt; docker pull &amp;lt;aws-account&amp;gt;.dkr.ecr.us-east-1.amazonaws.com/&amp;lt;image&amp;gt;:&amp;lt;tag&amp;gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin &amp;lt;aws-account&amp;gt;.dkr.ecr.us-east-1.amazonaws.com &lt;span style="color:#39c"&gt;&amp;amp;&amp;amp;&lt;/span&gt; docker pull &amp;lt;aws-account&amp;gt;.dkr.ecr.us-east-1.amazonaws.com/&amp;lt;image&amp;gt;:&amp;lt;tag&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Documentation</title><link>https://cezimbra.me/anotacoes/documentation/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/documentation/</guid><description>&lt;h2 id="adr---architecture-decision-records"&gt;
  ADR - Architecture Decision Records
@@ -12936,7 +12941,7 @@ database - &lt;a href="https://cezimbra.me/anotacoes/python/" &gt;Python&lt;/a&g
 &lt;/ul&gt;</description></item><item><title>Git</title><link>https://cezimbra.me/anotacoes/git/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/git/</guid><description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Using bisect to find bugs&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;git bisect start
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;git bisect start
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;git bisect bad &amp;lt;sha1&amp;gt; &lt;span style="color:#000080"&gt;# mark commit as bad&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;git bisect good &amp;lt;sha1&amp;gt; &lt;span style="color:#000080"&gt;# mark commit as good&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;git bisect run &amp;lt;cmd&amp;gt; &lt;span style="color:#000080"&gt;# run cmd automatically to find the first bad commit&lt;/span&gt;
@@ -12944,7 +12949,7 @@ database - &lt;a href="https://cezimbra.me/anotacoes/python/" &gt;Python&lt;/a&g
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;(GitHub) How to recover the deleted branch of a PR?&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;git clone git@github.com:&amp;lt;username&amp;gt;/&amp;lt;repo&amp;gt;.git
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;git clone git@github.com:&amp;lt;username&amp;gt;/&amp;lt;repo&amp;gt;.git
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;git fetch origin pull/&amp;lt;pr_id&amp;gt;/head:&amp;lt;new-branch&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;git checkout &amp;lt;new-branch&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
@@ -13019,7 +13024,7 @@ frontend&lt;/li&gt;
 &lt;li&gt;Hasura migrations does NOT run in a transaction by default. If a migration
 file with multiple SQL statements fails, the applied statements are NOT
 rolled back. For example:
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-sql" data-lang="sql"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;-- migrations/default/1715938531000_my_custom_migration/up.sql
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-sql" data-lang="sql"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;-- migrations/default/1715938531000_my_custom_migration/up.sql
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;CREATE&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;TABLE&lt;/span&gt; users (
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; id &lt;span style="color:#cd00cd"&gt;serial&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;PRIMARY&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;KEY&lt;/span&gt;,
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; name &lt;span style="color:#cd00cd"&gt;text&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;NOT&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;NULL&lt;/span&gt;
@@ -13049,7 +13054,7 @@ exists.&lt;/li&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;for&lt;/span&gt; (&lt;span style="color:#cdcd00"&gt;const&lt;/span&gt; [key, value] &lt;span style="color:#cdcd00"&gt;of&lt;/span&gt; &lt;span style="color:#cd00cd"&gt;Object&lt;/span&gt;.entries(obj)) {
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;for&lt;/span&gt; (&lt;span style="color:#cdcd00"&gt;const&lt;/span&gt; [key, value] &lt;span style="color:#cdcd00"&gt;of&lt;/span&gt; &lt;span style="color:#cd00cd"&gt;Object&lt;/span&gt;.entries(obj)) {
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; console.log(key, value);
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="getattr"&gt;
@@ -13059,7 +13064,7 @@ exists.&lt;/li&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;const&lt;/span&gt; value &lt;span style="color:#39c"&gt;=&lt;/span&gt; obj[key];
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;const&lt;/span&gt; value &lt;span style="color:#39c"&gt;=&lt;/span&gt; obj[key];
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="transform-a-list-of-lists-with-key-values-into-a-object"&gt;
  Transform a list of lists with key-values into a object
  &lt;a class="heading-link" href="#transform-a-list-of-lists-with-key-values-into-a-object"&gt;
@@ -13067,7 +13072,7 @@ exists.&lt;/li&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;const&lt;/span&gt; entries &lt;span style="color:#39c"&gt;=&lt;/span&gt; [
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;const&lt;/span&gt; entries &lt;span style="color:#39c"&gt;=&lt;/span&gt; [
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; [&lt;span style="color:#cd0000"&gt;&amp;#39;a&amp;#39;&lt;/span&gt;, &lt;span style="color:#cd00cd"&gt;1&lt;/span&gt;],
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; [&lt;span style="color:#cd0000"&gt;&amp;#39;b&amp;#39;&lt;/span&gt;, &lt;span style="color:#cd00cd"&gt;2&lt;/span&gt;],
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;];
@@ -13083,7 +13088,7 @@ exists.&lt;/li&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;const&lt;/span&gt; x &lt;span style="color:#39c"&gt;=&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#39;abc&amp;#39;&lt;/span&gt;;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;const&lt;/span&gt; x &lt;span style="color:#39c"&gt;=&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#39;abc&amp;#39;&lt;/span&gt;;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;const&lt;/span&gt; obj &lt;span style="color:#39c"&gt;=&lt;/span&gt; {
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; [x]&lt;span style="color:#39c"&gt;:&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#39;&amp;lt;whatever&amp;gt;&amp;#39;&lt;/span&gt;
@@ -13105,7 +13110,7 @@ exists.&lt;/li&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-typescript" data-lang="typescript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;import&lt;/span&gt; &lt;span style="color:#39c"&gt;*&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;as&lt;/span&gt; ts &lt;span style="color:#cdcd00"&gt;from&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#39;typescript&amp;#39;&lt;/span&gt;;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-typescript" data-lang="typescript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;import&lt;/span&gt; &lt;span style="color:#39c"&gt;*&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;as&lt;/span&gt; ts &lt;span style="color:#cdcd00"&gt;from&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#39;typescript&amp;#39;&lt;/span&gt;;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>Joplin</title><link>https://cezimbra.me/anotacoes/joplin/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/joplin/</guid><description>&lt;ul&gt;
 &lt;li&gt;&lt;a href="https://github.com/laurent22/joplin/" class="external-link" target="_blank" rel="noopener"&gt;https://github.com/laurent22/joplin/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;an open source note taking and to-do application with synchronisation capabilities&lt;/li&gt;
@@ -13166,67 +13171,67 @@ exists.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;How to print and redirect the stdout
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&amp;lt;command&amp;gt; | tee &amp;lt;filename&amp;gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&amp;lt;command&amp;gt; | tee &amp;lt;filename&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Converting images from webp (or jpg, png, etc.) to jpg (or webp, png, etc) (&lt;a href="https://twitter.com/lucasrcezimbra/status/1718995187878256796" class="external-link" target="_blank" rel="noopener"&gt;Tweet&lt;/a&gt;)
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt install imagemagick
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt install imagemagick
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;convert &amp;lt;file&amp;gt;.webp &amp;lt;file&amp;gt;.jpg
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;How to resize images
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt install imagemagick
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# Reducing quality&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt install imagemagick
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# Reducing quality&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;convert &amp;lt;input&amp;gt; -quality &amp;lt;n&amp;gt;% &amp;lt;output&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# Keeping aspect ratio&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# Keeping aspect ratio&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;convert &amp;lt;input&amp;gt; -resize &amp;lt;w&amp;gt;x&amp;lt;h&amp;gt; &amp;lt;output&amp;gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# Ignoring aspect ratio&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# Ignoring aspect ratio&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;convert &amp;lt;input&amp;gt; -resize &amp;lt;w&amp;gt;x&amp;lt;h&amp;gt;! &amp;lt;output&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;List and sort directories by size
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;du -sh * | sort -hr
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;du -sh * | sort -hr
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Open a terminal logged in as another user
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;su &lt;span style="color:#00cdcd"&gt;$OTHER_USER&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;su &lt;span style="color:#00cdcd"&gt;$OTHER_USER&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Lorem Ipsum
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt update &lt;span style="color:#39c"&gt;&amp;amp;&amp;amp;&lt;/span&gt; sudo apt install libtext-lorem-perl
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt update &lt;span style="color:#39c"&gt;&amp;amp;&amp;amp;&lt;/span&gt; sudo apt install libtext-lorem-perl
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;lorem -w &lt;span style="color:#cd00cd"&gt;96&lt;/span&gt; &lt;span style="color:#000080"&gt;# 96 words&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;lorem -s &lt;span style="color:#cd00cd"&gt;8&lt;/span&gt; &lt;span style="color:#000080"&gt;# 8 sentences&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;lorem -p &lt;span style="color:#cd00cd"&gt;12&lt;/span&gt; &lt;span style="color:#000080"&gt;# 12 paragraphs&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Captive Portals - Accessing WiFi that requires a browser authentication
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;ip --oneline route get 1.1.1.1 | awk &lt;span style="color:#cd0000"&gt;&amp;#39;{print $3}&amp;#39;&lt;/span&gt; | xargs google-chrome
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;ip --oneline route get 1.1.1.1 | awk &lt;span style="color:#cd0000"&gt;&amp;#39;{print $3}&amp;#39;&lt;/span&gt; | xargs google-chrome
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Format pendrive
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;df -h
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;df -h
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# find the pendrive to be formatted&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo umount /dev/sdXX
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo mkfs.vfat /dev/sdXX
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Bootable pendrive
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;df -h
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;df -h
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# find the pendrive&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo umount /dev/sdXX
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;cp image.iso /dev/sdXX
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sync
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Reading the output of a process
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;less /proc/&lt;span style="color:#00cdcd"&gt;$PID&lt;/span&gt;/fd/1 &lt;span style="color:#000080"&gt;#stdout&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;less /proc/&lt;span style="color:#00cdcd"&gt;$PID&lt;/span&gt;/fd/1 &lt;span style="color:#000080"&gt;#stdout&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;less /proc/&lt;span style="color:#00cdcd"&gt;$PID&lt;/span&gt;/fd/2 &lt;span style="color:#000080"&gt;#stderr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;How to use SSH as SOCKS5 proxy
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;ssh -vCND localhost:9999 -i &amp;lt;path_to_id_rsa&amp;gt; &amp;lt;username&amp;gt;@&amp;lt;remote_server&amp;gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;ssh -vCND localhost:9999 -i &amp;lt;path_to_id_rsa&amp;gt; &amp;lt;username&amp;gt;@&amp;lt;remote_server&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;How to learn what type (DDR?) memory my computer uses?
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo dmidecode -t &lt;span style="color:#cd00cd"&gt;17&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo dmidecode -t &lt;span style="color:#cd00cd"&gt;17&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Profiling zsh startup
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# .zshrc&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# .zshrc&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;zmodload zsh/zprof
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;...
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;zprof
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Run command skipping alias
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd0000"&gt;\&amp;lt;&lt;/span&gt;command&amp;gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd0000"&gt;\&amp;lt;&lt;/span&gt;command&amp;gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;img src="https://cezimbra.me/anotacoes/Assets/linux-shell-skip-alias.png" alt=""&gt;&lt;/li&gt;
 &lt;li&gt;Comando &lt;code&gt;time&lt;/code&gt; (POSIX)
 &lt;ul&gt;
@@ -13237,18 +13242,18 @@ exists.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Inverter o teclado - Símbolos serem primários e os números secundários (créditos ao &lt;a href="https://elmord.org/" class="external-link" target="_blank" rel="noopener"&gt;Vítor&lt;/a&gt;)
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;xmodmap -pke | sed -nre &lt;span style="color:#cd0000"&gt;&amp;#39;s/keycode (1[0-9]) = ([^ ]*) ([^ ]*)/keycode \1 = \3 \2/p&amp;#39;&lt;/span&gt; | xmodmap -
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;xmodmap -pke | sed -nre &lt;span style="color:#cd0000"&gt;&amp;#39;s/keycode (1[0-9]) = ([^ ]*) ([^ ]*)/keycode \1 = \3 \2/p&amp;#39;&lt;/span&gt; | xmodmap -
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Ignoring lines in sed (doesn&amp;rsquo;t work on MacOS)
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# Ignore lines containing &amp;#39;# noqa&amp;#39;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# Ignore lines containing &amp;#39;# noqa&amp;#39;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sed -i &lt;span style="color:#cd0000"&gt;&amp;#39;/# noqa/! s|@pytest.mark.django_db(transaction=True)|@pytest.mark.django_db|&amp;#39;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;cut first N characters of each line
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&amp;lt;command&amp;gt; | cut -c&amp;lt;N&amp;gt;-
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&amp;lt;command&amp;gt; | cut -c&amp;lt;N&amp;gt;-
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&amp;lt;command&amp;gt; | cut -c5- &lt;span style="color:#000080"&gt;# to cut first 4 chars&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Flatpak apps not opening URLs #troubleshooting. Fixed by installing xdg-desktop-portal package
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt install xdg-desktop-portal xdg-desktop-portal-gtk
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt install xdg-desktop-portal xdg-desktop-portal-gtk
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="debian"&gt;
@@ -13260,20 +13265,20 @@ exists.&lt;/li&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;How to validate a .desktop file
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;desktop-file-validate ~/.local/share/applications/&amp;lt;file&amp;gt;.desktop
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;desktop-file-validate ~/.local/share/applications/&amp;lt;file&amp;gt;.desktop
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;How to load .desktop files
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;update-desktop-database ~/.local/share/applications/
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;update-desktop-database ~/.local/share/applications/
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;How to install Apache Benchmark &lt;a href="https://packages.debian.org/sid/apache2-utils" class="external-link" target="_blank" rel="noopener"&gt;Package&lt;/a&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt install apache2-utils
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt install apache2-utils
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Empty trash using terminal
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt install trash-cli
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt install trash-cli
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;trash-empty
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Headset Bluetooth failing to connect as A2DP profile - &amp;ldquo;Failed to change profile to a2dp_sink&amp;rdquo;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt remove bluez-alsa-utils
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt remove bluez-alsa-utils
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="cpu"&gt;
@@ -13285,7 +13290,7 @@ exists.&lt;/li&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;How to discover CPU model and version
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;lscpu | rg &lt;span style="color:#cd0000"&gt;&amp;#39;Model name&amp;#39;&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-shell" data-lang="shell"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;lscpu | rg &lt;span style="color:#cd0000"&gt;&amp;#39;Model name&amp;#39;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="gpu"&gt;
@@ -15184,7 +15189,7 @@ exists.&lt;/li&gt;
 &lt;ol&gt;
 &lt;li&gt;Create a &lt;code&gt;.desktop&lt;/code&gt; file&lt;/li&gt;
 &lt;/ol&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;[Desktop Entry]
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;[Desktop Entry]
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Exec=/bin/logseq %u
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;MimeType=x-scheme-handler/logseq
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Name=Logseq
@@ -15592,7 +15597,7 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/python/" &gt;Python&lt;/a&gt; &lt;a href="https://opentelemetry-python.readthedocs.io/en/latest/index.html" class="external-link" target="_blank" rel="noopener"&gt;SDK&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/python/" &gt;Python&lt;/a&gt; instrumentation - &lt;a href="https://opentelemetry-python-contrib.readthedocs.io/en/latest/index.html" class="external-link" target="_blank" rel="noopener"&gt;API doc&lt;/a&gt; - &lt;a href="https://github.com/open-telemetry/opentelemetry-python-contrib" class="external-link" target="_blank" rel="noopener"&gt;GitHub - opentelemetry-python-contrib&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;How to set the trace ID manually? - &lt;a href="https://github.com/open-telemetry/opentelemetry-python/discussions/1919" class="external-link" target="_blank" rel="noopener"&gt;Discussion&lt;/a&gt; - &lt;a href="https://opentelemetry.io/docs/instrumentation/python/cookbook/#manually-setting-span-context" class="external-link" target="_blank" rel="noopener"&gt;Docs&lt;/a&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; tracer &lt;span style="color:#39c"&gt;=&lt;/span&gt; get_tracer()
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; tracer &lt;span style="color:#39c"&gt;=&lt;/span&gt; get_tracer()
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; propagator &lt;span style="color:#39c"&gt;=&lt;/span&gt; get_global_textmap()
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; headers &lt;span style="color:#39c"&gt;=&lt;/span&gt; request&lt;span style="color:#39c"&gt;.&lt;/span&gt;headers
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; context &lt;span style="color:#39c"&gt;=&lt;/span&gt; propagator&lt;span style="color:#39c"&gt;.&lt;/span&gt;extract(headers)
@@ -15603,7 +15608,7 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;How to rename &lt;code&gt;RequestsInstrumentor&lt;/code&gt; events? passing a function for the &lt;code&gt;name_callback&lt;/code&gt; argument&lt;/li&gt;
 &lt;li&gt;How to manually add &lt;code&gt;trace_id&lt;/code&gt; to a transaction
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; context &lt;span style="color:#39c"&gt;=&lt;/span&gt; context&lt;span style="color:#39c"&gt;=&lt;/span&gt;get_global_textmap()&lt;span style="color:#39c"&gt;.&lt;/span&gt;extract(app&lt;span style="color:#39c"&gt;.&lt;/span&gt;current_request&lt;span style="color:#39c"&gt;.&lt;/span&gt;headers)
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; context &lt;span style="color:#39c"&gt;=&lt;/span&gt; context&lt;span style="color:#39c"&gt;=&lt;/span&gt;get_global_textmap()&lt;span style="color:#39c"&gt;.&lt;/span&gt;extract(app&lt;span style="color:#39c"&gt;.&lt;/span&gt;current_request&lt;span style="color:#39c"&gt;.&lt;/span&gt;headers)
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#cdcd00"&gt;with&lt;/span&gt; tracer&lt;span style="color:#39c"&gt;.&lt;/span&gt;start_as_current_span(&lt;span style="color:#cd0000"&gt;&amp;#34;span_name&amp;#34;&lt;/span&gt;, content&lt;span style="color:#39c"&gt;=&lt;/span&gt;content):
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#39c"&gt;...&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style=""&gt;```&lt;/span&gt;
@@ -15652,7 +15657,7 @@ from &lt;a href="https://docs.sentry.io/product/sentry-basics/tracing/distribute
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;Using &lt;a href="https://cezimbra.me/anotacoes/python/" &gt;Python&lt;/a&gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; pathlib &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; Path
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; pathlib &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; Path
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; PIL &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; Image
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; PyPDF2 &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; PdfMerger
@@ -15775,7 +15780,7 @@ WhatsApp: (51) 3320-3000&lt;/li&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; abc &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; ABC, abstractmethod
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; abc &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; ABC, abstractmethod
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;def&lt;/span&gt; save(obj):
@@ -15805,7 +15810,7 @@ WhatsApp: (51) 3320-3000&lt;/li&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; zipfile &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; ZipFile
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; zipfile &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; ZipFile
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;with&lt;/span&gt; ZipFile(&lt;span style="color:#cd0000"&gt;&amp;#39;&amp;lt;path.whl&amp;gt;&amp;#39;&lt;/span&gt;, &lt;span style="color:#cd0000"&gt;&amp;#39;r&amp;#39;&lt;/span&gt;) &lt;span style="color:#cdcd00"&gt;as&lt;/span&gt; zf:
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; zf&lt;span style="color:#39c"&gt;.&lt;/span&gt;extractall(&lt;span style="color:#cd0000"&gt;&amp;#39;&amp;lt;path-to-extract&amp;gt;&amp;#39;&lt;/span&gt;)
@@ -15825,7 +15830,7 @@ WhatsApp: (51) 3320-3000&lt;/li&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;How to connect to a new WiFi network
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo raspi-config
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo raspi-config
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# System Options &amp;gt; Wireless LAN&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -15846,7 +15851,7 @@ WhatsApp: (51) 3320-3000&lt;/li&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Download .deb packages&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;wget https://download.docker.com/linux/raspbian/dists/bullseye/pool/stable/armhf/containerd.io_1.6.21-1_armhf.deb
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;wget https://download.docker.com/linux/raspbian/dists/bullseye/pool/stable/armhf/containerd.io_1.6.21-1_armhf.deb
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;wget https://download.docker.com/linux/raspbian/dists/bullseye/pool/stable/armhf/docker-ce_24.0.2-1~raspbian.11~bullseye_armhf.deb
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;wget https://download.docker.com/linux/raspbian/dists/bullseye/pool/stable/armhf/docker-ce-cli_24.0.2-1~raspbian.11~bullseye_armhf.deb
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;wget https://download.docker.com/linux/raspbian/dists/bullseye/pool/stable/armhf/docker-buildx-plugin_0.10.5-1~raspbian.11~bullseye_armhf.deb
@@ -15854,7 +15859,7 @@ WhatsApp: (51) 3320-3000&lt;/li&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Install&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt update
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt update
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt install iptables-persistent
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo dpkg -i containerd.io_1.6.21-1_armhf.deb &lt;span style="color:#cd0000"&gt;\
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;	docker-ce_24.0.2-1~raspbian.11~bullseye_armhf.deb &lt;span style="color:#cd0000"&gt;\
@@ -15993,16 +15998,16 @@ WhatsApp: (51) 3320-3000&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;Search and add new line (with indentation)
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-vim" data-lang="vim"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;:g&lt;span style="color:#cd0000"&gt;/&amp;lt;pattern&amp;gt;/&lt;/span&gt;norm otext of the new line
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-vim" data-lang="vim"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;:g&lt;span style="color:#cd0000"&gt;/&amp;lt;pattern&amp;gt;/&lt;/span&gt;norm otext of the new line
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Search and delete all lines
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-vim" data-lang="vim"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;:g&lt;span style="color:#cd0000"&gt;/&amp;lt;pattern&amp;gt;/&lt;/span&gt;d
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-vim" data-lang="vim"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;:g&lt;span style="color:#cd0000"&gt;/&amp;lt;pattern&amp;gt;/&lt;/span&gt;d
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Search and delete all lines that do NOT match
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-vim" data-lang="vim"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;:g!&lt;span style="color:#cd0000"&gt;/&amp;lt;pattern&amp;gt;/&lt;/span&gt;d
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-vim" data-lang="vim"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;:g!&lt;span style="color:#cd0000"&gt;/&amp;lt;pattern&amp;gt;/&lt;/span&gt;d
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;Search and replace
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-vim" data-lang="vim"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;:s&lt;span style="color:#cd0000"&gt;/remove(.*)/&lt;/span&gt;\&lt;span style="color:#cd00cd"&gt;1&lt;/span&gt;/
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-vim" data-lang="vim"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;:s&lt;span style="color:#cd0000"&gt;/remove(.*)/&lt;/span&gt;\&lt;span style="color:#cd00cd"&gt;1&lt;/span&gt;/
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="neovim"&gt;
@@ -17366,7 +17371,7 @@ solto na barriga é normal&lt;/li&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Formulários:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;#@title Exemplos de Campos {run: &amp;#34;auto&amp;#34;}&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;#@title Exemplos de Campos {run: &amp;#34;auto&amp;#34;}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;texto &lt;span style="color:#39c"&gt;=&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#39;valor da string&amp;#39;&lt;/span&gt; &lt;span style="color:#000080"&gt;#@param {type:&amp;#34;string&amp;#34;}&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;melhor_cidade &lt;span style="color:#39c"&gt;=&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#39;Araraquara&amp;#39;&lt;/span&gt; &lt;span style="color:#000080"&gt;#@param [&amp;#34;Araraquara&amp;#34;, &amp;#34;Londres&amp;#34;, &amp;#34;Dublin&amp;#34;]&lt;/span&gt;
@@ -17700,7 +17705,7 @@ solto na barriga é normal&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://dagster.io/blog/skip-kafka-use-postgres-message-queue" class="external-link" target="_blank" rel="noopener"&gt;Postgres: a Better Message Queue than Kafka?&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;code&gt;\&lt;/code&gt; commands&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;\d - list tables, views, and sequences
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-fallback" data-lang="fallback"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;\d - list tables, views, and sequences
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;\dn - list schemas
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;\l - list databases
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;\c &amp;lt;database&amp;gt; - connect to database
@@ -17722,7 +17727,7 @@ solto na barriga é normal&lt;/li&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-sql" data-lang="sql"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;SELECT&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-sql" data-lang="sql"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;SELECT&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; datname &lt;span style="color:#cdcd00"&gt;AS&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;database&lt;/span&gt;,
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; usename &lt;span style="color:#cdcd00"&gt;AS&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;user&lt;/span&gt;,
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; pid,
@@ -17742,7 +17747,7 @@ solto na barriga é normal&lt;/li&gt;
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-sql" data-lang="sql"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;SELECT&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-sql" data-lang="sql"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;SELECT&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#39c"&gt;*&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;FROM&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; pg_catalog.pg_tables
@@ -17781,11 +17786,11 @@ cansado? Não tenho interesse? Me distraio muito facilmente? etc&amp;hellip;&lt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Se quer ver algo feito, peça a alguém que não tenha tempo.&lt;/p&gt;</description></item><item><title>Oracle</title><link>https://cezimbra.me/anotacoes/oracle/</link><pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/oracle/</guid><description>&lt;p&gt;Criar um usuário para o banco de dados&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-sql" data-lang="sql"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;CREATE&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;USER&lt;/span&gt; my_user IDENTIFIED &lt;span style="color:#cdcd00"&gt;BY&lt;/span&gt; my_password;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-sql" data-lang="sql"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;CREATE&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;USER&lt;/span&gt; my_user IDENTIFIED &lt;span style="color:#cdcd00"&gt;BY&lt;/span&gt; my_password;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Alterar a senha de um usuário já existente&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-sql" data-lang="sql"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;ALTER&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;USER&lt;/span&gt; my_user IDENTIFIED &lt;span style="color:#cdcd00"&gt;BY&lt;/span&gt; my_password;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-sql" data-lang="sql"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;ALTER&lt;/span&gt; &lt;span style="color:#cdcd00"&gt;USER&lt;/span&gt; my_user IDENTIFIED &lt;span style="color:#cdcd00"&gt;BY&lt;/span&gt; my_password;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Adicionar &lt;em&gt;grants&lt;/em&gt; para um usuário do banco&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-sql" data-lang="sql"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;GRANT&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-sql" data-lang="sql"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;GRANT&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#cdcd00"&gt;insert&lt;/span&gt;,
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#cdcd00"&gt;select&lt;/span&gt;,
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#cdcd00"&gt;update&lt;/span&gt;,
@@ -17795,14 +17800,14 @@ cansado? Não tenho interesse? Me distraio muito facilmente? etc&amp;hellip;&lt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;TO&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; my_user;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description></item><item><title>MongoDB</title><link>https://cezimbra.me/anotacoes/mongodb/</link><pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/mongodb/</guid><description>&lt;p&gt;Como filtrar e atualizar elementos de um array&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;// Atualiza para &amp;#39;Python&amp;#39; todas as tags que o atributo &amp;#39;nome&amp;#39; seja igual &amp;#39;Phyton&amp;#39;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;// Atualiza para &amp;#39;Python&amp;#39; todas as tags que o atributo &amp;#39;nome&amp;#39; seja igual &amp;#39;Phyton&amp;#39;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;db.collection.updateMany(
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; {},
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; {&lt;span style="color:#cd0000"&gt;&amp;#39;$set&amp;#39;&lt;/span&gt;&lt;span style="color:#39c"&gt;:&lt;/span&gt; {&lt;span style="color:#cd0000"&gt;&amp;#39;tags.$[tag].nome&amp;#39;&lt;/span&gt;&lt;span style="color:#39c"&gt;:&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#39;Python&amp;#39;&lt;/span&gt;}},
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; {arrayFilters&lt;span style="color:#39c"&gt;:&lt;/span&gt; [{&lt;span style="color:#cd0000"&gt;&amp;#39;tag.nome&amp;#39;&lt;/span&gt;&lt;span style="color:#39c"&gt;:&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#39;Phyton&amp;#39;&lt;/span&gt;}]}
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;)
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Como atualizar nomes de campos de todos documentos de uma collection&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;db.collection.updateMany(
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;db.collection.updateMany(
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; {},
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; {$rename&lt;span style="color:#39c"&gt;:&lt;/span&gt; {
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#cd0000"&gt;&amp;#39;campo_antigo&amp;#39;&lt;/span&gt;&lt;span style="color:#39c"&gt;:&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#39;campo_novo&amp;#39;&lt;/span&gt;,
@@ -17810,7 +17815,7 @@ cansado? Não tenho interesse? Me distraio muito facilmente? etc&amp;hellip;&lt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; }}
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;)
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Como filtrar pelo tamanho de uma string&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;db.collection.find({&lt;span style="color:#cd0000"&gt;&amp;#34;$expr&amp;#34;&lt;/span&gt;&lt;span style="color:#39c"&gt;:&lt;/span&gt; {&lt;span style="color:#cd0000"&gt;&amp;#34;$lte&amp;#34;&lt;/span&gt;&lt;span style="color:#39c"&gt;:&lt;/span&gt; [{&lt;span style="color:#cd0000"&gt;&amp;#34;$strLenCP&amp;#34;&lt;/span&gt;&lt;span style="color:#39c"&gt;:&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#34;$FIELD&amp;#34;&lt;/span&gt;}, &lt;span style="color:#cd00cd"&gt;4&lt;/span&gt;]}})
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-javascript" data-lang="javascript"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;db.collection.find({&lt;span style="color:#cd0000"&gt;&amp;#34;$expr&amp;#34;&lt;/span&gt;&lt;span style="color:#39c"&gt;:&lt;/span&gt; {&lt;span style="color:#cd0000"&gt;&amp;#34;$lte&amp;#34;&lt;/span&gt;&lt;span style="color:#39c"&gt;:&lt;/span&gt; [{&lt;span style="color:#cd0000"&gt;&amp;#34;$strLenCP&amp;#34;&lt;/span&gt;&lt;span style="color:#39c"&gt;:&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#34;$FIELD&amp;#34;&lt;/span&gt;}, &lt;span style="color:#cd00cd"&gt;4&lt;/span&gt;]}})
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Como atualizar um campo de todos documentos com a data atual&lt;/p&gt;</description></item><item><title>Como criar um senso de urgência</title><link>https://cezimbra.me/anotacoes/como-criar-um-senso-de-urgencia/</link><pubDate>Thu, 21 Apr 2016 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/como-criar-um-senso-de-urgencia/</guid><description>&lt;p&gt;&lt;a href="http://mundoraiam.com/vagabundo/" class="external-link" target="_blank" rel="noopener"&gt;http://mundoraiam.com/vagabundo/&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Colocando um objetivo tangível com data de validade e escrevendo ele todos os dias no teu caderno&lt;/li&gt;

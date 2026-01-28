@@ -131,7 +131,7 @@ fix: 'my_new_func'
 </a><input type=checkbox id=menu-toggle>
 <label class="menu-button float-right" for=menu-toggle><i class="fa-solid fa-bars fa-fw" aria-hidden=true></i></label><ul class=navigation-list><li class=navigation-item><a class=navigation-link href=/sobre/>Sobre</a></li><li class=navigation-item><a class=navigation-link href=/projetos/>Projetos</a></li><li class=navigation-item><a class=navigation-link href=/anotacoes/indice/>Anotações</a></li><li class=navigation-item><a class=navigation-link href=/palestras/>Palestras</a></li><li class=navigation-item><a class=navigation-link href=/posts/>Blog</a></li><li class=navigation-item><a class=navigation-link href=https://toolbox.cezimbra.me/>Toolbox ↗</a></li><li class="navigation-item menu-separator"><span>|</span></li><li class=navigation-item><a href=/en/>🇺🇸</a></li></ul></section></nav><div class=content><section class="container page"><article><header><h1 class=title><a class=title-link href=https://cezimbra.me/anotacoes/ast-grep-by-example/>ast-grep by example</a></h1></header><ul><li><a href=https://github.com/ast-grep/ast-grep class=external-link target=_blank rel=noopener>ast-grep</a></li></ul><h2 id=add-a-new-argument-to-all-self-methods>Add a new argument to all self methods
 <a class=heading-link href=#add-a-new-argument-to-all-self-methods><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
-<span class=sr-only>Link to heading</span></a></h2><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-yaml data-lang=yaml><span style=display:flex><span>id: new-args-to-all-methods
+<span class=sr-only>Link to heading</span></a></h2><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-yaml data-lang=yaml><span style=display:flex><span>id: new-args-to-all-methods
 </span></span><span style=display:flex><span>language: python
 </span></span><span style=display:flex><span>rule:
 </span></span><span style=display:flex><span>    kind: parameters
@@ -148,7 +148,7 @@ fix: 'my_new_func'
 </span></span><span style=display:flex><span>      by: <span style=color:#cd0000>&#39;self, &lt;new_arg1&gt;, &lt;new_arg2&gt;,&#39;</span>
 </span></span><span style=display:flex><span>      source: $INNER_ARGS
 </span></span><span style=display:flex><span>fix: <span style=color:#cd0000>&#39;($NEW_INNER_ARGS)&#39;</span>
-</span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-diff data-lang=diff><span style=display:flex><span> def func1():
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-diff data-lang=diff><span style=display:flex><span> def func1():
 </span></span><span style=display:flex><span>     ...
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span> def func2(args):
@@ -172,7 +172,7 @@ fix: 'my_new_func'
 </span></span><span style=display:flex><span>         ...
 </span></span></code></pre></div><h2 id=alias-import-and-replace-identifiers>Alias import and replace identifiers
 <a class=heading-link href=#alias-import-and-replace-identifiers><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
-<span class=sr-only>Link to heading</span></a></h2><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-yaml data-lang=yaml><span style=display:flex><span>id: replace-non-import-identifiers
+<span class=sr-only>Link to heading</span></a></h2><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-yaml data-lang=yaml><span style=display:flex><span>id: replace-non-import-identifiers
 </span></span><span style=display:flex><span>language: python
 </span></span><span style=display:flex><span>rule:
 </span></span><span style=display:flex><span>    kind: identifier
@@ -195,7 +195,7 @@ fix: 'my_new_func'
 </span></span><span style=display:flex><span>            pattern: <span style=color:#cd0000>&#39;from x import $$$&#39;</span>
 </span></span><span style=display:flex><span>            kind: import_from_statement
 </span></span><span style=display:flex><span>fix: <span style=color:#cd0000>&#39;MyIdentifier as MyNewIdentifier&#39;</span>
-</span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-diff data-lang=diff><span style=display:flex><span><span style=color:#cd0000>-from x import MyIdentifier
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-diff data-lang=diff><span style=display:flex><span><span style=color:#cd0000>-from x import MyIdentifier
 </span></span></span><span style=display:flex><span><span style=color:#00cd00>+from x import MyIdentifier as MyNewIdentifier
 </span></span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:#cd0000>-MyIdentifier.ABC
@@ -204,7 +204,7 @@ fix: 'my_new_func'
 </span></span><span style=display:flex><span> s = &#39;The MyIdentifier inside strings will not be changed.&#39;
 </span></span></code></pre></div><h2 id=append-to-the-body-of-a-function>Append to the body of a function
 <a class=heading-link href=#append-to-the-body-of-a-function><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
-<span class=sr-only>Link to heading</span></a></h2><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-yaml data-lang=yaml><span style=display:flex><span>id: append-to-function-body
+<span class=sr-only>Link to heading</span></a></h2><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-yaml data-lang=yaml><span style=display:flex><span>id: append-to-function-body
 </span></span><span style=display:flex><span>language: python
 </span></span><span style=display:flex><span>rule:
 </span></span><span style=display:flex><span>    pattern: &#39;def user($$$ARGS): $$$BODY&#39;
@@ -213,14 +213,14 @@ fix: 'my_new_func'
 </span></span></span><span style=display:flex><span><span style=color:#cd0000>        $$$BODY
 </span></span></span><span style=display:flex><span><span style=color:#cd0000>        yield
 </span></span></span><span style=display:flex><span><span style=color:#cd0000>        tear_down()</span>
-</span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-diff data-lang=diff><span style=display:flex><span> @pytest.fixture
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-diff data-lang=diff><span style=display:flex><span> @pytest.fixture
 </span></span><span style=display:flex><span> def user():
 </span></span><span style=display:flex><span>     create_user()
 </span></span><span style=display:flex><span><span style=color:#00cd00>+    yield
 </span></span></span><span style=display:flex><span><span style=color:#00cd00>+    tear_down()
 </span></span></span></code></pre></div><h2 id=change-function-calls>Change function calls
 <a class=heading-link href=#change-function-calls><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
-<span class=sr-only>Link to heading</span></a></h2><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-yaml data-lang=yaml><span style=display:flex><span>id: change-function-calls
+<span class=sr-only>Link to heading</span></a></h2><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-yaml data-lang=yaml><span style=display:flex><span>id: change-function-calls
 </span></span><span style=display:flex><span>language: python
 </span></span><span style=display:flex><span>rule:
 </span></span><span style=display:flex><span>    pattern: <span style=color:#cd0000>&#39;my_func&#39;</span>
@@ -228,7 +228,7 @@ fix: 'my_new_func'
 </span></span><span style=display:flex><span>    inside:
 </span></span><span style=display:flex><span>        kind: call
 </span></span><span style=display:flex><span>fix: <span style=color:#cd0000>&#39;my_new_func&#39;</span>
-</span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-diff data-lang=diff><span style=display:flex><span> from x import my_func
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-diff data-lang=diff><span style=display:flex><span> from x import my_func
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span> my_func.X = &#39;&#39;
 </span></span><span style=display:flex><span> s = &#39;my_func inside string will not be changed&#39;

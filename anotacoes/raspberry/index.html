@@ -53,28 +53,28 @@ sudo apt update sudo apt install iptables-persistent sudo dpkg -i containerd.io_
 </a><input type=checkbox id=menu-toggle>
 <label class="menu-button float-right" for=menu-toggle><i class="fa-solid fa-bars fa-fw" aria-hidden=true></i></label><ul class=navigation-list><li class=navigation-item><a class=navigation-link href=/sobre/>Sobre</a></li><li class=navigation-item><a class=navigation-link href=/projetos/>Projetos</a></li><li class=navigation-item><a class=navigation-link href=/anotacoes/indice/>Anotações</a></li><li class=navigation-item><a class=navigation-link href=/palestras/>Palestras</a></li><li class=navigation-item><a class=navigation-link href=/posts/>Blog</a></li><li class=navigation-item><a class=navigation-link href=https://toolbox.cezimbra.me/>Toolbox ↗</a></li><li class="navigation-item menu-separator"><span>|</span></li><li class=navigation-item><a href=/en/>🇺🇸</a></li></ul></section></nav><div class=content><section class="container page"><article><header><h1 class=title><a class=title-link href=https://cezimbra.me/anotacoes/raspberry/>Raspberry</a></h1></header><h2 id=lite-os>Lite OS
 <a class=heading-link href=#lite-os><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
-<span class=sr-only>Link to heading</span></a></h2><ul><li>How to connect to a new WiFi network<div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>sudo raspi-config
+<span class=sr-only>Link to heading</span></a></h2><ul><li>How to connect to a new WiFi network<div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-bash data-lang=bash><span style=display:flex><span>sudo raspi-config
 </span></span><span style=display:flex><span><span style=color:navy># System Options &gt; Wireless LAN</span>
 </span></span></code></pre></div></li></ul><h2 id=docker>Docker
 <a class=heading-link href=#docker><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
 <span class=sr-only>Link to heading</span></a></h2><h3 id=install>Install
 <a class=heading-link href=#install><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
-<span class=sr-only>Link to heading</span></a></h3><ol><li><p>Download .deb packages</p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>wget https://download.docker.com/linux/raspbian/dists/bullseye/pool/stable/armhf/containerd.io_1.6.21-1_armhf.deb
+<span class=sr-only>Link to heading</span></a></h3><ol><li><p>Download .deb packages</p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-bash data-lang=bash><span style=display:flex><span>wget https://download.docker.com/linux/raspbian/dists/bullseye/pool/stable/armhf/containerd.io_1.6.21-1_armhf.deb
 </span></span><span style=display:flex><span>wget https://download.docker.com/linux/raspbian/dists/bullseye/pool/stable/armhf/docker-ce_24.0.2-1~raspbian.11~bullseye_armhf.deb
 </span></span><span style=display:flex><span>wget https://download.docker.com/linux/raspbian/dists/bullseye/pool/stable/armhf/docker-ce-cli_24.0.2-1~raspbian.11~bullseye_armhf.deb
 </span></span><span style=display:flex><span>wget https://download.docker.com/linux/raspbian/dists/bullseye/pool/stable/armhf/docker-buildx-plugin_0.10.5-1~raspbian.11~bullseye_armhf.deb
 </span></span><span style=display:flex><span>wget https://download.docker.com/linux/raspbian/dists/bullseye/pool/stable/armhf/docker-compose-plugin_2.18.1-1~raspbian.11~bullseye_armhf.deb
-</span></span></code></pre></div></li><li><p>Install</p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>sudo apt update
+</span></span></code></pre></div></li><li><p>Install</p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-bash data-lang=bash><span style=display:flex><span>sudo apt update
 </span></span><span style=display:flex><span>sudo apt install iptables-persistent
 </span></span><span style=display:flex><span>sudo dpkg -i containerd.io_1.6.21-1_armhf.deb <span style=color:#cd0000>\
 </span></span></span><span style=display:flex><span>	docker-ce_24.0.2-1~raspbian.11~bullseye_armhf.deb <span style=color:#cd0000>\
 </span></span></span><span style=display:flex><span>	docker-ce-cli_24.0.2-1~raspbian.11~bullseye_armhf.deb <span style=color:#cd0000>\
 </span></span></span><span style=display:flex><span>	docker-buildx-plugin_0.10.5-1~raspbian.11~bullseye_armhf.deb <span style=color:#cd0000>\
 </span></span></span><span style=display:flex><span>	docker-compose-plugin_2.18.1-1~raspbian.11~bullseye_armhf.deb
-</span></span></code></pre></div></li><li><p>Add user to docker group to use without <code>sudo</code></p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>sudo usermod -aG docker <span style=color:#00cdcd>$USER</span>
+</span></span></code></pre></div></li><li><p>Add user to docker group to use without <code>sudo</code></p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-bash data-lang=bash><span style=display:flex><span>sudo usermod -aG docker <span style=color:#00cdcd>$USER</span>
 </span></span></code></pre></div></li></ol><h2 id=home-assistant>Home Assistant
 <a class=heading-link href=#home-assistant><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
-<span class=sr-only>Link to heading</span></a></h2><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>docker run -d <span style=color:#cd0000>\
+<span class=sr-only>Link to heading</span></a></h2><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-bash data-lang=bash><span style=display:flex><span>docker run -d <span style=color:#cd0000>\
 </span></span></span><span style=display:flex><span>	--name &lt;container-name&gt; <span style=color:#cd0000>\
 </span></span></span><span style=display:flex><span>	--privileged <span style=color:#cd0000>\
 </span></span></span><span style=display:flex><span>	--restart<span style=color:#39c>=</span>unless-stopped <span style=color:#cd0000>\
@@ -84,7 +84,7 @@ sudo apt update sudo apt install iptables-persistent sudo dpkg -i containerd.io_
 </span></span></span><span style=display:flex><span>	ghcr.io/home-assistant/home-assistant:stable
 </span></span></code></pre></div><h2 id=pi-hole>Pi-hole
 <a class=heading-link href=#pi-hole><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
-<span class=sr-only>Link to heading</span></a></h2><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>docker run -d <span style=color:#cd0000>\
+<span class=sr-only>Link to heading</span></a></h2><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-bash data-lang=bash><span style=display:flex><span>docker run -d <span style=color:#cd0000>\
 </span></span></span><span style=display:flex><span>	--name &lt;container-name&gt; <span style=color:#cd0000>\
 </span></span></span><span style=display:flex><span>	--restart<span style=color:#39c>=</span>unless-stopped <span style=color:#cd0000>\
 </span></span></span><span style=display:flex><span>	-e <span style=color:#00cdcd>TZ</span><span style=color:#39c>=</span>America/Sao_Paulo <span style=color:#cd0000>\

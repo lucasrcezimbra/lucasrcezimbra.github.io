@@ -7,10 +7,10 @@
 &lt;hr&gt;
 &lt;p&gt;Gosto de ler como outras pessoas resolveram problemas porque isso aumenta meu repertório para quando encontrar problemas semelhantes. Espero que esse texto faça o mesmo por você.&lt;/p&gt;
 &lt;p&gt;Na edição de hoje, vou contar como uma troca simples no modelo de dados pode economizar quase 90% do armazenamento, sem aumentar a complexidade da aplicação.&lt;/p&gt;</description></item><item><title>Como instalar o Raspberry Pi OS com SSH</title><link>https://cezimbra.me/posts/como-instalar-o-raspberry-pi-os-com-ssh/</link><pubDate>Sun, 04 Sep 2022 17:54:17 -0300</pubDate><guid>https://cezimbra.me/posts/como-instalar-o-raspberry-pi-os-com-ssh/</guid><description>&lt;p&gt;Resposta curta:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;wget https://downloads.raspberrypi.org/imager/imager_latest_amd64.deb
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;wget https://downloads.raspberrypi.org/imager/imager_latest_amd64.deb
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo dpkg -i imager_latest_amd64.deb
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;rpi-imager
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# no Raspberry, após criar o usuário&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#000080"&gt;# no Raspberry, após criar o usuário&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo su -
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;apt update
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;apt upgrade
@@ -32,7 +32,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Instale o Imager&lt;/p&gt;</description></item><item><title>Como instalar o Zeal no Debian Bullseye</title><link>https://cezimbra.me/posts/como-instalar-o-zeal-no-debian-bullseye/</link><pubDate>Thu, 01 Sep 2022 09:42:56 -0300</pubDate><guid>https://cezimbra.me/posts/como-instalar-o-zeal-no-debian-bullseye/</guid><description>&lt;p&gt;Resposta curta:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo &lt;span style="color:#cd00cd"&gt;echo&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#39;deb http://deb.debian.org/debian bullseye-backports main contrib non-free&amp;#39;&lt;/span&gt; &amp;gt;&amp;gt; /etc/apt/sources.list
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo &lt;span style="color:#cd00cd"&gt;echo&lt;/span&gt; &lt;span style="color:#cd0000"&gt;&amp;#39;deb http://deb.debian.org/debian bullseye-backports main contrib non-free&amp;#39;&lt;/span&gt; &amp;gt;&amp;gt; /etc/apt/sources.list
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt update
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt install zeal
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;O &lt;a href="https://zealdocs.org/" class="external-link" target="_blank" rel="noopener"&gt;Zeal&lt;/a&gt; é um app para Linux, Mac e Windows que serve para acessar diversas documentações offline.&lt;/p&gt;
@@ -41,7 +41,7 @@
 &lt;/figure&gt;
 
 &lt;p&gt;Eu estava com problemas para instala-lo no Debian Bullseye, pois não estava disponível no source padrão do Debian. Recebia o seguinte erro:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;$ sudo apt install zeal
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;$ sudo apt install zeal
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Reading package lists... Done
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Building dependency tree... Done
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;Reading state information... Done
@@ -65,7 +65,7 @@
 
 &lt;p&gt;Estava eu tentando formatar e instalar o Debian ❤ num notebook novo Dell Latitude 5400 que estava com Windows.&lt;/p&gt;
 &lt;p&gt;Porém estava tendo um problema que a instalação do Debian não reconhecia o HD da máquina. Primeiramente pensei que fosse devido ao BitLocker que estava instalado, então desativei-o pelo Windows, mas continuou não funcionando.&lt;/p&gt;</description></item><item><title>Python: Como injetar código num processo em execução</title><link>https://cezimbra.me/python-como-injetar-codigo-num-processo-em-execucao/</link><pubDate>Thu, 13 Jun 2019 01:59:02 +0000</pubDate><guid>https://cezimbra.me/python-como-injetar-codigo-num-processo-em-execucao/</guid><description>&lt;p&gt;Resposta curta: &lt;a href="https://pyrasite.readthedocs.io/en/latest/" class="external-link" target="_blank" rel="noopener"&gt;pyrasite&lt;/a&gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pip install pyrasite
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pip install pyrasite
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;echo&lt;/span&gt; &lt;span style="color:#cd00cd"&gt;0&lt;/span&gt; | sudo tee /proc/sys/kernel/yama/ptrace_scope
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pyrasite &lt;span style="color:#00cdcd"&gt;$PID&lt;/span&gt; dump_stacks.py
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pyrasite-shell &amp;amp;lt;pid&amp;gt;
@@ -84,8 +84,8 @@
 &lt;/h2&gt;
 &lt;p&gt;Esses dias estava com um bug intermitente que só ocorria no servidor de desenvolvimento, então não estava conseguindo reproduzir localmente.&lt;/p&gt;
 &lt;p&gt;Tentando descobrir o problema, dei SSH para o servidor e vi que num processo estava justamente acontecendo o que eu queria corrigir.&lt;/p&gt;</description></item><item><title>Como colocar um timeout numa função Python</title><link>https://cezimbra.me/como-colocar-um-timeout-numa-funcao-python/</link><pubDate>Fri, 31 May 2019 03:03:11 +0000</pubDate><guid>https://cezimbra.me/como-colocar-um-timeout-numa-funcao-python/</guid><description>&lt;p&gt;Resposta curta: &lt;a href="https://github.com/pnpnpn/timeout-decorator" class="external-link" target="_blank" rel="noopener"&gt;timeout-decorator&lt;/a&gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pip install timeout&lt;span style="color:#39c"&gt;-&lt;/span&gt;decorator
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; timeout_decorator &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; timeout
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;pip install timeout&lt;span style="color:#39c"&gt;-&lt;/span&gt;decorator
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-python" data-lang="python"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cd00cd"&gt;from&lt;/span&gt; timeout_decorator &lt;span style="color:#cd00cd"&gt;import&lt;/span&gt; timeout
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;@timeout(&lt;span style="color:#cd00cd"&gt;5&lt;/span&gt;) &lt;span style="color:#000080"&gt;# tempo em segundos&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#cdcd00"&gt;def&lt;/span&gt; my_slow_function():
@@ -98,7 +98,7 @@
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;p&gt;Esses dias estava dando manutenção num serviço que lê mensagens de uma fila SQS, processa e apaga a mensagem da fila. Só que estava tendo um problema que às vezes o processamento demorava mais do que o tempo máximo definido no SQS. A mensagem acabava voltando para fila, era lida por outro processo e gerava duplicação desnecessária.&lt;/p&gt;</description></item><item><title>Como criar um ranking de commiters no bash</title><link>https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/</link><pubDate>Fri, 01 Mar 2019 01:55:23 +0000</pubDate><guid>https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/</guid><description>&lt;p&gt;Resposta curta:&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;git log | grep Author | sort | uniq -c | sort -n -r | head -n &lt;span style="color:#cd00cd"&gt;20&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;git log | grep Author | sort | uniq -c | sort -n -r | head -n &lt;span style="color:#cd00cd"&gt;20&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;figure&gt;&lt;img src="https://cezimbra.me/como-criar-um-ranking-de-commiters-no-bash/git-log-grep-author-sort-uniq-sort-head.png"
  alt="20 maiores commiters do projeto git"&gt;&lt;figcaption&gt;
  &lt;p&gt;20 maiores commiters do projeto git&lt;/p&gt;
@@ -174,7 +174,7 @@
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;tar -zxvf arquivo.&lt;span style="color:#39c"&gt;(&lt;/span&gt;tar.gz|tgz&lt;span style="color:#39c"&gt;)&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;tar -zxvf arquivo.&lt;span style="color:#39c"&gt;(&lt;/span&gt;tar.gz|tgz&lt;span style="color:#39c"&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="tarbz2"&gt;
  .tar.bz2
  &lt;a class="heading-link" href="#tarbz2"&gt;
@@ -182,7 +182,7 @@
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;tar -jxvf arquivo.tar.bz2
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;tar -jxvf arquivo.tar.bz2
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id="tarxz"&gt;
  .tar.xz
  &lt;a class="heading-link" href="#tarxz"&gt;
@@ -190,7 +190,7 @@
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h3&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;tar -Jxvf arquivo.tar.xz
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;tar -Jxvf arquivo.tar.xz
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id="o-que-é-cada-opção"&gt;
  O que é cada opção
  &lt;a class="heading-link" href="#o-que-%c3%a9-cada-op%c3%a7%c3%a3o"&gt;
@@ -198,7 +198,7 @@
  &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
  &lt;/a&gt;
 &lt;/h2&gt;
-&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;-x, --extract, --get
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-bash" data-lang="bash"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;-x, --extract, --get
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; extrai arquivos
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;-v, --verbose

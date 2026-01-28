@@ -37,13 +37,13 @@ class StorageUploader: def upload(self): ... class CsvRenderer: def render(self)
 <a class=heading-link href=#solid><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
 <span class=sr-only>Link to heading</span></a></h2><h3 id=s--single-responsibility-principle>S — Single Responsibility Principle
 <a class=heading-link href=#s--single-responsibility-principle><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
-<span class=sr-only>Link to heading</span></a></h3><p><strong>Bad:</strong></p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:#cdcd00>class</span> <span style=color:#00cdcd>CsvExporter</span>:
+<span class=sr-only>Link to heading</span></a></h3><p><strong>Bad:</strong></p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-python data-lang=python><span style=display:flex><span><span style=color:#cdcd00>class</span> <span style=color:#00cdcd>CsvExporter</span>:
 </span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> render(<span style=color:#cd00cd>self</span>):
 </span></span><span style=display:flex><span>        <span style=color:#39c>...</span>
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> upload(<span style=color:#cd00cd>self</span>):
 </span></span><span style=display:flex><span>        <span style=color:#39c>...</span>
-</span></span></code></pre></div><p><strong>Good:</strong></p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-python data-lang=python><span style=display:flex><span><span style=color:#cdcd00>class</span> <span style=color:#00cdcd>StorageUploader</span>:
+</span></span></code></pre></div><p><strong>Good:</strong></p><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-python data-lang=python><span style=display:flex><span><span style=color:#cdcd00>class</span> <span style=color:#00cdcd>StorageUploader</span>:
 </span></span><span style=display:flex><span>    <span style=color:#cdcd00>def</span> upload(<span style=color:#cd00cd>self</span>):
 </span></span><span style=display:flex><span>        <span style=color:#39c>...</span>
 </span></span><span style=display:flex><span>

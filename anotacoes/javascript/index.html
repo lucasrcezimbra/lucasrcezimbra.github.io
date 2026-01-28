@@ -75,15 +75,15 @@ import * as ts from 'typescript';
 <a class=heading-link href=#javascript-for-pythonistas><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
 <span class=sr-only>Link to heading</span></a></h2><h3 id=dictitems><code>dict.items()</code>
 <a class=heading-link href=#dictitems><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
-<span class=sr-only>Link to heading</span></a></h3><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-javascript data-lang=javascript><span style=display:flex><span><span style=color:#cdcd00>for</span> (<span style=color:#cdcd00>const</span> [key, value] <span style=color:#cdcd00>of</span> <span style=color:#cd00cd>Object</span>.entries(obj)) {
+<span class=sr-only>Link to heading</span></a></h3><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-javascript data-lang=javascript><span style=display:flex><span><span style=color:#cdcd00>for</span> (<span style=color:#cdcd00>const</span> [key, value] <span style=color:#cdcd00>of</span> <span style=color:#cd00cd>Object</span>.entries(obj)) {
 </span></span><span style=display:flex><span>  console.log(key, value);
 </span></span><span style=display:flex><span>}
 </span></span></code></pre></div><h3 id=getattr><code>getattr</code>
 <a class=heading-link href=#getattr><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
-<span class=sr-only>Link to heading</span></a></h3><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-javascript data-lang=javascript><span style=display:flex><span><span style=color:#cdcd00>const</span> value <span style=color:#39c>=</span> obj[key];
+<span class=sr-only>Link to heading</span></a></h3><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-javascript data-lang=javascript><span style=display:flex><span><span style=color:#cdcd00>const</span> value <span style=color:#39c>=</span> obj[key];
 </span></span></code></pre></div><h3 id=transform-a-list-of-lists-with-key-values-into-a-object>Transform a list of lists with key-values into a object
 <a class=heading-link href=#transform-a-list-of-lists-with-key-values-into-a-object><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
-<span class=sr-only>Link to heading</span></a></h3><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-javascript data-lang=javascript><span style=display:flex><span><span style=color:#cdcd00>const</span> entries <span style=color:#39c>=</span> [
+<span class=sr-only>Link to heading</span></a></h3><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-javascript data-lang=javascript><span style=display:flex><span><span style=color:#cdcd00>const</span> entries <span style=color:#39c>=</span> [
 </span></span><span style=display:flex><span>  [<span style=color:#cd0000>&#39;a&#39;</span>, <span style=color:#cd00cd>1</span>],
 </span></span><span style=display:flex><span>  [<span style=color:#cd0000>&#39;b&#39;</span>, <span style=color:#cd00cd>2</span>],
 </span></span><span style=display:flex><span>];
@@ -94,7 +94,7 @@ import * as ts from 'typescript';
 </span></span><span style=display:flex><span><span style=color:navy>// Output: { a: 1, b: 2 }
 </span></span></span></code></pre></div><h3 id=use-the-value-of-a-variable-instead-of-the-variable-name-as-the-key-in-an-object>Use the value of a variable (instead of the variable name) as the key in an object
 <a class=heading-link href=#use-the-value-of-a-variable-instead-of-the-variable-name-as-the-key-in-an-object><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
-<span class=sr-only>Link to heading</span></a></h3><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-javascript data-lang=javascript><span style=display:flex><span><span style=color:#cdcd00>const</span> x <span style=color:#39c>=</span> <span style=color:#cd0000>&#39;abc&#39;</span>;
+<span class=sr-only>Link to heading</span></a></h3><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-javascript data-lang=javascript><span style=display:flex><span><span style=color:#cdcd00>const</span> x <span style=color:#39c>=</span> <span style=color:#cd0000>&#39;abc&#39;</span>;
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:#cdcd00>const</span> obj <span style=color:#39c>=</span> {
 </span></span><span style=display:flex><span>  [x]<span style=color:#39c>:</span> <span style=color:#cd0000>&#39;&lt;whatever&gt;&#39;</span>
@@ -106,7 +106,7 @@ import * as ts from 'typescript';
 <a class=heading-link href=#typescript><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
 <span class=sr-only>Link to heading</span></a></h2><h3 id=referenceerror-ts-is-not-defined-at->ReferenceError: ts is not defined at (&mldr;)
 <a class=heading-link href=#referenceerror-ts-is-not-defined-at-><i class="fa-solid fa-link" aria-hidden=true title="Link to heading"></i>
-<span class=sr-only>Link to heading</span></a></h3><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-typescript data-lang=typescript><span style=display:flex><span><span style=color:#cdcd00>import</span> <span style=color:#39c>*</span> <span style=color:#cdcd00>as</span> ts <span style=color:#cdcd00>from</span> <span style=color:#cd0000>&#39;typescript&#39;</span>;
+<span class=sr-only>Link to heading</span></a></h3><div class=highlight><pre tabindex=0 style=color:#ccc;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none><code class=language-typescript data-lang=typescript><span style=display:flex><span><span style=color:#cdcd00>import</span> <span style=color:#39c>*</span> <span style=color:#cdcd00>as</span> ts <span style=color:#cdcd00>from</span> <span style=color:#cd0000>&#39;typescript&#39;</span>;
 </span></span></code></pre></div></article></section></div><footer class=footer><section class=container>©
 2026
 Lucas Cezimbra
