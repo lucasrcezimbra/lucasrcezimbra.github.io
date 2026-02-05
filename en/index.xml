@@ -466,8 +466,8 @@ Responsible for conducting technical interviews.&lt;/p&gt;</description></item><
 &lt;p&gt;&lt;div class="contribution"&gt;
  &lt;span&gt;2026-01-28 -&lt;/span&gt;
  
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-open.svg"&gt;
  
  
  &lt;a class="external-link" href="https://github.com/coderabbitai/git-worktree-runner/pull/91" target="_blank"&gt;git-worktree-runner: feat(new): add --no-verify flag to skip post-create hooks&lt;/a&gt;
