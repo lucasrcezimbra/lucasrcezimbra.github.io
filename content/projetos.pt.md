@@ -140,7 +140,7 @@ date: 2022-04-08T20:08:54-03:00
 ### Código
 
 {{< contribution
-    status="open"
+    status="merged"
     url="https://github.com/coderabbitai/git-worktree-runner/pull/91"
     project="git-worktree-runner"
     title="feat(new): add --no-verify flag to skip post-create hooks"
