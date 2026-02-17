@@ -45,8 +45,13 @@
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="https://martinfowler.com/fragments/2026-02-09.html" class="external-link" target="_blank" rel="noopener"&gt;Fragments: February 9&lt;/a&gt; - &amp;ldquo;cognitive debt&amp;rdquo; when agentic coding&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://martinfowler.com/fragments/2026-02-09.html" class="external-link" target="_blank" rel="noopener"&gt;Fragments: February 9&lt;/a&gt; - &amp;ldquo;cognitive debt&amp;rdquo; when agentic coding
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://simonwillison.net/2026/Feb/15/cognitive-debt/" class="external-link" target="_blank" rel="noopener"&gt;How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://claude.com/customers/spotify" class="external-link" target="_blank" rel="noopener"&gt;Customer story | Spotify | Claude&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://newsletter.posthog.com/p/the-hidden-danger-of-shipping-fast" class="external-link" target="_blank" rel="noopener"&gt;The hidden danger of shipping fast - by Cleo&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -62,6 +67,7 @@
 &lt;li&gt;&lt;a href="https://blog.cloudflare.com/markdown-for-agents/" class="external-link" target="_blank" rel="noopener"&gt;Introducing Markdown for Agents&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://github.blog/changelog/2026-02-13-github-agentic-workflows-are-now-in-technical-preview/" class="external-link" target="_blank" rel="noopener"&gt;GitHub Agentic Workflows are now in technical preview - GitHub Changelog&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://techcrunch.com/2026/02/15/openclaw-creator-peter-steinberger-joins-openai/" class="external-link" target="_blank" rel="noopener"&gt;OpenClaw creator Peter Steinberger joins OpenAI | TechCrunch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://steipete.me/posts/2026/openclaw" class="external-link" target="_blank" rel="noopener"&gt;OpenClaw, OpenAI and the future | Peter Steinberger&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -12044,13 +12050,13 @@ on your page can access;&lt;/li&gt;
 &lt;p&gt;Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-02-15---2026-02-21/" &gt;Weeknotes/2026-02-15 - 2026-02-21&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/livros/" &gt;Livros&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-02-08---2026-02-14/" &gt;Weeknotes/2026-02-08 - 2026-02-14&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-02-01---2026-02-07/" &gt;Weeknotes/2026-02-01 - 2026-02-07&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-01-25---2026-01-31/" &gt;Weeknotes/2026-01-25 - 2026-01-31&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-01-18---2026-01-24/" &gt;Weeknotes/2026-01-18 - 2026-01-24&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/culin%C3%A1ria/" &gt;Culinária&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-01-11---2026-01-17/" &gt;Weeknotes/2026-01-11 - 2026-01-17&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/livros/" &gt;Livros&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/linux/" &gt;Linux&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-01-04---2026-01-10/" &gt;Weeknotes/2026-01-04 - 2026-01-10&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2025-12-21---2025-12-27/" &gt;Weeknotes/2025-12-21 - 2025-12-27&lt;/a&gt;&lt;/li&gt;
@@ -13754,7 +13760,7 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;Catecismo&lt;/td&gt;
  
- &lt;td&gt;👀&lt;/td&gt;
+ &lt;td&gt;❌&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
  
@@ -13930,24 +13936,6 @@ exists.&lt;/li&gt;
  
  &lt;tr&gt;
  
- &lt;td&gt;Nelson Rodrigues&lt;/td&gt;
- 
- &lt;td&gt;A Vida Como Ela É&lt;/td&gt;
- 
- &lt;td&gt;❌&lt;/td&gt;
- 
- &lt;td&gt;📗📱&lt;/td&gt;
- 
- &lt;td&gt;⭐⭐⭐&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
  &lt;td&gt;George R.R. Martin&lt;/td&gt;
  
  &lt;td&gt;As Crônicas de Gelo e Fogo - A Guerra dos Tronos&lt;/td&gt;
@@ -14038,6 +14026,42 @@ exists.&lt;/li&gt;
  
  &lt;tr&gt;
  
+ &lt;td&gt;Nelson Rodrigues&lt;/td&gt;
+ 
+ &lt;td&gt;A Vida Como Ela É&lt;/td&gt;
+ 
+ &lt;td&gt;❌&lt;/td&gt;
+ 
+ &lt;td&gt;📗📱&lt;/td&gt;
+ 
+ &lt;td&gt;⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;George Orwell&lt;/td&gt;
+ 
+ &lt;td&gt;A revolução dos bichos&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗📱&lt;/td&gt;
+ 
+ &lt;td&gt;⭐⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
  &lt;td&gt;Robert B. Cialdini&lt;/td&gt;
  
  &lt;td&gt;As armas da persuasão&lt;/td&gt;
@@ -14099,24 +14123,6 @@ exists.&lt;/li&gt;
  &lt;td&gt;✅&lt;/td&gt;
  
  &lt;td&gt;🛒&lt;/td&gt;
- 
- &lt;td&gt;⭐⭐⭐&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;George Orwell&lt;/td&gt;
- 
- &lt;td&gt;A revolução dos bichos&lt;/td&gt;
- 
- &lt;td&gt;✅&lt;/td&gt;
- 
- &lt;td&gt;📗📱&lt;/td&gt;
  
  &lt;td&gt;⭐⭐⭐&lt;/td&gt;
  
@@ -14200,24 +14206,6 @@ exists.&lt;/li&gt;
  
  &lt;tr&gt;
  
- &lt;td&gt;Clóvis Barros de Filho &amp;amp; Pedro Calabrez&lt;/td&gt;
- 
- &lt;td&gt;Em buscas de nós mesmos&lt;/td&gt;
- 
- &lt;td&gt;✅&lt;/td&gt;
- 
- &lt;td&gt;📱&lt;/td&gt;
- 
- &lt;td&gt;⭐⭐&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
  &lt;td&gt;Gustavo Cerbasi&lt;/td&gt;
  
  &lt;td&gt;Casais Inteligentes Enriquecem Juntos&lt;/td&gt;
@@ -14236,24 +14224,6 @@ exists.&lt;/li&gt;
  
  &lt;tr&gt;
  
- &lt;td&gt;Jostein Gaarder&lt;/td&gt;
- 
- &lt;td&gt;O Mundo de Sofia&lt;/td&gt;
- 
- &lt;td&gt;✅&lt;/td&gt;
- 
- &lt;td&gt;📗📱&lt;/td&gt;
- 
- &lt;td&gt;⭐⭐&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
  &lt;td&gt;G.K. Chesterton&lt;/td&gt;
  
  &lt;td&gt;Tremendas Trivialidades&lt;/td&gt;
@@ -14261,24 +14231,6 @@ exists.&lt;/li&gt;
  &lt;td&gt;✅&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
- 
- &lt;td&gt;⭐⭐&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;Flávio Augusto&lt;/td&gt;
- 
- &lt;td&gt;Ponto de Inflexão&lt;/td&gt;
- 
- &lt;td&gt;✅&lt;/td&gt;
- 
- &lt;td&gt;📱&lt;/td&gt;
  
  &lt;td&gt;⭐⭐&lt;/td&gt;
  
@@ -14326,6 +14278,78 @@ exists.&lt;/li&gt;
  
  &lt;tr&gt;
  
+ &lt;td&gt;Jostein Gaarder&lt;/td&gt;
+ 
+ &lt;td&gt;O Mundo de Sofia&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗📱&lt;/td&gt;
+ 
+ &lt;td&gt;⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Clóvis Barros de Filho &amp;amp; Pedro Calabrez&lt;/td&gt;
+ 
+ &lt;td&gt;Em buscas de nós mesmos&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📱&lt;/td&gt;
+ 
+ &lt;td&gt;⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Flávio Augusto&lt;/td&gt;
+ 
+ &lt;td&gt;Ponto de Inflexão&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📱&lt;/td&gt;
+ 
+ &lt;td&gt;⭐⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;J. D. Salinger&lt;/td&gt;
+ 
+ &lt;td&gt;O Apanhador no Campo de Centeio&lt;/td&gt;
+ 
+ &lt;td&gt;✅&lt;/td&gt;
+ 
+ &lt;td&gt;📗📱&lt;/td&gt;
+ 
+ &lt;td&gt;⭐&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
  &lt;td&gt;T. Harv Eker&lt;/td&gt;
  
  &lt;td&gt;Os Segredos da Mente Milionária&lt;/td&gt;
@@ -14362,42 +14386,6 @@ exists.&lt;/li&gt;
  
  &lt;tr&gt;
  
- &lt;td&gt;J. D. Salinger&lt;/td&gt;
- 
- &lt;td&gt;O Apanhador no Campo de Centeio&lt;/td&gt;
- 
- &lt;td&gt;✅&lt;/td&gt;
- 
- &lt;td&gt;📗📱&lt;/td&gt;
- 
- &lt;td&gt;⭐&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;Hugo de Azevedo&lt;/td&gt;
- 
- &lt;td&gt;Lições do burro&lt;/td&gt;
- 
- &lt;td&gt;👀&lt;/td&gt;
- 
- &lt;td&gt;📗&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
  &lt;td&gt;Joseph Grenny &amp;amp; Kerry Patterson &amp;amp; Ron McMillan &amp;amp; Al Switzler &amp;amp; Emily Gregory&lt;/td&gt;
  
  &lt;td&gt;Conversas Cruciais&lt;/td&gt;
@@ -14416,11 +14404,47 @@ exists.&lt;/li&gt;
  
  &lt;tr&gt;
  
+ &lt;td&gt;Francisco Faus&lt;/td&gt;
+ 
+ &lt;td&gt;A preguiça&lt;/td&gt;
+ 
+ &lt;td&gt;👀&lt;/td&gt;
+ 
+ &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Hugo de Azevedo&lt;/td&gt;
+ 
+ &lt;td&gt;Lições do burro&lt;/td&gt;
+ 
+ &lt;td&gt;❌&lt;/td&gt;
+ 
+ &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
  &lt;td&gt;Angela Pellicciari&lt;/td&gt;
  
  &lt;td&gt;História da Igreja: marcas da presença de Cristo no mundo&lt;/td&gt;
  
- &lt;td&gt;👀&lt;/td&gt;
+ &lt;td&gt;❌&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
  
@@ -14438,25 +14462,7 @@ exists.&lt;/li&gt;
  
  &lt;td&gt;História bíblica: narrativas do Antigo e do Novo Testamento&lt;/td&gt;
  
- &lt;td&gt;👀&lt;/td&gt;
- 
- &lt;td&gt;📗&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;Francisco Faus&lt;/td&gt;
- 
- &lt;td&gt;A preguiça&lt;/td&gt;
- 
- &lt;td&gt;👀&lt;/td&gt;
+ &lt;td&gt;❌&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
  
@@ -14506,60 +14512,6 @@ exists.&lt;/li&gt;
  
  &lt;tr&gt;
  
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;Desconstruindo a Ansiedade&lt;/td&gt;
- 
- &lt;td&gt;❌&lt;/td&gt;
- 
- &lt;td&gt;📱&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;Antoine Saint-Exupéry&lt;/td&gt;
- 
- &lt;td&gt;O Pequeno Príncipe&lt;/td&gt;
- 
- &lt;td&gt;❌&lt;/td&gt;
- 
- &lt;td&gt;📱&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;Ayn Rand&lt;/td&gt;
- 
- &lt;td&gt;A Revolta de Atlas&lt;/td&gt;
- 
- &lt;td&gt;❌&lt;/td&gt;
- 
- &lt;td&gt;📱&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
  &lt;td&gt;George R.R. Martin&lt;/td&gt;
  
  &lt;td&gt;As Crônicas de Gelo e Fogo - A Dança dos Dragões&lt;/td&gt;
@@ -14567,24 +14519,6 @@ exists.&lt;/li&gt;
  &lt;td&gt;❌&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;td&gt;&lt;/td&gt;
- 
- &lt;/tr&gt;
- 
- &lt;tr&gt;
- 
- &lt;td&gt;Tim Ferris&lt;/td&gt;
- 
- &lt;td&gt;Trabalhe 4 Horas por Semana&lt;/td&gt;
- 
- &lt;td&gt;❌&lt;/td&gt;
- 
- &lt;td&gt;📗📱&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -14801,6 +14735,114 @@ exists.&lt;/li&gt;
  &lt;td&gt;☑&lt;/td&gt;
  
  &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Tren Griffin&lt;/td&gt;
+ 
+ &lt;td&gt;Charlie Munger: O Investidor Completo&lt;/td&gt;
+ 
+ &lt;td&gt;☑&lt;/td&gt;
+ 
+ &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;John C. Bogle&lt;/td&gt;
+ 
+ &lt;td&gt;Suficiente&lt;/td&gt;
+ 
+ &lt;td&gt;☑&lt;/td&gt;
+ 
+ &lt;td&gt;📗&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Tim Ferris&lt;/td&gt;
+ 
+ &lt;td&gt;Trabalhe 4 Horas por Semana&lt;/td&gt;
+ 
+ &lt;td&gt;❌&lt;/td&gt;
+ 
+ &lt;td&gt;📗📱&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;Desconstruindo a Ansiedade&lt;/td&gt;
+ 
+ &lt;td&gt;❌&lt;/td&gt;
+ 
+ &lt;td&gt;📱&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Antoine Saint-Exupéry&lt;/td&gt;
+ 
+ &lt;td&gt;O Pequeno Príncipe&lt;/td&gt;
+ 
+ &lt;td&gt;❌&lt;/td&gt;
+ 
+ &lt;td&gt;📱&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Ayn Rand&lt;/td&gt;
+ 
+ &lt;td&gt;A Revolta de Atlas&lt;/td&gt;
+ 
+ &lt;td&gt;❌&lt;/td&gt;
+ 
+ &lt;td&gt;📱&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
  
@@ -15473,6 +15515,24 @@ exists.&lt;/li&gt;
  &lt;td&gt;&lt;/td&gt;
  
  &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;/tr&gt;
+ 
+ &lt;tr&gt;
+ 
+ &lt;td&gt;Luana Marques&lt;/td&gt;
+ 
+ &lt;td&gt;Viver com Ousadia&lt;/td&gt;
+ 
+ &lt;td&gt;☑&lt;/td&gt;
+ 
+ &lt;td&gt;🛒&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;&lt;/td&gt;
+ 
+ &lt;td&gt;WTTD&lt;/td&gt;
  
  &lt;/tr&gt;
  
