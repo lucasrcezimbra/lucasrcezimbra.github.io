@@ -1,7 +1,7 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2026-02-16
+lastmod: 2026-02-17
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
@@ -9,13 +9,13 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
 - [Weeknotes/2026-02-15 - 2026-02-21]({{< ref "Weeknotes/2026-02-15 - 2026-02-21" >}})
+- [Livros]({{< ref "Livros" >}})
 - [Weeknotes/2026-02-08 - 2026-02-14]({{< ref "Weeknotes/2026-02-08 - 2026-02-14" >}})
 - [Weeknotes/2026-02-01 - 2026-02-07]({{< ref "Weeknotes/2026-02-01 - 2026-02-07" >}})
 - [Weeknotes/2026-01-25 - 2026-01-31]({{< ref "Weeknotes/2026-01-25 - 2026-01-31" >}})
 - [Weeknotes/2026-01-18 - 2026-01-24]({{< ref "Weeknotes/2026-01-18 - 2026-01-24" >}})
 - [Culinária]({{< ref "Culinária" >}})
 - [Weeknotes/2026-01-11 - 2026-01-17]({{< ref "Weeknotes/2026-01-11 - 2026-01-17" >}})
-- [Livros]({{< ref "Livros" >}})
 - [Linux]({{< ref "Linux" >}})
 - [Weeknotes/2026-01-04 - 2026-01-10]({{< ref "Weeknotes/2026-01-04 - 2026-01-10" >}})
 - [Weeknotes/2025-12-21 - 2025-12-27]({{< ref "Weeknotes/2025-12-21 - 2025-12-27" >}})
