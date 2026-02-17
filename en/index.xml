@@ -115,26 +115,6 @@ Responsible for conducting technical interviews.&lt;/p&gt;</description></item><
 
 &lt;div class="card "&gt;
  &lt;div class="container"&gt;
- &lt;h3&gt;&lt;b&gt;claude-code-easyhooks&lt;/b&gt;&lt;/h3&gt;
- &lt;span&gt;Micro-framework to create hooks for Claude Code.&lt;/span&gt;
- &lt;div&gt;
- 
-
- 
- &lt;a href="https://github.com/lucasrcezimbra/claude-code-easyhooks/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
- 
-
- 
- &lt;a href="https://pypi.org/project/claude-code-easyhooks/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
- 
-
- 
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class="card "&gt;
- &lt;div class="container"&gt;
  &lt;h3&gt;&lt;b&gt;toolbox&lt;/b&gt;&lt;/h3&gt;
  &lt;span&gt;Toolbox is where I keep the libraries, frameworks, tools, languages, etc. that I know&lt;/span&gt;
  &lt;div&gt;
@@ -186,26 +166,6 @@ Responsible for conducting technical interviews.&lt;/p&gt;</description></item><
 
  
  &lt;a href="https://pypi.org/project/dj-storage-url/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
- 
-
- 
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class="card "&gt;
- &lt;div class="container"&gt;
- &lt;h3&gt;&lt;b&gt;llm-jupyter&lt;/b&gt;&lt;/h3&gt;
- &lt;span&gt;LLM plugin to run an IPython interpreter or notebook in the LLM virtual environment and use the LLM from within the interpreter or notebook as a magic function.&lt;/span&gt;
- &lt;div&gt;
- 
-
- 
- &lt;a href="https://github.com/lucasrcezimbra/llm-jupyter/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
- 
-
- 
- &lt;a href="https://pypi.org/project/llm-jupyter/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
  
 
  
@@ -289,9 +249,49 @@ Responsible for conducting technical interviews.&lt;/p&gt;</description></item><
  &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class="card "&gt;
+&lt;div class="card archived"&gt;
  &lt;div class="container"&gt;
- &lt;h3&gt;&lt;b&gt;PyItau&lt;/b&gt;&lt;/h3&gt;
+ &lt;h3&gt;&lt;b&gt;claude-code-easyhooks (Archived)&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;Micro-framework to create hooks for Claude Code.&lt;/span&gt;
+ &lt;div&gt;
+ 
+
+ 
+ &lt;a href="https://github.com/lucasrcezimbra/claude-code-easyhooks/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+
+ 
+ &lt;a href="https://pypi.org/project/claude-code-easyhooks/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
+ 
+
+ 
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card archived"&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;llm-jupyter (Archived)&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;LLM plugin to run an IPython interpreter or notebook in the LLM virtual environment and use the LLM from within the interpreter or notebook as a magic function.&lt;/span&gt;
+ &lt;div&gt;
+ 
+
+ 
+ &lt;a href="https://github.com/lucasrcezimbra/llm-jupyter/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+
+ 
+ &lt;a href="https://pypi.org/project/llm-jupyter/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
+ 
+
+ 
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card archived"&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;PyItau (Archived)&lt;/b&gt;&lt;/h3&gt;
  &lt;span&gt;Scraper to access your Itaú (Brazilian) bank data.&lt;/span&gt;
  &lt;div&gt;
  

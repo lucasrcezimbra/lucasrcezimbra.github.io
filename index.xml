@@ -18006,26 +18006,6 @@ empresa pela Prometric; responsável pelas entrevistas técnicas de candidatos.&
 
 &lt;div class="card "&gt;
  &lt;div class="container"&gt;
- &lt;h3&gt;&lt;b&gt;claude-code-easyhooks&lt;/b&gt;&lt;/h3&gt;
- &lt;span&gt;Micro-framework para escrever hooks para o Claude Code.&lt;/span&gt;
- &lt;div&gt;
- 
-
- 
- &lt;a href="https://github.com/lucasrcezimbra/claude-code-easyhooks/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
- 
-
- 
- &lt;a href="https://pypi.org/project/claude-code-easyhooks/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
- 
-
- 
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class="card "&gt;
- &lt;div class="container"&gt;
  &lt;h3&gt;&lt;b&gt;Banco Inter&lt;/b&gt;&lt;/h3&gt;
  &lt;span&gt;Cliente para consumir a API do banco Inter para contas PJ&lt;/span&gt;
  &lt;div&gt;
@@ -18108,26 +18088,6 @@ empresa pela Prometric; responsável pelas entrevistas técnicas de candidatos.&
 
 &lt;div class="card "&gt;
  &lt;div class="container"&gt;
- &lt;h3&gt;&lt;b&gt;llm-jupyter&lt;/b&gt;&lt;/h3&gt;
- &lt;span&gt;Plug-in LLM para executar um interpretador ou notebook IPython no ambiente virtual do LLM e usar o LLM de dentro do interpretador or notebook como uma magic function.&lt;/span&gt;
- &lt;div&gt;
- 
-
- 
- &lt;a href="https://github.com/lucasrcezimbra/llm-jupyter/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
- 
-
- 
- &lt;a href="https://pypi.org/project/llm-jupyter/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
- 
-
- 
- &lt;/div&gt;
- &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;div class="card "&gt;
- &lt;div class="container"&gt;
  &lt;h3&gt;&lt;b&gt;Django Template&lt;/b&gt;&lt;/h3&gt;
  &lt;span&gt;Template opinativo para começar um projeto Django.&lt;/span&gt;
  &lt;div&gt;
@@ -18180,9 +18140,49 @@ empresa pela Prometric; responsável pelas entrevistas técnicas de candidatos.&
  &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;div class="card "&gt;
+&lt;div class="card archived"&gt;
  &lt;div class="container"&gt;
- &lt;h3&gt;&lt;b&gt;PyItau&lt;/b&gt;&lt;/h3&gt;
+ &lt;h3&gt;&lt;b&gt;claude-code-easyhooks (Arquivado)&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;Micro-framework para escrever hooks para o Claude Code.&lt;/span&gt;
+ &lt;div&gt;
+ 
+
+ 
+ &lt;a href="https://github.com/lucasrcezimbra/claude-code-easyhooks/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+
+ 
+ &lt;a href="https://pypi.org/project/claude-code-easyhooks/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
+ 
+
+ 
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card archived"&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;llm-jupyter (Arquivado)&lt;/b&gt;&lt;/h3&gt;
+ &lt;span&gt;Plug-in LLM para executar um interpretador ou notebook IPython no ambiente virtual do LLM e usar o LLM de dentro do interpretador or notebook como uma magic function.&lt;/span&gt;
+ &lt;div&gt;
+ 
+
+ 
+ &lt;a href="https://github.com/lucasrcezimbra/llm-jupyter/" target="_blank"&gt;&lt;i class="fa fa-github"&gt;&lt;/i&gt;&lt;/a&gt;
+ 
+
+ 
+ &lt;a href="https://pypi.org/project/llm-jupyter/" target="_blank"&gt;&lt;img src="https://cezimbra.me/images/pypi.svg" /&gt;&lt;/a&gt;
+ 
+
+ 
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class="card archived"&gt;
+ &lt;div class="container"&gt;
+ &lt;h3&gt;&lt;b&gt;PyItau (Arquivado)&lt;/b&gt;&lt;/h3&gt;
  &lt;span&gt;Scraper para acessar suas contas bancárias do Itaú.&lt;/span&gt;
  &lt;div&gt;
  
