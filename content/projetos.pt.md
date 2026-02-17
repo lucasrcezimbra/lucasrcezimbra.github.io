@@ -11,13 +11,6 @@ date: 2022-04-08T20:08:54-03:00
 >}}
 
 {{< project
-    name="claude-code-easyhooks"
-    description="Micro-framework para escrever hooks para o Claude Code."
-    github="lucasrcezimbra/claude-code-easyhooks"
-    pypi="claude-code-easyhooks"
->}}
-
-{{< project
     name="Banco Inter"
     description="Cliente para consumir a API do banco Inter para contas PJ"
     github="lucasrcezimbra/bancointer"
@@ -47,13 +40,6 @@ date: 2022-04-08T20:08:54-03:00
 >}}
 
 {{< project
-    name="llm-jupyter"
-    description="Plug-in LLM para executar um interpretador ou notebook IPython no ambiente virtual do LLM e usar o LLM de dentro do interpretador or notebook como uma magic function."
-    github="lucasrcezimbra/llm-jupyter"
-    pypi="llm-jupyter"
->}}
-
-{{< project
     name="Django Template"
     description="Template opinativo para começar um projeto Django."
     github="lucasrcezimbra/django-template"
@@ -72,11 +58,28 @@ date: 2022-04-08T20:08:54-03:00
 >}}
 
 {{< project
-    name="PyItau"
+    name="claude-code-easyhooks (Arquivado)"
+    description="Micro-framework para escrever hooks para o Claude Code."
+    github="lucasrcezimbra/claude-code-easyhooks"
+    pypi="claude-code-easyhooks"
+    archived=true
+>}}
+
+{{< project
+    name="llm-jupyter (Arquivado)"
+    description="Plug-in LLM para executar um interpretador ou notebook IPython no ambiente virtual do LLM e usar o LLM de dentro do interpretador or notebook como uma magic function."
+    github="lucasrcezimbra/llm-jupyter"
+    pypi="llm-jupyter"
+    archived=true
+>}}
+
+{{< project
+    name="PyItau (Arquivado)"
     description="Scraper para acessar suas contas bancárias do Itaú."
     github="lucasrcezimbra/pyitau"
     pypi="pyitau"
     readthedocs="pyitau"
+    archived=true
 >}}
 
 {{< project

@@ -12,13 +12,6 @@ slug: "projects"
 >}}
 
 {{< project
-    name="claude-code-easyhooks"
-    description="Micro-framework to create hooks for Claude Code."
-    github="lucasrcezimbra/claude-code-easyhooks"
-    pypi="claude-code-easyhooks"
->}}
-
-{{< project
     name="toolbox"
     description="Toolbox is where I keep the libraries, frameworks, tools, languages, etc. that I know"
     github="lucasrcezimbra/toolbox"
@@ -37,13 +30,6 @@ slug: "projects"
     description="Configure Django storage from a URL. Inspired by jazzband/dj-database-url"
     github="lucasrcezimbra/dj-storage-url"
     pypi="dj-storage-url"
->}}
-
-{{< project
-    name="llm-jupyter"
-    description="LLM plugin to run an IPython interpreter or notebook in the LLM virtual environment and use the LLM from within the interpreter or notebook as a magic function."
-    github="lucasrcezimbra/llm-jupyter"
-    pypi="llm-jupyter"
 >}}
 
 {{< project
@@ -73,11 +59,28 @@ slug: "projects"
 >}}
 
 {{< project
-    name="PyItau"
+    name="claude-code-easyhooks (Archived)"
+    description="Micro-framework to create hooks for Claude Code."
+    github="lucasrcezimbra/claude-code-easyhooks"
+    pypi="claude-code-easyhooks"
+    archived=true
+>}}
+
+{{< project
+    name="llm-jupyter (Archived)"
+    description="LLM plugin to run an IPython interpreter or notebook in the LLM virtual environment and use the LLM from within the interpreter or notebook as a magic function."
+    github="lucasrcezimbra/llm-jupyter"
+    pypi="llm-jupyter"
+    archived=true
+>}}
+
+{{< project
+    name="PyItau (Archived)"
     description="Scraper to access your Itaú (Brazilian) bank data."
     github="lucasrcezimbra/pyitau"
     pypi="pyitau"
     readthedocs="pyitau"
+    archived=true
 >}}
 
 {{< project
