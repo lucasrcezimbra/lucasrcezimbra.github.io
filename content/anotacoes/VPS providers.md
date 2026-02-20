@@ -15,7 +15,7 @@ lastmod: 2026-02-20
 | [Fly.io](#flyio)                  | https://fly.io               | ❌     | Legacy free tier (deprecated)      | ~$2/mo                   | Pay-as-you-go        |
 | [GCP Compute Engine](#gcp)        | https://cloud.google.com     | ❌     | 1 e2-micro forever + $300/90 days  | ~$3.50/mo (e2-micro)     | Per-second billing   |
 | [Hetzner](#hetzner)               | https://www.hetzner.com      | ❌     | None                               | €3.49/mo                 | Hourly / monthly cap |
-| [HostGator](#hostgator)           | https://www.hostgator.com.br | ✅     | None                               | R$ 239,39/mo             | Monthly              |
+| [HostGator](#hostgator)           | https://www.hostgator.com.br | ✅     | None                               | R$ 25,89/mo              | Monthly              |
 | [Hostinger](#hostinger)           | https://www.hostinger.com.br | ✅     | None                               | $4.99/mo (~R$ 29/mo)     | Monthly / annual     |
 | [KingHost](#kinghost)             | https://king.host            | ✅     | None                               | R$ 29/mo                 | Monthly / quarterly  |
 | [Locaweb](#locaweb)               | https://www.locaweb.com.br   | ✅     | None                               | R$ 15,90/mo              | Monthly / quarterly  |
@@ -120,11 +120,15 @@ German provider with excellent price-performance ratio. Popular among European a
 Brazilian arm of HostGator, focused on shared hosting and VPS for the Brazilian market.
 
 - **Free tier:** None
-- **Starting price:** R$ 239,39/mo
-- **Entry plan:** 3 vCPU, 4 GB RAM, 160 GB SSD
-- **Pricing model:** Monthly
+- **Starting price:** R$ 25,89/mo (promotional, up to 63% off)
+- **Plans:**
+  - **VPS 2:** 2 cores, 4 GB DDR5 RAM, 100 GB NVMe, unlimited bandwidth
+  - **VPS 4:** 4 cores, 8 GB DDR5 RAM, 200 GB NVMe, unlimited bandwidth
+  - **VPS 6:** 6 cores, 16 GB DDR5 RAM, 400 GB NVMe, unlimited bandwidth
+  - **VPS 8:** 8 cores, 32 GB DDR5 RAM, 500 GB NVMe, unlimited bandwidth
+- **Pricing model:** Monthly; installments up to 12x on credit card; 30-day money-back guarantee
 - **Data centers:** Brazil
-- **Notes:** More expensive than international alternatives. Pricing in BRL avoids exchange rate risk.
+- **Notes:** All plans include free SSL, unlimited domains, cPanel. Pricing in BRL avoids exchange rate risk.
 
 ---
 
