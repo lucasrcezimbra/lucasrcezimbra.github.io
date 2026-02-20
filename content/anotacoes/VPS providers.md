@@ -13,8 +13,8 @@ lastmod: 2026-02-20
 | [DigitalOcean](#digitalocean)     | https://www.digitalocean.com | ❌     | $200 credit / 60 days              | $4/mo                    | Per-second billing   |
 | [exe.dev](#exedev)                | https://exe.dev              | ❌     | Free trial available               | $20/mo                   | Flat monthly         |
 | [Fly.io](#flyio)                  | https://fly.io               | ❌     | Legacy free tier (deprecated)      | ~$2/mo                   | Pay-as-you-go        |
-| [GCP Compute Engine](#gcp)        | https://cloud.google.com     | ❌     | 1 e2-micro forever + $300/90 days  | ~$3.50/mo (e2-micro)     | Per-second billing   |
-| [Hetzner](#hetzner)               | https://www.hetzner.com      | ❌     | None                               | €3.49/mo                 | Hourly / monthly cap |
+| [GCP Compute Engine](#gcp)        | https://cloud.google.com     | ✅     | 1 e2-micro forever + $300/90 days  | ~$3.50/mo (e2-micro)     | Per-second billing   |
+| [Hetzner](#hetzner)               | https://www.hetzner.com      | ❌     | None                               | €3.79/mo                 | Hourly / monthly cap |
 | [HostGator](#hostgator)           | https://www.hostgator.com.br | ✅     | None                               | R$ 25,89/mo              | Monthly              |
 | [Hostinger](#hostinger)           | https://www.hostinger.com.br | ✅     | None                               | $4.99/mo (~R$ 29/mo)     | Monthly / annual     |
 | [KingHost](#kinghost)             | https://king.host            | ✅     | None                               | R$ 29/mo                 | Monthly / quarterly  |
@@ -22,7 +22,7 @@ lastmod: 2026-02-20
 | [Napoleon](#napoleon)             | https://napoleon.com.br      | ✅     | None                               | —                        | —                    |
 | [Northflank](#northflank)         | https://northflank.com       | ❌     | 2 services + 2 DBs + 2 cron jobs   | ~$2.70/mo (pay-as-you-go)| Per-second billing   |
 | [Oracle Cloud](#oracle-cloud)     | https://cloud.oracle.com     | ❌     | 4 ARM cores + 24 GB RAM forever    | $0/mo                    | Pay-as-you-go        |
-| [Railway](#railway)               | https://railway.com          | ❌     | $5 credit / 30-day trial           | $5/mo (Hobby)            | Usage-based          |
+| [Railway](#railway)               | https://railway.com          | ❌     | $5 credit / 30-day trial only      | $5/mo (Hobby)            | Usage-based          |
 | [Vultr](#vultr)                   | https://www.vultr.com        | ✅     | None                               | $2.50/mo                 | Hourly / monthly cap |
 
 > Brazil ✅ means the provider has a data center in Brazil or explicitly serves Brazilian customers.
@@ -36,7 +36,9 @@ Simple, predictable VPS from AWS. Bundles compute, SSD, and bandwidth into a sin
 
 - **Free tier:** 3 months free on select bundles (Linux from $3.50/mo, containers from $10/mo, databases from $15/mo). Also 1 year free for 50 GB CDN and 5 GB object storage.
 - **Starting price:** $3.50/mo (IPv6-only Linux) / $5/mo (with IPv4)
-- **Entry plan:** 1 GB RAM, 1 vCPU, 40 GB SSD, 2 TB transfer
+- **$5/mo plan:** 2 vCPU, 0.5 GB RAM, 20 GB SSD, 1 TB transfer
+- **$7/mo plan:** 2 vCPU, 1 GB RAM, 40 GB SSD, 2 TB transfer
+- **$12/mo plan:** 2 vCPU, 2 GB RAM, 60 GB SSD, 3 TB transfer
 - **Pricing model:** Fixed monthly bundles; billed hourly on-demand at $0.0047/hr minimum
 - **Data centers:** Multiple AWS regions worldwide (no Brazil-specific region for Lightsail)
 - **Notes:** Simpler and cheaper than EC2 for small workloads. Excess data transfer starts at $0.09/GB.
@@ -94,8 +96,8 @@ Google Cloud Platform's Compute Engine. Pay-as-you-go with a generous permanent 
 - **Starting price:** ~$0.0067/hr ($4.89/mo) for e2-micro outside free tier; n1-standard-1 from ~$0.0475/hr
 - **Pricing model:** Per-second billing (1-minute minimum). Sustained-use discounts automatically applied.
 - **Storage:** Standard storage from ~$0.026/GB/mo
-- **Data centers:** No Brazil region
-- **Notes:** The always-free e2-micro (1 shared vCPU, 1 GB RAM) is a solid option for low-traffic workloads. Network egress is the main cost driver. Listed as a supported platform in [OpenClaw docs](https://docs.openclaw.ai/vps).
+- **Data centers:** Brazil (southamerica-east1, São Paulo), plus USA, Europe, Asia, and more (31 regions total)
+- **Notes:** The always-free e2-micro is only available in specific US regions (not Brazil). Network egress is the main cost driver. Listed as a supported platform in [OpenClaw docs](https://docs.openclaw.ai/vps).
 
 ---
 
@@ -104,14 +106,15 @@ Google Cloud Platform's Compute Engine. Pay-as-you-go with a generous permanent 
 German provider with excellent price-performance ratio. Popular among European and privacy-conscious developers.
 
 - **Free tier:** None
-- **Starting price:** €3.49/mo (shared cost-optimized) / €4.99/mo (shared regular performance)
-- **Entry plan (cost-optimized):** 2 vCPU, 4 GB RAM, 40 GB SSD
-- **Entry plan (regular):** 2 vCPU, 4 GB RAM, 40 GB SSD
-- **Dedicated (general purpose):** from €12.49/mo — 8 vCPU, 16 GB RAM, 160 GB SSD
-- **Pricing model:** Hourly billing; monthly cap (you never pay more than the monthly price). Traffic: 20 TB included for EU servers; €1.00/TB overage.
+- **Starting price:** €3.79/mo (CX22 — shared Intel)
+- **CX22:** 2 vCPU, 4 GB RAM, 40 GB NVMe SSD, 20 TB bandwidth
+- **CX32:** €6.80/mo — 4 vCPU, 8 GB RAM, 80 GB NVMe SSD, 20 TB bandwidth
+- **CX42:** €16.40/mo — 8 vCPU, 16 GB RAM, 160 GB NVMe SSD, 20 TB bandwidth
+- **CX52:** €32.40/mo — 16 vCPU, 32 GB RAM, 320 GB NVMe SSD, 20 TB bandwidth
+- **Pricing model:** Hourly billing; monthly cap (you never pay more than the monthly price). Traffic: 20 TB included for EU/US servers; €1.00/TB overage.
 - **Add-ons:** Block storage €0.044/GB/mo; backups +20% of instance price; snapshots €0.011/GB/mo
-- **Data centers:** Germany, Finland, USA (no Brazil)
-- **Notes:** Best price-to-performance ratio among traditional VPS providers. Listed as a supported platform in [OpenClaw docs](https://docs.openclaw.ai/vps).
+- **Data centers:** Germany, Finland, USA, Singapore (no Brazil)
+- **Notes:** Best price-to-performance ratio among traditional VPS providers. Prices exclude VAT. Listed as a supported platform in [OpenClaw docs](https://docs.openclaw.ai/vps).
 
 ---
 
@@ -178,10 +181,11 @@ One of Brazil's oldest and largest hosting companies. Good for applications requ
 Brazilian hosting provider offering VPS (Cloud), dedicated servers, and cPanel/Plesk reseller hosting.
 
 - **Free tier:** None
-- **Starting price:** Check [napoleon.com.br](https://napoleon.com.br)
-- **Pricing model:** —
-- **Data centers:** Brazil
-- **Notes:** Offers VPS (Cloud), bare metal, cPanel, and Plesk hosting. Limited public pricing information available.
+- **Starting price:** R$ 195,42/mo (USA region VPS)
+- **Entry plan (USA):** 2 GB DDR4 RAM, 40 GB NVMe, CPU EPYC 2x 3.5 GHz, 1x dedicated IPv4, 500 Mbps dedicated link, Anti-DDoS
+- **Pricing model:** Monthly; 40% discount on triennial (3-year) billing
+- **Data centers:** Brazil, USA (servers also in Canada for bare metal)
+- **Notes:** Also offers bare metal, cPanel/Plesk reseller, and LiteSpeed-based shared hosting. 24/7 support in Portuguese via chat, WhatsApp, and Telegram. Includes access to Freepik and Envato Elements.
 
 ---
 
@@ -219,7 +223,7 @@ One of the most generous free tiers in the industry. The Always Free ARM tier do
 
 Developer-friendly PaaS that makes deployment easy without DevOps knowledge. Not a raw VPS.
 
-- **Free tier:** 30-day trial with $5 credit; after trial, $1 credit/month on the free plan
+- **Free tier:** 30-day trial with $5 one-time credit; no ongoing free plan after trial
 - **Starting price:** $5/mo (Hobby plan — includes $5 in usage credits)
 - **Pro plan:** $20/mo — includes $20 in usage credits; charges delta if usage exceeds plan
 - **Pricing model:** Usage-based; charges for actual CPU and memory utilization (idle services cost much less). Credits reset monthly.
@@ -233,11 +237,10 @@ Developer-friendly PaaS that makes deployment easy without DevOps knowledge. Not
 Global cloud provider with a data center in São Paulo, Brazil. Wide range of compute options.
 
 - **Free tier:** None (no free trial)
-- **Starting price:** $2.50/mo (VX1 Cloud Compute — 1 vCPU, 0.5 GB RAM, 10 GB SSD, 0.5 TB bandwidth)
-- **Regular Performance:** $5/mo — 1 vCPU, 1 GB RAM, 25 GB SSD, 1 TB bandwidth
-- **High Performance (AMD EPYC / Intel NVMe):** $6/mo — 1 vCPU, 1 GB RAM, 25 GB NVMe, 2 TB bandwidth
-- **High Frequency (3GHz+ Intel NVMe):** $6/mo — 1 vCPU, 1 GB RAM, 32 GB NVMe, 1 TB bandwidth
-- **VX1 (newest, best value):** from $2.50/mo — dedicated CPU resources, up to 50 Gbps networking, 82% better performance-per-dollar vs hyperscalers
-- **Pricing model:** Hourly usage-based billing; private network traffic between instances in same DC is free
-- **Data centers:** Brazil (São Paulo), Australia, Canada, Germany, France, India, Japan, Netherlands, Singapore, UK, USA, and more
-- **Notes:** São Paulo data center makes Vultr a strong option for Brazil-based workloads. VX1 instances are the newest and most cost-effective tier.
+- **Starting price:** $2.50/mo (Regular Cloud Compute — 1 vCPU, 0.5 GB RAM, 10 GB SSD, 0.5 TB bandwidth)
+- **Regular Cloud Compute (shared vCPU):** from $2.50/mo — good for low-traffic sites, blogs, dev/test
+- **Optimized Cloud Compute (dedicated AMD EPYC/Intel NVMe):** from $6/mo — 1 vCPU, 1 GB RAM, 25 GB NVMe, 2 TB bandwidth
+- **VX1 (enterprise, dedicated AMD EPYC):** from ~$112/mo — 4 vCPU, 16 GB RAM, 240 GB NVMe; up to 50 Gbps networking, ~33% cheaper per vCPU than competitors at scale
+- **Pricing model:** Hourly billing; VX1 billed on actual hours (not capped at 672); private network traffic within the same DC is free; egress overage $0.01/GB
+- **Data centers:** Brazil (São Paulo), Australia, Canada, Germany, France, India, Japan, Netherlands, Singapore, UK, USA, and more (32 locations)
+- **Notes:** São Paulo data center makes Vultr a strong option for Brazil-based workloads. VX1 is an enterprise/scale tier, not the starting option.
