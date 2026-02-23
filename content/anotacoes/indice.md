@@ -8,6 +8,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [VPS providers]({{< ref "VPS providers" >}})
 - [Weeknotes/2026-02-15 - 2026-02-21]({{< ref "Weeknotes/2026-02-15 - 2026-02-21" >}})
 - [Livros]({{< ref "Livros" >}})
 - [Weeknotes/2026-02-08 - 2026-02-14]({{< ref "Weeknotes/2026-02-08 - 2026-02-14" >}})
@@ -61,7 +62,6 @@ Ordenadas de acordo com a data de atualização. Últimas atualizações no topo
 - [Weeknotes/2025-06-29 - 2025-07-05]({{< ref "Weeknotes/2025-06-29 - 2025-07-05" >}})
 - [Personal Backups]({{< ref "Personal Backups" >}})
 - [Weeknotes/2025-06-22 - 2025-06-28]({{< ref "Weeknotes/2025-06-22 - 2025-06-28" >}})
-- [VPS providers]({{< ref "VPS providers" >}})
 - [Toolbox]({{< ref "Toolbox" >}})
 - [NFSe]({{< ref "NFSe" >}})
 - [Weeknotes/2025-06-15 - 2025-06-21]({{< ref "Weeknotes/2025-06-15 - 2025-06-21" >}})
