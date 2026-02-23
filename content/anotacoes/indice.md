@@ -8,6 +8,7 @@ Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2026-02-22 - 2026-02-28]({{< ref "Weeknotes/2026-02-22 - 2026-02-28" >}})
 - [VPS providers]({{< ref "VPS providers" >}})
 - [Weeknotes/2026-02-15 - 2026-02-21]({{< ref "Weeknotes/2026-02-15 - 2026-02-21" >}})
 - [Livros]({{< ref "Livros" >}})
