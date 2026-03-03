@@ -144,6 +144,13 @@ slug: "projects"
 ### Code
 
 {{< contribution
+    status="open"
+    url="https://github.com/badlogic/yakety/pull/19"
+    project="yakety"
+    title="fix(run.sh): make code signing conditional for macOS only"
+    date="2026-03-03"
+>}}
+{{< contribution
     status="merged"
     url="https://github.com/coderabbitai/git-worktree-runner/pull/91"
     project="git-worktree-runner"

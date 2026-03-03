@@ -1,13 +1,14 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2026-02-23
+lastmod: 2026-03-03
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2026-03-01 - 2026-03-07]({{< ref "Weeknotes/2026-03-01 - 2026-03-07" >}})
 - [Weeknotes/2026-02-22 - 2026-02-28]({{< ref "Weeknotes/2026-02-22 - 2026-02-28" >}})
 - [VPS providers]({{< ref "VPS providers" >}})
 - [Weeknotes/2026-02-15 - 2026-02-21]({{< ref "Weeknotes/2026-02-15 - 2026-02-21" >}})
