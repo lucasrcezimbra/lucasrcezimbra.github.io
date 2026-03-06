@@ -1,7 +1,7 @@
 ---
 title: Linux
 date: 2023-08-15
-lastmod: 2026-01-12
+lastmod: 2026-03-06
 aliases:
   - /anotacoes/linux/
   - /dicas-rapidas-linux/
@@ -214,11 +214,26 @@ aliases:
 - [Warp](https://www.warp.dev/) - closed source
 - [WezTerm](https://github.com/wez/wezterm)
 	- [vs Alacritty](https://github.com/wez/wezterm/discussions/1769)
+
 ## ThinkPad
 - Fix keyboard to work `/` (slash) key #troubleshooting - [Source](https://askubuntu.com/questions/184465/slash-in-thinkpad-t420-abnt-keyboard)
 	```bash
 	sudo dpkg-reconfigure keyboard-configuration
 	```
+
+## Virtual Machines
+- How to copy files from a KVM Debian Live to host
+  ```shell
+  # Inside the VM: install and start SSH
+  sudo apt install openssh-server
+  sudo systemctl enable --now ssh
+
+  # On the host: get the VM's IP
+  sudo virsh domifaddr <vm-name>
+
+  # On the host: copy files (password: live)
+  scp 'user@<vm-ip>:/path/to/file' .
+  ```
 
 ## XFCE4
 - Window top part (minimize, maximize, close, etc.) disappeared #troubleshooting : `xfwm4`
