@@ -145,6 +145,20 @@ slug: "projects"
 
 {{< contribution
     status="open"
+    url="https://github.com/badlogic/yakety/pull/20"
+    project="yakety"
+    title="fix: unlock transcription mutex on early exits"
+    date="2026-03-20"
+>}}
+{{< contribution
+    status="merged"
+    url="https://github.com/badlogic/pi-mono/pull/2081"
+    project="pi-mono"
+    title="fix(tui): restore shift+tab in xterm modifyOtherKeys mode"
+    date="2026-03-12"
+>}}
+{{< contribution
+    status="open"
     url="https://github.com/badlogic/yakety/pull/19"
     project="yakety"
     title="fix(run.sh): make code signing conditional for macOS only"
@@ -172,7 +186,7 @@ slug: "projects"
     date="2025-10-06"
 >}}
 {{< contribution
-    status="open"
+    status="merged"
     url="https://github.com/boidolr/ast-grep-pre-commit/pull/42"
     project="ast-grep-pre-commit"
     title="fix: use --color=never"
