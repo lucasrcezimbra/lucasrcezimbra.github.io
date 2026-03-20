@@ -464,6 +464,26 @@ Responsible for conducting technical interviews.&lt;/p&gt;</description></item><
  &lt;/a&gt;
 &lt;/h3&gt;
 &lt;p&gt;&lt;div class="contribution"&gt;
+ &lt;span&gt;2026-03-20 -&lt;/span&gt;
+ 
+ 
+ &lt;img src="https://cezimbra.me/images/code-pr-open.svg"&gt;
+ 
+ 
+ &lt;a class="external-link" href="https://github.com/badlogic/yakety/pull/20" target="_blank"&gt;yakety: fix: unlock transcription mutex on early exits&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2026-03-12 -&lt;/span&gt;
+ 
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
+ 
+ 
+ 
+ &lt;a class="external-link" href="https://github.com/badlogic/pi-mono/pull/2081" target="_blank"&gt;pi-mono: fix(tui): restore shift&amp;#43;tab in xterm modifyOtherKeys mode&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class="contribution"&gt;
  &lt;span&gt;2026-03-03 -&lt;/span&gt;
  
  
@@ -506,8 +526,8 @@ Responsible for conducting technical interviews.&lt;/p&gt;</description></item><
 &lt;div class="contribution"&gt;
  &lt;span&gt;2025-10-06 -&lt;/span&gt;
  
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-open.svg"&gt;
  
  
  &lt;a class="external-link" href="https://github.com/boidolr/ast-grep-pre-commit/pull/42" target="_blank"&gt;ast-grep-pre-commit: fix: use --color=never&lt;/a&gt;

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Sat, 07 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2026-03-01 - 2026-03-07</title><link>https://cezimbra.me/anotacoes/weeknotes/2026-03-01---2026-03-07/</link><pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2026-03-01---2026-03-07/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-02-22---2026-02-28/" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Lucas Cezimbra</title><link>https://cezimbra.me/</link><description>Recent content on Lucas Cezimbra</description><generator>Hugo</generator><language>pt</language><lastBuildDate>Fri, 20 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://cezimbra.me/index.xml" rel="self" type="application/rss+xml"/><item><title>2026-03-08 - 2026-03-14</title><link>https://cezimbra.me/anotacoes/weeknotes/2026-03-08---2026-03-14/</link><pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2026-03-08---2026-03-14/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-03-01---2026-03-07/" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;h2 id="books-being-read"&gt;
@@ -21,7 +21,8 @@
  &lt;/a&gt;
 &lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://linuxtoaster.com/" class="external-link" target="_blank" rel="noopener"&gt;linuxtoaster - toast · jam · toasted · basket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.terminaluse.com/" class="external-link" target="_blank" rel="noopener"&gt;Terminal Use&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -36,6 +37,74 @@
 &lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id="read-articles"&gt;
+ Read articles
+ &lt;a class="heading-link" href="#read-articles"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://simonwillison.net/2026/Mar/9/not-so-boring/" class="external-link" target="_blank" rel="noopener"&gt;Perhaps not Boring Technology after all&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://simonwillison.net/guides/agentic-engineering-patterns/better-code/" class="external-link" target="_blank" rel="noopener"&gt;AI should help us produce better code - Agentic Engineering Patterns - Simon Willison&amp;rsquo;s Weblog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://simonwillison.net/guides/agentic-engineering-patterns/hoard-things-you-know-how-to-do/" class="external-link" target="_blank" rel="noopener"&gt;Hoard things you know how to do - Agentic Engineering Patterns - Simon Willison&amp;rsquo;s Weblog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://simonwillison.net/guides/agentic-engineering-patterns/first-run-the-tests/" class="external-link" target="_blank" rel="noopener"&gt;First run the tests - Agentic Engineering Patterns - Simon Willison&amp;rsquo;s Weblog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.infoq.com/articles/skeleton-architecture/" class="external-link" target="_blank" rel="noopener"&gt;Working with Code Assistants: the Skeleton Architecture - InfoQ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id="read-news"&gt;
+ Read news
+ &lt;a class="heading-link" href="#read-news"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id="skimmed"&gt;
+ Skimmed
+ &lt;a class="heading-link" href="#skimmed"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://planetscale.com/blog/video-conferencing-with-postgres" class="external-link" target="_blank" rel="noopener"&gt;Video Conferencing with Postgres — PlanetScale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://simonwillison.net/2025/Dec/14/justhtml/" class="external-link" target="_blank" rel="noopener"&gt;JustHTML is a fascinating example of vibe engineering in action&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id="watched"&gt;
+ Watched
+ &lt;a class="heading-link" href="#watched"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=X8M6U3QiC8Q" class="external-link" target="_blank" rel="noopener"&gt;Agentic Coding Questions and Current Workflow - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h2 id="listened"&gt;
+ Listened
+ &lt;a class="heading-link" href="#listened"&gt;
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
+ &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-03-01---2026-03-07/" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;</description></item><item><title>2026-03-01 - 2026-03-07</title><link>https://cezimbra.me/anotacoes/weeknotes/2026-03-01---2026-03-07/</link><pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2026-03-01---2026-03-07/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-02-22---2026-02-28/" &gt;&amp;laquo; Previous&lt;/a&gt; | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-03-08---2026-03-14/" &gt;Next &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;
 &lt;h2 id="read-articles"&gt;
  Read articles
@@ -65,18 +134,6 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id="skimmed"&gt;
- Skimmed
- &lt;a class="heading-link" href="#skimmed"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
 &lt;h2 id="watched"&gt;
  Watched
  &lt;a class="heading-link" href="#watched"&gt;
@@ -88,33 +145,9 @@
 &lt;li&gt;&lt;a href="https://x.com/OpenAIDevs/status/2029620984853188738" class="external-link" target="_blank" rel="noopener"&gt;OpenAI Developers on X: &amp;ldquo;GPT-5.4 is here&amp;hellip;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;h2 id="listened"&gt;
- Listened
- &lt;a class="heading-link" href="#listened"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-02-22---2026-02-28/" &gt;&amp;laquo; Previous&lt;/a&gt; | Next &amp;raquo;&lt;/p&gt;</description></item><item><title>2026-02-22 - 2026-02-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2026-02-22---2026-02-28/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2026-02-22---2026-02-28/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-02-15---2026-02-21/" &gt;&amp;laquo; Previous&lt;/a&gt; | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-03-01---2026-03-07/" &gt;Next &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-02-22---2026-02-28/" &gt;&amp;laquo; Previous&lt;/a&gt; | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-03-08---2026-03-14/" &gt;Next &amp;raquo;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>2026-02-22 - 2026-02-28</title><link>https://cezimbra.me/anotacoes/weeknotes/2026-02-22---2026-02-28/</link><pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/weeknotes/2026-02-22---2026-02-28/</guid><description>&lt;p&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-02-15---2026-02-21/" &gt;&amp;laquo; Previous&lt;/a&gt; | &lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-03-01---2026-03-07/" &gt;Next &amp;raquo;&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;h2 id="books-being-read"&gt;
- Books being read
- &lt;a class="heading-link" href="#books-being-read"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
 &lt;li&gt;
 &lt;h2 id="discovered-tools"&gt;
  Discovered tools
@@ -125,18 +158,6 @@
 &lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="https://httparchive.org/" class="external-link" target="_blank" rel="noopener"&gt;The HTTP Archive&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h2 id="learned"&gt;
- Learned
- &lt;a class="heading-link" href="#learned"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -153,18 +174,6 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;h2 id="read-news"&gt;
- Read news
- &lt;a class="heading-link" href="#read-news"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
 &lt;h2 id="skimmed"&gt;
  Skimmed
  &lt;a class="heading-link" href="#skimmed"&gt;
@@ -176,18 +185,6 @@
 &lt;li&gt;&lt;a href="https://simonwillison.net/guides/agentic-engineering-patterns/red-green-tdd/" class="external-link" target="_blank" rel="noopener"&gt;Red/green TDD - Agentic Engineering Patterns - Simon Willison&amp;rsquo;s Weblog&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://restofworld.org/2026/h1b-visa-impact-india-tech-hiring-faamng/" class="external-link" target="_blank" rel="noopener"&gt;How H-1B visa changes are fueling tech hiring in India - Rest of World&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://simonwillison.net/guides/agentic-engineering-patterns/code-is-cheap/" class="external-link" target="_blank" rel="noopener"&gt;Writing code is cheap now - Agentic Engineering Patterns - Simon Willison&amp;rsquo;s Weblog&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;h2 id="watched"&gt;
- Watched
- &lt;a class="heading-link" href="#watched"&gt;
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading"&gt;&lt;/i&gt;
- &lt;span class="sr-only"&gt;Link to heading&lt;/span&gt;
- &lt;/a&gt;
-&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -12207,6 +12204,7 @@ on your page can access;&lt;/li&gt;
 &lt;/ul&gt;</description></item><item><title>Anotações</title><link>https://cezimbra.me/anotacoes/indice/</link><pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate><guid>https://cezimbra.me/anotacoes/indice/</guid><description>&lt;p&gt;Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.&lt;/p&gt;
 &lt;p&gt;Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-03-08---2026-03-14/" &gt;Weeknotes/2026-03-08 - 2026-03-14&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-03-01---2026-03-07/" &gt;Weeknotes/2026-03-01 - 2026-03-07&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/linux/" &gt;Linux&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://cezimbra.me/anotacoes/weeknotes/2026-02-22---2026-02-28/" &gt;Weeknotes/2026-02-22 - 2026-02-28&lt;/a&gt;&lt;/li&gt;
@@ -18507,6 +18505,26 @@ empresa pela Prometric; responsável pelas entrevistas técnicas de candidatos.&
  &lt;/a&gt;
 &lt;/h3&gt;
 &lt;p&gt;&lt;div class="contribution"&gt;
+ &lt;span&gt;2026-03-20 -&lt;/span&gt;
+ 
+ 
+ &lt;img src="https://cezimbra.me/images/code-pr-open.svg"&gt;
+ 
+ 
+ &lt;a class="external-link" href="https://github.com/badlogic/yakety/pull/20" target="_blank"&gt;yakety: fix: unlock transcription mutex on early exits&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2026-03-12 -&lt;/span&gt;
+ 
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
+ 
+ 
+ 
+ &lt;a class="external-link" href="https://github.com/badlogic/pi-mono/pull/2081" target="_blank"&gt;pi-mono: fix(tui): restore shift&amp;#43;tab in xterm modifyOtherKeys mode&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class="contribution"&gt;
  &lt;span&gt;2026-03-03 -&lt;/span&gt;
  
  
@@ -18549,8 +18567,8 @@ empresa pela Prometric; responsável pelas entrevistas técnicas de candidatos.&
 &lt;div class="contribution"&gt;
  &lt;span&gt;2025-10-06 -&lt;/span&gt;
  
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
  
- &lt;img src="https://cezimbra.me/images/code-pr-open.svg"&gt;
  
  
  &lt;a class="external-link" href="https://github.com/boidolr/ast-grep-pre-commit/pull/42" target="_blank"&gt;ast-grep-pre-commit: fix: use --color=never&lt;/a&gt;
