@@ -172,7 +172,7 @@ slug: "projects"
     date="2026-01-28"
 >}}
 {{< contribution
-    status="open"
+    status="closed"
     url="https://github.com/anomalyco/opencode/pull/9841"
     project="opencode"
     title="feat(commands): support escaping $ in custom command templates"
