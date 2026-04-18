@@ -464,6 +464,26 @@ Responsible for conducting technical interviews.&lt;/p&gt;</description></item><
  &lt;/a&gt;
 &lt;/h3&gt;
 &lt;p&gt;&lt;div class="contribution"&gt;
+ &lt;span&gt;2026-04-08 -&lt;/span&gt;
+ 
+ &lt;img src="https://cezimbra.me/images/code-pr-merged.svg"&gt;
+ 
+ 
+ 
+ &lt;a class="external-link" href="https://github.com/akitaonrails/ai-jail/pull/23" target="_blank"&gt;ai-jail: feat: no-save-config toggle&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class="contribution"&gt;
+ &lt;span&gt;2026-03-30 -&lt;/span&gt;
+ 
+ 
+ &lt;img src="https://cezimbra.me/images/code-pr-open.svg"&gt;
+ 
+ 
+ &lt;a class="external-link" href="https://github.com/byteowlz/eaRS/pull/7" target="_blank"&gt;eaRS: fix: resolve build failures for missing xi library and anyhow macro&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class="contribution"&gt;
  &lt;span&gt;2026-03-20 -&lt;/span&gt;
  
  
@@ -597,8 +617,8 @@ Responsible for conducting technical interviews.&lt;/p&gt;</description></item><
  &lt;span&gt;2023-10-11 -&lt;/span&gt;
  
  
- &lt;img src="https://cezimbra.me/images/code-pr-open.svg"&gt;
  
+ &lt;img src="https://cezimbra.me/images/code-pr-closed.svg"&gt;
  
  &lt;a class="external-link" href="https://github.com/vitalik/django-ninja/pull/873" target="_blank"&gt;django-ninja: Improves create_schema to get types from custom_fields&lt;/a&gt;
 &lt;/div&gt;
