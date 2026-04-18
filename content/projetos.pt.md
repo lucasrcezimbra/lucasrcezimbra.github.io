@@ -143,6 +143,20 @@ date: 2022-04-08T20:08:54-03:00
 ### Código
 
 {{< contribution
+    status="merged"
+    url="https://github.com/akitaonrails/ai-jail/pull/23"
+    project="ai-jail"
+    title="feat: no-save-config toggle"
+    date="2026-04-08"
+>}}
+{{< contribution
+    status="open"
+    url="https://github.com/byteowlz/eaRS/pull/7"
+    project="eaRS"
+    title="fix: resolve build failures for missing xi library and anyhow macro"
+    date="2026-03-30"
+>}}
+{{< contribution
     status="open"
     url="https://github.com/badlogic/yakety/pull/20"
     project="yakety"
@@ -234,7 +248,7 @@ date: 2022-04-08T20:08:54-03:00
     date="2023-11-17"
 >}}
 {{< contribution
-    status="open"
+    status="closed"
     url="https://github.com/vitalik/django-ninja/pull/873"
     project="django-ninja"
     title="Improves create_schema to get types from custom_fields"
