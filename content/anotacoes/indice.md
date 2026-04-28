@@ -1,13 +1,15 @@
 ---
 title: "Anotações"
 date: 2023-08-15
-lastmod: 2026-04-18
+lastmod: 2026-04-28
 ---
 
 Anotações sobre tópicos diversos. Algumas em Português outras em Inglês.
 
 Ordenadas de acordo com a data de atualização. Últimas atualizações no topo.
 
+- [Weeknotes/2026-04-26 - 2026-05-02]({{< ref "Weeknotes/2026-04-26 - 2026-05-02" >}})
+- [Weeknotes/2026-04-19 - 2026-04-25]({{< ref "Weeknotes/2026-04-19 - 2026-04-25" >}})
 - [Weeknotes/2026-04-12 - 2026-04-18]({{< ref "Weeknotes/2026-04-12 - 2026-04-18" >}})
 - [Weeknotes/2026-04-05 - 2026-04-11]({{< ref "Weeknotes/2026-04-05 - 2026-04-11" >}})
 - [Weeknotes/2026-03-29 - 2026-04-04]({{< ref "Weeknotes/2026-03-29 - 2026-04-04" >}})
